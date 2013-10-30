@@ -1,0 +1,35 @@
+#sdk: "/Users/alex/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/rhodes-3.4.2"
+sdkversion: "3.4.0"
+# PLACEHOLDER: name, e.g. name: "Geography 10"
+version: 1.1
+vendor: "shhavel"
+build: "debug"
+bbver: 4.6
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  # PLACEHOLDER: BundleIdentifier, e.g. BundleIdentifier: "com.shhavel.geography10"
+  BundleURLScheme: "atlas"
+wp:
+  productid: "1d0022e0-4630-0130-a13f-388d120631fa"
+symbian:
+  uid: "0xebb0ea1b"
+android:
+  version: 4.2.2
+  emulator: "em42_2"
+  production:
+    certificate: /Users/alex/Development/elpe.keystore
+    password: "rise_from_nothing1"
+    alias: "elpe"
+extensions:
+  - json
+  - rexml
+  - set
+  - net-http
+  - thread
+  - timeout
+  - uri

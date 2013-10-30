@@ -1,0 +1,47 @@
+<div data-role="page" data-add-back-btn="false" class="page">
+
+  <!-- jQuery ThemeRoller -->
+  <link rel="stylesheet" type="text/css" href="/public/css/lhp_miv/jquery-ui-1.8.21.custom.css" />
+  <!-- lhpMegaImgViewer plugin css -->
+  <link rel="stylesheet" type="text/css" href="/public/css/lhp_miv.css" />
+
+  <!-- jQuery ui -->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/jquery-ui-1.8.21.custom.min.js"></script>
+  <!-- jQuery colorbox plugin -->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/jquery.colorbox-min.js"></script>
+  <!-- jQuery easing plugin-->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/jquery.easing.1.3.js"></script>
+  <!-- jQuery mousewheel plugin-->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/jquery.mousewheel.min.js"></script>
+  <!-- lhpMegaImgViewer plugin -->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/jquery.lhpMegaImgViewer.min.js"></script>
+  <!-- preview main js code -->
+  <script type="text/javascript" charset="utf-8" src="/public/js/lhp_miv/main.js"></script>
+
+
+  <script type="text/javascript">
+    var settings = {
+      "viewportWidth" : "100%",
+      "viewportHeight" : "100%",
+      "startScale" : 0.5,
+      "startX" : 500,
+      "startY" : 500,
+      "animTime" : 500,
+      "draggInertia" : 10,
+      "contentUrl" : "/public/maps/<%= @map.file %>.png",
+      "intNavEnable" : false,
+      "intNavPos" : "B",
+      "intNavAutoHide" : true
+    };
+    $("div.map").css('height', $("div.page").height());
+    $("div.map").lhpMegaImgViewer(settings);
+
+    document.addEventListener('DOMContentLoaded', function(){
+      $("div.map").css('height', $("div.page").height());
+      $("div.map").lhpMegaImgViewer(settings);
+    }, false);
+  </script>
+
+  <div class="map" style="width:100%; height:100%; overflow:hidden; border:solid 1px #a6a6a6;"></div>
+
+</div>

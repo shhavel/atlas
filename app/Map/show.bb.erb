@@ -1,0 +1,49 @@
+<div data-role="page" data-add-back-btn="true">
+
+  <div data-role="header" data-position="inline">
+    <%= link_to "Back", :controller => :Category, :action => :show, :id => @map.category.object %>
+    <h1><%= @map.name %></h1>
+  </div>
+
+  <div data-role="content">
+    <table>
+      
+      <tr>
+      <td class="itemLabel">CategorySign</td>
+        <td class="itemValue"><%= @map.category_sign%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">Name</td>
+        <td class="itemValue"><%= @map.name%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">File</td>
+        <td class="itemValue"><%= @map.file%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">Summary</td>
+        <td class="itemValue"><%= @map.summary%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">PicturesList</td>
+        <td class="itemValue"><%= @map.pictures_list%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">Legend</td>
+        <td class="itemValue"><%= @map.legend%></td>
+      </tr>
+      
+      <tr>
+      <td class="itemLabel">Questionnaire</td>
+        <td class="itemValue"><%= @map.questionnaire%></td>
+      </tr>
+      
+    </table>
+  </div>
+
+</div>

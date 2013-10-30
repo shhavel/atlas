@@ -1,0 +1,25 @@
+<div data-role="page" data-add-back-btn="false">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= @category.name %></h1>
+    <a href="<%= url_for :action => :index, :query => { :lang => Control.lang } %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+      <%= t('Back') %>
+    </a>
+    <a href="<%= url_for :controller => :Control, :action => :index, :query => { :referer => @request['request-uri'] }, :reload => true %>" class="ui-btn-right">
+      <%= t('Controls') %>
+    </a>
+  </div>
+
+  <div data-role="content">
+    <ul data-role="listview">
+      <% @category.maps.each do |map| %>
+          <li>
+            <a href="<%= url_for :controller => :Map, :action => :show, :id => map.object, :query => { :lang => Control.lang } %>">
+              <%= map.name %>
+            </a>
+          </li>
+      <% end %>
+    </ul>
+  </div>
+
+</div>

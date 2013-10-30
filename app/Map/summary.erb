@@ -1,0 +1,16 @@
+<div data-role="page" data-add-back-btn="false">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= @map.name %></h1>
+    <a href="<%= url_for :action => :show, :id => @map.object %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+      <%= t('Back') %>
+    </a>
+  </div>
+
+  <div data-role="content" style="background-image: none;">
+
+      <%= @summary %>
+
+  </div>
+
+</div>

@@ -1,0 +1,35 @@
+<link href="/public/css/photoswipe/styles.css" type="text/css" rel="stylesheet" />
+<link href="/public/css/photoswipe.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="/public/js/photoswipe/lib/klass.min.js"></script>
+<script type="text/javascript" src="/public/js/photoswipe/code.photoswipe-3.0.5.min.js"></script>
+
+<script type="text/javascript">
+
+  (function(window, PhotoSwipe){
+
+    document.addEventListener('DOMContentLoaded', function(){
+
+      var
+        options = {
+          preventHide: true,
+          getImageSource: function(obj){
+            return obj.url;
+          },
+          getImageCaption: function(obj){
+            return obj.caption;
+          }
+        },
+        instance = PhotoSwipe.attach(
+          [<%= @photos.map{|url, caption| "{url: '#{url}', caption: '#{caption}'}" }.join(', ') %>],
+          options
+        );
+
+        instance.show(0);
+
+    }, false);
+
+
+  }(window, window.Code.PhotoSwipe));
+
+</script>

@@ -1,0 +1,21 @@
+<div data-role="page">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= @testing_name %></h1>
+    <a href="<%= url_for :action => :question, :id => @map.object %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+      <%= t('Again') %>
+    </a>
+  </div>
+
+  <div data-role="content">
+    <ul data-role="listview">
+
+      <li>
+        <div class="itemLabel">Результат: </div>
+        <div class="itemValue"><%= "#{(100.0 * @count / @questions.size).round(1)}% (#{@count}/#{@questions.size})" %></div>
+      </li>
+
+    </ul>
+  </div>
+
+</div>

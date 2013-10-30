@@ -1,0 +1,20 @@
+<div data-role="page" data-add-back-btn="false">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= t('Unregistered version') %></h1>
+    <a href="<%= Rho::RhoConfig.start_path %>?lang=<%= Control.lang %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+      <%= t('Back') %>
+    </a>
+  </div>
+
+  <div data-role="content" style="background-image: none;">
+    <p><%= t('You need to register the application.') %></p>
+
+    <p><%= t('Go to page') %> <b><a href="http://ukrmap.su/reg/?code=<%= @bill.code %>">ukrmap.su/reg</a></b></p>
+
+    <p><%= t('Enter code') %> <b><%= @bill.code %></b></p>
+
+    <p><%= t('Make the payment.') %></p>
+  </div>
+
+</div>

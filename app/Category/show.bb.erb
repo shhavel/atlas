@@ -1,0 +1,18 @@
+<div data-role="page" data-add-back-btn="true">
+
+  <div data-role="header" data-position="inline">
+    <%= link_to "Back", :action => :index %>
+    <h1><%= @category.name %></h1>
+  </div>
+
+  <div data-role="content">
+    <table>
+      <tr>
+        <% @category.maps.each do |obj| %>
+          <td class="recordLabel"><%= link_to "#{obj.name}", :controller => :Map, :action => :show, :id => obj.object %></td>
+        <% end %>
+      </tr>
+    </table>
+  </div>
+
+</div>

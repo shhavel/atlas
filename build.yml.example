@@ -1,0 +1,29 @@
+#sdk: "/Users/alex/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/rhodes-3.4.2"
+sdkversion: "3.4.0"
+name: "Geography 10"
+version: 1.0
+vendor: "rhomobile"
+build: "debug"
+bbver: 4.6
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.atlas"
+  BundleURLScheme: "atlas"
+  emulatortarget: "iphone"
+wp:
+  productid: "1d0022e0-4630-0130-a13f-388d120631fa"
+symbian:
+  uid: "0xebb0ea1b"
+#version: 2.1
+android:
+  version: 4.0
+  emulator: "em40"
+extensions:
+  - json
+  - rexml
+  - set

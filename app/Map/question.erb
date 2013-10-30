@@ -1,0 +1,43 @@
+<div data-role="page">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= @testing_name %></h1>
+    <% if @num > 0 %>
+      <a href="<%= question_url(@map, @num - 1, @answers) %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+        <%= t('Prev') %>
+      </a>
+    <% end %>
+    <% if @num < (@questions.size - 1) %>
+      <a href="<%= question_url(@map, @num + 1, @answers) %>" class="ui-btn-right" data-icon="arrow-r">
+        <%= t('Next') %>
+      </a>
+    <% end %>
+  </div>
+
+  <div data-role="content" class="content">
+
+    <label><b><%= @questions[@num] %></b></label>
+
+    <form method="POST" action="<%= url_for :action => (@num == @questions.size - 1 ? :resume : :question) %>">
+      <input type="hidden" name="id" value="<%= @map.object %>"/>
+      <input type="hidden" name="num" value="<%= @num + 1 %>"/>
+
+      <% @answers.each_with_index do |question_answers, idx| %>
+        <% question_answers.each do |flag| %>
+          <input type="hidden" name="answers[<%= idx %>][]" value="<%= flag %>" />
+        <% end %>
+      <% end %>
+
+      <% input_type = variants_input_type(@variants[@num]) %>
+      <% @variants[@num].each_with_index do |variant, idx| %>
+        <div data-role="fieldcontain">
+          <label for="current_answer[<%= idx %>]" class="fieldLabel"><%= variant[:text] %></label>
+          <input type="<%= input_type %>" id="current_answer[<%= idx %>]" name="current_answer[]" value="<%= idx %>" <%= checked('1', @answers[@num][idx]) %> />
+        </div>
+      <% end %>
+
+      <input type="submit" value="<%= t('Continue') %>"/>
+    </form>
+  </div>
+
+</div>

@@ -1,0 +1,49 @@
+<div data-role="page" data-add-back-btn="false">
+
+  <div data-role="header" data-position="inline">
+    <h1><%= t('Controls') %></h1>
+    <a href="<%= @params['referer'] %>?lang=<%= Control.lang %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+      <%= t('Back') %>
+    </a>
+  </div>
+
+  <div data-role="content">
+    <form method="POST" action="<%= url_for :action => :change %>">
+      <input type="hidden" name="referer" value="<%= @params['referer'] %>" />
+      <% @controls.each do |control| %>
+
+        <div data-role="fieldcontain">
+          <label for="<%= control.name %>" class="fieldLabel"><%= t(control.name) %></label>
+
+          <% if control.type == 'select'%>
+
+            <select id="<%= control.name %>" name="<%= control.name %>">
+              <% control.all_values.each do |val| %>
+                <option value="<%= val %>" <%= val == control.value ? 'selected="selected"' : '' %>><%= t(val) %></option>
+              <% end %>
+            </select>
+
+          <% elsif control.type == 'range' %>
+
+            <br/>
+            <input type="range" id="<%= control.name %>" name="<%= control.name %>" value="<%= control.value %>"
+              min="<%= control.min %>" max="<%= control.max %>" step="<%= control.step %>"/>
+
+          <% elsif control.type == 'checkbox' %>
+
+            <input type="checkbox" id="<%= control.name %>" name="<%= control.name %>" value="1"
+              <%= 'checked="checked"' if control.checked? %> />
+
+          <% else %>
+
+            <input type="text" id="<%= control.name %>" name="<%= control.name %>" value="<%= control.value %>" <%= placeholder(t(control.name)) %> />
+
+          <% end %>
+        </div>
+
+      <% end %>
+      <input type="submit" value="<%= t('Update') %>"/>
+    </form>
+  </div>
+
+</div>
