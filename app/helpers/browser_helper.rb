@@ -47,6 +47,7 @@ module BrowserHelper
   def translations_ru
     @translations_ru ||= {
       # PLACEHOLDER: Atlas Title ru, e.g. 'Atlas' => 'СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ ГЕОГРАФИЯ МИРА',
+      'Atlas' => 'СОЦИАЛЬНО-ЭКОНОМИЧЕСКАЯ ГЕОГРАФИЯ МИРА',
       # General
       'Controls' => 'Настройки',
       'Content' => 'Содержание',
@@ -77,6 +78,7 @@ module BrowserHelper
   def translations_ua
     @translations_ua ||= {
       # PLACEHOLDER: Atlas Title ua, e.g. 'Atlas' => 'СОЦІАЛЬНО-ЕКОНОМІЧНА ГЕОГРАФІЯ СВІТУ',
+      'Atlas' => 'СОЦІАЛЬНО-ЕКОНОМІЧНА ГЕОГРАФІЯ СВІТУ',
       # General
       'Controls' => 'Налаштування',
       'Content' => 'Зміст',
