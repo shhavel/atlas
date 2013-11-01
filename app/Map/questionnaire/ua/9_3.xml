@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Українські землі наприкінці ХVІІІ ст.">
+  <question level="1" simple="True" text="Запорозькі землі після ліквідації Нової Січі було включено до складу...">
+    <answer text="Азовської і Новоросійської губерній " flag="1"/>
+    <answer text="Новоросійської губернії " flag="0"/>
+    <answer text="Астраханської губернії" flag="0"/>
+    <answer text="Катеринославського намісництва" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якому році була заснована Одеса? ">
+    <answer text="1768 р. " flag="0"/>
+    <answer text="1774 р. " flag="0"/>
+    <answer text="1793 р." flag="0"/>
+    <answer text="1795 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="У якому році відбувся перший поділ Речі Посполитої?  ">
+    <answer text="1770 р." flag="0"/>
+    <answer text="1772 р." flag="1"/>
+    <answer text="1776 р." flag="0"/>
+    <answer text="1778 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="За яким поділом Речі Посполитої, що мав місце у ХVІІІ ст., Російська імперія отримала Західну Волинь, Західну Білорусь, Литву?">
+    <answer text="Першим" flag="0"/>
+    <answer text="Другим" flag="0"/>
+    <answer text="Третім" flag="1"/>
+    <answer text="Четвертим" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які держави брали участь у поділах Речі Посполитої останньої чверті ХVІІІ ст.?">
+    <answer text="Пруссія" flag="1"/>
+    <answer text="Російська імперія" flag="1"/>
+    <answer text="Швеція" flag="0"/>
+    <answer text="Монархія австрійських Габсбургів" flag="1"/>
+    <answer text="Османська імперія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулося польське визвольне повстання, очолюване Тодеушем Костюшко?">
+    <answer text="1783 р." flag="0"/>
+    <answer text="1791 р." flag="0"/>
+    <answer text="1793 р." flag="0"/>
+    <answer text="1794 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Право володіти яким регіоном українських земель закріпила за Австрією Константинопольська конвенція 1775 р.?  ">
+    <answer text="Холмщина" flag="0"/>
+    <answer text="Закарпаття" flag="0"/>
+    <answer text="Буковина" flag="1"/>
+    <answer text="Галичина" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якому році на Лівобережній Україні були ліквідовані козацькі полки і перетворені на регулярні частини російської армії?">
+    <answer text="1768 р." flag="0"/>
+    <answer text="1775 р." flag="0"/>
+    <answer text="1781 р." flag="0"/>
+    <answer text="1783 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке судження є правильним? У результаті поділів Речі Посполитої більшість українських земель: 1) опинилася у складі Російської імперії; 2) отримали губерніальний адміністративно-територіальний устрій.">
+    <answer text="Обидва варіанти правильні" flag="1"/>
+    <answer text="Тільки 1 варіант правильний" flag="0"/>
+    <answer text="Тільки 2 варіант правильний" flag="0"/>
+    <answer text="Обидва варіанти неправильні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У результаті яких подій до складу Російської імперії увійшли причорноморські землі між Дністром і Південним Бугом?">
+    <answer text="Другого поділу Речі Посполитої" flag="0"/>
+    <answer text="Третього поділу Речі Посполитої" flag="0"/>
+    <answer text="Російсько-турецької війни 1768-1774 рр." flag="0"/>
+    <answer text="Російсько-турецької війни 1787-1791 рр." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Війська яких держав брали участь у придушенні польського повстання на чолі з Т. Костюшко?">
+    <answer text="Російської імперії" flag="1"/>
+    <answer text="Османської імперії" flag="0"/>
+    <answer text="Монархії австрійських Габсбургів" flag="0"/>
+    <answer text="Пруссії" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="У якому році було ліквідовано Кримське ханство?">
+    <answer text="1775 р." flag="0"/>
+    <answer text="1783 р." flag="1"/>
+    <answer text="1791 р." flag="0"/>
+    <answer text="1795 р." flag="0"/>
+  </question>
+</testing>

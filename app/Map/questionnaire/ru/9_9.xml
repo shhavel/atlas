@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Хозяйство украинских земель в первой половине XIX в.">
+  <question level="1" simple="True" text="Какой регион Украины в конце XVIII - первой половине XIX в. интенсивно осваивался украинского и переселенцами других национальностей?">
+    <answer text="Карпаты и Прикарпатье" flag="0"/>
+    <answer text="Правобережье" flag="0"/>
+    <answer text="Левобережье" flag="0"/>
+    <answer text="Юг" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая форма торговых перевозок доминировала в Украине в начале XIX в.?">
+    <answer text="Чумачество" flag="1"/>
+    <answer text="Речной транспорт" flag="0"/>
+    <answer text="Морской транспорт" flag="0"/>
+    <answer text="Железнодорожный транспорт" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какой город на украинских землях имело статус порто-франко?">
+    <answer text="Херсон" flag="0"/>
+    <answer text="Николаев" flag="0"/>
+    <answer text="Одесса" flag="1"/>
+    <answer text="Севастополь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое определение раскрывает содержание понятия &quot;промышленный переворот (революция)&quot;?">
+    <answer text="Отношения, складывающиеся между товаропроизводителями и покупателями по поводу купли-продажи, органическая связь между производством и потреблением" flag="0"/>
+    <answer text="Процесс перехода от ремесленного к мануфактурного производства" flag="0"/>
+    <answer text="Форма производства, при которой продукция производится для продажи" flag="0"/>
+    <answer text="Процесс в развитии производительных сил общества, при котором происходит переход от мануфактурного к машинному производству" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда в Приднепровской Украине началась промышленная революция?">
+    <answer text="в 20-е гг XIX в." flag="0"/>
+    <answer text="в 30-е гг XIX в." flag="1"/>
+    <answer text="в 40-е гг XIX в." flag="0"/>
+    <answer text="в 50-е гг XIX в." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Что было основой хозяйственного развития украинских земель в первой половине XIX в.?">
+    <answer text="Земледелие" flag="1"/>
+    <answer text="Торговля" flag="0"/>
+    <answer text="Ремесло" flag="0"/>
+    <answer text="Промышленность" flag="0"/>
+  </question>
+</testing>

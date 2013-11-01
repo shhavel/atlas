@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Розвиток української культури у другій половині ХІХ – на початку ХХ ст.">
+  <question level="1" simple="True" text="Скільки університетів діяло на українських землях на початку ХХ ст.?">
+    <answer text="3" flag="0"/>
+    <answer text="4" flag="0"/>
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто є основоположником української класичної музики?">
+    <answer text="С. Гулак-Артемовський" flag="0"/>
+    <answer text="М. Лисенко" flag="1"/>
+    <answer text="М. Вербицький" flag="0"/>
+    <answer text="М. Аркас" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли на західноукраїнських землях було запроваджено обов’язкову початкову освіту?">
+    <answer text="1861 р." flag="0"/>
+    <answer text="1869 р." flag="1"/>
+    <answer text="1875 р." flag="0"/>
+    <answer text="1888 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який з зазначених університетів на українських землях був заснований у другій половині ХІХ ст.?">
+    <answer text="Харківський" flag="0"/>
+    <answer text="Київський" flag="0"/>
+    <answer text="Львівський" flag="0"/>
+    <answer text="Чернівецький" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="У якому році було створено Наукове товариство ім. Т.Шевченка (НТШ), що відігравало роль Академії Наук України?">
+    <answer text="1873 р." flag="0"/>
+    <answer text="1882 р." flag="0"/>
+    <answer text="1892 р." flag="1"/>
+    <answer text="1895 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У який період відбувся розквіт українського театрального мистецтва?">
+    <answer text="1870-ті рр." flag="0"/>
+    <answer text="1880-ті рр." flag="1"/>
+    <answer text="1890-ті рр." flag="0"/>
+    <answer text="на початку ХХ ст." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто написав опери „Наталка-Полтавка”, „Тарас Бульба”, „Енеїда”, „Коза-дереза”?">
+    <answer text="І.Гулак-Артемовський" flag="0"/>
+    <answer text="М.Лисенко" flag="1"/>
+    <answer text="М.Леонтович" flag="0"/>
+    <answer text="М.Вербицький" flag="0"/>
+  </question>
+</testing>

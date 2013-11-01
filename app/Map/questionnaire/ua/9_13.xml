@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Скасування кріпосного права в українських землях">
+  <question level="1" simple="True" text="Яка з реформ 1860–1870-х рр. не поширювалася на губернії Правобережної України?">
+    <answer text="судова реформа" flag="0"/>
+    <answer text="міська реформа" flag="0"/>
+    <answer text="земська реформа" flag="1"/>
+    <answer text="військова реформа" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якому році на українських землях у межах Російської імперії було скасовано кріпацтво?">
+    <answer text="1861 р." flag="1"/>
+    <answer text="1863 р." flag="0"/>
+    <answer text="1864 р." flag="0"/>
+    <answer text="1865 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Скільки військових округів було створено на українських землях згідно з військовою реформою?">
+    <answer text="1" flag="0"/>
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На яких умовах селяни, звільнені з кріпацтва, отримували землю після здійснення аграрної реформи?">
+    <answer text="виплачували викупні платежі" flag="1"/>
+    <answer text="отримували у довгострокову оренду" flag="0"/>
+    <answer text="ставали державною власністю" flag="0"/>
+    <answer text="відробляли розмір викупного платежу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У яких губерніях, після проведення реформи, селяни втратили частину земель, якими вони раніше користувалися?">
+    <answer text="Лівобережної України" flag="1"/>
+    <answer text="Півдня України" flag="0"/>
+    <answer text="Правобережної України" flag="0"/>
+    <answer text="Слобідської  України" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з реформ 60-70-х рр. була найбільш демократичною?">
+    <answer text="Судова" flag="1"/>
+    <answer text="Воєнна" flag="0"/>
+    <answer text="Аграрна" flag="0"/>
+    <answer text="Земська" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Чи правильне судження? Після аграрних реформ 1860-х років: 1) більшість земель в Україні належали поміщикам; 2) селянство змушене було виплачувати викупні платежі.">
+    <answer text="Обидва варіанти правильні" flag="1"/>
+    <answer text="Тільки 1 варіант правильний" flag="0"/>
+    <answer text="Тільки 2 варіант правильний" flag="0"/>
+    <answer text="Обидва варіанти неправильні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія дала поштовх до скасування кріпацтва на українських землях у межах Російської імперії?">
+    <answer text="„Маніфест...” російського царя" flag="0"/>
+    <answer text="Революційні події в Австрійській імперії" flag="0"/>
+    <answer text="Поразка Росії у Кримській війні" flag="1"/>
+    <answer text="Перетворення Австрійської імперії на Австро-Угорщину" flag="0"/>
+  </question>
+</testing>

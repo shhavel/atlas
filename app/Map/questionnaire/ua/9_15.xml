@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Суспільно-політичне життя на українських землях у другій половині">
+  <question level="1" simple="True" text="Які українські землі у другій половині ХІХ ст. провідник громадівського руху В.Антонович назвав „Українським П`ємонтом”?">
+    <answer text="Слобожанщину" flag="0"/>
+    <answer text="Наддніпрянщину" flag="0"/>
+    <answer text="Східну Галичину" flag="1"/>
+    <answer text="Закарпаття" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка течія в українському русі на західноукраїнських землях стала домінуючою на кінець ХІХ – на початок ХХ ст.?">
+    <answer text="Москвофільська" flag="0"/>
+    <answer text="Старорусинська" flag="0"/>
+    <answer text="Радикальна" flag="0"/>
+    <answer text="Народовська" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка з зазначених подій було зумовлена діяльністю народників на українських землях?">
+    <answer text="„Київська козаччина”" flag="0"/>
+    <answer text="„У Таврію за волею”" flag="0"/>
+    <answer text="„Чигиринська змова”" flag="1"/>
+    <answer text="„Рутенська акція”" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якому році було створено першу українську партію в Наддніпрянській Україні?">
+    <answer text="1890 р." flag="0"/>
+    <answer text="1892 р." flag="0"/>
+    <answer text="1900 р." flag="1"/>
+    <answer text="1905 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які з зазначених організацій провідною вважали культурно-просвітницьку діяльність?">
+    <answer text="„Сокіл”, „Січ”, „Пласт”" flag="0"/>
+    <answer text="„Руська бесіда”, „Просвіта”" flag="1"/>
+    <answer text="„Маслосоюз”, „Сільський господар”" flag="0"/>
+    <answer text="„Дністер”, „Крайовий земельний банк”" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з течій національно-визвольного руху на західноукраїнських землях сформувалася раніше?">
+    <answer text="Народовська" flag="0"/>
+    <answer text="Москвофільська" flag="1"/>
+    <answer text="Радикальна" flag="0"/>
+    <answer text="Русинська" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називалася політична організація москвофілів (русофілів) у 1870-1880-х рр.?">
+    <answer text="Руська рада" flag="1"/>
+    <answer text="Народна рада" flag="0"/>
+    <answer text="Галицько-руська матиця" flag="0"/>
+    <answer text="Руська бесіда" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Попередниками якого руху були „хлопомани”?">
+    <answer text="Народників" flag="0"/>
+    <answer text="Народовців" flag="0"/>
+    <answer text="Громадівців" flag="1"/>
+    <answer text="Москвофілів" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У які роки велася активна діяльність з українознавчих досліджень Південно-західного відділення російського географічного товариства?">
+    <answer text="1863-1873 рр." flag="0"/>
+    <answer text="1861-1862 рр." flag="0"/>
+    <answer text="1873-1876 рр." flag="1"/>
+    <answer text="1878-1879 рр." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому році було видано указ царя, в якому проголошувалося „...не допускати ввозу в межі імперії ... яких би то не було книг і брошур, що видаються за кордоном на малоруському наріччі, а також і друкування на ньому текстів до музичних нот...”?">
+    <answer text="1861 р." flag="0"/>
+    <answer text="1863 р." flag="0"/>
+    <answer text="1876 р." flag="1"/>
+    <answer text="1882 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якому місті у 1900 р. було засновано Революційну українську партію (РУП)?">
+    <answer text="Харкові" flag="1"/>
+    <answer text="Києві" flag="0"/>
+    <answer text="Одесі" flag="0"/>
+    <answer text="Львові" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Навколо якої організації гуртувався український національний рух у Надніпрянській Україні у першій половині 70-х ХІХ ст.?">
+    <answer text="Кирило-Мефодіївське товариство (братство)" flag="0"/>
+    <answer text="Південно-Західне відділення російського географічного товариства" flag="1"/>
+    <answer text="Загальна українська безпартійна організація" flag="0"/>
+    <answer text="Гурток „хлопоманів”" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які українські землі були охоплені польським національно-визвольним повстанням 1863 р.?">
+    <answer text="Східної Галичини" flag="0"/>
+    <answer text="Правобережжя" flag="1"/>
+    <answer text="Півдня" flag="0"/>
+    <answer text="Лівобережжя" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який український політичний журнал видавався М.Драгомановим у Женеві у 1878-1882 рр.?">
+    <answer text="„Земля і воля”" flag="0"/>
+    <answer text="„Зоря Галицька”" flag="0"/>
+    <answer text="„Основа”" flag="0"/>
+    <answer text="„Громада”" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто був засновником Русько-української радикальної партії (РУРП) на західноукраїнських землях?">
+    <answer text="І.Франко і М.Павлик" flag="1"/>
+    <answer text="М.Ганкевич, С.Вітик, Ю.Бачинський" flag="0"/>
+    <answer text="Є.Левицький, В.Охримович" flag="0"/>
+    <answer text="В.Антонович, М.Грушевський" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украина в Крымской войне 1853-1856 гг Крестьянское движение 1855-1860 гг">
+  <question level="1" simple="True" text="Войска каких принимали участие в Крымской войне?">
+    <answer text="России и Турции" flag="0"/>
+    <answer text="России, Турции, Англии" flag="0"/>
+    <answer text="России, Турции, Англии, Франции" flag="0"/>
+    <answer text="России, Турции, Англии, Франции и Пьемонта" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие события имели место на украинских землях во время Крымской войны?">
+    <answer text="Отмена крепостного" flag="0"/>
+    <answer text="Восстание военных поселенцев" flag="0"/>
+    <answer text="Ликвидация Задунайской Сечи" flag="0"/>
+    <answer text="&quot;Киевская козаччина&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Где разворачивались решающие события Крымской войны?">
+    <answer text="В Валахии и Молдавии" flag="0"/>
+    <answer text="Вокруг Севастополя" flag="1"/>
+    <answer text="На Кавказском фронте" flag="0"/>
+    <answer text="На Черном море" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие казачьи формирования принимали участие в обороне побережья от Одессы до Дуная во время Крымской войны?">
+    <answer text="Дунайское казачье войско" flag="1"/>
+    <answer text="Азовское казацкое войско" flag="0"/>
+    <answer text="Черноморское казачье войско" flag="0"/>
+    <answer text="Бузское казаки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Укажите хронологические рамки Крымской войны">
+    <answer text="1853-1855 гг" flag="0"/>
+    <answer text="1855-1860 гг" flag="0"/>
+    <answer text="1854-1855 гг" flag="0"/>
+    <answer text="1853-1856 гг" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие территориальные потери понесла Россия в результате Крымской войны?">
+    <answer text="Часть Южной Бессарабии" flag="1"/>
+    <answer text="Крымский полуостров" flag="0"/>
+    <answer text="Черноморское побережье между Дунаем и Южным Бугом" flag="0"/>
+    <answer text="Крым и Южную Бессарабию" flag="0"/>
+  </question>
+</testing>
