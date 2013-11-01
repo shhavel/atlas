@@ -8,7 +8,12 @@ class CategoryController < Rho::RhoController
   def index
     Rho::NativeToolbar.remove
     @categories = Category.find(:all)
-    render #:back => '/app'
+    if Category.find(:all).size > 1
+      render #:back => '/app'
+    else
+      @category = Category.find(:all).first
+      redirect :action => :show, :id => @category.object
+    end
   end
 
   # GET /Category/{1}

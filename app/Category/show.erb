@@ -2,9 +2,11 @@
 
   <div data-role="header" data-position="inline">
     <h1><%= @category.name %></h1>
-    <a href="<%= url_for :action => :index, :query => { :lang => Control.lang } %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
-      <%= t('Back') %>
-    </a>
+    <% if Category.find(:all).size > 1 %>
+      <a href="<%= url_for :action => :index, :query => { :lang => Control.lang } %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+        <%= t('Back') %>
+      </a>
+    <% end %>
     <a href="<%= url_for :controller => :Control, :action => :index, :query => { :referer => @request['request-uri'] }, :reload => true %>" class="ui-btn-right">
       <%= t('Controls') %>
     </a>

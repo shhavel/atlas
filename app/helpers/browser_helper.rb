@@ -103,4 +103,8 @@ module BrowserHelper
       'Make the payment.' => 'Зробіть оплату.',
     }
   end
+
+  def map_file_ext
+    # PLACEHOLDER: map files ext, e.g. 'png'
+  end
 end

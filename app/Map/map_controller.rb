@@ -12,10 +12,10 @@ class MapController < Rho::RhoController
   # GET /Map/{1}
   def show
     @map = Map.find(@params['id'])
-    if @map.category_sign != Category.find(:all).first.sign && unpaid?
+    if !is_free? && unpaid?
       render :action => :unpaid, :back => url_for(:controller => :Category, :action => :index)
     elsif @map
-      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => map_toolbar)
+      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar(true))
       render :action => :show, :back => url_for(:controller => :Category, :action => :show, :id => @map.category.object, :query => { :lang => lang })
     else
       redirect :controller => :Category, :action => :index
@@ -41,7 +41,7 @@ class MapController < Rho::RhoController
       @gallery_title = doc.elements['List'].attributes['Title']
       @photos = {}
       doc.elements.each('List/Item') do |el|
-        @photos["/public/photos/#{@map.pictures_list}/#{el.attributes['FileName']}.png"] = el.attributes['Caption'].strip.gsub("'", '')
+        @photos["/public/photos/#{@map.pictures_list}/#{el.attributes['FileName']}.#{photo_file_ext}"] = el.attributes['Caption'].strip.gsub("'", '')
       end
       Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
       render :action => :gallery, :back => url_for(:action => :show, :id => @map.object)
@@ -123,6 +123,15 @@ private
     end
   end
 
+  def is_free?
+    if Category.find(:all).size > 1
+      return true if @map.category_sign == Category.find(:all).first.sign
+    else
+      return true if Map.find(:all, :page => 1, :per_page => 2).map(&:object).include?(@map.object)
+    end
+    return false
+  end
+
   def unpaid?
     @bill = Bill.find(:all).first
     return false if @bill.paid == 1
@@ -146,36 +155,31 @@ private
     return true
   end
 
-  def toolbar
+  def toolbar(with_zoom = false)
     toolbar = [
       {:action => :back, :reload => true},
-      {:action => "/app/Map/show/#{@map.object}", :icon => "/public/images/toolbar/globe_2_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/summary/#{@map.object}", :icon => "/public/images/toolbar/doc_lines_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/gallery/#{@map.object}", :icon => "/public/images/toolbar/picture_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/question/#{@map.object}", :icon => "/public/images/toolbar/spechbubble_2_icon&#{icon_size}.png", :reload => true},
-      {:action => :separator}
+      {:action => "/app/Map/show/#{@map.object}", :icon => "/public/images/toolbar/globe_2_icon&#{icon_size}.png", :reload => true}
     ]
+    if @map.summary
+      toolbar << {:action => "/app/Map/summary/#{@map.object}", :icon => "/public/images/toolbar/doc_lines_icon&#{icon_size}.png", :reload => true}
+    end
+    if @map.pictures_list
+      toolbar << {:action => "/app/Map/gallery/#{@map.object}", :icon => "/public/images/toolbar/picture_icon&#{icon_size}.png", :reload => true}
+    end
+    if @map.questionnaire
+      toolbar << {:action => "/app/Map/question/#{@map.object}", :icon => "/public/images/toolbar/spechbubble_2_icon&#{icon_size}.png", :reload => true}
+    end
+    toolbar << {:action => :separator}
+    if with_zoom
+      toolbar.concat [
+        {:action => "callback:/app/Map/zoom", :icon => "/public/images/toolbar/round_plus_icon&#{icon_size}.png"},
+        {:action => "callback:/app/Map/unzoom", :icon => "/public/images/toolbar/round_minus_icon&#{icon_size}.png"}
+      ]
+    end
     if show_controls_icon?
       toolbar << {:action => "/app/Control/index?referer=/app/Map/show/#{@map.object}", :icon => "/public/images/toolbar/cogs_icon&#{icon_size}.png", :reload => true}
     end
     toolbar
-  end
-
-  def map_toolbar
-    map_toolbar = [
-      {:action => :back, :reload => true},
-      {:action => "/app/Map/show/#{@map.object}", :icon => "/public/images/toolbar/globe_2_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/summary/#{@map.object}", :icon => "/public/images/toolbar/doc_lines_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/gallery/#{@map.object}", :icon => "/public/images/toolbar/picture_icon&#{icon_size}.png", :reload => true},
-      {:action => "/app/Map/question/#{@map.object}", :icon => "/public/images/toolbar/spechbubble_2_icon&#{icon_size}.png", :reload => true},
-      {:action => :separator},
-      {:action => "callback:/app/Map/zoom", :icon => "/public/images/toolbar/round_plus_icon&#{icon_size}.png"},
-      {:action => "callback:/app/Map/unzoom", :icon => "/public/images/toolbar/round_minus_icon&#{icon_size}.png"}
-    ]
-    if show_controls_icon?
-      map_toolbar << {:action => "/app/Control/index?referer=/app/Map/show/#{@map.object}", :icon => "/public/images/toolbar/cogs_icon&#{icon_size}.png", :reload => true}
-    end
-    map_toolbar
   end
 
   def lang
@@ -199,5 +203,9 @@ private
 
   def bgcolor
     # PLACEHOLDER: bgcolor, e.g. 0x0B8A45
+  end
+
+  def photo_file_ext
+    # PLACEHOLDER: photos (gallery) files ext, e.g. 'png'
   end
 end
