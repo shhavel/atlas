@@ -108,5 +108,6 @@ module BrowserHelper
 
   def map_file_ext
     # PLACEHOLDER: map files ext, e.g. 'png'
+    'png'
   end
 end

@@ -208,5 +208,6 @@ private
 
   def photo_file_ext
     # PLACEHOLDER: photos (gallery) files ext, e.g. 'png'
+    'png'
   end
 end
