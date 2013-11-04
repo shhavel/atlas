@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Правління Наполеона Бонапарта. Перша імперія у Франції ">
+  <question level="1" simple="True" text="В якому році Наполеона Бонапарта було проголошення імператором?">
+    <answer text="1803 р." flag="0"/>
+    <answer text="1804 р." flag="1"/>
+    <answer text="1805 р." flag="0"/>
+    <answer text="1806 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які держави входили до складу третьої антифранцузької коаліції? ">
+    <answer text="Іспанія" flag="0"/>
+    <answer text="Велика Британія" flag="1"/>
+    <answer text="Росія" flag="1"/>
+    <answer text="Пруссія" flag="0"/>
+    <answer text="Австрія" flag="1"/>
+    <answer text="Неаполітанське королівство" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто командував англійським флотом у битві біля мису Трафальґар 21 жовтня 1805 р.?">
+    <answer text="Нельсон" flag="1"/>
+    <answer text="Вільнев" flag="0"/>
+    <answer text="Веллінґтон" flag="0"/>
+    <answer text="Блюхер" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли утворилася четверта антифранцузька коаліція?">
+    <answer text="1805 р." flag="0"/>
+    <answer text="1806 р." flag="1"/>
+    <answer text="1807 р." flag="0"/>
+    <answer text="1808 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка антифранцузька коаліція припинила своє існування в результаті перемоги Наполеона у битві під Аустерліцем?">
+    <answer text="друга" flag="0"/>
+    <answer text="третя" flag="1"/>
+    <answer text="четверта" flag="0"/>
+    <answer text="п'ята" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті Наполеон підписав декрет про запровадження континентальної блокади?">
+    <answer text="Париж" flag="0"/>
+    <answer text="Мадрид" flag="0"/>
+    <answer text="Лейпциґ " flag="0"/>
+    <answer text="Берлін" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Союзний договір і мир між Росією та Францією 7 червня 1807 р. був підписаний у">
+    <answer text="Парижі" flag="0"/>
+    <answer text="Фрідланді " flag="0"/>
+    <answer text="Тільзиті" flag="1"/>
+    <answer text="Варшаві" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На території якої держави відбулася битва під Ваґрамом?">
+    <answer text="Австрійська імперія" flag="1"/>
+    <answer text="королівство Баварія" flag="0"/>
+    <answer text="королівство Пруссія " flag="0"/>
+    <answer text="герцогства Варшавського" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="24 червня 1812 р. армія Наполеона перейшла кордон і вступила на територію">
+    <answer text="Австрійської імперії" flag="0"/>
+    <answer text="Російської імперії" flag="1"/>
+    <answer text="Іспанії" flag="0"/>
+    <answer text="Данії " flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Битва при Ватерлоо відбулася 18 червня">
+    <answer text="1814 р." flag="0"/>
+    <answer text="1815 р." flag="1"/>
+    <answer text="1816 р. " flag="0"/>
+    <answer text="1817 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія відбулась раніше?">
+    <answer text="проголошення у Парижі акту про створення союзу монархів і народів " flag="0"/>
+    <answer text="підписання Заключного генерального акту Віденського конгресу" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Після Наполеона Францією правив">
+    <answer text="Людовік XVI" flag="0"/>
+    <answer text="Людовік XVII" flag="0"/>
+    <answer text="Людовік XVIII" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Азії наприкінці ХІХ - на початку ХХ ст.">
+  <question level="1" simple="True" text="У яких країнах Азії на початку ХХ ст. відбулися революції?">
+    <answer text="Китай " flag="1"/>
+    <answer text="Японія" flag="0"/>
+    <answer text="Індія" flag="0"/>
+    <answer text="Османська імперія " flag="1"/>
+    <answer text="Персія" flag="1"/>
+    <answer text="Індокитай " flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка держава володіла найбільшими колоніальними володіннями в Азії на початок ХХ ст.?">
+    <answer text="Англія" flag="1"/>
+    <answer text="Франція" flag="0"/>
+    <answer text="Німеччина" flag="0"/>
+    <answer text="США" flag="0"/>
+    <answer text="Японія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У якій з названих держав на початку ХХ ст. було повалено монархію і проголошено республіку?">
+    <answer text="Персія" flag="0"/>
+    <answer text="Японія" flag="0"/>
+    <answer text="Османська імперія" flag="0"/>
+    <answer text="Китай" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які країни поділили Персію (Іран) на сфери впливу?">
+    <answer text="США та Англія" flag="0"/>
+    <answer text="Англія та Франція" flag="0"/>
+    <answer text="Англія та Росія" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулась японсько-китайська війна?">
+    <answer text="1894-1895 рр." flag="1"/>
+    <answer text="1904-1905 рр." flag="0"/>
+    <answer text="1911-1912 рр." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Синхайська революція відбулась у">
+    <answer text="Росії" flag="0"/>
+    <answer text="Китаї" flag="1"/>
+    <answer text="Японії" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Меджліс було створено в">
+    <answer text="Туреччині" flag="0"/>
+    <answer text="Ірані" flag="1"/>
+    <answer text="Китаї" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка революція, була в Азії першою?">
+    <answer text="молодотурецька" flag="0"/>
+    <answer text="іранська" flag="1"/>
+    <answer text="Синхайська" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні діяв ІНК?">
+    <answer text="Китай" flag="0"/>
+    <answer text="Індія" flag="1"/>
+    <answer text="Персія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які території придбала Японія внаслідок японсько-китайської війни?">
+    <answer text="о. Хайнань" flag="0"/>
+    <answer text="провінцію Ґуандун" flag="0"/>
+    <answer text="о. Тайвань " flag="1"/>
+    <answer text="провінцію Шаньдун" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли в Османській імперії було відновлено конституцію 1876 р.?">
+    <answer text="1878 р." flag="0"/>
+    <answer text="1912 р." flag="0"/>
+    <answer text="1908 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Відновлення влади імператора в Японії відбулося в">
+    <answer text="1868 р." flag="1"/>
+    <answer text="1889 р." flag="0"/>
+    <answer text="1905 р." flag="0"/>
+  </question>
+</testing>

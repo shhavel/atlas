@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Французская революция конца XVIII в.">
+  <question level="1" simple="True" text="В правление которого короля во Франции началась революция?">
+    <answer text="Людовика ХIV" flag="0"/>
+    <answer text="Людовика ХV" flag="0"/>
+    <answer text="Людовика ХVI" flag="1"/>
+    <answer text="Людовика ХVIII" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Взятие крепости-тюрьмы Бастилии состоялось">
+    <answer text="5 мая 1789" flag="0"/>
+    <answer text="17 мая 1789" flag="0"/>
+    <answer text="14 июля 1789" flag="1"/>
+    <answer text="3 сентября 1789" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие названия являются лишними в перечень городов-центров контрреволюционной эмиграции?">
+    <answer text="Гаага" flag="1"/>
+    <answer text="Лондон" flag="0"/>
+    <answer text="Кобленц" flag="0"/>
+    <answer text="Берн" flag="1"/>
+    <answer text="Турин" flag="0"/>
+    <answer text="Кельн" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какой остров был захвачен Наполеоном при Египетского похода?">
+    <answer text="Сардиния" flag="0"/>
+    <answer text="Мальта" flag="1"/>
+    <answer text="Крит" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В состав первой антифранцузской коалиции входили">
+    <answer text="Испания" flag="1"/>
+    <answer text="Великобритания" flag="1"/>
+    <answer text="Османская империя" flag="0"/>
+    <answer text="Пруссия" flag="1"/>
+    <answer text="Швейцарский союз" flag="0"/>
+    <answer text="Австрия" flag="1"/>
+    <answer text="Сардинское королевство" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая французская провинция стала центром роялистского восстания в марте-декабре 1793.?">
+    <answer text="Шампань" flag="0"/>
+    <answer text="Вандея" flag="1"/>
+    <answer text="Овернь" flag="0"/>
+    <answer text="Гасконь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие из этих государств не входила в состав второй антифранцузской коалиции?">
+    <answer text="Неаполитанское королевство" flag="0"/>
+    <answer text="Российская империя" flag="0"/>
+    <answer text="королевство Швеция" flag="1"/>
+    <answer text="королевство Пруссия" flag="1"/>
+    <answer text="Османская империя" flag="0"/>
+    <answer text="Великобритания" flag="0"/>
+    <answer text="королевство Португалия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У Абукире французские корабли сражались с флотом">
+    <answer text="Великобритании" flag="1"/>
+    <answer text="Турции" flag="0"/>
+    <answer text="России" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В сражении у пирамид 20 июля 1798. войско Наполеона пермогло">
+    <answer text="англичан" flag="0"/>
+    <answer text="персов" flag="0"/>
+    <answer text="турок" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Лидером Директории был">
+    <answer text="Тальен" flag="0"/>
+    <answer text="Фрер" flag="0"/>
+    <answer text="Баррас" flag="1"/>
+    <answer text="Мюрат" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="1 августа 1798 французские корабли были уничтожены английским флотом">
+    <answer text="в Ла-Манше" flag="0"/>
+    <answer text="у острова Мальта" flag="0"/>
+    <answer text="у мыса Трафальгар" flag="0"/>
+    <answer text="у мыса Абукире" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Переворот 18 брюмера и установления консульства состоялся">
+    <answer text="16 ноября 1796" flag="0"/>
+    <answer text="9 ноября 1799" flag="1"/>
+    <answer text="14 июня 1800" flag="0"/>
+    <answer text="18 июня 1804" flag="0"/>
+  </question>
+</testing>

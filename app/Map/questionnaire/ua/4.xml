@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Революції 1848-1849 рр. у Європі">
+  <question level="1" simple="True" text="Період після Лютневої революції 1848 р. у Франції називався ">
+    <answer text="Перша республіка" flag="0"/>
+    <answer text="Друга республіка" flag="1"/>
+    <answer text="Третя республіка" flag="0"/>
+    <answer text="Четверта республіка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто переміг на президентських виборах 10 грудня 1848 р. у Франції?">
+    <answer text="Луї Бонапарт" flag="0"/>
+    <answer text="Луї-Наполеон" flag="1"/>
+    <answer text="Луї Блан" flag="0"/>
+    <answer text="Олександр Альбер" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли утворилася Друга імперія у Франції? ">
+    <answer text="25 лютого 1848 р. " flag="0"/>
+    <answer text="4 березня 1849 р." flag="0"/>
+    <answer text="14 квітня 1849 р." flag="0"/>
+    <answer text="2 грудня 1852 р. " flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія відбулася раніше?">
+    <answer text="оприлюднення подарованої Фрідріхом-Вільгельмом IV прусської конституції" flag="0"/>
+    <answer text="вибори до загальнонімецьких установчих зборів - Франкфуртського парламенту" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які українські землі були охоплені революційною боротьбою у 1848-1849 рр.?">
+    <answer text="Волинь" flag="0"/>
+    <answer text="Галичина" flag="1"/>
+    <answer text="Слобожанщина " flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто створив товариство Молода Італія?">
+    <answer text="Джузеппе Мадзіні" flag="1"/>
+    <answer text="Джузеппе Гарібальді" flag="0"/>
+    <answer text="Камілло Кавур" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Чи схвалив папа Римський Пій IX ідею революційного об'єднання Італії і боротьбу проти Австрії? ">
+    <answer text="так" flag="0"/>
+    <answer text="ні" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто був лідером ліберальної течії, яка ставила за мету об'єднання італійських держав під владою Савойської королівської династії?">
+    <answer text="папа Римський Пій IX" flag="0"/>
+    <answer text="Джузеппе Гарібальді" flag="0"/>
+    <answer text="Камілло Кавур" flag="1"/>
+    <answer text="Джузеппе Мадзіні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Столицею Австрійської імперії було місто">
+    <answer text="Белград" flag="0"/>
+    <answer text="Відень" flag="1"/>
+    <answer text="Прага" flag="0"/>
+    <answer text="Пешт" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли розпочалося повстання у Відні?">
+    <answer text="13 березня 1848 р." flag="1"/>
+    <answer text="15 березня 1848 р." flag="0"/>
+    <answer text="12-17 червня 1848 р." flag="0"/>
+    <answer text="6 жовтня 1648 р. " flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Перший угорський уряд в роки революції 1848-1849 рр. очолював">
+    <answer text="Шандор Петефі" flag="0"/>
+    <answer text="Лайош Баттяні" flag="1"/>
+    <answer text="Лайош Кошут" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Революцію в Угорщині було придушено завдяки військовій інтервенції">
+    <answer text="Пруссії" flag="0"/>
+    <answer text="Туреччини" flag="0"/>
+    <answer text="Франції" flag="0"/>
+    <answer text="Росії" flag="1"/>
+  </question>
+</testing>

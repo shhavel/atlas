@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Международные отношения в конце XIX - начале XX в.">
+  <question level="1" simple="True" text="Какой регион Европы получил название &quot;пороховой погреб&quot;?">
+    <answer text="Западная Европа" flag="0"/>
+    <answer text="Балканы" flag="1"/>
+    <answer text="Россия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая колониальная империя была самой в начале XX в.?">
+    <answer text="Франции" flag="0"/>
+    <answer text="Германии" flag="0"/>
+    <answer text="Англии" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда было завершено формирование Антанты?">
+    <answer text="1893" flag="0"/>
+    <answer text="1904" flag="1"/>
+    <answer text="1907" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны образовали Тройственный союз?">
+    <answer text="Германия" flag="1"/>
+    <answer text="Турция" flag="0"/>
+    <answer text="Россия" flag="0"/>
+    <answer text="Австро-Венгрия" flag="1"/>
+    <answer text="Италия" flag="1"/>
+    <answer text="Испания" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая война стала первой в борьбе за передел мира?">
+    <answer text="англо-бурская" flag="0"/>
+    <answer text="испано-американская" flag="1"/>
+    <answer text="русско-японская" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда был создан ИИ Интернационал?">
+    <answer text="1864" flag="0"/>
+    <answer text="1889" flag="1"/>
+    <answer text="1919" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Конфликт между какими государствами был ключевым в начале XX в.?">
+    <answer text="США и Англией" flag="0"/>
+    <answer text="Россией и Японией" flag="0"/>
+    <answer text="Англией и Германией" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда был создан Союз трех императоров?">
+    <answer text="1864" flag="0"/>
+    <answer text="1873" flag="1"/>
+    <answer text="1882" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Сколько было Марокканских кризисов?">
+    <answer text="2" flag="1"/>
+    <answer text="3" flag="0"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Современное название Сиама">
+    <answer text="Лаос" flag="0"/>
+    <answer text="Таиланд" flag="1"/>
+    <answer text="Бангладеш" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая из названных африканских стран оставалась независимой в 1914?">
+    <answer text="Сомали" flag="0"/>
+    <answer text="Мозамбик" flag="0"/>
+    <answer text="Либерия" flag="1"/>
+    <answer text="Сенегал" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая страна в начале XX в. отказалась от политики «блестящей изоляции&quot;?">
+    <answer text="Франция" flag="0"/>
+    <answer text="Россия" flag="0"/>
+    <answer text="Англия" flag="1"/>
+    <answer text="Германия" flag="0"/>
+  </question>
+</testing>

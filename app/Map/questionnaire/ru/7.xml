@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="США в первой половине XIX в. Гражданская война (1861-1865 гг)">
+  <question level="1" simple="True" text="Название какого из следующих американских штатов связана с названием индейского племени?">
+    <answer text="Нью-Мексико" flag="0"/>
+    <answer text="Дакота" flag="1"/>
+    <answer text="Джорджия" flag="0"/>
+    <answer text="Луизиана" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называли участников движения за немедленную отмену рабства, возникший в США в 1830-х годах?">
+    <answer text="аболиционисты" flag="1"/>
+    <answer text="куклуксклановцы" flag="0"/>
+    <answer text="конфедераты" flag="0"/>
+    <answer text="инсургенты" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В XIX в. первой политической партией, возникшей в США была">
+    <answer text="демократическая партия" flag="1"/>
+    <answer text="республиканская партия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="1803 США приобрели у Франции территорию">
+    <answer text="Флориды" flag="0"/>
+    <answer text="Техаса" flag="0"/>
+    <answer text="Луизианы" flag="1"/>
+    <answer text="Орегон" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда во владение США перешла территория Техаса?">
+    <answer text="1813" flag="0"/>
+    <answer text="1818" flag="0"/>
+    <answer text="1842" flag="0"/>
+    <answer text="1845" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В какой страны США купили 1876 территорию Аляски?">
+    <answer text="Испания" flag="0"/>
+    <answer text="Великобритания" flag="0"/>
+    <answer text="Россия" flag="1"/>
+    <answer text="Франция" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Штаты Нью-Йорк, Огайо, Пенсильвания, Мичиган были">
+    <answer text="рабовладельческими" flag="0"/>
+    <answer text="свободными от рабства" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Город был столицей Конфедерации?">
+    <answer text="Ричмонд" flag="1"/>
+    <answer text="Вашингтон" flag="0"/>
+    <answer text="Филадельфия" flag="0"/>
+    <answer text="Колумбия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Гражданская война в США началась после нападения конфедератов на">
+    <answer text="Форт Генри" flag="0"/>
+    <answer text="Форт Самтер" flag="1"/>
+    <answer text="Сент-Луис" flag="0"/>
+    <answer text="Сент-Огастин" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Битва под Геттисбергом в июле 1863 завершилась поражением войск">
+    <answer text="Конфедерации" flag="1"/>
+    <answer text="Союза" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Главнокомандующим войск Союза был генерал">
+    <answer text="Шерман" flag="0"/>
+    <answer text="Ли" flag="0"/>
+    <answer text="Батлер" flag="0"/>
+    <answer text="Грант" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Где состоялась капитуляция главных сил Конфедерации?">
+    <answer text="Аппоматтокс" flag="1"/>
+    <answer text="Геттисберг" flag="0"/>
+    <answer text="Роли" flag="0"/>
+    <answer text="Цинциннати" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Российская империя в XIX в.">
+  <question level="1" simple="True" text="Кто из названных российских императоров правил первым?">
+    <answer text="Николай I" flag="0"/>
+    <answer text="Павел I" flag="1"/>
+    <answer text="Александр I" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В правление которого императора в состав России вошло Царство Польское?">
+    <answer text="Николай I" flag="0"/>
+    <answer text="Павел I" flag="0"/>
+    <answer text="Александр I" flag="1"/>
+    <answer text="Александр III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Помощь австрийскому императору Францу-Иосифу в подавлении революции в Венгрии в 1848 г. предоставил российский царь">
+    <answer text="Александр I" flag="0"/>
+    <answer text="Николай I" flag="1"/>
+    <answer text="Александр III" flag="0"/>
+    <answer text="Николай II в" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В составе Российской империи Баку был центром добычи">
+    <answer text="угля" flag="0"/>
+    <answer text="нефти" flag="1"/>
+    <answer text="железной руды" flag="0"/>
+    <answer text="золота" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Территорию Бессарабии Российская империя присоединила к своим владениям в">
+    <answer text="1812" flag="1"/>
+    <answer text="1829" flag="0"/>
+    <answer text="1854" flag="0"/>
+    <answer text="1873" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крымская война продолжалась в течение">
+    <answer text="1806-1812 гг" flag="0"/>
+    <answer text="1828-1829 гг" flag="0"/>
+    <answer text="1834-1859 гг" flag="0"/>
+    <answer text="1853-1856 гг" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Крепостное право в Российской империи было отменено">
+    <answer text="1848" flag="0"/>
+    <answer text="1856" flag="0"/>
+    <answer text="1861" flag="1"/>
+    <answer text="1877" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В 1873 г. зависимость от Российской империи признало">
+    <answer text="Хивинское ханство" flag="1"/>
+    <answer text="Кокандское ханство" flag="0"/>
+    <answer text="Бухарский эмират" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Освободительная борьба горских народов под руководством имама Шамиля продолжалась в течение">
+    <answer text="1855-1881 гг" flag="0"/>
+    <answer text="1853-1856 гг" flag="0"/>
+    <answer text="1834-1859 гг" flag="1"/>
+    <answer text="1881-1894 гг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Русско-турецкая война 1877-1878 гг завершилась победой">
+    <answer text="Российской империи" flag="1"/>
+    <answer text="Османской империи" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Мирный договор о прекращении русско-турецкой войны 1877-1878 гг был подписан в">
+    <answer text="Стамбуле" flag="0"/>
+    <answer text="Сан-Стефано" flag="1"/>
+    <answer text="Белграде" flag="0"/>
+    <answer text="Бухаресте" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="По решению Берлинского конгресса 1878 Османской империи было возвращено">
+    <answer text="Болгарию" flag="0"/>
+    <answer text="Боснию" flag="0"/>
+    <answer text="Сербию" flag="0"/>
+    <answer text="Македонию" flag="1"/>
+  </question>
+</testing>

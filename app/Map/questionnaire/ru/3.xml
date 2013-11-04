@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Европы в 1815-1847 гг">
+  <question level="1" simple="True" text="Какая политическая партия находилась у власти в Великобритании в 1830-1841 гг?">
+    <answer text="тори" flag="0"/>
+    <answer text="виги" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие государства образовались в Европе за период 1815-1847 гг?">
+    <answer text="Польша" flag="0"/>
+    <answer text="Бельгия" flag="1"/>
+    <answer text="Албания" flag="0"/>
+    <answer text="Греция" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Правление английской королевы Виктории началось в">
+    <answer text="1830" flag="0"/>
+    <answer text="1832" flag="0"/>
+    <answer text="1835" flag="0"/>
+    <answer text="1837" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Против какой страны началась французская агрессия в 1830?">
+    <answer text="Марокко" flag="0"/>
+    <answer text="Алжир" flag="1"/>
+    <answer text="Тунис" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="После восстановления власти королевской династии Бурбонов во Франции установилась">
+    <answer text="ограниченная монархия" flag="1"/>
+    <answer text="абсолютная монархия" flag="0"/>
+    <answer text="республика" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Васлидок Июльской революции 1830 г. французский престол занял">
+    <answer text="Луи-Филипп Орлеанский" flag="1"/>
+    <answer text="Карл X" flag="0"/>
+    <answer text="Людовик XVIII" flag="0"/>
+    <answer text="Наполеон III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В какой российской провинции вспыхнуло восстание 1830-1831 гг?">
+    <answer text="Финляндия" flag="0"/>
+    <answer text="Польша" flag="1"/>
+    <answer text="Бессарабия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кем возглавлявшееся создано в 1837 тайное общество'' Времена года'' во Франции?">
+    <answer text="Л.-О. Бланки" flag="1"/>
+    <answer text="Л. Блан" flag="0"/>
+    <answer text="А. Марраст" flag="0"/>
+    <answer text="А. Барро" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В 1801-1825 гг российским императором был">
+    <answer text="Павел I" flag="0"/>
+    <answer text="Александр I" flag="1"/>
+    <answer text="Николай I" flag="0"/>
+    <answer text="Александр ИИ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялось выступление декабристов на Сенатской площади в Петербурге?">
+    <answer text="1 декабря 1824" flag="0"/>
+    <answer text="14 декабря 1825" flag="1"/>
+    <answer text="29 декабря 1825" flag="0"/>
+    <answer text="29 декабря 1826" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Основоположниками славянофильства в Российской империй считаются">
+    <answer text="Т. Граповський, И. Папаев, В. Боткин" flag="0"/>
+    <answer text="А. Герцен, Н. Огарев, В. Белинский" flag="0"/>
+    <answer text="А. Хомяков, П. Киреевский, братья Аксаковы" flag="1"/>
+    <answer text="Н. Костомаров, П. Кулиш, Н. Гулак" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Теорию'' общинного социализма'' разработал">
+    <answer text="А. Герцен" flag="1"/>
+    <answer text="Т. Граповський" flag="0"/>
+    <answer text="М. Буташевича-Петрашевский" flag="0"/>
+    <answer text="П. Чаадаев" flag="0"/>
+  </question>
+</testing>
