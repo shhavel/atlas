@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Английская революция середины XVII в.">
+  <question level="1" simple="True" text="Какая династия была свергнута в результате английской революции середины XVII в.?">
+    <answer text="Стюартов" flag="1"/>
+    <answer text="Тюдоров" flag="0"/>
+    <answer text="Ганноверская" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда началась война между королем и парламентом?">
+    <answer text="1640" flag="0"/>
+    <answer text="1642" flag="1"/>
+    <answer text="1651" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какого короля был казнен в годы революции?">
+    <answer text="Якова" flag="0"/>
+    <answer text="Карла I" flag="1"/>
+    <answer text="Иакова ИИ" flag="0"/>
+    <answer text="Карла ИИ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Где состоялась решающая битва гражданской войны в Англии?">
+    <answer text="Марстон-Мур" flag="0"/>
+    <answer text="Нейзби" flag="1"/>
+    <answer text="Престон" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда английский парламент принял Навигационный Акт, заложивший основы морской первенства Англии?">
+    <answer text="1642" flag="0"/>
+    <answer text="1649" flag="0"/>
+    <answer text="1651" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто в годы революции был провозглашен Лордом-протектором Англии?">
+    <answer text="Стэффорд" flag="0"/>
+    <answer text="Кромвель" flag="1"/>
+    <answer text="Вильгельм Оранский" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие события в истории Англии получили название &quot;славная революция&quot;?">
+    <answer text="казнь короля" flag="0"/>
+    <answer text="провозглашения лордапротектора" flag="0"/>
+    <answer text="основания новой династии" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто был изобретателем одного из первых паровых машин?">
+    <answer text="Дж. Харгивс" flag="0"/>
+    <answer text="Дж. Уатт" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На конец XVII в. в Англии утвердилась:">
+    <answer text="республика" flag="0"/>
+    <answer text="абсолютная монархия" flag="0"/>
+    <answer text="парламентская монархия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая страна стала первой колонией Англии?">
+    <answer text="Китай" flag="0"/>
+    <answer text="Индия" flag="0"/>
+    <answer text="Ирландия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Укажите основные составные части Великобритании:">
+    <answer text="Ирландия" flag="1"/>
+    <answer text="Уэльс" flag="1"/>
+    <answer text="Шотландия" flag="1"/>
+    <answer text="Бретань" flag="0"/>
+    <answer text="Англия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Англия стала &quot;мастерской мира&quot; в результате:">
+    <answer text="гражданской войны" flag="0"/>
+    <answer text="промышленной революции" flag="1"/>
+    <answer text="завоевания колоний" flag="0"/>
+  </question>
+</testing>

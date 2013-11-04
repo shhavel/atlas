@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Польша в XVI - XVIII вв.">
+  <question level="1" simple="True" text="Город был столицей Польского королевства до 1596 г.?">
+    <answer text="Краков" flag="1"/>
+    <answer text="Варшава" flag="0"/>
+    <answer text="Гнезно" flag="0"/>
+    <answer text="Люблин" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Где и когда было заключено унию о создании Речи Посполитой?">
+    <answer text="Краков" flag="0"/>
+    <answer text="Варшава" flag="0"/>
+    <answer text="Брест" flag="0"/>
+    <answer text="Люблин" flag="1"/>
+    <answer text="1569" flag="1"/>
+    <answer text="1583" flag="0"/>
+    <answer text="1596" flag="0"/>
+    <answer text="1618" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Украинские земли Речи Посполитой входили в состав:">
+    <answer text="Польского королевства" flag="1"/>
+    <answer text="Великого княжества Литовского" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Со смертью которого короля в Польше прекратила существование королевская династия Ягеллонов?">
+    <answer text="Сигизмунда I" flag="0"/>
+    <answer text="Сигизмунда ИИ" flag="1"/>
+    <answer text="Стефана Батория" flag="0"/>
+    <answer text="Сигизмунда ИИИ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В правление которого польского короля завершилась Ливонская война?">
+    <answer text="Сигизмунда I" flag="0"/>
+    <answer text="Сигизмунда ИИ" flag="0"/>
+    <answer text="Стефана Батория" flag="1"/>
+    <answer text="Сигизмунда ИИИ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Укажите первого польского короля избранное голосованием палат сейма:">
+    <answer text="Сигизмунд I" flag="0"/>
+    <answer text="Генрих Валуа" flag="0"/>
+    <answer text="Стефан Баторий" flag="1"/>
+    <answer text="Сигизмунд ИИИ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Территория Ливонского ордена отошла к Речи Посполитой по:">
+    <answer text="Ям-Запольский соглашением" flag="1"/>
+    <answer text="Деулинською соглашением" flag="0"/>
+    <answer text="Митавском миром" flag="0"/>
+    <answer text="Поляновскому миром" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="По какой соглашением от Московского государства к Речи Посполитой отошла Чернигово-Сиверщина?">
+    <answer text="Ям-Запольский" flag="0"/>
+    <answer text="Деулинською" flag="1"/>
+    <answer text="Андрусовского" flag="0"/>
+    <answer text="&quot;Вечным миром&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда происходила польско-шведская война второй половины XVII в.?">
+    <answer text="1648-1657 гг" flag="0"/>
+    <answer text="1654-1655 гг" flag="0"/>
+    <answer text="1655-1660 гг" flag="1"/>
+    <answer text="1680-1686 гг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие украинские земли были оккупированы Османской империей в последней четверти XVII в.?">
+    <answer text="Галичина" flag="0"/>
+    <answer text="Запорожье" flag="0"/>
+    <answer text="Волынь" flag="0"/>
+    <answer text="Подолье" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В составе какого государства оказались в результате &quot;Вечного мира&quot; Левобережная Украина и Запорожье?">
+    <answer text="Московское государство" flag="1"/>
+    <answer text="Речь Посполитая" flag="0"/>
+    <answer text="Османская империя" flag="0"/>
+    <answer text="Крымское ханство" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялась битва под Хотином в которой принимали участие украинские казаки, возглавляемые П. Конашевича-Сагайдачного?">
+    <answer text="1616" flag="0"/>
+    <answer text="1621" flag="1"/>
+    <answer text="1648" flag="0"/>
+    <answer text="1651" flag="0"/>
+  </question>
+</testing>

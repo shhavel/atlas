@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Востока в XVI - XVIII вв.">
+  <question level="1" simple="True" text="В какой из стран Востока распространена кастовая система?">
+    <answer text="Китай" flag="0"/>
+    <answer text="Индия" flag="1"/>
+    <answer text="Монголия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто был основателем государства Великих Моголов?">
+    <answer text="Акбар" flag="0"/>
+    <answer text="Бабур" flag="1"/>
+    <answer text="Аурангзеб" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="При каком правителя власть Моголов распространилась почти на весь полуостров Индостан?">
+    <answer text="Акбар" flag="1"/>
+    <answer text="Бабур" flag="0"/>
+    <answer text="Аурангзеб" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком году маньчжуры захватили Пекин и основали новую династию Цин?">
+    <answer text="1526" flag="0"/>
+    <answer text="1571" flag="0"/>
+    <answer text="1644" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая династия правила в Китае накануне маньчжурского завоевания?">
+    <answer text="Цин" flag="0"/>
+    <answer text="Мин" flag="1"/>
+    <answer text="Сун" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какого из турецких султанов называли &quot;законодателем&quot;?">
+    <answer text="Сулейман I" flag="1"/>
+    <answer text="Селим И" flag="0"/>
+    <answer text="Ахмед И" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Наибольшего расцвета Османская империя достигла при правлении султана:">
+    <answer text="Селима I" flag="0"/>
+    <answer text="Сулеймана I" flag="1"/>
+    <answer text="Мохаммеда IV" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крестьянская война в Китае продолжалась в течение:">
+    <answer text="1620-1639 гг" flag="0"/>
+    <answer text="1639-1644 гг" flag="1"/>
+    <answer text="1644-1656 гг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Знаменитая мечеть-мавзолей Тадж-Махал является шедевром архитектуры:">
+    <answer text="Китая" flag="0"/>
+    <answer text="Империи Великих Моголов" flag="1"/>
+    <answer text="Османской империи" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда был основан английская Ост-Индская компании?">
+    <answer text="1600" flag="1"/>
+    <answer text="1602" flag="0"/>
+    <answer text="1639" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Битва под Веной 1683 завершилась победой:">
+    <answer text="турецкой армии" flag="0"/>
+    <answer text="войск антитурецкой коалиции" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялась битва под Могачем, в результате которой Венгрия попала под власть Османской империи?">
+    <answer text="1520" flag="0"/>
+    <answer text="1526" flag="1"/>
+    <answer text="1571" flag="0"/>
+  </question>
+</testing>
