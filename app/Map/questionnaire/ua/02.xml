@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Європейські країни в X-XIII ст.">
+  <question text="Коли відбулася битва Оттона І з мадярами на річці Лех?" level="1">
+    <answer text="911 р." flag="0"/>
+    <answer text="919 р." flag="0"/>
+    <answer text="955 р." flag="1"/>
+    <answer text="966 р." flag="0"/>
+  </question>
+  <question text="У 1077 р. відбулася зустріч у Каноссі папи Римського Григорія VІІ з німецьким імператором" level="1">
+    <answer text="Оттоном І" flag="0"/>
+    <answer text="Оттоном ІІ" flag="0"/>
+    <answer text="Генріхом IV" flag="1"/>
+    <answer text="Фрідріхом І Барбароссою" flag="0"/>
+  </question>
+  <question text="У якій частині Балканського півострова наприкінці VІІ ст. виникло перше Болгарське царство?" level="1">
+    <answer text="центральній" flag="0"/>
+    <answer text="північно-східній" flag="1"/>
+    <answer text="південно-західній" flag="0"/>
+    <answer text="північно-західній" flag="0"/>
+  </question>
+  <question text="Яке королівство виникло в Європі у 1025 р." level="1">
+    <answer text="Польське" flag="1"/>
+    <answer text="Чеське" flag="0"/>
+    <answer text="Угорське" flag="0"/>
+    <answer text="Хорватське" flag="0"/>
+  </question>
+  <question text="Церковний собор 1095 р., де папа Римський Урбан ІІ виступив із закликом до Першого хрестового походу, відбувся у місті" level="1">
+    <answer text="Рим" flag="0"/>
+    <answer text="Париж" flag="0"/>
+    <answer text="Тулуза" flag="0"/>
+    <answer text="Клермон" flag="1"/>
+  </question>
+  <question text="Захоплення якого міста було метою учасників Другого хрестового походу?" level="1">
+    <answer text="Єрусалима" flag="0"/>
+    <answer text="Константинополя" flag="0"/>
+    <answer text="Дамаска" flag="1"/>
+    <answer text="Акри" flag="0"/>
+  </question>
+  <question text="Коли виникла Латинська імперія?" level="1">
+    <answer text="1202 р." flag="0"/>
+    <answer text="1204 р." flag="1"/>
+    <answer text="1217 р." flag="0"/>
+    <answer text="1221 р." flag="0"/>
+  </question>
+  <question text="Епоха Хрестових походів завершилася здобуттям єгиптянами у 1291 р. фортеці" level="1">
+    <answer text="Тортоза" flag="0"/>
+    <answer text="Триполі" flag="0"/>
+    <answer text="Сідон" flag="0"/>
+    <answer text="Акра" flag="1"/>
+  </question>
+  <question text="Який з англійських королів суттєво збільшив свої французькі володіння в результаті одруження з Алієнорою Аквітанською?" level="1">
+    <answer text="Вільгельм І Завойовник" flag="0"/>
+    <answer text="Генріх ІІ Плантаґенет" flag="1"/>
+    <answer text="Ричард І Левове Серце" flag="0"/>
+    <answer text="Іоанн Безземельний" flag="0"/>
+  </question>
+  <question text="Коли виник англійський парламент?" level="1">
+    <answer text="1199 р." flag="0"/>
+    <answer text="1216 р." flag="0"/>
+    <answer text="1263 р." flag="0"/>
+    <answer text="1265 р." flag="1"/>
+  </question>
+  <question text="За правління якого французького короля англійські монархи втратили більшість своїх володінь?" level="1">
+    <answer text="Філіпа ІІ Августа" flag="1"/>
+    <answer text="Людовіка VІІІ" flag="0"/>
+    <answer text="Людовіка IX Святого" flag="0"/>
+    <answer text="Філіпа IV Красивого" flag="0"/>
+  </question>
+  <question text="Коли у Франції було вперше скликано Генеральні штати?" level="1">
+    <answer text="1263 р." flag="0"/>
+    <answer text="1284 р." flag="0"/>
+    <answer text="1302 р." flag="1"/>
+    <answer text="1314 р." flag="0"/>
+  </question>
+</testing>

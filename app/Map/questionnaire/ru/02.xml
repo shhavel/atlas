@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Европейские страны в X-XIII вв.">
+  <question text="Когда состоялась битва Оттона с мадьярами на реке Лех?" level="1">
+    <answer text="911 г." flag="0"/>
+    <answer text="919 г." flag="0"/>
+    <answer text="955 г." flag="1"/>
+    <answer text="966 г." flag="0"/>
+  </question>
+  <question text="В 1077 г. состоялась встреча в Каноссе папы Римского Григория VИИ с германским императором" level="1">
+    <answer text="Оттоном I" flag="0"/>
+    <answer text="Оттоном ИИ" flag="0"/>
+    <answer text="Генрихом IV" flag="1"/>
+    <answer text="Фридрихом И Барбароссой" flag="0"/>
+  </question>
+  <question text="В какой части Балканского полуострова в конце VII в. возникло первое Болгарское царство?" level="1">
+    <answer text="центральной" flag="0"/>
+    <answer text="северо-восточной" flag="1"/>
+    <answer text="юго-западной" flag="0"/>
+    <answer text="северо-западной" flag="0"/>
+  </question>
+  <question text="Какое королевство возникло в Европе в 1025" level="1">
+    <answer text="Польское" flag="1"/>
+    <answer text="Чешское" flag="0"/>
+    <answer text="Венгерское" flag="0"/>
+    <answer text="Хорватское" flag="0"/>
+  </question>
+  <question text="Церковный собор 1095, где папа Римский Урбан Второй выступил с призывом к Первому крестовому походу, состоялся в городе" level="1">
+    <answer text="Рим" flag="0"/>
+    <answer text="Париж" flag="0"/>
+    <answer text="Тулуза" flag="0"/>
+    <answer text="Клермон" flag="1"/>
+  </question>
+  <question text="Интересы какого города было целью участников Второго крестового похода?" level="1">
+    <answer text="Иерусалим" flag="0"/>
+    <answer text="Константинополь" flag="0"/>
+    <answer text="Дамаска" flag="1"/>
+    <answer text="Акры" flag="0"/>
+  </question>
+  <question text="Когда возникла Латинская империя?" level="1">
+    <answer text="1202" flag="0"/>
+    <answer text="1204" flag="1"/>
+    <answer text="1217" flag="0"/>
+    <answer text="1221" flag="0"/>
+  </question>
+  <question text="Эпоха Крестовых походов завершилась получением египтянами в 1291 крепости" level="1">
+    <answer text="Тортоза" flag="0"/>
+    <answer text="Триполи" flag="0"/>
+    <answer text="Сидон" flag="0"/>
+    <answer text="Акра" flag="1"/>
+  </question>
+  <question text="Какой из английских королей существенно увеличил свои французские владения в результате женитьбы на Алиенора Аквитанской?" level="1">
+    <answer text="Вильгельм Завоеватель" flag="0"/>
+    <answer text="Генрих II в Плантагенет" flag="1"/>
+    <answer text="Ричард I Львиное Сердце" flag="0"/>
+    <answer text="Иоанн Безземельный" flag="0"/>
+  </question>
+  <question text="Когда возник английский парламент?" level="1">
+    <answer text="1199" flag="0"/>
+    <answer text="1216" flag="0"/>
+    <answer text="1263" flag="0"/>
+    <answer text="1265" flag="1"/>
+  </question>
+  <question text="В правление которого французского короля английские монархи утратили большинство своих владений?" level="1">
+    <answer text="Филиппа II Августа" flag="1"/>
+    <answer text="Людовика VИИИ" flag="0"/>
+    <answer text="Людовика IX Святого" flag="0"/>
+    <answer text="Филиппа IV Красивого" flag="0"/>
+  </question>
+  <question text="Когда во Франции впервые созвано Генеральные штаты?" level="1">
+    <answer text="1263" flag="0"/>
+    <answer text="1284" flag="0"/>
+    <answer text="1302" flag="1"/>
+    <answer text="1314" flag="0"/>
+  </question>
+</testing>

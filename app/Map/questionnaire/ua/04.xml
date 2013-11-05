@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Середньовічне суспільство">
+  <question text="Житло феодалів.">
+    <answer text="замок" flag="1"/>
+    <answer text="хата" flag="0"/>
+    <answer text="палац" flag="0"/>
+  </question>
+  <question text="Короткий вислів, що пояснює зміст герба рицаря?">
+    <answer text="речення" flag="0"/>
+    <answer text="девіз" flag="1"/>
+    <answer text="афоризм" flag="0"/>
+  </question>
+  <question text="Виплата грошима чи продуктами селянина феодалу називається">
+    <answer text="панщина" flag="0"/>
+    <answer text="оброк" flag="1"/>
+    <answer text="баналітет" flag="0"/>
+    <answer text="подать" flag="0"/>
+  </question>
+  <question text="Тип господарства, за якого продукти праці виробляються тільки для задоволення потреб господаря, а не для продажу">
+    <answer text="натуральне господарство" flag="1"/>
+    <answer text="ринкове господарство." flag="0"/>
+  </question>
+  <question text="Як називається головна башта замку?">
+    <answer text="донжон" flag="1"/>
+    <answer text="ратуша" flag="0"/>
+    <answer text="дзвіниця" flag="0"/>
+  </question>
+  <question text="Яка головна причина селянських повстань у середні віки?">
+    <answer text="Визиск селян феодалами" flag="0"/>
+    <answer text="порушення феодалом усталених традицій" flag="1"/>
+    <answer text="прагнення селян позбутися будь-якої залежності" flag="0"/>
+    <answer text="невирішеність земельних питань між селянином і феодалом" flag="0"/>
+    <answer text="зависть селян на життя феодалів" flag="0"/>
+  </question>
+  <question text="Який прошарок середньовічного суспільства був найбільш чисельним?">
+    <answer text="вільні селяни" flag="0"/>
+    <answer text="залежні селяни" flag="1"/>
+  </question>
+  <question text="Які стани середньовічного суспільства сплачували церковну десятину?">
+    <answer text="феодали" flag="0"/>
+    <answer text="священики" flag="0"/>
+    <answer text="селяни" flag="1"/>
+  </question>
+  <question text="У Середні віки рицарем називали">
+    <answer text="озброєного селянина" flag="0"/>
+    <answer text="кінного воїна" flag="1"/>
+    <answer text="могутнього феодала" flag="0"/>
+  </question>
+  <question text="Що повинен виготовити підмайстер для того щоб стати майстром-ремісником?">
+    <answer text="шедевр" flag="1"/>
+    <answer text="герб свого цеху" flag="0"/>
+    <answer text="подарунки всім майстрам цеху" flag="0"/>
+  </question>
+  <question text="Об`єднання підмайстрів називалося">
+    <answer text="цех" flag="0"/>
+    <answer text="гільдія" flag="0"/>
+    <answer text="братство." flag="1"/>
+  </question>
+  <question text="Як називається право міст на самоврядування?">
+    <answer text="магдебурзьке право" flag="1"/>
+    <answer text="римське право" flag="0"/>
+    <answer text="незалежність" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Образование Московского государства. Страны Азии">
+  <question text="Какое событие всемирной истории способствовала провозглашению Москвы &quot;третьим Римом&quot;?">
+    <answer text="Флорентийская уния" flag="0"/>
+    <answer text="падения Константинополя" flag="1"/>
+    <answer text="Куликовская битва" flag="0"/>
+  </question>
+  <question text="Баскак - это">
+    <answer text="командир карательного отряда, который должен следить за соблюдением порядка" flag="0"/>
+    <answer text="монгольский полководец" flag="0"/>
+    <answer text="сборщик дани" flag="1"/>
+  </question>
+  <question text="Когда состоялась битва на Куликовом поле?">
+    <answer text="1380" flag="1"/>
+    <answer text="1382 р" flag="0"/>
+    <answer text="1480" flag="0"/>
+  </question>
+  <question text="Когда был создан Делийский султанат?">
+    <answer text="1206" flag="1"/>
+    <answer text="1398" flag="0"/>
+    <answer text="1453" flag="0"/>
+  </question>
+  <question text="Пагода - это">
+    <answer text="буддийский храм в виде многоэтажной башни" flag="1"/>
+    <answer text="индуистский храм" flag="0"/>
+    <answer text="оборонительное сооружение в Индии и Китае" flag="0"/>
+  </question>
+  <question text="Как назывались князья в Индии?">
+    <answer text="мандарины" flag="0"/>
+    <answer text="самураи" flag="0"/>
+    <answer text="раджи" flag="1"/>
+  </question>
+  <question text="Как называлась монгольская династия в Китае?">
+    <answer text="Сун" flag="0"/>
+    <answer text="Мин" flag="0"/>
+    <answer text="Юань" flag="1"/>
+  </question>
+  <question text="Андрей Рублев и Феофан Грек были">
+    <answer text="выдающимися архитекторами" flag="0"/>
+    <answer text="иконописцами" flag="1"/>
+    <answer text="летописцами" flag="0"/>
+  </question>
+  <question text="Судьбу Новгорода решила битва на реке">
+    <answer text="Угре" flag="0"/>
+    <answer text="Калке" flag="0"/>
+    <answer text="Шелони" flag="1"/>
+  </question>
+  <question text="С XII в. реальными правителями Японии становятся">
+    <answer text="самураи" flag="0"/>
+    <answer text="кшатрии" flag="0"/>
+    <answer text="сегуны." flag="1"/>
+  </question>
+  <question text="Какая битва получила название &quot;Мамаевом побоище&quot;?">
+    <answer text="Куликовская битва" flag="1"/>
+    <answer text="«Стояние на Угре»" flag="0"/>
+    <answer text="битва на Калке" flag="0"/>
+  </question>
+  <question text="Какая династия правила в Китае раньше?">
+    <answer text="Сун" flag="1"/>
+    <answer text="Юань" flag="0"/>
+    <answer text="Мин" flag="0"/>
+  </question>
+</testing>
