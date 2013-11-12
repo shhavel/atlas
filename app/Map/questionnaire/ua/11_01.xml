@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Україна у Великій Вітчизняній війні (червень 1941-листопад 1942 рр.)">
+  <question level="1" simple="True" text="Коли був підписаний план нападу на СРСР, що дістав назву &quot;Барбаросса&quot;?">
+    <answer text="У грудні 1939 р." flag="0"/>
+    <answer text="У грудні 1940 р." flag="1"/>
+    <answer text="У березні 1941 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Нацистська Німеччина раптово напала на СРСР">
+    <answer text="1 вересня 1939 р" flag="0"/>
+    <answer text="22 грудня 1940 р." flag="0"/>
+    <answer text="22 червня 1941 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Силами яких армій в січні 1942 р. був проведений наступ з метою повернення Харкова?">
+    <answer text="6-ї армії" flag="1"/>
+    <answer text="12-ї армії" flag="1"/>
+    <answer text="21-ї армії" flag="1"/>
+    <answer text="44-ї армії" flag="0"/>
+    <answer text="55-ї армії" flag="0"/>
+    <answer text="58-ї армії" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яким фронтом командував Михайло Кирпонос?">
+    <answer text="Брянським" flag="0"/>
+    <answer text="Південним" flag="0"/>
+    <answer text="Північнокавказьким" flag="0"/>
+    <answer text="Південно-Західним" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Місто, яке радянські війська у серпні 1942 р. залишили останнім, це">
+    <answer text="Маріуполь" flag="0"/>
+    <answer text="Свердловськ" flag="1"/>
+    <answer text="Харків" flag="0"/>
+    <answer text="Севастополь" flag="0"/>
+    <answer text="Суми" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Бої за Сталінград точилися в період">
+    <answer text="серпень - листопад 1942 р." flag="1"/>
+    <answer text="листопад - грудень 1942 р" flag="0"/>
+    <answer text="грудень 1942 р - січень 1943 р" flag="0"/>
+    <answer text="жовтень - листопад 1942 р" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В червні 1941 р. групам армії &quot;Південь&quot; протистояли війська">
+    <answer text="Харківського військового округу" flag="0"/>
+    <answer text="Київського особливого округу" flag="1"/>
+    <answer text="Одеського військового округу" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Армії яких країн (окрім Німеччини) брали участь у вторгненні в Україну?">
+    <answer text="Італії" flag="0"/>
+    <answer text="Угорщини" flag="1"/>
+    <answer text="Румунії" flag="1"/>
+  </question>
+</testing>

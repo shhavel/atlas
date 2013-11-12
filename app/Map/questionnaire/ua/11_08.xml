@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Релігійне життя в Україні на початку XXI ст.">
+  <question level="1" simple="True" text="Які дві форми християнства здавна сповідує український народ?">
+    <answer text="Православ'я" flag="1"/>
+    <answer text="Старообрядництво" flag="0"/>
+    <answer text="Римо-католицизм" flag="0"/>
+    <answer text="Греко-католицизм" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті знаходиться резиденція Верховного Архієпископа Української Греко-Католицької Церкви?">
+    <answer text="Київ" flag="0"/>
+    <answer text="Ужгород" flag="0"/>
+    <answer text="Тернопіль" flag="0"/>
+    <answer text="Львів" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На які церкви поділяється українське православ'я?">
+    <answer text="УПЦ-КП" flag="1"/>
+    <answer text="УГКЦ" flag="0"/>
+    <answer text="УПЦ-МП" flag="1"/>
+    <answer text="УАПЦ" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто затверджує греко-католицьго митрополита?">
+    <answer text="Архієпископ Львівський і всіх українців" flag="0"/>
+    <answer text="Митрополит Київський і всієї України" flag="0"/>
+    <answer text="Папа Римський" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В яких чотирьох областях католицизм має найбільший вплив?">
+    <answer text="Житомирській" flag="1"/>
+    <answer text="Тернопільській" flag="1"/>
+    <answer text="Київській" flag="0"/>
+    <answer text="Вінницькій" flag="1"/>
+    <answer text="Рівненській" flag="0"/>
+    <answer text="Хмельницькій" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка протистантська громада є найвпливовішою в Україні?">
+    <answer text="Адвентисти" flag="0"/>
+    <answer text="П'ятидесятники" flag="0"/>
+    <answer text="Лютерани" flag="0"/>
+    <answer text="Реформатори" flag="0"/>
+    <answer text="Баптисти" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Представники яких національних меншин України сповідують лютеранство?">
+    <answer text="Вірмени" flag="0"/>
+    <answer text="Німці" flag="1"/>
+    <answer text="Латиші" flag="1"/>
+    <answer text="Поляки" flag="0"/>
+    <answer text="Угорці" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому регіоні України найбільш поширений іслам?">
+    <answer text="Одещина" flag="0"/>
+    <answer text="Донеччина" flag="0"/>
+    <answer text="Крим" flag="1"/>
+  </question>
+</testing>

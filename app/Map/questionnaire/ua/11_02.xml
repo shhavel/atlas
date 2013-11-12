@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Окупаційний режим в Україні">
+  <question level="1" simple="True" text="Як називалися рейхскомісаріати, запровадженні нацистським командуванням на окупованих землях Радянського Союзу?">
+    <answer text="&quot;Україна&quot;" flag="1"/>
+    <answer text="&quot;Трансністрія&quot;" flag="0"/>
+    <answer text="&quot;Остланд&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті перебувала гітлерівська адміністрація окупованої України?">
+    <answer text="Варшава" flag="0"/>
+    <answer text="Одеса" flag="0"/>
+    <answer text="Рівне" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Який регіон був включений до Генерального губернаторства (Польща)?">
+    <answer text="Волинь" flag="0"/>
+    <answer text="Правобережжя" flag="0"/>
+    <answer text="Полтавщина" flag="0"/>
+    <answer text="Східна Галичина" flag="1"/>
+    <answer text="Північна Буковина" flag="0"/>
+    <answer text="Бессарабія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли була укладена німецько-румунська угода про передачу міжиріччя Дністра і Південного Бугу з містом Одесою?">
+    <answer text="19 липня 1941 р." flag="1"/>
+    <answer text="19 вересня 1941 р." flag="0"/>
+    <answer text="19 серпня 1941 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких містах пройшли наймасовіші розстріли багатолюдних єврейських громад?">
+    <answer text="Жмеринка" flag="0"/>
+    <answer text="Бердичів" flag="0"/>
+    <answer text="Янів" flag="1"/>
+    <answer text="Київ" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Біля якого міста розміщувалася Ставка Гітлера (&quot;Вервольф&quot;) в Україні?">
+    <answer text="Київ" flag="0"/>
+    <answer text="Вінниця" flag="1"/>
+    <answer text="Рівне" flag="0"/>
+    <answer text="Вапнярка" flag="0"/>
+  </question>
+</testing>

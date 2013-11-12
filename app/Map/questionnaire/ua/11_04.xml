@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вибори в Україні 1991-2007 рр.">
+  <question level="1" simple="True" text="В якому році проводився Всеукраїнський референдум про ставлення до Акту проголошення незалежності України?">
+    <answer text="1991" flag="1"/>
+    <answer text="1996" flag="0"/>
+    <answer text="2001" flag="0"/>
+    <answer text="2004" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулися вибори Президента України, в яких перемогу здобув Леонід Кравчук?">
+    <answer text="1 грудня 1991 р." flag="1"/>
+    <answer text="26 червня 1994 р." flag="0"/>
+    <answer text="31 жовтня 1999 р." flag="0"/>
+    <answer text="14 листопада 1999 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто переміг у виборах Президента, що проводилися одночасно з референдумом по Акту проголошення незалежності України?">
+    <answer text="В'ячеслав Чорновіл" flag="0"/>
+    <answer text="Леонід Кравчук" flag="1"/>
+    <answer text="Леонід Кучма" flag="0"/>
+    <answer text="Віктор Ющенко" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які дві події 1991 року збіглися в часі?">
+    <answer text="Вибори до Верховної Ради" flag="0"/>
+    <answer text="Вибори Президента України" flag="1"/>
+    <answer text="Всеукраїнський референдум" flag="1"/>
+    <answer text="Позачергові вибори до Верховної Ради" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які політичні сили на виборах до Верховної Ради в  2002 р. набрали практично однаковий відсоток голосів виборців?">
+    <answer text="&quot;Наша Україна&quot;" flag="0"/>
+    <answer text="КПУ" flag="0"/>
+    <answer text="&quot;Блок Юлії Тимошенко&quot;" flag="1"/>
+    <answer text="&quot;За єдину Україну&quot;" flag="0"/>
+    <answer text="СПУ" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На підтримку якого кандидата в Президенти у 2004 році відбулася багатотисячна акція, що увійшла в історію як Помаранчева революція?">
+    <answer text="В'ячеслава Чорновола" flag="0"/>
+    <answer text="Леоніда Кравчука" flag="0"/>
+    <answer text="Леоніда Кучми" flag="0"/>
+    <answer text="Віктора Ющенко" flag="1"/>
+    <answer text="Віктора Януковича" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій області на позачергових виборах до Верховної Ради у 2007 р.  блок &quot;Наша Україна - Народна самооборона&quot; посіла перше місце за кількостю голосів?">
+    <answer text="Київській" flag="0"/>
+    <answer text="Сумській" flag="0"/>
+    <answer text="Закарпатській" flag="1"/>
+    <answer text="Львівській" flag="0"/>
+    <answer text="Донецькій" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Развертывание движения сопротивления в Украине">
+  <question level="1" simple="True" text="Назовите фамилии командиров Украинской Повстанческой Армии (УПА)">
+    <answer text="Шухевич" flag="1"/>
+    <answer text="Бульба-Боровец" flag="0"/>
+    <answer text="Бандера" flag="0"/>
+    <answer text="Клячкивский" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда был провозглашен Акт восстановления Украинского государства?">
+    <answer text="Ноябрь 1941" flag="0"/>
+    <answer text="Июнь 1941" flag="1"/>
+    <answer text="Май 1942" flag="0"/>
+    <answer text="Октябрь 1942" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто возглавлял украинское правительство после провозглашения Акта восстановления Украинского государства?">
+    <answer text="Бандера" flag="0"/>
+    <answer text="Я. Стецько" flag="1"/>
+    <answer text="Р. Шухевич" flag="0"/>
+    <answer text="А. Шептицкий" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто возглавлял отряд &quot;Полесская Сечь&quot;?">
+    <answer text="С. Ковпак" flag="0"/>
+    <answer text="Бандера" flag="0"/>
+    <answer text="А. Сабуров" flag="0"/>
+    <answer text="Т. Бульба-Боровец" flag="1"/>
+    <answer text="А. Федоров" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="С. Бандерой были созданы три походные группы, которые должны были двигаться от западной границы, соответственно,">
+    <answer text="на Киев" flag="1"/>
+    <answer text="на Симферополь" flag="0"/>
+    <answer text="на Полтаву" flag="0"/>
+    <answer text="на Харьков" flag="1"/>
+    <answer text="на Днепропетровск" flag="0"/>
+    <answer text="на Одессу" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Назовите легальные украинские организации">
+    <answer text="Общественный комитет" flag="1"/>
+    <answer text="Полесская Сечь" flag="0"/>
+    <answer text="Украинский краевой комитет" flag="1"/>
+    <answer text="Украинька национальный совет" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каком городе находился главный центр деятельности &quot;Полесской Сечи&quot; в июне-ноябре 1941 г.?">
+    <answer text="Овруч" flag="0"/>
+    <answer text="Столин" flag="0"/>
+    <answer text="Сарны" flag="0"/>
+    <answer text="Олевск" flag="1"/>
+    <answer text="Селизивка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких городах действовали советские подпольные организации?">
+    <answer text="Павлоград" flag="1"/>
+    <answer text="Краснодон" flag="1"/>
+    <answer text="Нежин" flag="1"/>
+    <answer text="Конотоп" flag="0"/>
+    <answer text="Лубны" flag="0"/>
+    <answer text="Шепетовка" flag="1"/>
+    <answer text="Мариуполь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Акт о восстановлении Украинского государства&quot; был провозглашен">
+    <answer text="в Львове" flag="1"/>
+    <answer text="в Ровно" flag="0"/>
+    <answer text="в Киеве" flag="0"/>
+    <answer text="в Луцке" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Весной 1942 Украинский центральный комитет возглавил">
+    <answer text="В. Кубиевич" flag="1"/>
+    <answer text="В. Величковский" flag="0"/>
+    <answer text="Я. Стецько" flag="0"/>
+  </question>
+</testing>

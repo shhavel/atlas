@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Розгортання руху опору в Україні">
+  <question level="1" simple="True" text="Назвіть прізвища командирів Української Повстанської Армії (УПА)">
+    <answer text="Шухевич" flag="1"/>
+    <answer text="Бульба-Боровець" flag="0"/>
+    <answer text="Бандера" flag="0"/>
+    <answer text="Клячківський" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли було проголошено Акт відновлення Української держави?">
+    <answer text="Листопад 1941 р." flag="0"/>
+    <answer text="Червень 1941 р." flag="1"/>
+    <answer text="Травень 1942 р." flag="0"/>
+    <answer text="Жовтень 1942 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто очолював український уряд після проголошення Акту відновлення Української держави?">
+    <answer text="С. Бандера" flag="0"/>
+    <answer text="Я. Стецько" flag="1"/>
+    <answer text="Р. Шухевич" flag="0"/>
+    <answer text="А. Шептицький" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто очолював загін &quot;Поліська Січ&quot;?">
+    <answer text="С. Ковпак" flag="0"/>
+    <answer text="С. Бандера" flag="0"/>
+    <answer text="О. Сабуров" flag="0"/>
+    <answer text="Т. Бульба-Боровець" flag="1"/>
+    <answer text="О. Федоров" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="С. Бандерою було створено три похідні групи, які повинні були рухатись від західного кордону, відповідно,">
+    <answer text="на Київ" flag="1"/>
+    <answer text="на Сімферополь" flag="0"/>
+    <answer text="на Полтаву" flag="0"/>
+    <answer text="на Харків" flag="1"/>
+    <answer text="на Дніпропетровськ" flag="0"/>
+    <answer text="на Одесу" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Назвіть легальні українські організації">
+    <answer text="Громадський комітет" flag="1"/>
+    <answer text="Поліська Січ" flag="0"/>
+    <answer text="Український крайовий комітет" flag="1"/>
+    <answer text="Українька національна рада" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті знаходився головний осередок діяльності &quot;Поліської Січі&quot; в червні-листопаді 1941 р.?">
+    <answer text="Овруч" flag="0"/>
+    <answer text="Столин" flag="0"/>
+    <answer text="Сарни" flag="0"/>
+    <answer text="Олевськ" flag="1"/>
+    <answer text="Селізівка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких містах діяли радянські підпільні організації?">
+    <answer text="Павлоград" flag="1"/>
+    <answer text="Краснодон" flag="1"/>
+    <answer text="Ніжин" flag="1"/>
+    <answer text="Конотоп" flag="0"/>
+    <answer text="Лубни" flag="0"/>
+    <answer text="Шепетівка" flag="1"/>
+    <answer text="Маріуполь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Акт про відновлення Української держави&quot; було проголошено">
+    <answer text="у Львові" flag="1"/>
+    <answer text="у Рівному" flag="0"/>
+    <answer text="у Києві" flag="0"/>
+    <answer text="у Луцьку" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На весні 1942 р. Український центральний комітет очолив">
+    <answer text="В. Кубійович" flag="1"/>
+    <answer text="В. Величковський" flag="0"/>
+    <answer text="Я. Стецько" flag="0"/>
+  </question>
+</testing>

@@ -203,9 +203,11 @@ private
 
   def bgcolor
     # PLACEHOLDER: bgcolor, e.g. 0x0B8A45
+    0xD3CA41
   end
 
   def photo_file_ext
     # PLACEHOLDER: photos (gallery) files ext, e.g. 'png'
+    'jpg'
   end
 end

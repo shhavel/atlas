@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Внешняя политика Украины. Украинская диаспора">
+  <question level="1" simple="True" text="Какие две страны признали Украину первыми?">
+    <answer text="Россия" flag="0"/>
+    <answer text="Польша" flag="1"/>
+    <answer text="Канада" flag="1"/>
+    <answer text="США" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны-республики бывшего Советского Союза не вошли в СНГ?">
+    <answer text="Грузия" flag="0"/>
+    <answer text="Латвия" flag="1"/>
+    <answer text="Литва" flag="1"/>
+    <answer text="Эстония" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие из страны является сегодня одновременно членами ГУАМ и СНГ?">
+    <answer text="Узбекистан" flag="0"/>
+    <answer text="Украина" flag="1"/>
+    <answer text="Грузия" flag="0"/>
+    <answer text="Молдова" flag="1"/>
+    <answer text="Азербайджан" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Основательницей какой-либо международной организации стала Украина в 1945 году?">
+    <answer text="НАТО" flag="0"/>
+    <answer text="Лига Наций" flag="0"/>
+    <answer text="ООН" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Что было главной причиной первой волны украинской эмиграции второй половины XIX в.?">
+    <answer text="Малоземелье" flag="1"/>
+    <answer text="Политини преследования" flag="0"/>
+    <answer text="Этнические притеснения" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На какой период приходится поток украинских эмигрантов в австрал и Новой Зеландии?">
+    <answer text="После Второй мировой войны" flag="1"/>
+    <answer text="До Первой мировой войны" flag="0"/>
+    <answer text="В период между двумя мировыми войнами" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких странах сосредоточены три крупнейшие украинские общины?">
+    <answer text="Польша" flag="0"/>
+    <answer text="Канада" flag="1"/>
+    <answer text="Россия" flag="1"/>
+    <answer text="США" flag="1"/>
+    <answer text="Бразилия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называется страна, центром политической жизни украинского в которой является город Прудентополис?">
+    <answer text="Канада" flag="0"/>
+    <answer text="Бразилия" flag="1"/>
+    <answer text="Австралия" flag="0"/>
+    <answer text="Новая Зеландия" flag="0"/>
+  </question>
+</testing>

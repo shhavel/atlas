@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Выборы в Украине 1991-2007 гг">
+  <question level="1" simple="True" text="В каком году проводился Всеукраинский референдум об отношении к Акта провозглашения независимости Украины?">
+    <answer text="1991" flag="1"/>
+    <answer text="1996" flag="0"/>
+    <answer text="2001" flag="0"/>
+    <answer text="2004" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялись выборы Президента Украины, в которых победу одержал Леонид Кравчук?">
+    <answer text="1 декабря 1991" flag="1"/>
+    <answer text="26 июня 1994" flag="0"/>
+    <answer text="31 октября 1999" flag="0"/>
+    <answer text="14 ноября 1999" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто победил в выборах Президента, которые проводились одновременно с референдумом по Акту провозглашения независимости Украины?">
+    <answer text="Вячеслав Чорновил" flag="0"/>
+    <answer text="Леонид Кравчук" flag="1"/>
+    <answer text="Леонид Кучма" flag="0"/>
+    <answer text="Виктор Ющенко" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие два события 1991 совпали?">
+    <answer text="Выборы в Верховную Раду" flag="0"/>
+    <answer text="Выборы Президента Украины" flag="1"/>
+    <answer text="Всеукраинский референдум" flag="1"/>
+    <answer text="Внеочередные выборы в Верховную Раду" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие политические силы на выборах в Верховную Раду в 2002 г. вступили практически одинаковый процент голосов избирателей?">
+    <answer text="&quot;Наша Украина&quot;" flag="0"/>
+    <answer text="КПУ" flag="0"/>
+    <answer text="&quot;Блок Юлии Тимошенко&quot;" flag="1"/>
+    <answer text="&quot;За единую Украину&quot;" flag="0"/>
+    <answer text="СПУ" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В поддержку какого кандидата в Президенты в 2004 году состоялась многотысячная акция, вошедшая в историю как Оранжевая революция?">
+    <answer text="Вячеслава Черновола" flag="0"/>
+    <answer text="Леонида Кравчука" flag="0"/>
+    <answer text="Леонида Кучмы" flag="0"/>
+    <answer text="Виктора Ющенко" flag="1"/>
+    <answer text="Виктора Януковича" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В какой области на внеочередных выборах в Верховную Раду в 2007 году блок &quot;Наша Украина - Народная самооборона&quot; заняла первое место по количеству голосов?">
+    <answer text="Киевской" flag="0"/>
+    <answer text="Сумской" flag="0"/>
+    <answer text="Закарпатской" flag="1"/>
+    <answer text="Львовской" flag="0"/>
+    <answer text="Донецкой" flag="0"/>
+  </question>
+</testing>
