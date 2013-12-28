@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Культура Украины во второй половине XVI - первой половине XVII в. Развитие образования и науки">
+  <question level="1" simple="True" text="Когда был основан Киево-Могилянской академии?">
+    <answer text="1576" flag="0"/>
+    <answer text="1632" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какое из событий произошло раньше?">
+    <answer text="Издание Острожской Библии" flag="0"/>
+    <answer text="Создания Пересопницкого Евангелия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Где и когда в Украине появилась первая братская школа?">
+    <answer text="В Львове 1586" flag="1"/>
+    <answer text="В Киеве 1615" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Событие предоставила возможность создать братскую школу в Киеве?">
+    <answer text="Предоставление киевском Богоявленском братству права ставропигии" flag="0"/>
+    <answer text="Киевская шляхтянка Галшка Гулевичивна подарила Киевскому братству &quot;двор с плац&quot; на Подоле" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какую школу вважать первой высшей школой в Украине?">
+    <answer text="Острожской школу" flag="1"/>
+    <answer text="Львовскую братскую школу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как возникла Киево-Могилянская академия?">
+    <answer text="В результате слияния киевских Братской и Лаврской школ" flag="1"/>
+    <answer text="После реорганизации Острожской академии" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какую книгу считают первой известной книгой Священного Писания тогдашней книжным украинским языком?">
+    <answer text="Пересопницкое Евангелие" flag="1"/>
+    <answer text="Острожская Библия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая книга была первым полным печатным изданием Библии на церковнославянском языке?">
+    <answer text="Требник Петра Могилы" flag="0"/>
+    <answer text="Острожская Библия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто был автором первого украинского печатного словаря &quot;Лексис&quot;?">
+    <answer text="Лаврентий Зизаний" flag="1"/>
+    <answer text="Мелетий Смотрицкий" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто такой Иван Федоров?">
+    <answer text="Украинский князь, основатель Острожской академии, инициатор издания Острожской Библии" flag="0"/>
+    <answer text="Московский первопечатник, основатель постоянного книгопечатания на украинских землях" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие книги были напечатаны во Львове Иваном Федоровым?">
+    <answer text="Апостол, «Букварь»" flag="1"/>
+    <answer text="«Адельфотес», «Лексикон славенороський»" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая типография на Украине была самой мощной в первой половине XVII в.?">
+    <answer text="Типография Киево-Печерской лавры" flag="1"/>
+    <answer text="Типография Ивана Федоровича" flag="0"/>
+  </question>
+</testing>

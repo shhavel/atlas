@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Україна в роки правління гетьмана Івана Виговського ">
+  <question level="1" simple="True" text="Яка з подій відбулася раніше?">
+    <answer text="Укладення Гадяцького договору" flag="1"/>
+    <answer text="Конотопська битва" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Про яку історичну постать ідеться? Наступник Богдана Хмельницького на гетьманському уряді. Уклав Гадяцьку угоду з поляками. Переміг московитів у Конотопській битві">
+    <answer text="Дмитро Вишневецький" flag="0"/>
+    <answer text="Іван Виговський" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яку посаду обіймав І. Виговський до обрання його гетьманом?">
+    <answer text="Генерального писаря" flag="1"/>
+    <answer text="Генеpального судді" flag="0"/>
+    <answer text="Генеpального осавула" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли й де було укладено договір між Швецiєю та Гетьманщиною?">
+    <answer text="У жовтні 1657 р. в Корсуні" flag="1"/>
+    <answer text="У вересні 1658 р. в Гадячі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто очолив антидержавний заколот у 1658 p.?">
+    <answer text="І. Богун, Ю. Хмельницький" flag="0"/>
+    <answer text="М. Пушкаp, Я. Баpабаш" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які три держави за Гадяцьким договоpом мали ввійти до союзу?">
+    <answer text="Польща, Московське царство, Велике князівство Руське (Україна)" flag="0"/>
+    <answer text="Польща, Велике князівство Литовське, Велике князівство Руське (Україна)" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Чи було втiлено в життя Гадяцький договip?">
+    <answer text="Так" flag="0"/>
+    <answer text="Ні" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Війська яких держав зійшлися під Конотопом за часів правління І. Виговського?">
+    <answer text="Українське військо, посилене загонами кримського хана, та московське військо" flag="1"/>
+    <answer text="Польська армія, посилена турецькими загонами, та московське військо" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Якою була основна причина українсько-російської війни 1658 - 1659 рр.?">
+    <answer text="Несумісність підходів гетьманського та царського урядів до подальшого розвитку двосторонніх відносин" flag="1"/>
+    <answer text="Козацька Україна, прагнучи стати наймогутнішою потугою на сході Європи та у православному світі в цілому, бажала загарбати Росію" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як закінчилася Конотопська битва?">
+    <answer text="Поразкою українців" flag="0"/>
+    <answer text="Поразкою московитів" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кого було обрано на посаду гетьмана замість І. Виговського?">
+    <answer text="I. Бpюховецького" flag="0"/>
+    <answer text="П. Тетеpю" flag="0"/>
+    <answer text="Ю. Хмельницького" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Скільки років тривало гетьманування I. Виговського?">
+    <answer text="2 роки" flag="1"/>
+    <answer text="5 років" flag="0"/>
+    <answer text="10 років" flag="0"/>
+  </question>
+</testing>

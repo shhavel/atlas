@@ -1,6 +1,7 @@
 #sdk: "/Users/alex/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/rhodes-3.4.2"
 sdkversion: "3.4.0"
 # PLACEHOLDER: name, e.g. name: "Geography 10"
+name: "Ukraine History 8"
 version: 1.1
 vendor: "shhavel"
 build: "debug"
@@ -13,6 +14,7 @@ iphone:
   codesignidentity: 
   entitlements: 
   # PLACEHOLDER: BundleIdentifier, e.g. BundleIdentifier: "com.shhavel.geography10"
+  BundleIdentifier: "com.shhavel.ukrainehistory8"
   BundleURLScheme: "atlas"
 wp:
   productid: "1d0022e0-4630-0130-a13f-388d120631fa"
