@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Историческое значение Киевской Руси и Галицко-Волынского государства">
+  <question level="1" simple="True" text="Государство была непосредственным наследником политических и культурных традиций Киевской Руси?">
+    <answer text="Галицко-Волынское княжество" flag="1"/>
+    <answer text="Переяславское княжество" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Который кочевой народ беспокоил набегами Киевскую Русь в XII в.?">
+    <answer text="Хазары" flag="0"/>
+    <answer text="Печенеги" flag="0"/>
+    <answer text="Половцы" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На какие годы приходится завершающий этап истории Киевской Руси?">
+    <answer text="К середине XII в." flag="0"/>
+    <answer text="На первые четыре десятилетия XIII в." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хронологические границы Галицко-Волынского государства?">
+    <answer text="1132 - 1240 рр." flag="0"/>
+    <answer text="1199 - 1340 рр." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На каких из достопримечательностей сохранилось изображение трезубца периода Киевской Руси?">
+    <answer text="На сребрениках и золотника Владимира Великого" flag="1"/>
+    <answer text="В книгах из библиотеки Ярослава Мудрого" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Иконку на княжеском знаке получило распространение в начале XII в. в Киевской земле?">
+    <answer text="Святого архистратига Михаила" flag="1"/>
+    <answer text="Льва, опирается на скалу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Что написано на печати Юрия И Львовича?">
+    <answer text="«Властелин Юрий король Руси»" flag="1"/>
+    <answer text="«Властелин Юрий князь Киевской Руси»" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие моря связывал путь «Из варяг в греки»?">
+    <answer text="Балтийское и Черное моря" flag="1"/>
+    <answer text="Азовское и Средиземное моря" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какого князя называли тестем Европы?">
+    <answer text="Ярослава Мудрого" flag="1"/>
+    <answer text="Святополка Окаянного" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какой князь стал первым королем в нашей истории?">
+    <answer text="Владимир Мономах" flag="0"/>
+    <answer text="Даниил Романович" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Из стран имела наибольшее влияние на культуру русских земель?">
+    <answer text="Польша" flag="0"/>
+    <answer text="Византия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Как называют форму государственного правления, при которой высшую власть сосредоточена в руках единоличного правителя из представителей правящей династии?">
+    <answer text="Республика" flag="0"/>
+    <answer text="Монархия" flag="1"/>
+  </question>
+</testing>
