@@ -11,7 +11,11 @@
     <ul data-role="listview">
 
       <li>
-        <div class="itemLabel">Результат: </div>
+        <% if @result_sent %>
+          <div class="itemLabel"><%= t('The result has been sent and stored:') %></div>
+        <% else %>
+          <div class="itemLabel">Результат: </div>
+        <% end %>
         <div class="itemValue"><%= "#{(100.0 * @count / @questions.size).round(1)}% (#{@count}/#{@questions.size})" %></div>
       </li>
 
