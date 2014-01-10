@@ -12,9 +12,7 @@ class MapController < Rho::RhoController
   # GET /Map/{1}
   def show
     @map = Map.find(@params['id'])
-    if !is_free? && unpaid?
-      render :action => :unpaid, :back => url_for(:controller => :Category, :action => :index)
-    elsif @map
+    if @map
       Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar(true))
       render :action => :show, :back => url_for(:controller => :Category, :action => :show, :id => @map.category.object, :query => { :lang => lang })
     else
@@ -53,9 +51,13 @@ class MapController < Rho::RhoController
   def question
     @map = Map.find(@params['id'])
     if @map
-      prepare_questions_and_answers
-      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
-      render :action => :question, :back => url_for(:action => :show, :id => @map.object)
+      if unpaid?
+        render :action => :unpaid, :back => url_for(:action => :show, :id => @map.object)
+      else
+        prepare_questions_and_answers
+        Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
+        render :action => :question, :back => url_for(:action => :show, :id => @map.object)
+      end
     else
       redirect :controller => :Category, :action => :index
     end
@@ -70,6 +72,7 @@ class MapController < Rho::RhoController
           variant[:flag] == @answers[num][idx]
         end == question_variants.count
       end
+      @result_sent = send_result
       Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
       render :action => :resume, :back => url_for(:action => :question, :id => @map.object)
     else
@@ -123,12 +126,27 @@ private
     end
   end
 
-  def is_free?
-    if Category.find(:all).size > 1
-      return true if @map.category_sign == Category.find(:all).first.sign
-    else
-      return true if Map.find(:all, :page => 1, :per_page => 2).map(&:object).include?(@map.object)
+  def send_result
+    @bill = Bill.find(:all).first
+    uri = URI("http://ukrmap.su/result.php")
+    params = {
+      :atlas => atlas_sign,
+      :code => @bill.code,
+      :token => @bill.token,
+      :file => @map.questionnaire,
+      :testing_name => @testing_name,
+      :count => @count,
+      :count_all => @questions.size
+    }
+    uri.query = URI.encode_www_form(params)
+
+    res = Net::HTTP.get_response(uri)
+    if res.is_a?(Net::HTTPSuccess)
+      response = Rho::JSON.parse(res.body)
+      return true if response["ok"] == true
     end
+    return false
+  rescue
     return false
   end
 
@@ -209,5 +227,10 @@ private
   def photo_file_ext
     # PLACEHOLDER: photos (gallery) files ext, e.g. 'png'
     'png'
+  end
+
+  def atlas_sign
+    # PLACEHOLDER: atlas short signature, e.g. 'g10'
+    'g10'
   end
 end
