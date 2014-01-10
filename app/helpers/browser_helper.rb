@@ -67,10 +67,11 @@ module BrowserHelper
       'show_controls_icon' => 'Показывать иконку настроек в режиме просмотра карты',
       # Unregistered
       'Unregistered version' => 'Незарегистрированная версия',
-      'You need to register the application.' => 'Необходимо зарегистрировать приложение.',
+      'You need to register the application.' => 'Необходимо зарегистрировать приложение для прохождения тестирования.',
       'Go to page' => 'Зайдите на страницу',
       'Enter code' => 'Введите код',
       'Make the payment.' => 'Произведите оплату.',
+      'The result has been sent and stored:' => 'Результат был отправлен и сохранен:',
     }
   end
 
@@ -97,10 +98,11 @@ module BrowserHelper
       'show_controls_icon' => 'Показувати іконку налаштувань в режимі перегляду карти',
       # Unregistered
       'Unregistered version' => 'Незареєстрована версія',
-      'You need to register the application.' => 'Необхідно зареєструвати атлас.',
+      'You need to register the application.' => 'Необхідно зареєструватися для проходження тестування.',
       'Go to page' => 'Зайдіть на сторінку',
       'Enter code' => 'Введіть код',
-      'Make the payment.' => 'Зробіть оплату.',
+      'Make the payment.' => 'Проведіть оплату.',
+      'The result has been sent and stored:' => 'Результат був відправлений і збережений:',
     }
   end
 
