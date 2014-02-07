@@ -17,7 +17,7 @@ class AppApplication < Rho::RhoApplication
       # PLACEHOLDER: default_lang, e.g. default_lang = 'ru'
       default_lang = 'ua'
       Control.create({'name' => 'lang', 'value' => default_lang, 'type' => 'select', 'values_str' => '["ru","ua"]'})
-      Control.create({'name' => 'icon_size', 'value' => 'normal', 'type' => 'select', 'values_str' => '["small","normal"]'})
+      Control.create({'name' => 'icon_size', 'value' => (System::get_property('platform') == 'APPLE' ? 'small' : 'normal'), 'type' => 'select', 'values_str' => '["small","normal"]'})
       Control.create({'name' => 'zoom_step', 'value' => '70', 'type' => 'range', 'values_str' => '{"min":50,"max":100,"step":1}'})
       Control.create({'name' => 'show_controls_icon', 'value' => '1', 'type' => 'checkbox'})
     end

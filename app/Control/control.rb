@@ -16,7 +16,7 @@ class Control
   property :values_str, :string
 
   def all_values
-   Rho::JSON.parse(values_str)
+    Rho::JSON.parse(values_str)
   end
 
   def min
