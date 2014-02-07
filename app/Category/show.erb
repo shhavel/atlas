@@ -7,8 +7,8 @@
         <%= t('Back') %>
       </a>
     <% end %>
-    <a href="<%= url_for :controller => :Control, :action => :index, :query => { :referer => @request['request-uri'] }, :reload => true %>" class="ui-btn-right">
-      <%= t('Controls') %>
+    <a href="<%= url_for :action => :show, :id => @category.object, :query => { :lang => @next_lang }, :reload => true %>" class="ui-btn-right">
+      <%= t(@lang) %>
     </a>
   </div>
 
