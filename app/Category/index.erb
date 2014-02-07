@@ -2,8 +2,8 @@
 
   <div data-role="header" data-position="inline">
     <h1><%= t('Content') %></h1>
-    <a href="<%= url_for :controller => :Control, :action => :index, :query => { :referer => @request['request-uri'] }, :reload => true %>" class="ui-btn-right">
-      <%= t('Controls') %>
+    <a href="<%= url_for :action => :index, :query => { :lang => @next_lang }, :reload => true %>" class="ui-btn-right">
+      <%= t(@lang) %>
     </a>
   </div>
 
