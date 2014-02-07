@@ -12,6 +12,8 @@
       <input type="hidden" name="referer" value="<%= @params['referer'] %>" />
       <% @controls.each do |control| %>
 
+        <% next if (System::get_property('platform') == 'APPLE' && control.name == 'icon_size') || control.name == 'show_controls_icon' %>
+
         <div data-role="fieldcontain">
           <label for="<%= control.name %>" class="fieldLabel"><%= t(control.name) %></label>
 
