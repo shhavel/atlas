@@ -233,4 +233,8 @@ private
     # PLACEHOLDER: atlas short signature, e.g. 'g10'
     'wh10'
   end
+
+  def atlas_sign
+    # PLACEHOLDER: atlas short signature, e.g. 'g10'
+  end
 end
