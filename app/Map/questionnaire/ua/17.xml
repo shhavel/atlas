@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Країни Південної та Південно-Східної Азії">
+  <question level="1" simple="True" text="Які події відбулися в серпні 1947 р.?">
+    <answer text="Проголошення Республіки Індія" flag="0"/>
+    <answer text="Проголошення Ісламської Республіки Пакистан" flag="0"/>
+    <answer text="Розділення Індії на дві держави: Індійський Союз та Пакистан" flag="1"/>
+    <answer text="Велика Британія надала незалежність Індії" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В яких роках відбувалися Індо-Пакистанські війни?">
+    <answer text="1946 р." flag="0"/>
+    <answer text="1946-1947 рр." flag="0"/>
+    <answer text="1947-1949 рр." flag="1"/>
+    <answer text="1965 р." flag="1"/>
+    <answer text="1971 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли було проголошено незалежність Східного Пакистану - Народної Республіки Бангладеш?">
+    <answer text="15 серпня 1947 р." flag="0"/>
+    <answer text="23 березня 1956 р." flag="0"/>
+    <answer text="26 березня 1971 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулося вторгнення радянських військ в Авганістан під прикриттям гасла &quot;надання інтернаціональної допомоги братньому народу&quot;?">
+    <answer text="27 квітня 1978 р." flag="0"/>
+    <answer text="27 грудня 1979 р." flag="1"/>
+    <answer text="15 лютого 1989 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких країнах в 1975 р. до влади прийшли комуністи?">
+    <answer text="М'янмі" flag="0"/>
+    <answer text="Таїланді" flag="0"/>
+    <answer text="Лаосі" flag="1"/>
+    <answer text="Непалі" flag="0"/>
+    <answer text="Камбоджі" flag="1"/>
+    <answer text="В'єтнамі" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні відбулося повалення монархії в 2008 р.?">
+    <answer text="Таїланді" flag="0"/>
+    <answer text="Камбоджі" flag="0"/>
+    <answer text="Лаосі" flag="0"/>
+    <answer text="Бутані" flag="0"/>
+    <answer text="Непалі" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли у Камбоджі було повалено режим &quot;червоних кхмерів&quot;?">
+    <answer text="грудень 1978 р." flag="1"/>
+    <answer text="Квітень 1975 р." flag="0"/>
+    <answer text="Січень 1977 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулося проголошення об'єднаної Соціалістичної Республіки В'єтнам?">
+    <answer text="2 березня 1945 р." flag="0"/>
+    <answer text="26 жовтня 1955 р." flag="0"/>
+    <answer text="2 липня 1976 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли та де США було підпиано угоду про припинення війни і відновлення миру у В'єтнамі?">
+    <answer text="13 травня 1968 р." flag="0"/>
+    <answer text="30 березня 1972 р." flag="0"/>
+    <answer text="27 січня 1973 р." flag="1"/>
+    <answer text="Париж" flag="1"/>
+    <answer text="Вашингтон" flag="0"/>
+    <answer text="Сайгон" flag="0"/>
+  </question>
+</testing>

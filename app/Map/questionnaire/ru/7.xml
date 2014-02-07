@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Америки">
+  <question level="1" simple="True" text="Первым губернатором Канады, имел канадское происхождение, был">
+    <answer text="Сен-Лоран" flag="0"/>
+    <answer text="Месси" flag="1"/>
+    <answer text="Кларк" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда был принят &quot;Акт о Канаде&quot; и &quot;Акт о конституции&quot;?">
+    <answer text="Весной 1967" flag="0"/>
+    <answer text="Весной 1980" flag="0"/>
+    <answer text="Весной 1982" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каких годах проводились референдумы о предоставлении независимости Квебека?">
+    <answer text="1967" flag="0"/>
+    <answer text="1980" flag="1"/>
+    <answer text="1982" flag="0"/>
+    <answer text="1995" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны являются членами международной организации НАФТА?">
+    <answer text="США" flag="1"/>
+    <answer text="Канада" flag="1"/>
+    <answer text="Бразилия" flag="0"/>
+    <answer text="Аргентина" flag="0"/>
+    <answer text="Мексика" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Соперничество каких двух сверхдержав привело &quot;холодную войну&quot;?">
+    <answer text="США" flag="1"/>
+    <answer text="СССР" flag="1"/>
+    <answer text="Китай" flag="0"/>
+    <answer text="Великобритания" flag="0"/>
+    <answer text="Япония" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто был президентом США в 1945-1952 гг?">
+    <answer text="Трумэн" flag="1"/>
+    <answer text="Кеннеди" flag="0"/>
+    <answer text="Никсон" flag="0"/>
+    <answer text="Рейган" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких городах США происходили массовые расовые беспорядки в 1964-1969 гг?">
+    <answer text="Бостон" flag="1"/>
+    <answer text="Буффало" flag="1"/>
+    <answer text="Филадельфия" flag="1"/>
+    <answer text="Анкоридж" flag="0"/>
+    <answer text="Лас-Вегас" flag="0"/>
+    <answer text="Нью-Йорк" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто стал признанным лидером негритянского населения США в борьбе против расовой дискриминации?">
+    <answer text="Джонсон" flag="0"/>
+    <answer text="Кинг" flag="1"/>
+    <answer text="Кеннеди" flag="0"/>
+    <answer text="Дифенбейкер" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком году и при правлении президенте США победили в войне с Ираком за освобождение Кувейта (операция &quot;Буря в пустыне&quot;)?">
+    <answer text="2003" flag="0"/>
+    <answer text="1991" flag="1"/>
+    <answer text="1992" flag="0"/>
+    <answer text="Рейган" flag="0"/>
+    <answer text="Буш-старший" flag="1"/>
+    <answer text="Буш-младший" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошла кубинская революция и кто ее возглавлял?">
+    <answer text="3 февраля 1952" flag="0"/>
+    <answer text="2 декабря 1956" flag="0"/>
+    <answer text="1 января 1959" flag="1"/>
+    <answer text="Че Гевара" flag="0"/>
+    <answer text="Кастро" flag="1"/>
+    <answer text="Батиста" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком году и между какими странами произошел вооруженный конфликт, получивший название &quot;Футбольная война&quot;?">
+    <answer text="1969" flag="1"/>
+    <answer text="1982" flag="0"/>
+    <answer text="1995" flag="0"/>
+    <answer text="Эквадор - Перу" flag="0"/>
+    <answer text="Сальвадор - Гондурас" flag="1"/>
+    <answer text="Аргентина - Великобритания" flag="0"/>
+  </question>
+</testing>

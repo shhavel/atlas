@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Країни Близького і Середнього Сходу">
+  <question level="1" simple="True" text="В якому році та за участі армій яких арабських держав розпочалася перша арабо-ізраїльська війна?">
+    <answer text="1947" flag="0"/>
+    <answer text="1948" flag="1"/>
+    <answer text="1967" flag="0"/>
+    <answer text="Єгипиту" flag="1"/>
+    <answer text="Йорданії" flag="1"/>
+    <answer text="Сирії" flag="1"/>
+    <answer text="Лівану" flag="1"/>
+    <answer text="Іраку" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які країни з 1952-1958 рр. стали членами Багдадського пакту?">
+    <answer text="Пакистан" flag="1"/>
+    <answer text="Авганістан" flag="0"/>
+    <answer text="Ірак" flag="1"/>
+    <answer text="Іран" flag="1"/>
+    <answer text="Туреччина" flag="1"/>
+    <answer text="Сирія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні відбулося повалення монархії влітку 1953 р.?">
+    <answer text="Іран" flag="0"/>
+    <answer text="Ірак" flag="0"/>
+    <answer text="Катар" flag="0"/>
+    <answer text="Єгипет" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні та в якому році почалася &quot;біла&quot; революція?">
+    <answer text="Сирія" flag="0"/>
+    <answer text="Ліван" flag="0"/>
+    <answer text="Іран" flag="1"/>
+    <answer text="1953" flag="0"/>
+    <answer text="1962" flag="1"/>
+    <answer text="1963" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому році та за участю яких країн-членів НАТО стався збройний конфлікт за о. Кіпр?">
+    <answer text="1972" flag="0"/>
+    <answer text="1974" flag="1"/>
+    <answer text="1976" flag="0"/>
+    <answer text="Греція" flag="1"/>
+    <answer text="Македонія" flag="0"/>
+    <answer text="Туреччина" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В яких роках відбулася ірано-іракська війна?">
+    <answer text="1979-1985" flag="0"/>
+    <answer text="1981-1984" flag="0"/>
+    <answer text="1980-1988" flag="1"/>
+  </question>
+</testing>

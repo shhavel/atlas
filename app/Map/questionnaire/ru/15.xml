@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Центральной и Восточной Европы">
+  <question level="1" simple="True" text="В каком году и в какой стране возник общественно-политическое движение &quot;Солидарность&quot;?">
+    <answer text="1980" flag="1"/>
+    <answer text="1989" flag="0"/>
+    <answer text="1992" flag="0"/>
+    <answer text="Румыния" flag="0"/>
+    <answer text="Польша" flag="1"/>
+    <answer text="Албания" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких странах происходили &quot;бархатные&quot; революции осенью 1989 г.?">
+    <answer text="Чехословакии" flag="1"/>
+    <answer text="Румынии" flag="0"/>
+    <answer text="Венгрии" flag="1"/>
+    <answer text="ГДР" flag="1"/>
+    <answer text="Болгарии" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошло падения Берлинской стены?">
+    <answer text="9 ноября 1989" flag="1"/>
+    <answer text="3 октября 1990" flag="0"/>
+    <answer text="2 декабря 1990" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда Сербия и Черногория провозгласили образование нового государства - Союзной Республики Югославии?">
+    <answer text="27 апреля 1992" flag="1"/>
+    <answer text="1 марта 1992" flag="0"/>
+    <answer text="18 марта 1994" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда Югославия прекратила свое существование?">
+    <answer text="1 марта 1992" flag="0"/>
+    <answer text="18 марта 1994" flag="0"/>
+    <answer text="14 марта 2002" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие из названных страны Европы являются членами НАТО?">
+    <answer text="Украина" flag="0"/>
+    <answer text="Дания" flag="0"/>
+    <answer text="Литва" flag="1"/>
+    <answer text="Румыния" flag="1"/>
+  </question>
+</testing>

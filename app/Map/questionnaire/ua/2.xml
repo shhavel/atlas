@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Друга світова війна (події 22 червня 1941 - 18 листопада 1942 рр.)">
+  <question level="1" simple="True" text="Коли було підписано директиву №21 -  план &quot;Барбаросса&quot;?">
+    <answer text="23 серпня 1939 р." flag="0"/>
+    <answer text="1 вересня 1940 р." flag="0"/>
+    <answer text="27 вересня 1940 р." flag="0"/>
+    <answer text="18 грудня 1940 р." flag="1"/>
+    <answer text="21 червня 1941 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли Німеччина напала на Радянський Союз?">
+    <answer text="22 червня 1941 р." flag="1"/>
+    <answer text="24 вересня 1941 р." flag="0"/>
+    <answer text="7 грудня 1941 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка подію вважають першою значною поразкою фашистської Німеччини у Другій світовій війні?">
+    <answer text="Київська оборонна операція" flag="0"/>
+    <answer text="Смоленська битва" flag="0"/>
+    <answer text="Оборона Одеси" flag="0"/>
+    <answer text="Битва за Ленінград" flag="0"/>
+    <answer text="Оборона Севастополя" flag="0"/>
+    <answer text="Битва за Москву" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які країни підписали  &quot;Атлантичну хартію&quot; та коли документ був остаточно оформлений?">
+    <answer text="Італія" flag="0"/>
+    <answer text="Велика Британія" flag="1"/>
+    <answer text="СРСР" flag="1"/>
+    <answer text="Японія" flag="0"/>
+    <answer text="США" flag="1"/>
+    <answer text="24 вересня 1941 року" flag="1"/>
+    <answer text="7 грудня 1941 року" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка історична подія почалася 17 листопада 1942 р.?">
+    <answer text="Сталінградська битва" flag="1"/>
+    <answer text="Курська битва" flag="0"/>
+    <answer text="Битва за Дніпро" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто був головнокомандувачем німецько-італійських військ у Північній Африці з лютого 1941 по березень 1943 рр.?">
+    <answer text="Роммель" flag="1"/>
+    <answer text="Гудеріан" flag="0"/>
+    <answer text="Кляйст" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називається співробітництво урядів, окремих осіб з окупантами?">
+    <answer text="Колабораціонізм" flag="1"/>
+    <answer text="Голокост" flag="0"/>
+    <answer text="Гетто" flag="0"/>
+  </question>
+</testing>

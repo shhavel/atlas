@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Друга світова війна (події 1 вересня 1939 - 21 червня 1941 рр.)">
+  <question level="1" simple="True" text="Коди був підписаний таємний додатковий протокол до Пакту Молотова-Ріббентропа?">
+    <answer text="23 серпня 1939 р." flag="1"/>
+    <answer text="1 вересня 1939 р." flag="0"/>
+    <answer text="21 червня 1939 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли і в якому місті була здійснена провокація, що стала приводом до початку війни?">
+    <answer text="31 серпня 1939 р." flag="1"/>
+    <answer text="28 вересня 1939 р." flag="0"/>
+    <answer text="10 жовтня 1939 р." flag="0"/>
+    <answer text="Ґлейвіц" flag="1"/>
+    <answer text="Берлін" flag="0"/>
+    <answer text="Бреслау" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називалася система прикордонних укріплень Фінляндії?">
+    <answer text="Лінія &quot;Мажино&quot;" flag="0"/>
+    <answer text="Лінія &quot;Зікфріда&quot;" flag="0"/>
+    <answer text="Лінія &quot;Маннергейма&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулися оточення групи французьких, англійських і бельгійських військ під Дюнкерком та їх евакуація?">
+    <answer text="17-28 вересня 1939 р." flag="0"/>
+    <answer text="26 травня - 4 червня 1940 р." flag="1"/>
+    <answer text="22 червня -2 липня 1940 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли і між якими країнами спочатку був укладений Троїстий пакт?">
+    <answer text="28 червня 1940 р." flag="0"/>
+    <answer text="30 серпня 1940 р." flag="0"/>
+    <answer text="7 вересня 1940 р." flag="0"/>
+    <answer text="27 вересня 1940 р." flag="1"/>
+    <answer text="Німеччиною" flag="1"/>
+    <answer text="Румунією" flag="0"/>
+    <answer text="Італією" flag="1"/>
+    <answer text="Японією" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Проти яких країн був здійснений напад (операція &quot;Маріта&quot;) німецькими військами та їх союзників у квітні-травні 1941 р.?">
+    <answer text="Франції" flag="0"/>
+    <answer text="Югославії" flag="1"/>
+    <answer text="Англії" flag="0"/>
+    <answer text="Греції" flag="1"/>
+    <answer text="Єгипту" flag="0"/>
+  </question>
+</testing>

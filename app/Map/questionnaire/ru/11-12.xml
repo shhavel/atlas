@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Советский Союз в 1945-1953 гг и в 1954-1985 гг">
+  <question level="1" simple="True" text="Период в истории СССР приходится на 1945-1953 гг?">
+    <answer text="&quot;Сталинизм&quot;" flag="1"/>
+    <answer text="&quot;Оттепель&quot;" flag="0"/>
+    <answer text="Годы &quot;застоя&quot;" flag="0"/>
+    <answer text="&quot;Перестройка&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какую территорию по договору 1945 с Чехословакией было присоединено к СССР?">
+    <answer text="Бессарабию" flag="0"/>
+    <answer text="Пивнничну Буковину" flag="0"/>
+    <answer text="Тувинский Народную Республику" flag="0"/>
+    <answer text="Карпатскую Украину" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каких регионах СССР действовал антисоветское движение сопротивления в 1945-1953 гг?">
+    <answer text="Западная Украина" flag="1"/>
+    <answer text="Западная Белоруссия" flag="1"/>
+    <answer text="Прибалтика" flag="1"/>
+    <answer text="Республики Закавказья" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Против каких народов во время войны были проведены массовые жестокие карательные операции?">
+    <answer text="Калмыков" flag="1"/>
+    <answer text="Поляков" flag="1"/>
+    <answer text="Казахов" flag="0"/>
+    <answer text="Немцев Поволжья" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто были главными претендентами на власть в СССР после смерти Сталина?">
+    <answer text="Хрущев" flag="1"/>
+    <answer text="Молотов" flag="0"/>
+    <answer text="Булганин" flag="0"/>
+    <answer text="Берия" flag="1"/>
+    <answer text="Маленков" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каком году начался период, который в истории СССР называют &quot;Оттепель&quot;?">
+    <answer text="1945" flag="0"/>
+    <answer text="1953" flag="1"/>
+    <answer text="1964" flag="0"/>
+    <answer text="1985" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком году и с территории которой советской республики был запущен первый искусственный спутник Земли?">
+    <answer text="1954" flag="0"/>
+    <answer text="1957" flag="1"/>
+    <answer text="1961" flag="0"/>
+    <answer text="Казахской" flag="1"/>
+    <answer text="Узбекской" flag="0"/>
+    <answer text="Российской" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая республика СССР была одним из главных районов освоения целинных и залежных земель в 1954 - 1960 рр.?">
+    <answer text="Украинская ССР" flag="0"/>
+    <answer text="Казахская ССР" flag="1"/>
+    <answer text="Туркменская ССР" flag="0"/>
+    <answer text="Якутская АССР" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Период истории переживал СССР в 1964 - 1985 рр.?">
+    <answer text="&quot;Сталинизм&quot;" flag="0"/>
+    <answer text="&quot;Оттепель&quot;" flag="0"/>
+    <answer text="Годы &quot;застоя&quot;" flag="1"/>
+    <answer text="&quot;Перестройка&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто занял пост Генерального секретаря ЦК КПСС в марте 1985 г.?">
+    <answer text="Сталин" flag="0"/>
+    <answer text="Хрущев" flag="0"/>
+    <answer text="Брежнев" flag="0"/>
+    <answer text="Андропов" flag="0"/>
+    <answer text="Горбачев" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда происходило вторжение советских войск в Авганистан?">
+    <answer text="1949-1980 гг" flag="0"/>
+    <answer text="1956-1962 гг" flag="0"/>
+    <answer text="1954-1960 гг" flag="0"/>
+    <answer text="1974-1984 гг" flag="0"/>
+    <answer text="1979-1989 гг" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда осуществлялось строительство Байкало-Амурской магистрали?">
+    <answer text="1979-1989 гг" flag="0"/>
+    <answer text="1956-1962 гг" flag="0"/>
+    <answer text="1954-1960 гг" flag="0"/>
+    <answer text="1974-1984 гг" flag="1"/>
+  </question>
+</testing>

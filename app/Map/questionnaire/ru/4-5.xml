@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вторая мировая война. Боевые действия на Тихом океане (1939 - 1945 рр.)">
+  <question level="1" simple="True" text="Территории каких стран были оккупированы Японией в марте 1939 - ноябре 1941?">
+    <answer text="Таиланда" flag="0"/>
+    <answer text="Камбодже" flag="1"/>
+    <answer text="Вьетнама" flag="1"/>
+    <answer text="Лаоса" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошло нападение японских войск на американскую военно-морскую базу Перл-Харбор?">
+    <answer text="27 сентября 1940" flag="0"/>
+    <answer text="2 июля 1941" flag="0"/>
+    <answer text="7 декабря 1941" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая страна выступила на стороне Японии в начале Второй Мировой войны в боевых действиях на Тихом океане?">
+    <answer text="Таиланд" flag="1"/>
+    <answer text="Индия" flag="0"/>
+    <answer text="Австралия" flag="0"/>
+    <answer text="Филиппины" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие территории были оккупированы Японией к концу 1942 г.?">
+    <answer text="Французский Индокитай" flag="1"/>
+    <answer text="Нидерландская Ост-Индия" flag="1"/>
+    <answer text="Сингапур" flag="1"/>
+    <answer text="Австралия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошла крупнейшая в истории Второй мировой войны морское сражение у острова Лейте (Филиппины)?">
+    <answer text="28 октября 1943" flag="0"/>
+    <answer text="2 ноября 1943" flag="0"/>
+    <answer text="23 октября 1944" flag="1"/>
+    <answer text="7 апреля 1945" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда было совершено атомная бомбардировка американской авиацией японских городов и какие это были города?">
+    <answer text="6 августа 1945" flag="1"/>
+    <answer text="8 августа 1945" flag="0"/>
+    <answer text="9 августа 1945" flag="1"/>
+    <answer text="Хиросима" flag="1"/>
+    <answer text="Киото" flag="0"/>
+    <answer text="Токио" flag="0"/>
+    <answer text="Нагасаки" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Войска государства вступили в войну против Японии 9 августа 1945?">
+    <answer text="Англии" flag="0"/>
+    <answer text="СССР" flag="1"/>
+    <answer text="США" flag="0"/>
+    <answer text="Китая" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда и на борту которого американского линкора состоялось подписание акта о безоговорочной капитуляции Японии?">
+    <answer text="9 августа 1945" flag="0"/>
+    <answer text="2 сентября 1945" flag="1"/>
+    <answer text="6 сентября 1945" flag="0"/>
+    <answer text="&quot;Миссури&quot;" flag="1"/>
+    <answer text="&quot;Энтерпрайзис&quot;" flag="0"/>
+    <answer text="&quot;Миссисипи&quot;" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Країни Африки">
+  <question level="1" simple="True" text="Яка країна мала колоніальну назву Французький Судан?">
+    <answer text="Судан" flag="0"/>
+    <answer text="Малі" flag="1"/>
+    <answer text="Танзанія" flag="0"/>
+    <answer text="Намібія" flag="0"/>
+    <answer text="Замбія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли було утворено організацію африканської єдності (ОАЄ)?">
+    <answer text="Травень 1963 р.?" flag="1"/>
+    <answer text="Травень 1964 р.?" flag="0"/>
+    <answer text="Травень 1967 р.?" flag="0"/>
+    <answer text="Травень 1969 р.?" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли та між якими країнами відбувся воєнний конфлікт &quot;Піщана війна&quot;?">
+    <answer text="1963-1964 рр." flag="1"/>
+    <answer text="1975-1976 рр." flag="0"/>
+    <answer text="1977-1983 рр." flag="0"/>
+    <answer text="Сомалі та Ефіопією" flag="0"/>
+    <answer text="Лівією та Чадом" flag="0"/>
+    <answer text="Марокко та Алжиром" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому році та в якій країні на Асамблеї ОАЄ було прийнято резолюцію про непорушність кордонів африканських держав ?">
+    <answer text="1963" flag="0"/>
+    <answer text="1964" flag="1"/>
+    <answer text="1965" flag="0"/>
+    <answer text="1967" flag="0"/>
+    <answer text="Ефіопії" flag="0"/>
+    <answer text="Єгипті" flag="1"/>
+    <answer text="Алжирі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні відбулося повалення монархії в 1974 р.?">
+    <answer text="Лівії" flag="0"/>
+    <answer text="Судані" flag="0"/>
+    <answer text="Ефіопії" flag="1"/>
+    <answer text="Єгипті" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому році і де було засновано Африканський Союз?">
+    <answer text="1963" flag="0"/>
+    <answer text="1986" flag="0"/>
+    <answer text="2002" flag="1"/>
+    <answer text="Дурбан" flag="1"/>
+    <answer text="Кейптаун" flag="0"/>
+    <answer text="Преторія" flag="0"/>
+  </question>
+</testing>

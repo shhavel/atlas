@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вторая мировая война (события 1 сентября 1939 - 21 июня 1941)">
+  <question level="1" simple="True" text="Коды был подписан тайный дополнительный протокол к Пакту Молотова-Риббентропа?">
+    <answer text="23 августа 1939" flag="1"/>
+    <answer text="1 сентября 1939" flag="0"/>
+    <answer text="21 июня 1939" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда и в каком городе была совершена провокация, ставшая поводом к началу войны?">
+    <answer text="31 августа 1939" flag="1"/>
+    <answer text="28 сентября 1939" flag="0"/>
+    <answer text="10 октября 1939" flag="0"/>
+    <answer text="Глейвиц" flag="1"/>
+    <answer text="Берлин" flag="0"/>
+    <answer text="Бреслау" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называлась система пограничных укреплений Финляндии?">
+    <answer text="Линия &quot;Мажино&quot;" flag="0"/>
+    <answer text="Линия &quot;Зикфрида&quot;" flag="0"/>
+    <answer text="Линия &quot;Маннергейма&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошли окружения группы французских, английских и бельгийских войск под Дюнкерком и их эвакуация?">
+    <answer text="17-28 сентября 1939" flag="0"/>
+    <answer text="26 мая - 4 июня 1940" flag="1"/>
+    <answer text="22 июня -2 июля 1940" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда и между какими странами сначала был заключен Тройственный пакт?">
+    <answer text="28 июня 1940" flag="0"/>
+    <answer text="30 августа 1940" flag="0"/>
+    <answer text="7 сентября 1940" flag="0"/>
+    <answer text="27 сентября 1940" flag="1"/>
+    <answer text="Германией" flag="1"/>
+    <answer text="Румынией" flag="0"/>
+    <answer text="Италией" flag="1"/>
+    <answer text="Японией" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Против каких стран было совершено нападение (операция &quot;Марита&quot;) немецкими войсками и их союзников в апреле-мае 1941 г.?">
+    <answer text="Франции" flag="0"/>
+    <answer text="Югославии" flag="1"/>
+    <answer text="Англии" flag="0"/>
+    <answer text="Греции" flag="1"/>
+    <answer text="Египта" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Мир в 1945-1989 гг">
+  <question level="1" simple="True" text="Какие страны участвовали в совещании, на котором было решено создать Совет экономической взаимопомощи (СЭВ) в январе 1949?">
+    <answer text="Румыния" flag="1"/>
+    <answer text="СССР" flag="1"/>
+    <answer text="США" flag="0"/>
+    <answer text="Япония" flag="0"/>
+    <answer text="Польша" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая организация была создана в мае 1955 г., и какие из перечисленных страны в нее вошли?">
+    <answer text="ООН" flag="0"/>
+    <answer text="СЕАТО" flag="0"/>
+    <answer text="Варшавского договора" flag="1"/>
+    <answer text="ОПЕК" flag="0"/>
+    <answer text="ГДР" flag="0"/>
+    <answer text="Албания" flag="1"/>
+    <answer text="Югославия" flag="0"/>
+    <answer text="Болгария" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны назвали &quot;азиатских тигров&quot; за их Стимко экономический рост?">
+    <answer text="Таиланд" flag="0"/>
+    <answer text="Филиппины" flag="0"/>
+    <answer text="Тайвань" flag="1"/>
+    <answer text="Южная Корея (Республика Корея)" flag="1"/>
+    <answer text="Сингапур" flag="1"/>
+    <answer text="Гонконг (Брит.)" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каком году и при участии каких государств состоялась Фолклендская война?">
+    <answer text="1982" flag="1"/>
+    <answer text="1962" flag="0"/>
+    <answer text="1979" flag="0"/>
+    <answer text="Великобритания" flag="1"/>
+    <answer text="Бразилия" flag="0"/>
+    <answer text="Чили" flag="0"/>
+    <answer text="Аргентина" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны являются постоянными членами Совета безопасности ООН?">
+    <answer text="СССР (Россия)" flag="1"/>
+    <answer text="Япония" flag="0"/>
+    <answer text="Китай" flag="1"/>
+    <answer text="Франция" flag="1"/>
+    <answer text="Великобритания" flag="1"/>
+    <answer text="США" flag="1"/>
+    <answer text="Германия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких странах были предприняты попытки коммунистических преобразований?">
+    <answer text="Сомали" flag="1"/>
+    <answer text="Афганистан" flag="1"/>
+    <answer text="Алжир" flag="1"/>
+    <answer text="Ливия" flag="1"/>
+    <answer text="Турция" flag="0"/>
+  </question>
+</testing>

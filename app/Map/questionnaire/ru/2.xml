@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вторая мировая война (события 22 июня 1941 - 18 ноября 1942)">
+  <question level="1" simple="True" text="Когда был подписан директиву № 21 - план &quot;Барбаросса&quot;?">
+    <answer text="23 августа 1939" flag="0"/>
+    <answer text="1 сентября 1940" flag="0"/>
+    <answer text="27 сентября 1940" flag="0"/>
+    <answer text="18 декабря 1940" flag="1"/>
+    <answer text="21 июня 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Когда Германия напала на Советский Союз?">
+    <answer text="22 июня 1941" flag="1"/>
+    <answer text="24 сентября 1941" flag="0"/>
+    <answer text="7 декабря 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое событие считают первой значительной поражением фашистской Германии во Второй мировой войне?">
+    <answer text="Киевская оборонительная операция" flag="0"/>
+    <answer text="Смоленское сражение" flag="0"/>
+    <answer text="Оборона Одессы" flag="0"/>
+    <answer text="Битва за Ленинград" flag="0"/>
+    <answer text="Оборона Севастополя" flag="0"/>
+    <answer text="Битва за Москву" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны подписали &quot;Атлантическую хартию&quot; и когда документ был окончательно оформлен?">
+    <answer text="Италия" flag="0"/>
+    <answer text="Великобритания" flag="1"/>
+    <answer text="СССР" flag="1"/>
+    <answer text="Япония" flag="0"/>
+    <answer text="США" flag="1"/>
+    <answer text="24 сентября 1941" flag="1"/>
+    <answer text="7 декабря 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Историческое событие началась 17 ноября 1942?">
+    <answer text="Сталинградская битва" flag="1"/>
+    <answer text="Курская битва" flag="0"/>
+    <answer text="Битва за Днепр" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто был главнокомандующим немецко-итальянских войск в Северной Африке с февраля 1941 по март 1943?">
+    <answer text="Роммель" flag="1"/>
+    <answer text="Гудериан" flag="0"/>
+    <answer text="Клейст" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называется сотрудничество правительств, отдельных лиц с оккупантами?">
+    <answer text="Коллаборационизм" flag="1"/>
+    <answer text="Холокост" flag="0"/>
+    <answer text="Гетто" flag="0"/>
+  </question>
+</testing>

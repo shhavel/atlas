@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Країни Центральної та Східної Європи">
+  <question level="1" simple="True" text="В якому році та в якій країні виник громадсько-політичний рух &quot;Солідарність&quot;?">
+    <answer text="1980" flag="1"/>
+    <answer text="1989" flag="0"/>
+    <answer text="1992" flag="0"/>
+    <answer text="Румунія" flag="0"/>
+    <answer text="Польща" flag="1"/>
+    <answer text="Албанія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких країнах відбувалися &quot;оксамитові&quot; революції восени 1989 р.?">
+    <answer text="Чехо-Словаччині" flag="1"/>
+    <answer text="Румунії" flag="0"/>
+    <answer text="Угорщині" flag="1"/>
+    <answer text="НДР" flag="1"/>
+    <answer text="Болгарії" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулося повалення Берлінського муру?">
+    <answer text="9 листопада 1989 р." flag="1"/>
+    <answer text="3 жовтня 1990 р." flag="0"/>
+    <answer text="2 грудня 1990 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли Сербія і Чорногорія проголосили утворення нової держави - Союзної Республіки Югославії?">
+    <answer text="27 квітня 1992 р." flag="1"/>
+    <answer text="1 березня 1992 р." flag="0"/>
+    <answer text="18 березня 1994 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коли Югославія припинила своє існування?">
+    <answer text="1 березня 1992 р." flag="0"/>
+    <answer text="18 березня 1994 р." flag="0"/>
+    <answer text="14 березня 2002 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які з названих країни Європи є членами НАТО?">
+    <answer text="Україна" flag="0"/>
+    <answer text="Данія" flag="0"/>
+    <answer text="Литва" flag="1"/>
+    <answer text="Румунія" flag="1"/>
+  </question>
+</testing>
