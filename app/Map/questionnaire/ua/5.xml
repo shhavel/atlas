@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Ґрунти">
+  <question level="1" simple="True" text="Які ґрунти найбільш придатні для сільськогосподарської діяльності?">
+    <answer text="Дернові" flag="0"/>
+    <answer text="Чорноземи" flag="1"/>
+    <answer text="Буроземні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких регіонах України найбільш поширені буроземні ґрунти?">
+    <answer text="В гірських районах Карпат і Криму" flag="1"/>
+    <answer text="В степовій зоні" flag="0"/>
+    <answer text="В Поліссі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які ґрунти найбільш поширені в північній частині України?">
+    <answer text="Гірські" flag="0"/>
+    <answer text="Чорноземи" flag="0"/>
+    <answer text="Дернові" flag="1"/>
+  </question>
+</testing>

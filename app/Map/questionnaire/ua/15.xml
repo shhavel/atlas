@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Євразія">
+  <question level="1" simple="True" text="Що характеризує Євразію?">
+    <answer text="Тут знаходиться найвища вершина світу" flag="1"/>
+    <answer text="Тут зафіксована найнижча температура на планеті" flag="0"/>
+    <answer text="Євразія є найбільшим материком" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="Байкал – найглибше озеро планети" flag="1"/>
+    <answer text="На сході Євразія омивається Атлантичним океаном" flag="0"/>
+    <answer text="Аравійський півострів є найбільшим півостровом Землі" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Що таке Черапунджі?">
+    <answer text="Це населений пункт, в якому зафіксовано температурний рекорд" flag="0"/>
+    <answer text="Це населений пункт, в якому зафіксовано найбільшу кількість опадів" flag="1"/>
+    <answer text="Це назва найбільшої вершини світу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшим озером планети є…">
+    <answer text="Байкал" flag="0"/>
+    <answer text="Балхаш" flag="0"/>
+    <answer text="Каспійське море" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Що сполучає Червоне і Середземне моря?">
+    <answer text="Гібралтарський канал" flag="0"/>
+    <answer text="Суецький канал" flag="1"/>
+    <answer text="Аденська затока" flag="0"/>
+  </question>
+</testing>

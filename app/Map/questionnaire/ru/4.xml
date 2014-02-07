@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Территория Украины">
+  <question level="1" simple="True" text="Какая область Украина граничит с Беларусью и Россией">
+    <answer text="Сумская" flag="0"/>
+    <answer text="Киевская" flag="0"/>
+    <answer text="Черниговская" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какой город является столицей Автономной республики в составе Украины">
+    <answer text="Севастополь" flag="0"/>
+    <answer text="Симферополь" flag="1"/>
+    <answer text="Одесса" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Самой западной областью Украины является">
+    <answer text="Закарпатская" flag="1"/>
+    <answer text="Луганская" flag="0"/>
+    <answer text="Ивано-Франковская" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="С какими государствами граничит Волынская область?">
+    <answer text="Польша" flag="1"/>
+    <answer text="Беларусь" flag="1"/>
+    <answer text="Россия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Укажите области Украины, с которыми граничит Молдова">
+    <answer text="Хмельницкая" flag="0"/>
+    <answer text="Винницкая" flag="1"/>
+    <answer text="Черновицкая" flag="1"/>
+    <answer text="Одесская" flag="1"/>
+  </question>
+</testing>

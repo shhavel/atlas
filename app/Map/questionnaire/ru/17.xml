@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Антарктида">
+  <question level="1" simple="True" text="Как называется украинская антарктическая станция?">
+    <answer text="«Молодежная»" flag="0"/>
+    <answer text="«Академик Вернадский»" flag="1"/>
+    <answer text="«Восток»" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Характеризующий Антарктиду?">
+    <answer text="Отсутствие воды в любом состоянии в центральной части материка" flag="0"/>
+    <answer text="Интенсивная добыча полезных ископаемых" flag="0"/>
+    <answer text="Крупнейшая среди материков средняя высота" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные утверждения">
+    <answer text="В Антарктиде зафиксирована самая низкая температура на планете" flag="1"/>
+    <answer text="В антарктической кризисе сосредоточена большая часть всех пресных вод планеты" flag="1"/>
+    <answer text="Из-за сурового климата в Антарктиде отсутствуют живые организмы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие животные встречаются в Антарктиде и ее прибрежных водах?">
+    <answer text="Белый медведь" flag="0"/>
+    <answer text="Полярный олень" flag="0"/>
+    <answer text="Пингвин" flag="1"/>
+    <answer text="Тюлень" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильный ответ">
+    <answer text="Антарктида - самый маленький из материков" flag="0"/>
+    <answer text="Ближайшее к Антарктиде находится Африка" flag="0"/>
+    <answer text="В Антарктиде не ведется добыча полезных ископаемых" flag="1"/>
+  </question>
+</testing>

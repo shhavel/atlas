@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Австралия">
+  <question level="1" simple="True" text="Характеризующий Австралию?">
+    <answer text="Это самый маленький материк" flag="1"/>
+    <answer text="Это самый большой остров" flag="0"/>
+    <answer text="Здесь большое количество эндемичных и реликтовых видов" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="На материке Австралия расположена одна страна - Австралийский союз" flag="1"/>
+    <answer text="Австралия полностью лежит в Южном полушарии" flag="1"/>
+    <answer text="С востока побережье Австралии омывает Атлантический океан" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называется самое большое коралловое образование на планете?">
+    <answer text="Атолл" flag="0"/>
+    <answer text="Большой барьерный риф" flag="1"/>
+    <answer text="Большой Водораздельный хребет" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Эндемиками Австралии является ...">
+    <answer text="Одногорбый верблюд" flag="0"/>
+    <answer text="Кенгуру" flag="1"/>
+    <answer text="Утконос" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В какой части Австралии находится ее самая вершина">
+    <answer text="Северо-запад" flag="0"/>
+    <answer text="Юго-восток" flag="1"/>
+    <answer text="Север" flag="0"/>
+    <answer text="Юг" flag="0"/>
+  </question>
+</testing>

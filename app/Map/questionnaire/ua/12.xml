@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Північна Америка">
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="Біля берегів Північної Америки знаходиться найбільший острів планети" flag="1"/>
+    <answer text="В Північній Америці зафіксовано найвищу температуру на Землі" flag="0"/>
+    <answer text="Біля берегів Північної Америки трапляються найвищі морські припливи" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка протока роз‘єднує Північну Америку і Євразію?">
+    <answer text="Берингова" flag="1"/>
+    <answer text="Девісова" flag="0"/>
+    <answer text="Гудзонова" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які тварини і рослини зустрічаються тільки в Північній Америці?">
+    <answer text="Білий ведмідь" flag="0"/>
+    <answer text="Секвоя" flag="1"/>
+    <answer text="Бізон" flag="1"/>
+    <answer text="Кактус" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке із перелічених міст розташоване в зоні вічнозелених твердолистих лісів і чагарників?">
+    <answer text="Вашинґтон" flag="0"/>
+    <answer text="Сан-Франциско" flag="1"/>
+    <answer text="Мехіко" flag="0"/>
+  </question>
+</testing>

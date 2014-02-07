@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Господарство">
+  <question level="1" simple="True" text="Яка із перелічених культур переважає в рослинництві Українського Полісся?">
+    <answer text="Картопля" flag="1"/>
+    <answer text="Соняшник" flag="0"/>
+    <answer text="Пшениця" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Де в Україні рослинництво представлене переважно вирощуванням винограду і фруктів?">
+    <answer text="Полісся" flag="0"/>
+    <answer text="Закарпаття" flag="1"/>
+    <answer text="Південь Криму" flag="1"/>
+    <answer text="Сумська область" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких містах України є автомобілебудівні підприємства?">
+    <answer text="Луганськ" flag="0"/>
+    <answer text="Луцьк" flag="1"/>
+    <answer text="Львів" flag="1"/>
+    <answer text="Запоріжжя" flag="1"/>
+    <answer text="Суми" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Скільки в Україні діючих атомних електростанцій?">
+    <answer text="Три" flag="0"/>
+    <answer text="Чотири" flag="1"/>
+    <answer text="п’ять" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Де в Україні найбільш сприятливі умови для вирощування зернових та соняшнику?">
+    <answer text="Степ" flag="1"/>
+    <answer text="Полісся" flag="0"/>
+    <answer text="Південний берег Криму" flag="0"/>
+  </question>
+</testing>

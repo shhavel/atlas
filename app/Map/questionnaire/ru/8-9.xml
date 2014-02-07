@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Природные зоны Украины. Животный и растительный мир">
+  <question level="1" simple="True" text="Животное считается крупнейшей в Украине?">
+    <answer text="Дикая свинья" flag="0"/>
+    <answer text="Зубр" flag="1"/>
+    <answer text="Олень" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как изменяются природные зоны в горах?">
+    <answer text="Совсем не меняются" flag="0"/>
+    <answer text="Изменяются в направлении от подножия к вершинам" flag="1"/>
+    <answer text="Меняются в направлении с севера на юг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие почвы наиболее распространены в степной зоне?">
+    <answer text="Буроземные" flag="0"/>
+    <answer text="Дерново-подзолистые" flag="0"/>
+    <answer text="Черноземы" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В какой природной зоне находится заповедник Аскания-Нова?">
+    <answer text="Степь" flag="1"/>
+    <answer text="Лесостепь" flag="0"/>
+    <answer text="Смешанные леса" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из перечисленных город расположен на границе зоны смешанных лесов и лесостепи?">
+    <answer text="Черкассы" flag="0"/>
+    <answer text="Киев" flag="1"/>
+    <answer text="Львов" flag="0"/>
+  </question>
+</testing>

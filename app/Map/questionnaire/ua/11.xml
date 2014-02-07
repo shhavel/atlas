@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Населення. Раси">
+  <question level="1" simple="True" text="Скільки сьогодні на Землі проживає людей?">
+    <answer text="5 мільярдів чоловік" flag="0"/>
+    <answer text="6 мільярдів чоловік" flag="0"/>
+    <answer text="понад 7 мільярдів чоловік" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка країна на планеті є найбільшою за кількістю населення?">
+    <answer text="Росія" flag="0"/>
+    <answer text="Китай" flag="1"/>
+    <answer text="Індія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Більшість жителів планети проживає в …">
+    <answer text="Містах" flag="1"/>
+    <answer text="Селах" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Представниками якої раси є українці?">
+    <answer text="Європеоїдна" flag="1"/>
+    <answer text="Монголоїдна" flag="0"/>
+    <answer text="Австралоїдна" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Чи проживає хтось із людей в Антарктиді?">
+    <answer text="Так" flag="0"/>
+    <answer text="Ні, там нікого із людей немає" flag="0"/>
+    <answer text="Там немає постійного населення, а перебувають тільки учасники полярних експедицій" flag="1"/>
+  </question>
+</testing>

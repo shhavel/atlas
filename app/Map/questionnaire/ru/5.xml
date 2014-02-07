@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Почвы">
+  <question level="1" simple="True" text="Какие почвы наиболее пригодны для сельскохозяйственной деятельности?">
+    <answer text="Дерновые" flag="0"/>
+    <answer text="Черноземы" flag="1"/>
+    <answer text="Буроземные" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких регионах Украины наиболее распространены буроземные почвы?">
+    <answer text="В горных районах Карпат и Крыма" flag="1"/>
+    <answer text="В степной зоне" flag="0"/>
+    <answer text="В Полесье" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие почвы наиболее распространены в северной части Украины?">
+    <answer text="Горные" flag="0"/>
+    <answer text="Черноземы" flag="0"/>
+    <answer text="Дерновые" flag="1"/>
+  </question>
+</testing>

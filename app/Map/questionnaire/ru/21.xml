@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Познание вселенной">
+  <question level="1" simple="True" text="Из мореплавателей совершил первое кругосветное путешествие?">
+    <answer text="Христофор Колумб" flag="0"/>
+    <answer text="Фернан Магеллан" flag="1"/>
+    <answer text="Марко Поло" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто из ученых первым высказал мысль, что Земля вместе с планетами движутся вокруг Солнца, а не наоборот?">
+    <answer text="Аристотель" flag="0"/>
+    <answer text="Аристарх Самосский" flag="1"/>
+    <answer text="Птолемей" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто первым для наблюдения за небесными телами использовал телескоп?">
+    <answer text="Джордано Бруно" flag="0"/>
+    <answer text="Галилео Галилей" flag="1"/>
+    <answer text="Николай Коперник" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто является первым космонавтом планеты?">
+    <answer text="Леонид Каденюк" flag="0"/>
+    <answer text="Юрий Гагарин" flag="1"/>
+    <answer text="Нил Армстронг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из астронавтов первым побывал на Луне?">
+    <answer text="Леонид Каденюк" flag="0"/>
+    <answer text="Юрий Гагарин" flag="0"/>
+    <answer text="Нил Армстронг" flag="1"/>
+  </question>
+</testing>

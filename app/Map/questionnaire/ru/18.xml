@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Звездное небо северного полушария. Земля - ​​планета солнечной системы">
+  <question level="1" simple="True" text="По какой звездой можно определить направление на север в Северном полушарии?">
+    <answer text="Вега" flag="0"/>
+    <answer text="Полярная" flag="1"/>
+    <answer text="Альтаир" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Характеризующий Солнце?">
+    <answer text="Это самое небесное тело Солнечной системы" flag="1"/>
+    <answer text="Это звезда" flag="1"/>
+    <answer text="Это самая большая планета" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Самой большой планетой Солнечной системы является ...">
+    <answer text="Юпитер" flag="1"/>
+    <answer text="Нептун" flag="0"/>
+    <answer text="Сатурн" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Что является следствием вращения Земли вокруг Солнца?">
+    <answer text="Смена времен года" flag="1"/>
+    <answer text="Смена дня и ночи" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из-за чего происходит смена дня и ночи?">
+    <answer text="Вращение Земли вокруг своей оси" flag="1"/>
+    <answer text="Вращение Земли вокруг Солнца" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Понятие сторон горизонта">
+  <question level="1" simple="True" text="Какие из признаков указывают на север?">
+    <answer text="Мох на одной стороне ствола" flag="1"/>
+    <answer text="Более пологий наклон муравейника" flag="0"/>
+    <answer text="Более короткие ветви с одной стороны дерева" flag="1"/>
+    <answer text="Полярная звезда" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В каком направлении всегда указывает стрелка компаса?">
+    <answer text="В направлении Северного географического полюса Земли" flag="0"/>
+    <answer text="В направлении Северного магнитного полюса Земли" flag="1"/>
+    <answer text="В направлении Южного географического полюса Земли" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Если стать лицом на юг, то ...">
+    <answer text="позади будет север" flag="1"/>
+    <answer text="дело будет восток" flag="0"/>
+    <answer text="восток будет слева" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Как называется воображаемая линия, где якобы небо сходится с Землей?">
+    <answer text="Горизонт" flag="1"/>
+    <answer text="Экватор" flag="0"/>
+    <answer text="Азимут" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Южная Америка">
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="Самая длинная река планеты протекает Южной Америкой" flag="0"/>
+    <answer text="В Южной Америке находится крупнейшая пустыня мира" flag="0"/>
+    <answer text="Атакама - самая засушливая пустыня планеты" flag="1"/>
+    <answer text="Анхель - самый высокий водопад планеты" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие из перечисленных животных являются эндемиками Южной Америки?">
+    <answer text="Панда" flag="0"/>
+    <answer text="Пиранья" flag="1"/>
+    <answer text="Анаконда" flag="1"/>
+    <answer text="Пума" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая гора является самой высокой в ​​Южной Америке?">
+    <answer text="Котопакси" flag="0"/>
+    <answer text="Аконкагуа" flag="1"/>
+    <answer text="Косцюшко" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Магелланов пролив разделяет ...">
+    <answer text="Северную и Южную Америку" flag="0"/>
+    <answer text="Южную Америку и архипелаг Огненная Земля" flag="1"/>
+    <answer text="Южную Америку и Антарктиду" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="Анды - это горная система на западе Южной Америки" flag="1"/>
+    <answer text="Пампа - травянистые степи на юге Южной Америки" flag="1"/>
+    <answer text="Амазонка - самая длинная река планеты" flag="0"/>
+  </question>
+</testing>

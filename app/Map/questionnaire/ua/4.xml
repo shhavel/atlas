@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Територія України">
+  <question level="1" simple="True" text="Яка область України межує з Білоруссю та Росією">
+    <answer text="Сумська" flag="0"/>
+    <answer text="Київська" flag="0"/>
+    <answer text="Чернігівська" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке місто є столицею Автономної республіки в складі України">
+    <answer text="Севастополь" flag="0"/>
+    <answer text="Сімферополь" flag="1"/>
+    <answer text="Одеса" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найзахіднішою областю України є">
+    <answer text="Закарпатська" flag="1"/>
+    <answer text="Луганська" flag="0"/>
+    <answer text="Івано-Франківська" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="З якими іноземними державами межує Волинська область?">
+    <answer text="Польща" flag="1"/>
+    <answer text="Білорусь" flag="1"/>
+    <answer text="Росія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть області України, з якими межує Молдова">
+    <answer text="Хмельницька" flag="0"/>
+    <answer text="Вінницька" flag="1"/>
+    <answer text="Чернівецька" flag="1"/>
+    <answer text="Одеська" flag="1"/>
+  </question>
+</testing>

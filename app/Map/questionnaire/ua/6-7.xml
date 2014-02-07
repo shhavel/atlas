@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Фізична карта України. Корисні копалини">
+  <question level="1" simple="True" text="Яка гора є найвищою в України?">
+    <answer text="Роман-Кош" flag="0"/>
+    <answer text="Ай-Петрі" flag="0"/>
+    <answer text="Говерла" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Біля якого населеного пункту знаходиться географічний цент України?">
+    <answer text="Мар‘янівка" flag="1"/>
+    <answer text="Тальне" flag="0"/>
+    <answer text="Кіровоград" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називається річка, по якій проходить значна частина кордону між Україною і Молдовою?">
+    <answer text="Дунай" flag="0"/>
+    <answer text="Дністер" flag="1"/>
+    <answer text="Прут" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Місце, де ріка впадає в іншу водойму, називається…">
+    <answer text="Річище" flag="0"/>
+    <answer text="Гирло" flag="1"/>
+    <answer text="Притока" flag="0"/>
+    <answer text="Водосховище" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які водосховища на Дніпрі розташовані південніше Києва?">
+    <answer text="Канівське" flag="1"/>
+    <answer text="Київське" flag="0"/>
+    <answer text="Кременчуцьке" flag="1"/>
+    <answer text="Дніпродзержинське" flag="1"/>
+    <answer text="Каховське" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Регіон України, де найбільше видобувають кам’яного вугілля, це…">
+    <answer text="Волинь" flag="0"/>
+    <answer text="Донбас" flag="1"/>
+    <answer text="Закарпаття" flag="0"/>
+  </question>
+</testing>

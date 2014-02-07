@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Горизонт">
+  <question level="1" simple="True" text="Как называется воображаемая линия, где небо якобы соединяется с поверхностью Земли?">
+    <answer text="Экватор" flag="0"/>
+    <answer text="Земная ось" flag="0"/>
+    <answer text="Горизонт" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Днем летнего солнцестояния в Северном полушарии есть ...">
+    <answer text="1 января" flag="0"/>
+    <answer text="22 июня" flag="1"/>
+    <answer text="22 декабря" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="22 декабря это ...">
+    <answer text="день зимнего солнцестояния в Северном полушарии" flag="1"/>
+    <answer text="сутки, с наибольшей продолжительностью ночи" flag="1"/>
+    <answer text="день летнего солнцестояния в Северном полушарии" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="22 декабря самый короткий день в Северном полушарии" flag="1"/>
+    <answer text="22 июня наименьшая продолжительность ночи в Северном полушарии" flag="1"/>
+    <answer text="В течение суток высоко над землей Солнце бывает утром" flag="0"/>
+  </question>
+</testing>

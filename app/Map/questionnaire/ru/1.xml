@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Понятие о плане. Понятие о масштабе">
+  <question level="1" simple="True" text="Что такое план местности?">
+    <answer text="Уменьшенная копия земного шара" flag="0"/>
+    <answer text="Уменьшенное изображение участка земной поверхности" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Размеры объектов, которые изображены на плане ...">
+    <answer text="меньше истинные размеры этих объектов на поверхности" flag="1"/>
+    <answer text="не отличаются от размеров этих объектов на поверхности" flag="0"/>
+    <answer text="больше размеров этих объектов на поверхности" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Можно ли на одном плане отразить весь земной шар?">
+    <answer text="Так" flag="0"/>
+    <answer text="Ни" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Как обычно ориентируют планы?">
+    <answer text="Верхним краем к югу" flag="0"/>
+    <answer text="Верхним краем к северу" flag="1"/>
+    <answer text="Произвольно" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Можно по масштабу определить реальный размер объекта, изображенного на плане?">
+    <answer text="Ни" flag="0"/>
+    <answer text="Так" flag="1"/>
+  </question>
+</testing>

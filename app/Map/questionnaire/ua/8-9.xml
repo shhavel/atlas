@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Природні зони України. Тваринний і рослинний світ">
+  <question level="1" simple="True" text="Яка тварина вважається найбільшою в Україні?">
+    <answer text="Дика свиня" flag="0"/>
+    <answer text="Зубр" flag="1"/>
+    <answer text="Олень" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як змінюються природні зони у горах?">
+    <answer text="Зовсім не змінюються" flag="0"/>
+    <answer text="Змінюються в напрямку від підніжжя до вершин" flag="1"/>
+    <answer text="Змінюються у напрямку з півночі на південь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які ґрунти найбільш поширені в степовій зоні?">
+    <answer text="Буроземні" flag="0"/>
+    <answer text="Дерново-підзолисті" flag="0"/>
+    <answer text="Чорноземи" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якій природній зоні знаходиться заповідник Асканія-Нова?">
+    <answer text="Степ" flag="1"/>
+    <answer text="Лісостеп" flag="0"/>
+    <answer text="Мішані ліси" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке із перелічених місто розташоване на межі зони мішаних лісів і лісостепу?">
+    <answer text="Черкаси" flag="0"/>
+    <answer text="Київ" flag="1"/>
+    <answer text="Львів" flag="0"/>
+  </question>
+</testing>

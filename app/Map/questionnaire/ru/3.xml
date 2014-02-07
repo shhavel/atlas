@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Физическая карта полушарий">
+  <question level="1" simple="True" text="Какой остров планеты является крупнейшим?">
+    <answer text="Мадагаскар" flag="0"/>
+    <answer text="Гренландия" flag="1"/>
+    <answer text="Этолия" flag="0"/>
+    <answer text="Новая Гвинея" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Характеризующий Африку?">
+    <answer text="Здесь протекает самая длинная река Земли" flag="1"/>
+    <answer text="На материке находится самая высокая гора мира" flag="0"/>
+    <answer text="Здесь находится крупнейшая пустыня планеты" flag="1"/>
+    <answer text="Здесь находится самое глубокое озеро планеты" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы.">
+    <answer text="Самая низкая температура на планете зафиксировано в Антарктиде" flag="1"/>
+    <answer text="Полноводная река планеты протекает в Африке" flag="0"/>
+    <answer text="Высоким водопадом планеты является Ниагарский" flag="0"/>
+    <answer text="Байкал - самое глубокое озеро планеты" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Кто такой Христофор Колумб?">
+    <answer text="Мореплаватель, совершивший первое кругосветное путешествие" flag="0"/>
+    <answer text="Первооткрыватель Америки" flag="1"/>
+    <answer text="Путешественник, открывший морской путь из Европы в Индию" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какой полуостров является самым?">
+    <answer text="Лабрадор" flag="0"/>
+    <answer text="Индостан" flag="0"/>
+    <answer text="Аравийский" flag="1"/>
+  </question>
+</testing>

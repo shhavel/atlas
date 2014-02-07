@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Фізична карта півкуль">
+  <question level="1" simple="True" text="Який острів планети є найбільшим?">
+    <answer text="Мадаґаскар" flag="0"/>
+    <answer text="Гренландія" flag="1"/>
+    <answer text="Етолія" flag="0"/>
+    <answer text="Нова Гвінея" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Що характеризує Африку?">
+    <answer text="Тут протікає найдовша річка Землі" flag="1"/>
+    <answer text="На материку знаходиться найвища гора світу" flag="0"/>
+    <answer text="Тут знаходиться найбільша пустеля планети" flag="1"/>
+    <answer text="Тут знаходиться найглибше озеро планети" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді.">
+    <answer text="Найнижчу температуру на планеті зафіксовано в Антарктиді" flag="1"/>
+    <answer text="Найповноводніша річка планети протікає в Африці" flag="0"/>
+    <answer text="Найвищим водоспадом планети є Ніагарський" flag="0"/>
+    <answer text="Байкал – найглибше озеро планети" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Хто такий Христофор Колумб?">
+    <answer text="Мореплавець, що здійснив першу навколосвітню подорож" flag="0"/>
+    <answer text="Першовідкривач Америки" flag="1"/>
+    <answer text="Мандрівник, що відкрив морський шлях із Європи до Індії" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який півострів є найбільшим?">
+    <answer text="Лабрадор" flag="0"/>
+    <answer text="Індостан" flag="0"/>
+    <answer text="Аравійський" flag="1"/>
+  </question>
+</testing>

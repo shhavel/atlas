@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Австралія">
+  <question level="1" simple="True" text="Що характеризує Австралію?">
+    <answer text="Це найменший материк" flag="1"/>
+    <answer text="Це найбільший острів" flag="0"/>
+    <answer text="Тут велика кількість ендемічних і реліктових видів" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="На материку Австралія розташована одна країна – Австралійський союз" flag="1"/>
+    <answer text="Австралія повністю лежить у Південній півкулі" flag="1"/>
+    <answer text="Зі сходу узбережжя Австралії омиває Атлантичний океан" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називається найбільше коралове утворення на планеті?">
+    <answer text="Атол" flag="0"/>
+    <answer text="Великий бар‘єрний риф" flag="1"/>
+    <answer text="Великий Вододільних хребет" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Ендеміками Австралії є...">
+    <answer text="Одногорбий верблюд" flag="0"/>
+    <answer text="Кенгуру" flag="1"/>
+    <answer text="Качкодзьоб" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині Австралії знаходиться її найбільша вершина">
+    <answer text="Північний захід" flag="0"/>
+    <answer text="Південний схід" flag="1"/>
+    <answer text="Північ" flag="0"/>
+    <answer text="Південь" flag="0"/>
+  </question>
+</testing>

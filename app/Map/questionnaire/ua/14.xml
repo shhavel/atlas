@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Африка">
+  <question level="1" simple="True" text="Що характеризує Африку?">
+    <answer text="Материк майже навпіл перетинає екватор" flag="1"/>
+    <answer text="Найжаркіший материк" flag="1"/>
+    <answer text="Тут протікає найповноводніша річка світу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині материка знаходиться найвища гора Африки?">
+    <answer text="На сході" flag="1"/>
+    <answer text="На півдні" flag="0"/>
+    <answer text="На заході" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка протока роз‘єднує Африку і о.Мадагаскар?">
+    <answer text="Гібралтарська" flag="0"/>
+    <answer text="Мозамбікська" flag="1"/>
+    <answer text="Баб-ель-Мандебська" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Що характеризує Африку?">
+    <answer text="Тут сформувалася найбільша пустеля планети" flag="1"/>
+    <answer text="Тут мешкає найбільша тварина суходолу" flag="1"/>
+    <answer text="Це найбільш вологий материк" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="В Африці зафіксовано найвищу температуру на планеті" flag="1"/>
+    <answer text="В Африці зафіксовано найбільшу кількість опадів" flag="0"/>
+    <answer text="Найвища вершина Африки – г. Кіліманджаро" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Хозяйство">
+  <question level="1" simple="True" text="Какая из перечисленных культур преобладает в растениеводстве Украинского Полесья?">
+    <answer text="Картофель" flag="1"/>
+    <answer text="Подсолнечник" flag="0"/>
+    <answer text="Пшеница" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Где в Украине растениеводство представлено преимущественно выращиванием винограда и фруктов?">
+    <answer text="Полесье" flag="0"/>
+    <answer text="Закарпатья" flag="1"/>
+    <answer text="Юг Крыма" flag="1"/>
+    <answer text="Сумская область" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каких городах Украины есть автомобилестроительные предприятия?">
+    <answer text="Луганск" flag="0"/>
+    <answer text="Луцк" flag="1"/>
+    <answer text="Львов" flag="1"/>
+    <answer text="Запорожье" flag="1"/>
+    <answer text="Сумы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Сколько в Украине действующих атомных электростанций?">
+    <answer text="Три" flag="0"/>
+    <answer text="Четыре" flag="1"/>
+    <answer text="пять" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Где в Украине наиболее благоприятные условия для выращивания зерновых и подсолнечника?">
+    <answer text="Степь" flag="1"/>
+    <answer text="Полесье" flag="0"/>
+    <answer text="Южный берег Крыма" flag="0"/>
+  </question>
+</testing>

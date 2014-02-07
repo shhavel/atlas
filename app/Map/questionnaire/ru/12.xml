@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Северная Америка">
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="У берегов Северной Америки находится самый большой остров планеты" flag="1"/>
+    <answer text="В Северной Америке зафиксирована самая высокая температура на Земле" flag="0"/>
+    <answer text="У берегов Северной Америки встречаются высокие морские приливы" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая пролив разделяет Северную Америку и Евразию?">
+    <answer text="Берингова" flag="1"/>
+    <answer text="Девисова" flag="0"/>
+    <answer text="Гудзонов" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие животные и растения встречаются только в Северной Америке?">
+    <answer text="Белый медведь" flag="0"/>
+    <answer text="Секвойя" flag="1"/>
+    <answer text="Бизон" flag="1"/>
+    <answer text="Кактус" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из перечисленных городов расположен в зоне вечнозеленых жестколистных лесов и кустарников?">
+    <answer text="Вашингтон" flag="0"/>
+    <answer text="Сан-Франциско" flag="1"/>
+    <answer text="Мехико" flag="0"/>
+  </question>
+</testing>

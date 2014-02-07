@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Горизонт">
+  <question level="1" simple="True" text="Як називається уявна лінія, де небо нібито з’єднується із поверхнею Землі?">
+    <answer text="Екватор" flag="0"/>
+    <answer text="Земна вісь" flag="0"/>
+    <answer text="Горизонт" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Днем літнього сонцестояння у Північній півкулі є…">
+    <answer text="1 січня" flag="0"/>
+    <answer text="22 червня" flag="1"/>
+    <answer text="22 грудня" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="22 грудня це…">
+    <answer text="день зимового сонцестояння у Північній півкулі" flag="1"/>
+    <answer text="доба, з найбільшою тривалістю ночі" flag="1"/>
+    <answer text="день літнього сонцестояння у Північній півкулі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="22 грудня найкоротший день у Північній півкулі" flag="1"/>
+    <answer text="22 червня найменша тривалість ночі у Північній півкулі" flag="1"/>
+    <answer text="Впродовж доби найвище над землею Сонце буває вранці" flag="0"/>
+  </question>
+</testing>

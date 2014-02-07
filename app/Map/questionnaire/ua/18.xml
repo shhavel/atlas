@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Зоряне небо північної півкулі. Земля - планета сонячної системи">
+  <question level="1" simple="True" text="За якою зорею можна визначити напрямок на північ у Північній півкулі?">
+    <answer text="Вега" flag="0"/>
+    <answer text="Полярна" flag="1"/>
+    <answer text="Альтаїр" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Що характеризує Сонце?">
+    <answer text="Це найбільше небесне тіло Сонячної системи" flag="1"/>
+    <answer text="Це зірка" flag="1"/>
+    <answer text="Це найбільша планета" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшою планетою Сонячної системи є…">
+    <answer text="Юпітер" flag="1"/>
+    <answer text="Нептун" flag="0"/>
+    <answer text="Сатурн" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Що є наслідком обертання Землі навколо Сонця?">
+    <answer text="Зміна пір року" flag="1"/>
+    <answer text="Зміна дня і ночі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Через що відбувається зміна дня і ночі?">
+    <answer text="Обертання Землі навколо своєї осі" flag="1"/>
+    <answer text="Обертання Землі навколо Сонця" flag="0"/>
+  </question>
+</testing>

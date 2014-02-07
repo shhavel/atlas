@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Евразия">
+  <question level="1" simple="True" text="Характеризующий Евразию?">
+    <answer text="Здесь находится самая высокая вершина мира" flag="1"/>
+    <answer text="Здесь зафиксирована самая низкая температура на планете" flag="0"/>
+    <answer text="Евразия является крупнейшим континентом" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer text="Байкал - самое глубокое озеро планеты" flag="1"/>
+    <answer text="На востоке Евразия омывается Атлантическим океаном" flag="0"/>
+    <answer text="Аравийский полуостров является крупнейшим полуостровом Земли" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Что такое Черапунджи?">
+    <answer text="Это населенный пункт, в котором зафиксирован температурный рекорд" flag="0"/>
+    <answer text="Это населенный пункт, в котором зафиксировано наибольшее количество осадков" flag="1"/>
+    <answer text="Это название величайшей вершины мира" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Самым большим озером планеты есть ...">
+    <answer text="Байкал" flag="0"/>
+    <answer text="Балхаш" flag="0"/>
+    <answer text="Каспийское море" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Соединяющий Красное и Средиземное моря?">
+    <answer text="Гибралтарский канал" flag="0"/>
+    <answer text="Суэцкий канал" flag="1"/>
+    <answer text="Аденский залив" flag="0"/>
+  </question>
+</testing>

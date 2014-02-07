@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Поняття сторін горизонту">
+  <question level="1" simple="True" text="Які з ознак указують на північ?">
+    <answer text="Мох на одній стороні стовбура" flag="1"/>
+    <answer text="Більш пологий нахил мурашника" flag="0"/>
+    <answer text="Більш короткі гілки з однієї сторони дерева" flag="1"/>
+    <answer text="Полярна зоря" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому напрямку завжди вказує стрілка компасу?">
+    <answer text="В напрямку Північного географічного полюсу Землі" flag="0"/>
+    <answer text="В напрямку Північного магнітного полюсу Землі" flag="1"/>
+    <answer text="В напрямку Південного географічного полюсу Землі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Якщо стати обличчям на південь, то…">
+    <answer text="позаду буде північ" flag="1"/>
+    <answer text="справа буде схід" flag="0"/>
+    <answer text="схід буде зліва" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Як називається уявна лінія, де нібито небо сходиться із Землею?">
+    <answer text="Горизонт" flag="1"/>
+    <answer text="Екватор" flag="0"/>
+    <answer text="Азимут" flag="0"/>
+  </question>
+</testing>

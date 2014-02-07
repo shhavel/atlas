@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Вода в природі">
+  <question level="1" simple="True" text="Де зосереджена основна маса прісної води в природі?">
+    <answer text="Підземні води" flag="0"/>
+    <answer text="Гірські й покривні льодовики" flag="1"/>
+    <answer text="Прісні озера і річки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який океан є найбільшим за площею?">
+    <answer text="Індійський" flag="0"/>
+    <answer text="Тихий" flag="1"/>
+    <answer text="Атлантичний" flag="0"/>
+    <answer text="Північний Льодовитий океан" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть відповіді, які характеризують Північний Льодовитий океан.">
+    <answer text="Найтепліший" flag="0"/>
+    <answer text="Найменший за площею" flag="1"/>
+    <answer text="Найбільший за площею" flag="0"/>
+    <answer text="Океан з найменшою глибиною" flag="1"/>
+    <answer text="Океан з найбільшою висотою припливів" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто із мандрівників здійснив першу навколосвітню подорож і дав назву найбільшому океанові планети?">
+    <answer text="Христофор Колумб" flag="0"/>
+    <answer text="Фернан Магеллан" flag="1"/>
+    <answer text="Васко да Гама" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який з материків омивається всіма океанами?">
+    <answer text="Африка" flag="0"/>
+    <answer text="Австралія" flag="0"/>
+    <answer text="Північна Америка" flag="0"/>
+    <answer text="Євразія" flag="1"/>
+    <answer text="Південна Америка" flag="0"/>
+  </question>
+</testing>

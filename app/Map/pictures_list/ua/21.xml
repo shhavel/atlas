@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+<Item FileName="1" Caption="Телескоп Галілея"/>
+<Item FileName="2" Caption="Оптичний телескоп"/>
+<Item FileName="3" Caption="Радіотелескоп"/>
+<Item FileName="4" Caption="Космічний телескоп"/>
+<Item FileName="5" Caption="Космічна ракета"/>
+<Item FileName="6" Caption="Орбітальна станція"/>
+<Item FileName="7" Caption="Пілотований корабель багаторазового використання"/>
+<Item FileName="8" Caption="Штучний супутник землі"/>
+</List>

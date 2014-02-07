@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Будова Землі">
+  <question level="1" simple="True" text="Якої глибини сягає найбільша свердловина, пробурена людьми?">
+    <answer text="1200 метрів" flag="0"/>
+    <answer text="12 кілометрів" flag="1"/>
+    <answer text="1200 кілометрів" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найтоншим шаром Землі є…">
+    <answer text="Ядро" flag="0"/>
+    <answer text="Мантія" flag="0"/>
+    <answer text="Земна кора" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Найвища температура у надрах Землі сягає…">
+    <answer text="15 000°С" flag="0"/>
+    <answer text="5 000°С" flag="1"/>
+    <answer text="2 900°С" flag="0"/>
+  </question>
+</testing>

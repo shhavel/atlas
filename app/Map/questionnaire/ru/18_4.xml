@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Строение Земли">
+  <question level="1" simple="True" text="Какой глубины достигает самая скважина, пробуренная людьми?">
+    <answer text="1200 метров" flag="0"/>
+    <answer text="12 километров" flag="1"/>
+    <answer text="1200 километров" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тончайшим слоем Земли есть ...">
+    <answer text="Ядро" flag="0"/>
+    <answer text="Мантия" flag="0"/>
+    <answer text="Земная кора" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Самая высокая температура в недрах Земли достигает ...">
+    <answer text="15000 ° С" flag="0"/>
+    <answer text="5000 ° С" flag="1"/>
+    <answer text="2900 ° С" flag="0"/>
+  </question>
+</testing>

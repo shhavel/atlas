@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Физическая карта Украины. Полезные ископаемые">
+  <question level="1" simple="True" text="Какая гора является самой высокой в ​​Украине?">
+    <answer text="Роман-Кош" flag="0"/>
+    <answer text="Ай-Петри" flag="0"/>
+    <answer text="Говерла" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="У населенный пункт находится географический цент Украины?">
+    <answer text="Марьяновка" flag="1"/>
+    <answer text="Тальное" flag="0"/>
+    <answer text="Кировоград" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называется река, по которой проходит значительная часть границы между Украиной и Молдовой?">
+    <answer text="Дунай" flag="0"/>
+    <answer text="Днестр" flag="1"/>
+    <answer text="Прут" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Место, где река впадает в другой водоем, называется ...">
+    <answer text="Русло" flag="0"/>
+    <answer text="Устье" flag="1"/>
+    <answer text="Приток" flag="0"/>
+    <answer text="Водохранилище" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие водохранилища на Днепре расположены южнее Киева?">
+    <answer text="Каневское" flag="1"/>
+    <answer text="Киевское" flag="0"/>
+    <answer text="Кременчугское" flag="1"/>
+    <answer text="Днепродзержинское" flag="1"/>
+    <answer text="Каховское" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Регион Украины, где больше добывают угля, это ...">
+    <answer text="Волынь" flag="0"/>
+    <answer text="Донбасс" flag="1"/>
+    <answer text="Закарпатья" flag="0"/>
+  </question>
+</testing>

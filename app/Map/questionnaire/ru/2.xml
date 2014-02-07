@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вода в природе">
+  <question level="1" simple="True" text="Где сосредоточена основная масса пресной воды в природе?">
+    <answer text="Подземные воды" flag="0"/>
+    <answer text="Горные и покровные ледники" flag="1"/>
+    <answer text="Пресные озера и реки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какой океан является самым большим по площади?">
+    <answer text="Индийский" flag="0"/>
+    <answer text="Тихий" flag="1"/>
+    <answer text="Атлантический" flag="0"/>
+    <answer text="Северный Ледовитый океан" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Выберите ответы, которые характеризуют Северный Ледовитый океан.">
+    <answer text="Теплый" flag="0"/>
+    <answer text="Наименьший по площади" flag="1"/>
+    <answer text="Самый большой по площади" flag="0"/>
+    <answer text="Океан с наименьшей глубиной" flag="1"/>
+    <answer text="Океан с наибольшей высотой приливов" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Кто из путешественников совершил первое кругосветное путешествие и дал название самому океану планеты?">
+    <answer text="Христофор Колумб" flag="0"/>
+    <answer text="Фернан Магеллан" flag="1"/>
+    <answer text="Васко да Гама" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из материков омывается всеми океанами?">
+    <answer text="Африка" flag="0"/>
+    <answer text="Австралия" flag="0"/>
+    <answer text="Северная Америка" flag="0"/>
+    <answer text="Евразия" flag="1"/>
+    <answer text="Южная Америка" flag="0"/>
+  </question>
+</testing>

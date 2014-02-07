@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Пізнання всесвіту">
+  <question level="1" simple="True" text="Хто з мореплавців здійснив першу навколосвітню подорож?">
+    <answer text="Христофор Колумб" flag="0"/>
+    <answer text="Фернан Маґеллан" flag="1"/>
+    <answer text="Марко Поло" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто із учених першим висловив думку, що Земля разом з планетами рухаються навколо Сонця, а не навпаки?">
+    <answer text="Аристотель" flag="0"/>
+    <answer text="Аристарх Самоський" flag="1"/>
+    <answer text="Птоломей" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто першим для спостереження за небесними тілами використав телескоп?">
+    <answer text="Джордано Бруно" flag="0"/>
+    <answer text="Галілео Галілей" flag="1"/>
+    <answer text="Миколай Коперник" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто є першим космонавтом планети?">
+    <answer text="Леонід Каденюк" flag="0"/>
+    <answer text="Юрій Гагарін" flag="1"/>
+    <answer text="Ніл Армстронг" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Хто з астронавтів першим побував на Місяці?">
+    <answer text="Леонід Каденюк" flag="0"/>
+    <answer text="Юрій Гагарін" flag="0"/>
+    <answer text="Ніл Армстронґ" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testing name="Південна Америка">
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="Найдовша річка планети протікає Південною Америкою" flag="0"/>
+    <answer text="В Південній Америці знаходиться найбільша пустеля світу" flag="0"/>
+    <answer text="Атакама – найпосушливіша пустеля планети" flag="1"/>
+    <answer text="Анхель – найвищий водоспад планети" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Які з перелічених тварин є ендеміками Південної Америки?">
+    <answer text="Панда" flag="0"/>
+    <answer text="Піран‘я" flag="1"/>
+    <answer text="Анаконда" flag="1"/>
+    <answer text="Пума" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка гора є найвищою у Південній Америці?">
+    <answer text="Котопахі" flag="0"/>
+    <answer text="Аконкаґуа" flag="1"/>
+    <answer text="Косцюшко" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Магелланова протока розділяє…">
+    <answer text="Північну і Південну Америку" flag="0"/>
+    <answer text="Південну Америку і архіпелаг Вогняна Земля" flag="1"/>
+    <answer text="Південну Америку і Антарктиду" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer text="Анди – це гірська система на заході Південної Америки" flag="1"/>
+    <answer text="Пампа – трав‘янисті степи на півдні Південної Америки" flag="1"/>
+    <answer text="Амазонка – найдовша річка планети" flag="0"/>
+  </question>
+</testing>
