@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вопросы">
+  <question text="Герб которой из современных областей Украины унаследовал изображение древнего герба Киевщины - Архангела Михаила?" level="1">
+    <answer text="Киевской" flag="0"/>
+    <answer text="Житомирской" flag="1"/>
+    <answer text="Донецкой" flag="0"/>
+    <answer text="Волынской" flag="0"/>
+  </question>
+  <question text="В какой из областей Украины сохранилось больше старинных замков?" level="1">
+    <answer text="Полтавской" flag="0"/>
+    <answer text="Херсонской" flag="0"/>
+    <answer text="Львовской" flag="1"/>
+    <answer text="Житомирской" flag="0"/>
+  </question>
+  <question text="В Древней Греции каждую планету олицетворял бог греческой мифологии. Планету Марс отождествляли" level="1">
+    <answer text="с богом торговли" flag="0"/>
+    <answer text="с богом любви" flag="0"/>
+    <answer text="с богом войны" flag="1"/>
+    <answer text="с богом земледелия" flag="0"/>
+  </question>
+  <question text="Какая из указанных рек берет начало и заканчивается на территории Украины?" level="1">
+    <answer text="Днепр" flag="0"/>
+    <answer text="Днестр" flag="1"/>
+    <answer text="Западный Буг" flag="0"/>
+    <answer text="Северский Донец" flag="0"/>
+  </question>
+  <question text="Из названных природных зон не охватывает территории Украины?" level="1">
+    <answer text="Тундра" flag="1"/>
+    <answer text="Смешанные леса" flag="0"/>
+    <answer text="Лесостепь" flag="0"/>
+    <answer text="Степь" flag="0"/>
+  </question>
+</testing>
