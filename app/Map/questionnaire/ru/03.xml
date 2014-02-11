@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Хозяйство">
+  <question text="Какие ответы правильные?" level="1" simple="True">
+    <answer text="Николаев - крупнейший центр судостроения государства" flag="1"/>
+    <answer text="Львов - единственный центр автобусостроения Украины" flag="0"/>
+    <answer text="Запорожье - центр цветной металлургии Украины" flag="1"/>
+  </question>
+  <question text="Какие ответы правильные?" level="1" simple="True">
+    <answer text="В трех городах Украины функционирует метрополитен" flag="1"/>
+    <answer text="В Украине пять действующих АЭС" flag="0"/>
+    <answer text="В Одессе находится крупнейший грузовой порт Украины" flag="1"/>
+  </question>
+  <question text="Большая часть запасов каменного угля Украины сосредоточена в:" level="1" simple="True">
+    <answer text="Днепровском бассейне" flag="0"/>
+    <answer text="Львовско-Волынском бассейне" flag="0"/>
+    <answer text="Донецком бассейне" flag="1"/>
+  </question>
+  <question text="Какие из ответов неправильные?" level="1" simple="True">
+    <answer text="Большая доля угля в Украине добывается шахтным (закрытым) способом" flag="0"/>
+    <answer text="Для шахт Донбасса характерна небольшая глубина залегания пластов угля" flag="1"/>
+    <answer text="В Украине есть залежи урановых руд" flag="0"/>
+    <answer text="Бурый уголь имеет большую теплотворную способность чем каменный" flag="1"/>
+  </question>
+  <question text="Наибольшая доля валового национального продукта Украины приходится на:" level="1" simple="True">
+    <answer text="сельское хозяйство" flag="0"/>
+    <answer text="промышленность" flag="1"/>
+    <answer text="строительство и связь" flag="0"/>
+  </question>
+  <question text="Какие из вариантов 'Название АЭС - город-спутник' правильные?" level="1" simple="True">
+    <answer text="Ровенская - Кузнецовск" flag="1"/>
+    <answer text="Запорожская - Южноукраинск" flag="0"/>
+    <answer text="Хмельницкая - Нетешин" flag="1"/>
+    <answer text="Южно - Энергодар" flag="0"/>
+  </question>
+  <question text="Выберите правильные утверждения." level="1" simple="True">
+    <answer text="К центральному экономического района входят Черкасская и Кировоградская области" flag="1"/>
+    <answer text="Основную долю железной руды в Украине дает Криворожский бассейн" flag="1"/>
+    <answer text="Большая часть украинской электроэнергии производится на ГЭС" flag="0"/>
+    <answer text="В Николаеве находится большой глиноземный завод" flag="1"/>
+  </question>
+  <question text="Из перечисленных городов значительным курортным ценре являются:" level="1" simple="True">
+    <answer text="Новая Каховка" flag="0"/>
+    <answer text="Миргород" flag="1"/>
+    <answer text="Житомир" flag="0"/>
+    <answer text="Бердянск" flag="1"/>
+  </question>
+  <question text="Ввоз товаров из-за границы называется:" level="1" simple="True">
+    <answer text="импорт" flag="1"/>
+    <answer text="экспорт" flag="0"/>
+    <answer text="бартер" flag="0"/>
+  </question>
+  <question text="Южно-Украинская АЭС находится:" level="1" simple="True">
+    <answer text="в Одесской области" flag="0"/>
+    <answer text="в Запорожской области" flag="0"/>
+    <answer text="в Николаевской области" flag="1"/>
+  </question>
+  <question text="Центром цветной металлургии Украины является:" level="1" simple="True">
+    <answer text="Краматорск" flag="0"/>
+    <answer text="Запорожье" flag="1"/>
+    <answer text="Харьков" flag="0"/>
+  </question>
+  <question text="Верны утверждения" level="1" simple="True">
+    <answer text="Энергодар является городом-спутником АЭС находится на западе Украины" flag="0"/>
+    <answer text="Запорожье является крупнейшим центром автомобилестроения Украины" flag="1"/>
+    <answer text="Залежи урановой руды в Украине сосредоточены в Кировоградской и Днепропетровской областях" flag="1"/>
+    <answer text="Украина полностью удовлетворяет потребности в нефтепродуктах за счет переработки нефти на собственных НПЗ" flag="0"/>
+  </question>
+  <question text="Словосочетания являются правильными?" level="1" simple="True">
+    <answer text="Краматорская ТЭЦ" flag="1"/>
+    <answer text="Ровенская ГЭС" flag="0"/>
+    <answer text="Хмельницкая АЭС" flag="1"/>
+    <answer text="Ташлыкская ТЭС" flag="0"/>
+  </question>
+  <question text="Основными центрами добычи бурого угля являются:" level="1" simple="True">
+    <answer text="Донецк" flag="0"/>
+    <answer text="Ватутино" flag="1"/>
+    <answer text="Макеевка" flag="0"/>
+    <answer text="Александрия" flag="1"/>
+  </question>
+</testing>

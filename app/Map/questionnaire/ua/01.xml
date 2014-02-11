@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ВСТУП">
+  <question text=" Уперше назва &quot;Україна&quot; згадується:" level="1" simple="True">
+    <answer text="в &quot;Київському Літописі&quot; (1187 р.)" flag="1"/>
+    <answer text="в книзі Г. Боплана &quot;Опис України&quot;,(1650 р.)" flag="0"/>
+    <answer text="в описах візантійських та арабських мандрівників X ст." flag="0"/>
+  </question>
+  <question text="Загальновизнаний географічний центр України знаходиться:" level="1" simple="True">
+    <answer text="біля с. Мар‘янівка Черкаської  області" flag="1"/>
+    <answer text=" поблизу смт Добровеличківка Кіровоградської області" flag="0"/>
+    <answer text="біля м.Чигирин Черкаської області" flag="0"/>
+  </question>
+  <question text="Яка з відповідей є неправильною?" level="1" simple="True">
+    <answer text="За площею серед європейських країн Україна поступається тільки Росії" flag="0"/>
+    <answer text="За чисельністю населення Україна друга у Європі" flag="1"/>
+    <answer text="Україна межує з сімома країнами" flag="0"/>
+  </question>
+  <question text="Правильними твердженнями є:" level="1" simple="True">
+    <answer text="За кількістю населення найбільша область України Донецька " flag="1"/>
+    <answer text="За площею території найбільша область України Одеська" flag="1"/>
+    <answer text="Чернівецька – найменша за площею область України" flag="1"/>
+    <answer text="Волинська – найменша за кількістю населення область України" flag="0"/>
+  </question>
+  <question text="Крайня північна точка України знаходиться біля:" level="1" simple="True">
+    <answer text="м. Тарханкут" flag="0"/>
+    <answer text="с. Грем‘яч" flag="1"/>
+    <answer text=" с.Червона Зірка" flag="0"/>
+  </question>
+  <question text=" Які з тверджень є правильними?" level="1" simple="True">
+    <answer text="Україна межує з сімома країнами" flag="1"/>
+    <answer text="Площа території України становить 603,7 тис. кв. км" flag="1"/>
+    <answer text="Територія України омивається водами трьох морів" flag="0"/>
+  </question>
+  <question text="З якими із перелічених країн не межує  Україна?" level="1" simple="True">
+    <answer text=" Зі Словенією" flag="1"/>
+    <answer text=" З Болгарією" flag="1"/>
+    <answer text="Зі Словаччиною" flag="0"/>
+  </question>
+  <question text="У якому році завершилось формування території України?" level="1" simple="True">
+    <answer text=" У 1922" flag="0"/>
+    <answer text="У 1954" flag="1"/>
+    <answer text="У 1991" flag="0"/>
+  </question>
+  <question text="Які із перелічених територій були включені до складу України в довоєнні часи?" level="1" simple="True">
+    <answer text="Південна Бессарабія" flag="1"/>
+    <answer text="Північна Буковина" flag="1"/>
+    <answer text="Закарпаття і Кримська область" flag="0"/>
+  </question>
+  <question text="Членом яких із перелічених організацій  є Україна?" level="1" simple="True">
+    <answer text="Світова організація торгівлі" flag="1"/>
+    <answer text="Міжнародний валютний фонд" flag="1"/>
+    <answer text="Співдружність незалежних держав" flag="1"/>
+    <answer text="ОПЕК" flag="0"/>
+  </question>
+  <question text=" Які з відповідей є неправильними?" level="1" simple="True">
+    <answer text="Вибори до Верховної Ради України відбуваються раз у п'ять років" flag="1"/>
+    <answer text="Вибори Президента України відбуваються раз у чотири роки" flag="1"/>
+    <answer text="Парламент України складається з 450 депутатів" flag="0"/>
+  </question>
+  <question text="Членом якої міжнародної організації стала Україна у 2008 році?" level="1" simple="True">
+    <answer text="МВФ" flag="0"/>
+    <answer text="СОТ" flag="1"/>
+    <answer text="НАТО" flag="0"/>
+    <answer text="ОПЕК" flag="0"/>
+  </question>
+  <question text="Які з термінів характеризують Україну?" level="1" simple="True">
+    <answer text="Унітарна" flag="1"/>
+    <answer text="Федеративна" flag="0"/>
+    <answer text="Республіка" flag="1"/>
+    <answer text="Монархія" flag="0"/>
+  </question>
+  <question text="Штаб-квартира якої із перелічених міжнародних організацій знаходиться в Києві?" level="1" simple="True">
+    <answer text="СОТ" flag="0"/>
+    <answer text="ГУАМ" flag="1"/>
+    <answer text="СНД" flag="0"/>
+    <answer text="МФВ" flag="0"/>
+  </question>
+</testing>

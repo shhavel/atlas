@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Господарство">
+  <question text="Які відповіді  правильні?" level="1" simple="True">
+    <answer text="Миколаїв – найбільший центр суднобудування держави" flag="1"/>
+    <answer text="Львів – єдиний центр автобусобудування України" flag="0"/>
+    <answer text="Запоріжжя – центр кольорової металургії України" flag="1"/>
+  </question>
+  <question text="Які відповіді правильні?" level="1" simple="True">
+    <answer text="В трьох містах України функціонує метрополітен " flag="1"/>
+    <answer text="В Україні п‘ять діючих АЕС" flag="0"/>
+    <answer text="В Одесі знаходиться найбільший вантажний порт України" flag="1"/>
+  </question>
+  <question text="Більша частина запасів кам‘яного вугілля України зосереджена в:" level="1" simple="True">
+    <answer text="Дніпровському басейні" flag="0"/>
+    <answer text="Львівсько-Волинському басейні" flag="0"/>
+    <answer text="Донецькому басейні" flag="1"/>
+  </question>
+  <question text="Які з відповідей неправильні?" level="1" simple="True">
+    <answer text="Більша частка вугілля в Україні видобувається шахтним (закритим) способом" flag="0"/>
+    <answer text="Для шахт Донбасу характерна невелика глибина залягання пластів вугілля" flag="1"/>
+    <answer text="В Україні є поклади уранових руд" flag="0"/>
+    <answer text="Буре вугілля має більшу теплотворну здатність ніж кам‘яне" flag="1"/>
+  </question>
+  <question text="Найбільша частка валового національного продукту України припадає на:" level="1" simple="True">
+    <answer text="сільське господарство" flag="0"/>
+    <answer text="промисловість" flag="1"/>
+    <answer text="будівництво і зв'язок" flag="0"/>
+  </question>
+  <question text="Які з варіантів ‘Назва АЕС – місто-супутник‘  правильні?" level="1" simple="True">
+    <answer text="Рівненська – Кузнецовськ" flag="1"/>
+    <answer text="Запорізька – Южноукраїнськ" flag="0"/>
+    <answer text="Хмельницька – Нетішин" flag="1"/>
+    <answer text="Південноукраїнська – Енергодар" flag="0"/>
+  </question>
+  <question text="Виберіть правильні твердження." level="1" simple="True">
+    <answer text="До центрального економічного району входять Черкаська і Кіровоградська області" flag="1"/>
+    <answer text="Основну частку залізної руди в Україні дає Криворізький басейн" flag="1"/>
+    <answer text="Більша частина української електроенергії виробляється на ГЕС" flag="0"/>
+    <answer text="У Миколаєві знаходиться великий глиноземний завод" flag="1"/>
+  </question>
+  <question text="Із перелічених міст значним курортним ценрами є:" level="1" simple="True">
+    <answer text="Нова Каховка" flag="0"/>
+    <answer text="Миргород" flag="1"/>
+    <answer text="Житомир" flag="0"/>
+    <answer text="Бердянськ" flag="1"/>
+  </question>
+  <question text="Ввезення товарів із-за кордону називається:" level="1" simple="True">
+    <answer text="імпорт" flag="1"/>
+    <answer text="експорт" flag="0"/>
+    <answer text="бартер" flag="0"/>
+  </question>
+  <question text="Південноукраїнська АЕС знаходиться:" level="1" simple="True">
+    <answer text="в Одеській області" flag="0"/>
+    <answer text="у Запорізькій області" flag="0"/>
+    <answer text="у Миколаївській області" flag="1"/>
+  </question>
+  <question text="Центром кольорової металургії України є:" level="1" simple="True">
+    <answer text="Краматорськ" flag="0"/>
+    <answer text="Запоріжжя" flag="1"/>
+    <answer text="Харків" flag="0"/>
+  </question>
+  <question text="Правильними є твердження" level="1" simple="True">
+    <answer text="Енергодар є містом-супутником АЕС, що знаходиться на заході України" flag="0"/>
+    <answer text="Запоріжжя є найбільшим центром автомобілебудування України" flag="1"/>
+    <answer text="Поклади уранової руди в Україні зосереджені в Кіровоградській та Дніпропетровській областях" flag="1"/>
+    <answer text="Україна повністю задовольняє потреби у  нафтопродуктах за рахунок переробки нафти на власних НПЗ" flag="0"/>
+  </question>
+  <question text="Які словосполучення є правильними?" level="1" simple="True">
+    <answer text="Краматорська ТЕЦ" flag="1"/>
+    <answer text="Рівненська ГЕС" flag="0"/>
+    <answer text="Хмельницька АЕС" flag="1"/>
+    <answer text="Ташлицька ТЕС" flag="0"/>
+  </question>
+  <question text="Основними центрами видобутку бурого вугілля є:" level="1" simple="True">
+    <answer text="Донецьк" flag="0"/>
+    <answer text="Ватутіне" flag="1"/>
+    <answer text="Макіївка" flag="0"/>
+    <answer text="Олександрія" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ВВЕДЕНИЕ">
+  <question text=" Впервые название &quot;Украина&quot; упоминается:" level="1" simple="True">
+    <answer text="в &quot;Киевском Летописи&quot; (1187)" flag="1"/>
+    <answer text="в книге Г. Боплана &quot;Описание Украины&quot; (1650 г.)" flag="0"/>
+    <answer text="в описаниях византийских и арабских путешественников X в." flag="0"/>
+  </question>
+  <question text="Общепризнанный географический центр Украины находится:" level="1" simple="True">
+    <answer text="возле с. Марьяновка Черкасской области" flag="1"/>
+    <answer text=" вблизи пгт Добровеличковка Кировоградской области" flag="0"/>
+    <answer text="у Чигирин Черкасской области" flag="0"/>
+  </question>
+  <question text="Какой из ответов является неправильной?" level="1" simple="True">
+    <answer text="По площади среди европейских стран Украина уступает только России" flag="0"/>
+    <answer text="По численности населения Украина вторая в Европе" flag="1"/>
+    <answer text="Украина граничит с семью странами" flag="0"/>
+  </question>
+  <question text="Правильными утверждениями являются:" level="1" simple="True">
+    <answer text="По количеству населения наибольшее область Украины Донецкая" flag="1"/>
+    <answer text="По площади территории самая большая область Украина Одесская" flag="1"/>
+    <answer text="Черновицкая - наименьшая по площади область Украины" flag="1"/>
+    <answer text="Волынская - наименьшая по численности населения область Украины" flag="0"/>
+  </question>
+  <question text="Крайняя северная точка Украины находится у:" level="1" simple="True">
+    <answer text="м. Тарханкут" flag="0"/>
+    <answer text="с. Гремяч" flag="1"/>
+    <answer text=" Червона Звезда" flag="0"/>
+  </question>
+  <question text=" Какие из утверждений являются правильными?" level="1" simple="True">
+    <answer text="Украина граничит с семью странами" flag="1"/>
+    <answer text="Площадь территории Украины составляет 603,7 тыс. кв. км" flag="1"/>
+    <answer text="Территория Украины омывается водами трех морей" flag="0"/>
+  </question>
+  <question text="С какими из перечисленных стран не граничит Украина?" level="1" simple="True">
+    <answer text=" Со Словенией" flag="1"/>
+    <answer text=" С Болгарией" flag="1"/>
+    <answer text="Со Словакией" flag="0"/>
+  </question>
+  <question text="В каком году завершилось формирование территории Украины?" level="1" simple="True">
+    <answer text=" В 1922" flag="0"/>
+    <answer text="В 1954" flag="1"/>
+    <answer text="В 1991" flag="0"/>
+  </question>
+  <question text="Какие из перечисленных территорий были включены в состав Украины в довоенные времена?" level="1" simple="True">
+    <answer text="Южная Бессарабия" flag="1"/>
+    <answer text="Северная Буковина" flag="1"/>
+    <answer text="Закарпатья и Крымская область" flag="0"/>
+  </question>
+  <question text="Членом которых из перечисленных организаций является Украина?" level="1" simple="True">
+    <answer text="Всемирная торговая организация" flag="1"/>
+    <answer text="Международный валютный фонд" flag="1"/>
+    <answer text="Содружество независимых государств" flag="1"/>
+    <answer text="ОПЕК" flag="0"/>
+  </question>
+  <question text=" Какие из ответов являются неправильными?" level="1" simple="True">
+    <answer text="Выборы в Верховную Раду Украины проводятся раз в пять лет" flag="1"/>
+    <answer text="Выборы Президента Украины проходят раз в четыре года" flag="1"/>
+    <answer text="Парламент Украины состоит из 450 депутатов" flag="0"/>
+  </question>
+  <question text="Членом какой-либо международной организации стала Украина в 2008 году?" level="1" simple="True">
+    <answer text="МВФ" flag="0"/>
+    <answer text="ВТО" flag="1"/>
+    <answer text="НАТО" flag="0"/>
+    <answer text="ОПЕК" flag="0"/>
+  </question>
+  <question text="Какие из терминов характеризуют Украину?" level="1" simple="True">
+    <answer text="Унитарное" flag="1"/>
+    <answer text="Федеративная" flag="0"/>
+    <answer text="Республика" flag="1"/>
+    <answer text="Монархия" flag="0"/>
+  </question>
+  <question text="Штаб-квартира которой из перечисленных международных организаций находится в Киеве?" level="1" simple="True">
+    <answer text="ВТО" flag="0"/>
+    <answer text="ГУАМ" flag="1"/>
+    <answer text="СНГ" flag="0"/>
+    <answer text="МФВ" flag="0"/>
+  </question>
+</testing>

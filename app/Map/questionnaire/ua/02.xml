@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="НАСЕЛЕННЯ">
+  <question text="В якому році було проведено останній перепис населення України?" level="1" simple="True">
+    <answer text="У 1991 р." flag="0"/>
+    <answer text="У 2001 р." flag="1"/>
+    <answer text="У 1996 р." flag="0"/>
+  </question>
+  <question text="За кількістю населення у Європі Україна:" level="1" simple="True">
+    <answer text="посідає шосте місце" flag="1"/>
+    <answer text="поступається тільки Франції" flag="0"/>
+    <answer text="поступається тільки Росії" flag="0"/>
+  </question>
+  <question text="Найбільш урбанізованим регіоном держави є:" level="1" simple="True">
+    <answer text="Київщина" flag="0"/>
+    <answer text="Донбас" flag="1"/>
+    <answer text="Галичина" flag="0"/>
+  </question>
+  <question text="В якій області  найбільша загальна густота населення?" level="1" simple="True">
+    <answer text=" Львівській" flag="0"/>
+    <answer text="Дніпропетровській" flag="0"/>
+    <answer text="Донецькій" flag="1"/>
+  </question>
+  <question text="Яка з відповідей є неправильною?" level="1" simple="True">
+    <answer text="В одному з міст-мільйонерів є морський порт" flag="0"/>
+    <answer text="Усі обласні центри нашої держави –  міста-мільйонери" flag="1"/>
+    <answer text="Усі міста-мільйонери України є обласними центрами" flag="0"/>
+  </question>
+  <question text="Які  з відповідей є неправильними?" level="1" simple="True">
+    <answer text="Переважна більшість росіян України проживає в містах" flag="0"/>
+    <answer text="За роки незалежності в Україні не проводилося жодного перепису населення" flag="1"/>
+    <answer text="У Криму найнижчий природний приріст населення серед регіонів України" flag="1"/>
+  </question>
+  <question text="Оберіть правильні відповіді" level="1" simple="True">
+    <answer text="Крим – єдиний регіон України, де у структурі населення переважають росіяни" flag="1"/>
+    <answer text="Область держави з найвищим рівнем урбанізації має найвищу загальну густоту населення" flag="1"/>
+    <answer text="З моменту здобуття Україною незалежності Крим має статус автономії" flag="0"/>
+    <answer text="У більшості областей України показники природного приросту населення мають від‘ємне  значення" flag="1"/>
+  </question>
+  <question text="Яке з тверджень є правильним?" level="1" simple="True">
+    <answer text="З-поміж релігійних конфесій іслам найбільш поширений на Одещині" flag="0"/>
+    <answer text="В Україні чотири міста-мільйонери" flag="1"/>
+    <answer text="У Дніпропетровській області сільське населення переважає над міським" flag="0"/>
+  </question>
+  <question text="В який період в Україні була найбільша чисельність населення?" level="1" simple="True">
+    <answer text="Перед початком Другої світової війни" flag="0"/>
+    <answer text="На початку 90-х років минулого століття" flag="1"/>
+    <answer text="У 2001 році" flag="0"/>
+  </question>
+  <question text="Де проживає переважна більшість мусульман України?" level="1" simple="True">
+    <answer text="У Криму" flag="1"/>
+    <answer text="У Донецькій області" flag="0"/>
+    <answer text="В Одеській області" flag="0"/>
+  </question>
+  <question text="Вкажіть країни, де у складі населення понад 1 млн чоловік українського походження" level="1" simple="True">
+    <answer text="Канада" flag="1"/>
+    <answer text="Бразилія" flag="0"/>
+    <answer text="Росія" flag="1"/>
+    <answer text="Польща" flag="0"/>
+    <answer text="США" flag="1"/>
+  </question>
+</testing>
