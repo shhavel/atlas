@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Населення світу">
+  <question level="1" simple="True" text="Найбільш багатонаціональною та багатомовною країною вважається">
+    <answer text="Росія" flag="0"/>
+    <answer text="Індія" flag="1"/>
+    <answer text="Китай" flag="0"/>
+    <answer text="Індонезія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називається переїзд частини заможного населення в приміську зону на постійне місце проживання?">
+    <answer text="Урбанізація" flag="0"/>
+    <answer text="Псевдоурбанізація" flag="0"/>
+    <answer text="Субурбанізація" flag="1"/>
+    <answer text="Агломерація" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які з перерахованих мовних груп  належать до індоєвропейської мовної сім’ї? ">
+    <answer text="Вірменська" flag="1"/>
+    <answer text="Романська" flag="1"/>
+    <answer text="Фіно-угорська" flag="0"/>
+    <answer text="Нурістанська" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих країн має найнижчий рівень урбанізації? ">
+    <answer text="Кувейт" flag="0"/>
+    <answer text="Бразилія" flag="0"/>
+    <answer text="Афганістан" flag="1"/>
+    <answer text="Нова Зеландія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перерахованих релігій є етнічною ознакою переважно одного народу?">
+    <answer text="Буддизм" flag="0"/>
+    <answer text="Католицизм" flag="0"/>
+    <answer text="Індуїзм" flag="1"/>
+    <answer text="Іслам" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перерахованих мов найбільш поширена в Північній Африці?">
+    <answer text="Німецька" flag="0"/>
+    <answer text="Іспанська" flag="0"/>
+    <answer text="Французька" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка частка економічно активного населення характерна для розвинутих країн? ">
+    <answer text="45 %" flag="0"/>
+    <answer text="55 %" flag="0"/>
+    <answer text="70 %" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="До категорії міграцій за мотивами належать міграції">
+    <answer text="зовнішні" flag="0"/>
+    <answer text="економічні" flag="1"/>
+    <answer text="примусові" flag="0"/>
+    <answer text="сезонні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшим за кількістю населення мегалополісом світу є">
+    <answer text="Приозерний" flag="0"/>
+    <answer text="Англійський" flag="0"/>
+    <answer text="Токайдо" flag="1"/>
+    <answer text="Приатлантичний" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Серед світових релігій наймолодшою є:">
+    <answer text="Буддизм" flag="0"/>
+    <answer text="Іслам" flag="1"/>
+    <answer text="Християнство" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який тип відтворення населення є характерним для Японії?">
+    <answer text="Розширений" flag="0"/>
+    <answer text="Звужений" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Як називаються скупчення міських населених пунктів, між якими існують тісні зв’язки?">
+    <answer text="Агломерації" flag="1"/>
+    <answer text="Мегалополіси" flag="0"/>
+    <answer text="Міста-мільйонери" flag="0"/>
+  </question>
+</testing>

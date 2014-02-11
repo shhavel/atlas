@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Америки">
+  <question level="1" simple="True" text="Крупнейшими нефтедобывающими штатами США является">
+    <answer text="Аляска, Техас" flag="1"/>
+    <answer text="Массачусетс, Калифорния" flag="0"/>
+    <answer text="Огайо, Мичиган" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тип электростанций является ведущим в электроэнергетике США?">
+    <answer text="ТЭС" flag="1"/>
+    <answer text="ГЭС" flag="0"/>
+    <answer text="АЭС" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком из регионов США сосредоточено больше нефтеперерабатывающих предприятий?">
+    <answer text="Штаты Атлантического побережья" flag="0"/>
+    <answer text="Калифорния и Аляска" flag="0"/>
+    <answer text="Техас и Луизиана" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Где находится &quot;кукурузный пояс&quot; США?">
+    <answer text="Северо-Восток" flag="0"/>
+    <answer text="Тихоокеанское побережье" flag="0"/>
+    <answer text="Побережье Мексиканского залива" flag="0"/>
+    <answer text="Средний Запад" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Неравномерность размещения хозяйства на территории Канады объясняется">
+    <answer text="природными условиями" flag="1"/>
+    <answer text="размещением полезных ископаемых" flag="0"/>
+    <answer text="условиями освоения территории страны" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тип электростанций производит наибольшую долю электроэнергии в Канаде?">
+    <answer text="ТЭС" flag="0"/>
+    <answer text="ГЭС" flag="1"/>
+    <answer text="АЭС" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие провинции Канады выделяются наибольшей концентрацией промышленности?">
+    <answer text="Саскачеван и Манитоба" flag="0"/>
+    <answer text="Квебек и Онтарио" flag="1"/>
+    <answer text="Новая Шотландия и Ньюфаундленд" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая из названных стран не входит в состав Британского Содружества Наций?">
+    <answer text="Ямайка" flag="0"/>
+    <answer text="Багамские Острова" flag="0"/>
+    <answer text="Панама" flag="1"/>
+    <answer text="Барбадос" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Уникальным богатством Чили является">
+    <answer text="нефть" flag="0"/>
+    <answer text="каменный уголь" flag="0"/>
+    <answer text="селитра" flag="1"/>
+    <answer text="олово" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Степи Аргентины называют">
+    <answer text="льянос" flag="0"/>
+    <answer text="кампос" flag="0"/>
+    <answer text="пампа" flag="1"/>
+    <answer text="прерия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Житницей Канады являются провинции">
+    <answer text="Манитоба, Британская Колумбия" flag="0"/>
+    <answer text="Квебек, Онтарио" flag="0"/>
+    <answer text="Альберта, Саскачеван" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Городской агломерацией Южной Америки с населением более 5 млн человек является">
+    <answer text="Монтевидео" flag="0"/>
+    <answer text="Лима" flag="1"/>
+    <answer text="Каракас" flag="0"/>
+    <answer text="Порту-Алегри" flag="0"/>
+  </question>
+</testing>

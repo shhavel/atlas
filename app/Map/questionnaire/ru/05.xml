@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Глобальные проблемы человечества">
+  <question level="1" simple="True" text="Энергетическая проблема вызвана">
+    <answer text="ростом энергопотребления" flag="1"/>
+    <answer text="низким качеством топливных ресурсов" flag="0"/>
+    <answer text="использованием нетрадиционных источников энергии" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Демографический взрыв в ХХ в. вызванный">
+    <answer text="ростом количества городов в мире" flag="0"/>
+    <answer text="высоким уровнем развития промышленности в развитых странах" flag="0"/>
+    <answer text="существенным снижением уровня смертности в развивающихся странах" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какая из международных организаций координирует работу по преодолению глобальных проблем человечества?">
+    <answer text="АСЕАН" flag="0"/>
+    <answer text="СНГ" flag="0"/>
+    <answer text="ЕС" flag="0"/>
+    <answer text="ООН" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="На каком континенте находится &quot;полюс голода&quot;?">
+    <answer text="Австралия" flag="0"/>
+    <answer text="Африка" flag="1"/>
+    <answer text="Евразия" flag="0"/>
+    <answer text="Южная Америка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какие части Мирового океана являются наиболее загрязненными?">
+    <answer text="Территориальные воды" flag="0"/>
+    <answer text="Открытая акватория" flag="0"/>
+    <answer text="Шельфовые зоны" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Из континентов имеет наибольшую долю природоохранных территорий в общей площади?">
+    <answer text="Северная Америка" flag="0"/>
+    <answer text="Евразия" flag="0"/>
+    <answer text="Африка" flag="0"/>
+    <answer text="Австралия" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Какие леса земного шара наиболее интенсивно вырубаются?">
+    <answer text="Тайга" flag="0"/>
+    <answer text="Сельвас" flag="1"/>
+    <answer text="Джунгли экваториальной Африки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В крупных городах основным источником загрязнения воздуха является">
+    <answer text="ТЭС" flag="0"/>
+    <answer text="предприятия нефтехимии" flag="0"/>
+    <answer text="предприятия строительных материалов" flag="0"/>
+    <answer text="автотранспорт" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Рекультивация земель это">
+    <answer text="карьерные земельные работы" flag="0"/>
+    <answer text="восстановления нарушенных земель" flag="1"/>
+    <answer text="вспашка целины" flag="0"/>
+    <answer text="сокращение площадей сельскохозяйственных угодий" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Созданию парникового эффекта способствует увеличению в атмосфере Земли">
+    <answer text="углекислого газа" flag="1"/>
+    <answer text="сернистого газа" flag="0"/>
+    <answer text="фреонов" flag="0"/>
+    <answer text="озона" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На каком континенте самая низкая продолжительность жизни?">
+    <answer text="Азия" flag="0"/>
+    <answer text="Африка" flag="1"/>
+    <answer text="Австралия" flag="0"/>
+    <answer text="Южная Америка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Страна, для которой наиболее свойственные сепаратистские движения, это">
+    <answer text="США" flag="0"/>
+    <answer text="Индия" flag="1"/>
+    <answer text="Польша" flag="0"/>
+  </question>
+</testing>

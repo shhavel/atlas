@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Взаимодействие общества и природы. Мировые природные ресурсы">
+  <question level="1" simple="True" text="Топливные ресурсы являются">
+    <answer text="исчерпывающими и невосстанавливаемых" flag="1"/>
+    <answer text="исчерпывающими и восстановительными" flag="0"/>
+    <answer text="неисчерпаемыми и возобновляемыми" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В каком полушарии сосредоточены основные месторождения каменного угля?">
+    <answer text="В Северной" flag="1"/>
+    <answer text="В Южной" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="К богатых водные ресурсы стран мира принадлежит">
+    <answer text="США" flag="0"/>
+    <answer text="Китай" flag="0"/>
+    <answer text="Канада" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Из стран хуже обеспечена лесными ресурсами?">
+    <answer text="Швеция" flag="0"/>
+    <answer text="Канада" flag="0"/>
+    <answer text="Афганистан" flag="1"/>
+    <answer text="Индия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая страна является лучше обеспеченной пашней в расчете на душу населения?">
+    <answer text="США" flag="0"/>
+    <answer text="Индия" flag="0"/>
+    <answer text="Казахстан" flag="1"/>
+    <answer text="Украина" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из стран обладает наиболее удачным сочетанием агроклиматических ресурсов?">
+    <answer text="Австралия" flag="0"/>
+    <answer text="Украина" flag="1"/>
+    <answer text="Индия" flag="0"/>
+    <answer text="Израиль" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какая страна интенсивно использует подземные термальные воды?">
+    <answer text="Япония" flag="0"/>
+    <answer text="Исландия" flag="1"/>
+    <answer text="Индонезия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Наибольшей по мощности ГЭС мира является">
+    <answer text="Гранд-Кули (США)" flag="0"/>
+    <answer text="Итайпу (Бразилия / Парагвай)" flag="1"/>
+    <answer text="Гэчжоуба (Китай)" flag="0"/>
+    <answer text="Братская (Россия)" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Размещение биологических ресурсов зависит от">
+    <answer text="уровня экономического развития страны" flag="0"/>
+    <answer text="соотношения тепла и влаги" flag="1"/>
+    <answer text="строения земной коры" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тектонические структуры, к которым приурочены залежи топливных полезных ископаемых, это">
+    <answer text="щиты древних платформ" flag="0"/>
+    <answer text="области кайнозойской складчатости" flag="0"/>
+    <answer text="предгорные прогибы" flag="1"/>
+    <answer text="области мезозойской складчатости" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Ответ является неправильным?">
+    <answer text="В России самые большие запасы природного газа" flag="0"/>
+    <answer text="В Саудовской Аравии крупнейшие запасы нефти" flag="0"/>
+    <answer text="Россия занимает переше место по добыче алмазов" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Старейшим национальным парком мира является">
+    <answer text="Вуд-Баффало" flag="0"/>
+    <answer text="Йеллоустонский" flag="1"/>
+    <answer text="Нгоронгоро" flag="0"/>
+  </question>
+</testing>

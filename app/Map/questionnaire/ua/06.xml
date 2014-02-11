@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Європи ">
+  <question level="1" simple="True" text="Що є характерним для демографічної ситуації більшості країн Європи?">
+    <answer text="Другий тип відтворення населення" flag="0"/>
+    <answer text="Перший тип відтворення населення" flag="1"/>
+    <answer text="Демографічний вибух" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з галузей машинобудування є традиційною для європейських країн великої сімки?">
+    <answer text="Автомобілебудування" flag="1"/>
+    <answer text="Тракторобудування" flag="0"/>
+    <answer text="Важке машинобудування" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих країн має монархічну форму правління?">
+    <answer text="Франція" flag="0"/>
+    <answer text="Норвегія" flag="1"/>
+    <answer text="Австрія" flag="0"/>
+    <answer text="Ірландія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих країни має найвищий рівень урбанізації?">
+    <answer text="Німеччина" flag="0"/>
+    <answer text="Італія" flag="0"/>
+    <answer text="Ісландія" flag="1"/>
+    <answer text="Велика Британія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Комбінати чорної металургії в Рурі (Німеччина) зорієнтовані на">
+    <answer text="родовища залізних руд" flag="0"/>
+    <answer text="коксівне вугілля" flag="1"/>
+    <answer text="повний комплекс сировини" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Який з перерахованих портів Західної Європи належить до категорії світових?">
+    <answer text="Осло" flag="0"/>
+    <answer text="Глазго" flag="0"/>
+    <answer text="Марсель" flag="1"/>
+    <answer text="Амстердам" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="За величиною ВНП лідером у Європі є">
+    <answer text="Німеччина" flag="1"/>
+    <answer text="Велика Британія" flag="0"/>
+    <answer text="Франція" flag="0"/>
+    <answer text="Росія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Які з перелічених країн входять до єврозони (простір, де в обігу євро)">
+    <answer text="Німеччина" flag="1"/>
+    <answer text="Португалія" flag="1"/>
+    <answer text="Швеція" flag="0"/>
+    <answer text="Ірландія" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Який вид транспорту Росії займає перше місце за вантажооборотом?">
+    <answer text="Автомобільний" flag="0"/>
+    <answer text="Залізничний" flag="1"/>
+    <answer text="Внутрішній водний" flag="0"/>
+    <answer text="Трубопровідний" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перелічених країн не є членом НАТО ">
+    <answer text="Литва" flag="0"/>
+    <answer text="Білорусь" flag="1"/>
+    <answer text="Словаччина" flag="0"/>
+    <answer text="Угорщина" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих країн є членом ЄС?">
+    <answer text="Норвегія" flag="0"/>
+    <answer text="Швейцарія" flag="0"/>
+    <answer text="Іспанія" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть річку, на якій побудовані найпотужніші ГЕС Росії? ">
+    <answer text="Об" flag="0"/>
+    <answer text="Єнісей" flag="1"/>
+    <answer text="Волга" flag="0"/>
+    <answer text="Анґара" flag="0"/>
+  </question>
+</testing>

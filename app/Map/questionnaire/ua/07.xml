@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Азії ">
+  <question level="1" simple="True" text="Для демографічної ситуації більшості країн Азії характерним є">
+    <answer text="старіння нації" flag="0"/>
+    <answer text="демографічна криза" flag="0"/>
+    <answer text="демографічний вибух" flag="1"/>
+    <answer text="депопуляція населення" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з країн Закавказзя добре забезпечена нафтою?">
+    <answer text="Грузія" flag="0"/>
+    <answer text="Вірменія" flag="0"/>
+    <answer text="Азербайджан" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Основною сільськогосподарською культурою, що вирощується на зрошувальних землях в Центральній Азії, є">
+    <answer text="рис" flag="0"/>
+    <answer text="бавовник" flag="1"/>
+    <answer text="арахіс" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшим портом Китаю є">
+    <answer text="Шанхай" flag="1"/>
+    <answer text="Пекін" flag="0"/>
+    <answer text="Ціндао" flag="0"/>
+    <answer text="Далянь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть державу, в якій нафтодобувна промисловість не є галуззю міжнародної спеціалізації">
+    <answer text="Кувейт" flag="0"/>
+    <answer text="Сирія" flag="1"/>
+    <answer text="Бруней" flag="0"/>
+    <answer text="Саудівська Аравія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тадж-Махал знаходиться в">
+    <answer text="Непалі" flag="0"/>
+    <answer text="Таїланді" flag="0"/>
+    <answer text="Індії" flag="1"/>
+    <answer text="Туреччині" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Головну роль у промисловості Японії відіграє">
+    <answer text="центр, о. Хонсю" flag="1"/>
+    <answer text="північ, о. Хоккайдо" flag="0"/>
+    <answer text="південь, о. Кюсю" flag="0"/>
+    <answer text="південний схід, о. Сікоку" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Національною релігією Китаю є">
+    <answer text="синтоїзм" flag="0"/>
+    <answer text="конфуціанство і даосизм" flag="1"/>
+    <answer text="буддизм" flag="0"/>
+    <answer text="сікхізм" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перелічених країн входить до групи „азіатських тигрів”?">
+    <answer text="Ізраїль" flag="0"/>
+    <answer text="Філіппіни" flag="0"/>
+    <answer text="Південна Корея" flag="1"/>
+    <answer text="Малайзія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільш економічно розвиненим районом Китаю є">
+    <answer text="Східний" flag="1"/>
+    <answer text="Північний" flag="0"/>
+    <answer text="Західний" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині Азії виникли іслам і християнство?">
+    <answer text="В центральній" flag="0"/>
+    <answer text="В південно-західній" flag="1"/>
+    <answer text="В південній" flag="0"/>
+    <answer text="В південно-східній" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Основною експортною сільськогосподарською культурою Шрі-Ланки є">
+    <answer text="ваніль" flag="0"/>
+    <answer text="фініки" flag="0"/>
+    <answer text="чай" flag="1"/>
+    <answer text="рис" flag="0"/>
+  </question>
+</testing>
