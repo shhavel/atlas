@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЄВРАЗІЯ ">
+  <question level="1" simple="True" text="Площа Євразії разом з островами становить :">
+    <answer text="30,32 млн. кв. км" flag="0"/>
+    <answer text="54,6 млн. кв. км" flag="1"/>
+    <answer text="24,25 млн. кв. км" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є правильним?">
+    <answer text="г. Еверест - найвища вершина планети" flag="1"/>
+    <answer text="В Євразії знаходиться - найбільша пустеля планети" flag="0"/>
+    <answer text="Найдовшою річкою Європи є Дніпро" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крайньою східною точкою Євразії є :">
+    <answer text="м. Дежньова" flag="1"/>
+    <answer text="м. Челюскін" flag="0"/>
+    <answer text="м. Піай" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найглибшим озером планети є :">
+    <answer text="Байкал" flag="1"/>
+    <answer text="Лобнор" flag="0"/>
+    <answer text="Іссик-Куль" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Більшим за площею є :">
+    <answer text="Аравійський півострів" flag="1"/>
+    <answer text="Скандинавський півострів" flag="0"/>
+    <answer text="Піренейський півострів" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На формування клімату яких частин Євразії мають найбільший вплив Індійський та Тихий океани ?">
+    <answer text="Західної частини континенту" flag="0"/>
+    <answer text="Центральних частин материка" flag="0"/>
+    <answer text="Південної та Південно-Східної Азії" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer text="В Євразії поширені всі природні зони Північної півкулі" flag="0"/>
+    <answer text="Мішані й широколисті ліси найбільш поширені в західній частині континенту" flag="0"/>
+    <answer text="Найбільша кількість висотних поясів сформувалася на північних схилах Гімалаїв" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Із перерахованих мандрівників найбільший внесок в дослідження Євразії зробив : ">
+    <answer text="Марко Поло" flag="1"/>
+    <answer text="Христофор Колумб" flag="0"/>
+    <answer text="Джеймс Кук" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Серед світових релігій в західній частині Євразії найбільш поширеною є: ">
+    <answer text="християнство" flag="1"/>
+    <answer text="буддизм" flag="0"/>
+    <answer text="іслам" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer text="Китай - найбільша за чисельністю населення країна світу" flag="0"/>
+    <answer text="В Індії менша, ніж в Китаї густота населення" flag="1"/>
+    <answer text="Індонезія - найбільша за чисельністю населення мусульманська країна світу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Із перелічених держав до групи високорозвинутих країн світу належить:">
+    <answer text="Китай" flag="0"/>
+    <answer text="Японія" flag="1"/>
+    <answer text="Сінґапур" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Більша частина розвіданих запасів нафти світу зосереджена :">
+    <answer text="в регіоні Каспійського моря" flag="0"/>
+    <answer text="на шельфі Північного моря" flag="0"/>
+    <answer text="в районі Перської затоки" flag="1"/>
+  </question>
+</testing>

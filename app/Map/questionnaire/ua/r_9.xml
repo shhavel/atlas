@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЕМЛЯ - НАШ ДІМ">
+  <question level="1" simple="True" text="Вирушаючи у подорож у 1492 р., Христофор Колумб сподівався відкрити:">
+    <answer text="Америку" flag="0"/>
+    <answer text="Індію" flag="1"/>
+    <answer text="Китай" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшою за чисельністю населення країною світу є:">
+    <answer text="Індія" flag="0"/>
+    <answer text="Китай" flag="1"/>
+    <answer text="Росія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій з перерахованих країн найбільша густота населення?">
+    <answer text="В Індії" flag="1"/>
+    <answer text="В Китаї" flag="0"/>
+    <answer text="В Україні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшою за кількістю віруючих світовою релігією є:">
+    <answer text="Іслам" flag="0"/>
+    <answer text="Християнство" flag="1"/>
+    <answer text="Буддизм" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найдревнішою серед світових релігій є">
+    <answer text="Іслам" flag="0"/>
+    <answer text="Буддизм" flag="1"/>
+    <answer text="Християнство" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називається процес відтворення порушених земель?">
+    <answer text="Реконструкція" flag="0"/>
+    <answer text="Реставрація" flag="0"/>
+    <answer text="Рекультивація" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Як називається система стандартних вимірів, оцінки та прогнозування стану природного середовища і змін, які в ньому відбуваються?">
+    <answer text="Метеорологічні спостереження" flag="0"/>
+    <answer text="Моніторинг" flag="1"/>
+    <answer text="Зондування" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називаються природоохоронні території, де заборонено будь-яку господарську діяльність і проводяться тільки наукові дослідження?">
+    <answer text="Заповідники" flag="1"/>
+    <answer text="Пам‘ятки природи" flag="0"/>
+    <answer text="Національні парки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Головним наслідком парникового ефекту на Землі є:">
+    <answer text="загальне потепління клімату" flag="1"/>
+    <answer text="загальне похолодання клімату" flag="0"/>
+    <answer text="збільшення урожайності парникових культур" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Збільшення вуглекислого газу в атмосфері є прямим наслідком:">
+    <answer text="збільшення площ пустель" flag="0"/>
+    <answer text="зменшення площ лісів" flag="1"/>
+    <answer text="зменшення озонового шару" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшими забруднювачами атмосфери є:">
+    <answer text="країни, що розвиваються" flag="0"/>
+    <answer text="промислово розвинуті країни" flag="1"/>
+    <answer text="найбідніші країни" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Головною причиною енергетично-сировинної проблеми у другій половині XX ст. є:">
+    <answer text="зменшення запасів корисних копалин на планеті" flag="0"/>
+    <answer text="стрімке зростання потреб в паливі та сировині" flag="1"/>
+    <answer text="політична нестабільність в деяких регіонах, багатих на корисні копалини" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="СЕВЕРНАЯ АМЕРИКА">
+  <question level="1" simple="True" text="Площадь Северной Америки составляет">
+    <answer text="24250 кв. км" flag="1"/>
+    <answer text="30320 кв. км" flag="0"/>
+    <answer text="17830 кв. км" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer text="Гренландия - самый большой остров планеты" flag="0"/>
+    <answer text="Австралия - самый маленький материк Земли" flag="0"/>
+    <answer text="По площади Северная Америка занимает второе место среди континентов" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Высочайшей вершиной Северной Америки являются:">
+    <answer text="г. Мак-Кинли" flag="1"/>
+    <answer text="г. Монблан" flag="0"/>
+    <answer text="г. Аконкагуа" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крупнейшей рекой Северной Америки являются:">
+    <answer text="Маккензи" flag="0"/>
+    <answer text="Миссисипи" flag="1"/>
+    <answer text="Юкон" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крупнейшие из рек Северной Америки относятся:">
+    <answer text="к бассейну Тихого океана" flag="0"/>
+    <answer text="к бассейну Атлантического океана" flag="1"/>
+    <answer text="к бассейну внутреннего стока" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Полупустыни и пустыни Северной Америки:">
+    <answer text="занимают узкую полосу атлантического побережья" flag="0"/>
+    <answer text="лежат на крайнем юге материка" flag="0"/>
+    <answer text="занимают внутренние районы Кордильер" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Которое с утверждением является правильным?">
+    <answer text="На материке находится полюс холода Земли" flag="0"/>
+    <answer text="На континенте была зафиксирована самая высокая температура Западного полушария" flag="1"/>
+    <answer text="В Северном полушарии находится самая сухая пустыня планеты" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из животных является эндемиком Северной Америки?">
+    <answer text="Скунс" flag="1"/>
+    <answer text="Бурундук" flag="0"/>
+    <answer text="Колибри" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Среди населения Северной Америки преобладают:">
+    <answer text="потомки переселенцев из Европы" flag="1"/>
+    <answer text="коренное население - индейцы" flag="0"/>
+    <answer text="афроамериканцы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является правильным?">
+    <answer text="Большинство населения Северной Америки - жители городов" flag="1"/>
+    <answer text="Наиболее густо заселенными на континенте являются центральные регионы" flag="0"/>
+    <answer text="Коренным населением Северной Америки является афроамериканцы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Среди религий наиболее распространенной на континенте являются:">
+    <answer text="христианство" flag="1"/>
+    <answer text="ислам" flag="0"/>
+    <answer text="традиционные верования и культы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В группу развивающихся стран, из перечисленных относится:">
+    <answer text="США" flag="0"/>
+    <answer text="Канада" flag="0"/>
+    <answer text="Мексика" flag="1"/>
+  </question>
+</testing>

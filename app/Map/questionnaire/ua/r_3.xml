@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АФРИКА">
+  <question level="1" simple="True" text="Першим дослідником внутрішніх районів Африки був:">
+    <answer text="Давид Лівінґстон" flag="1"/>
+    <answer text="Генрі Стенлі" flag="0"/>
+    <answer text="Васко да Ґама" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крайньою південною точкою Африки є:">
+    <answer text="мис Доброї Надії" flag="0"/>
+    <answer text="мис Аґульяс" flag="1"/>
+    <answer text="мис Рас-Енґела" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке твердження є правильним?">
+    <answer text="Африка – найжаркіший континент" flag="1"/>
+    <answer text="Африка – найбільший континент" flag="0"/>
+    <answer text="Африка – найсухіший материк" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найвищою вершиною Африки є:">
+    <answer text="г. Косцюшко" flag="0"/>
+    <answer text="г. Кіліманджаро" flag="1"/>
+    <answer text="г. Кенія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині Африки знаходяться Драконові гори?">
+    <answer text="На півночі" flag="0"/>
+    <answer text="На південному сході" flag="1"/>
+    <answer text="На сході" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке твердження є правильним?">
+    <answer text="На формування клімату Сахари значний вплив має Середземне море" flag="0"/>
+    <answer text="Сахара – найпосушливіша пустеля планети" flag="0"/>
+    <answer text="Сахара – найбільша пустеля планети" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке твердження є правильним?">
+    <answer text="Ніл – найповноводніша річка Африки" flag="0"/>
+    <answer text="Конґо – найповноводніша річка планети" flag="0"/>
+    <answer text="Ніл – найдовша річка світу" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке озеро є найглибшим в Африці?">
+    <answer text="Танґаньїка" flag="1"/>
+    <answer text="Вікторія" flag="0"/>
+    <answer text="Тана" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка річка належить до басейну Індійського океану?">
+    <answer text="Ніґер" flag="0"/>
+    <answer text="Замбезі" flag="1"/>
+    <answer text="Конґо" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називають в Африці сухі річкові долини, вода в яких з‘являється лише періодично?">
+    <answer text="Оазиси" flag="0"/>
+    <answer text="Ваді" flag="1"/>
+    <answer text="Кріки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Серед населення країн Північної Африки найбільш поширеною релігією є:">
+    <answer text="Християнство" flag="0"/>
+    <answer text="Іслам" flag="1"/>
+    <answer text="Буддизм" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="До категорії розвинутих держав світу належить:">
+    <answer text="Єгипет" flag="0"/>
+    <answer text="Лівія" flag="0"/>
+    <answer text="Південна Африка" flag="1"/>
+  </question>
+</testing>

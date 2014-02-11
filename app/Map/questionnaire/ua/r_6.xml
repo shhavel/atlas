@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПІВНІЧНА АМЕРИКА">
+  <question level="1" simple="True" text="Площа Північної Америки становить">
+    <answer text="24 250 кв. км" flag="1"/>
+    <answer text="30 320 кв. км" flag="0"/>
+    <answer text="17 830 кв. км" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer text="Ґренландія - найбільший острів планети " flag="0"/>
+    <answer text="Австралія - найменший материк Землі" flag="0"/>
+    <answer text="За площею Північна Америка посідає друге місце серед континентів " flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Найвищою вершиною Північної Америки є : ">
+    <answer text="г. Мак-Кінлі" flag="1"/>
+    <answer text="г. Монблан" flag="0"/>
+    <answer text="г. Аконкаґуа" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшою річкою Північної Америки є :">
+    <answer text="Маккензі" flag="0"/>
+    <answer text="Міссісіпі" flag="1"/>
+    <answer text="Юкон" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Найбільші з річок Північної Америки належать :">
+    <answer text="до басейну Тихого океану" flag="0"/>
+    <answer text="до басейну Атлантичного океану" flag="1"/>
+    <answer text="до басейну внутрішнього стоку " flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Напівпустелі і пустелі Північної Америки : ">
+    <answer text="займають вузьку смугу атлантичного узбережжя" flag="0"/>
+    <answer text="лежать на крайньому півдні материка" flag="0"/>
+    <answer text="займають внутрішні райони Кордильєр" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яке з твердженням є правильним ?">
+    <answer text="На материку знаходиться полюс холоду Землі" flag="0"/>
+    <answer text="На континенті була зафіксована найвища температура Західної півкулі" flag="1"/>
+    <answer text="В Північній півкулі знаходиться найсухіша пустеля планети" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з тварин є ендеміком Північної Америки ?">
+    <answer text="Скунс" flag="1"/>
+    <answer text="Бурундук" flag="0"/>
+    <answer text="Колібрі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Серед населення Північної Америки переважають :">
+    <answer text="нащадки переселенців з Європи" flag="1"/>
+    <answer text="корінне населення - індіанці" flag="0"/>
+    <answer text="афроамериканці" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є правильним ?">
+    <answer text="Більшість населення Північної Америки - жителі міст" flag="1"/>
+    <answer text="Найбільш густо заселеними на континенті є центральні регіони" flag="0"/>
+    <answer text="Корінним населенням Північної Америки є афроамериканці" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Серед релігій найбільш поширеною на континенті є :">
+    <answer text="християнство" flag="1"/>
+    <answer text="іслам" flag="0"/>
+    <answer text="традиційні вірування та культи" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="До групи країн, що розвиваються, із перерахованих відноситься :">
+    <answer text="США " flag="0"/>
+    <answer text="Канада" flag="0"/>
+    <answer text="Мексика " flag="1"/>
+  </question>
+</testing>

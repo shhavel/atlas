@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЮЖНАЯ АМЕРИКА">
+  <question level="1" simple="True" text="В Южной Америке находится:">
+    <answer text="полноводная река мира" flag="1"/>
+    <answer text="самая длинная река мира" flag="0"/>
+    <answer text="крупнейшая пустыня" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Высочайшей вершиной Южной Америки являются:">
+    <answer text="Аконкагуа" flag="1"/>
+    <answer text="Мак-Кинли" flag="0"/>
+    <answer text="Котопакси" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое утверждение является неправильным?">
+    <answer text="Колибри является эндемиком" flag="1"/>
+    <answer text="Южная Америка - самый влажный материк планеты" flag="0"/>
+    <answer text="В Южной Америке находится самая сухая пустыня" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Христофор Колумб открыл Америку в:">
+    <answer text="1492 году" flag="1"/>
+    <answer text="1498 году" flag="0"/>
+    <answer text="1502 году" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Высоким на планете есть водопад:">
+    <answer text="Игуасу" flag="0"/>
+    <answer text="Анхель" flag="1"/>
+    <answer text="Виктория" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Большинство рек Южной Америки:">
+    <answer text="принадлежит к бассейну Атлантического океана" flag="1"/>
+    <answer text="относится к бассейну Тихого океана" flag="0"/>
+    <answer text="находится в области внутреннего стока" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Влажные экваториальные леса Южной Америки называются:">
+    <answer text="пампа" flag="0"/>
+    <answer text="джунгли" flag="0"/>
+    <answer text="сельва" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Пампа это:">
+    <answer text="травянистые степи Южной Америки" flag="1"/>
+    <answer text="влажные экваториальные леса Южной Америки" flag="0"/>
+    <answer text="пустыни Южной Америки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Коренным населением Южной Америки являются:">
+    <answer text="метисы" flag="0"/>
+    <answer text="индейцы" flag="1"/>
+    <answer text="самбо" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Страны Южной Америки относятся:">
+    <answer text="к группе развивающихся стран" flag="1"/>
+    <answer text="к группе беднейших стран мира" flag="0"/>
+    <answer text="к группе наиболее развитых стран" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer text="Бразилия - самая большая по площади страна Южной Америки" flag="0"/>
+    <answer text="Бразилия - родина футбола" flag="1"/>
+    <answer text="Бразилия - самая большая по численности населения страна Южной Америки" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Наиболее распространенными языками среди населения стран Южной Америки являются:">
+    <answer text="немецкий и язык инков" flag="0"/>
+    <answer text="английский и французский" flag="0"/>
+    <answer text="испанский и португальский" flag="1"/>
+  </question>
+</testing>

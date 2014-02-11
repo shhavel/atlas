@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗАГАЛЬНІ ЗАКОНОМІРНОСТІ ПРИРОДИ ЗЕМЛІ">
+  <question level="1" simple="True" text="Який материк лежить водночас у всіх чотирьох півкулях?">
+    <answer text="Африка" flag="1"/>
+    <answer text="Антарктида" flag="0"/>
+    <answer text="Австралія" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому напрямку Земля обертається навколо своєї осі?">
+    <answer text="Із заходу на схід" flag="1"/>
+    <answer text="Зі сходу на захід" flag="0"/>
+    <answer text="З півночі на південь" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Орбіта, по якій Земля рухається навколо Сонця, має форму:">
+    <answer text="кола" flag="0"/>
+    <answer text="еліпса" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Одними з головних наслідків обертання Землі навколо своєї осі є:">
+    <answer text="зміна пір року і сезонна ритмічність природних явищ" flag="0"/>
+    <answer text="зміна дня і ночі та добова ритмічність природних явищ" flag="1"/>
+    <answer text="зміна полуденної висоти Сонця" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Місцевий час Ґринвіцького меридіана називається:">
+    <answer text="всесвітнім" flag="1"/>
+    <answer text="сонячним" flag="0"/>
+    <answer text="поясним" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Тривалість полярного дня або ночі з наближенням до полюсів:">
+    <answer text="збільшується" flag="1"/>
+    <answer text="зменшується" flag="0"/>
+    <answer text="не змінюється" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В яких місцях земна кора має найбільшу товщину?">
+    <answer text="Під горами" flag="1"/>
+    <answer text="Під рівнинами" flag="0"/>
+    <answer text="Під океанами" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Зміна пір року та сезонна ритмічність природних процесів є головними наслідками:">
+    <answer text="руху Землі навколо Сонця" flag="1"/>
+    <answer text="обертання Землі навколо своєї осі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="З яких шарів складається земна кора під материками?">
+    <answer text="Океанічного та материкового" flag="0"/>
+    <answer text="Осадового, гранітного, базальтового" flag="1"/>
+    <answer text="Гранітного, базальтового" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="До планетарних форм рельєфу належать:">
+    <answer text="материки та океанічні западини" flag="1"/>
+    <answer text="шельф, платформи, літосферні плити" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Зональний розподіл сонячної радіації на Землі залежить від:">
+    <answer text="кулястості Землі" flag="0"/>
+    <answer text="кута падіння сонячних променів" flag="1"/>
+    <answer text="підстилаючої поверхні" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Верхній пухкий шар гірських порід, перероблений спільними діями компонентів неживої і живої природи, називають:">
+    <answer text="земною корою" flag="0"/>
+    <answer text="гумусом" flag="0"/>
+    <answer text="ґрунтом" flag="1"/>
+  </question>
+</testing>

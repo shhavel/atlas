@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АВСТРАЛИЯ">
+  <question level="1" simple="True" text="Площадь Австралии составляет">
+    <answer text="14,1 млн. кв. км" flag="0"/>
+    <answer text="7,7 млн. кв. км" flag="1"/>
+    <answer text="17,8 млн. кв. км" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Крайней северной точкой Австралии является">
+    <answer text="г. Йорк" flag="1"/>
+    <answer text="г. Байрон" flag="0"/>
+    <answer text="г. Стоп-Пойнт" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Высочайшей вершиной Австралии является">
+    <answer text="г. Косцюшко" flag="1"/>
+    <answer text="г. Котопакси" flag="0"/>
+    <answer text="г. Килиманджаро" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое утверждение является неправильным?">
+    <answer text="Австралия - самый сухой материк" flag="0"/>
+    <answer text="Австралия - крупнейший остров" flag="1"/>
+    <answer text="Австралия - самый маленький континент" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Как называются временные водотоки в Австралии?">
+    <answer text="Корки" flag="1"/>
+    <answer text="Вади" flag="0"/>
+    <answer text="Оазисы" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое утверждение является неправильным?">
+    <answer text="Большинство озер Австралии является бессточными и засоленными" flag="0"/>
+    <answer text="В Австралии значительные запасы подземных вод" flag="0"/>
+    <answer text="Австралия хорошо обеспечена водными ресурсами" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Большой Водораздельный хребет - это:">
+    <answer text="своеобразное коралловое образование на дне моря" flag="0"/>
+    <answer text="горный хребет на востоке Австралии" flag="1"/>
+    <answer text="выход твердых кристаллических пород на окраине материка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из перечисленных животных эндемиками Австралии являются:">
+    <answer text="Коала и страус эму" flag="1"/>
+    <answer text="Крокодил и пингвин" flag="0"/>
+    <answer text="Лама и ленивец" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое утверждение является неправильным?">
+    <answer text="Среди животных Австралии много эндемиков" flag="0"/>
+    <answer text="Воздушные массы, движущихся с Тихого океана, приносят обильные осадки в центральные районы Австралии" flag="1"/>
+    <answer text="На континенте расположена одна страна - Австралия" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Большую часть населения Австралии составляют:">
+    <answer text="потомки переселенцев из Европы" flag="1"/>
+    <answer text="австралийские аборигены" flag="0"/>
+    <answer text="потомки переселенцев из Южной и Юго-Восточной Азии" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое утверждение является правильным?">
+    <answer text="Австралия - страна с высокой плотностью населения" flag="0"/>
+    <answer text="В Австрали высокий уровень урбанизации" flag="1"/>
+    <answer text="Крупнейшим городом Австралии является Канберра" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В группу каких принадлежит Австралия по уровню развития?">
+    <answer text="К развивающихся" flag="0"/>
+    <answer text="К странам с переходной экономикой" flag="0"/>
+    <answer text="К высокоразвитых стран" flag="1"/>
+  </question>
+</testing>

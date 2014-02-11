@@ -221,13 +221,16 @@ private
 
   def bgcolor
     # PLACEHOLDER: bgcolor, e.g. 0x0B8A45
+    0x008284
   end
 
   def photo_file_ext
     # PLACEHOLDER: photos (gallery) files ext, e.g. 'png'
+    'jpg'
   end
 
   def atlas_sign
     # PLACEHOLDER: atlas short signature, e.g. 'g10'
+    'g7'
   end
 end
