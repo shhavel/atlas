@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ОБЩИЙ РАЗДЕЛ">
+  <question text="Какие из ответов являются правильными?" level="1" simple="True">
+    <answer text="Украина находится в III часовом поясе" flag="0"/>
+    <answer text="Отсчет времени ведется от 180-го меридиана" flag="1"/>
+    <answer text="Полдень в Украине наступает на два часа раньше, чем в нулевом (западноевропейском) часовом поясе" flag="1"/>
+  </question>
+  <question text="Какой из ответов является неправильной?" level="1" simple="True">
+    <answer text="По виду геометрической поверхности картографические проекции делятся на цилиндрические, азимутальные, конические" flag="0"/>
+    <answer text=" Тематических карт относятся физико-географические и экономические карты" flag="0"/>
+    <answer text="Используя равновеликие проекции, можно создавать карты без искажений" flag="1"/>
+  </question>
+  <question text="Впервые название &quot;Украина&quot; упоминается:" level="1" simple="True">
+    <answer text="в Киевском Летописи (1187)" flag="1"/>
+    <answer text="в книге Г. Боплана &quot;Описание Украины&quot; (1650 г.)" flag="0"/>
+    <answer text="в описаниях византийских и арабских путешественников X в." flag="0"/>
+  </question>
+  <question text="Автором &quot;Описания Украины&quot; являются:" level="1" simple="True">
+    <answer text="Гиппократ" flag="0"/>
+    <answer text="Г. Боплан" flag="1"/>
+    <answer text="Геродот" flag="0"/>
+  </question>
+  <question text="Общепризнанный географический центр Украины находится:" level="1" simple="True">
+    <answer text=" в г. Светловодск Кировоградской области" flag="0"/>
+    <answer text="вблизи с. Марьяновка Черкасской области" flag="1"/>
+    <answer text="у Чигирин Черкасской области" flag="0"/>
+  </question>
+  <question text="Крайней южной точкой Украины являются:" level="1" simple="True">
+    <answer text="м. Сарыч" flag="1"/>
+    <answer text="м. Тарханкут" flag="0"/>
+    <answer text="г. Меганом" flag="0"/>
+  </question>
+  <question text="Какие из утверждений являются правильными?" level="1" simple="True">
+    <answer text="Площадь территории Украины составляет 603,7 тыс. кв. км" flag="1"/>
+    <answer text="Украина граничит с семью странами" flag="1"/>
+    <answer text="Территория Украины омывается водами трех морей" flag="0"/>
+  </question>
+  <question text="С какими из перечисленных стран не граничит Украина?" level="1" simple="True">
+    <answer text="Со Словакией" flag="0"/>
+    <answer text="С Болгарией" flag="1"/>
+    <answer text=" Со Словенией" flag="1"/>
+  </question>
+  <question text="В каком году завершилось формирование территории Украины?" level="1" simple="True">
+    <answer text="В 1922" flag="0"/>
+    <answer text="В 1954" flag="1"/>
+    <answer text="В 1991" flag="0"/>
+  </question>
+  <question text=" Какие территории были включены в состав Украины в послевоенные годы?" level="1" simple="True">
+    <answer text="Северная Буковина" flag="0"/>
+    <answer text="Южная Бессарабия" flag="0"/>
+    <answer text="Закарпатья" flag="1"/>
+    <answer text="Крымская область" flag="1"/>
+  </question>
+  <question text="Членом которых из перечисленных организаций является Украина?" level="1" simple="True">
+    <answer text="ОПЕК" flag="0"/>
+    <answer text="Содружество независимых государств" flag="1"/>
+    <answer text="Международный валютный фонд" flag="1"/>
+    <answer text="Всемирная торговая организация" flag="1"/>
+  </question>
+  <question text="Какой из ответов является правильной?" level="1" simple="True">
+    <answer text=" Выборы в Верховную Раду Украины проводятся раз в пять лет" flag="0"/>
+    <answer text="Выборы Президента Украины проходят раз в четыре года" flag="0"/>
+    <answer text="Парламент Украины состоит из 450 депутатов" flag="1"/>
+  </question>
+</testing>

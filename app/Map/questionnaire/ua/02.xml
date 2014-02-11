@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testing name="ПРИРОДНІ УМОВИ ТА ПРИРОДНІ РЕСУРСИ">
+  <question text="Найдавнішими архейськими і протерозойськими породами складено:" level="1" simple="True">
+    <answer text="Причорноморську западину" flag="0"/>
+    <answer text="Воронезький кристалічний щит" flag="0"/>
+    <answer text="Український щит" flag="1"/>
+    <answer text="Волино-Подільську Плиту" flag="0"/>
+  </question>
+  <question text="В який із геологічних періодів останні моря залишили територію України?" level="1" simple="True">
+    <answer text="У неогені" flag="1"/>
+    <answer text="В юрі" flag="0"/>
+    <answer text="У палеогені" flag="0"/>
+  </question>
+  <question text="Найвищою вершиною Криму є" level="1" simple="True">
+    <answer text="г. Роман-Кош" flag="1"/>
+    <answer text="г. Демерджі" flag="0"/>
+    <answer text="г. Ай-Петрі" flag="0"/>
+  </question>
+  <question text="Яка висота Говерли?" level="1" simple="True">
+    <answer text="1545 м" flag="0"/>
+    <answer text="2061 м" flag="1"/>
+    <answer text="1527 м" flag="0"/>
+  </question>
+  <question text="Яка з відповідей є правильною?" level="1" simple="True">
+    <answer text="Вся територія України розташована в помірному кліматичному поясі" flag="0"/>
+    <answer text="Континентальність клімату України зростає з півночі на південь" flag="0"/>
+    <answer text="Найбільші річні суми опадів в Україні припадають на Карпати" flag="1"/>
+  </question>
+  <question text="Скільки гірських вершин України мають висоту понад 2 000 метрів?" level="1" simple="True">
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question text="Яке з тверджень є неправильним?" level="1" simple="True">
+    <answer text="Основна маса опадів в Україні випадає у теплий період року" flag="0"/>
+    <answer text="Україна добре забезпечена водними ресурсами" flag="1"/>
+    <answer text="Південний берег Криму знаходиться в межах субтропічного кліматичного поясу" flag="0"/>
+  </question>
+  <question text="Яка з річок України не належить до Азово-Чорноморського басейну?" level="1" simple="True">
+    <answer text="Західний Буг" flag="1"/>
+    <answer text="Дністер" flag="0"/>
+    <answer text="Сейм" flag="0"/>
+  </question>
+  <question text="Які з відповідей є правильними?" level="1" simple="True">
+    <answer text="Найменша солоність води Чорного моря спостерігається в його південній частині" flag="0"/>
+    <answer text="Більшість живих організмів Чорного моря мешкає в його глибинних шарах" flag="0"/>
+    <answer text="Максимальна глибина Азовського моря становить 15 м" flag="1"/>
+    <answer text="Більшість живих організмів Чорного моря мешкають на глибинах до 200 м" flag="1"/>
+  </question>
+  <question text="Які ґрунти найпоширеніші в лісостеповій та степовій зонах України?" level="1" simple="True">
+    <answer text="Чорноземи" flag="1"/>
+    <answer text="Дерново-підзолисті" flag="0"/>
+    <answer text="Сірі лісові" flag="0"/>
+  </question>
+  <question text="До якої із перелічених тектонічних структур приурочені родовища нафти та газу, поклади кам‘яного вугілля в Україні?" level="1" simple="True">
+    <answer text="Дніпровсько-Донецька западина" flag="1"/>
+    <answer text="Воронезький кристалічний масив" flag="0"/>
+    <answer text="Український кристалічний щит" flag="0"/>
+  </question>
+  <question text="Вугільними басейнами України є:" level="1" simple="True">
+    <answer text="Причорноморський" flag="0"/>
+    <answer text="Донецький" flag="1"/>
+    <answer text="Львівсько-Волинський" flag="1"/>
+  </question>
+  <question text="Як називається відрив і переміщення мас гірських порід по схилу під дією сили тяжіння?" level="1" simple="True">
+    <answer text="Площинний змив" flag="0"/>
+    <answer text="Карстоутворення" flag="0"/>
+    <answer text="Зсув" flag="1"/>
+  </question>
+  <question text="В якій природній зоні України найвища сільськогосподарська освоєність земель?" level="1" simple="True">
+    <answer text="У степовій" flag="1"/>
+    <answer text="У лісовій" flag="0"/>
+    <answer text="У лісостеповій" flag="0"/>
+  </question>
+</testing>

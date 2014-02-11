@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗАГАЛЬНИЙ РОЗДІЛ">
+  <question text="Які з відповідей є правильними?" level="1" simple="True">
+    <answer text="Україна знаходиться у ІІІ годинному поясі" flag="0"/>
+    <answer text="Відлік часу ведеться від 180-го меридіана" flag="1"/>
+    <answer text="Полудень в Україні настає на дві години раніше, ніж у нульовому (західноєвропейському) годинному поясі" flag="1"/>
+  </question>
+  <question text="Яка з відповідей є неправильною?" level="1" simple="True">
+    <answer text="За видом геометричної поверхні картографічні проекції поділяються на циліндричні, азимутальні, конічні" flag="0"/>
+    <answer text=" До тематичних карт належать фізико-географічні й економічні карти" flag="0"/>
+    <answer text="Використовуючи рівновеликі проекції, можна створювати карти без спотворень" flag="1"/>
+  </question>
+  <question text="Уперше назва &quot;Україна&quot; згадується:" level="1" simple="True">
+    <answer text="в Київському Літописі (1187 р.)" flag="1"/>
+    <answer text="в книзі Г. Боплана &quot;Опис України&quot; (1650 р.)" flag="0"/>
+    <answer text="в описах візантійських та арабських мандрівників X ст." flag="0"/>
+  </question>
+  <question text="Автором &quot;Опису України&quot; є:" level="1" simple="True">
+    <answer text="Гіппократ" flag="0"/>
+    <answer text="Г. Боплан" flag="1"/>
+    <answer text="Геродот" flag="0"/>
+  </question>
+  <question text="Загальновизнаний географічний центр України знаходиться:" level="1" simple="True">
+    <answer text=" у м. Світловодськ Кіровоградської області" flag="0"/>
+    <answer text="поблизу с. Мар'янівка Черкаської області" flag="1"/>
+    <answer text="біля м.Чигирин Черкаської області" flag="0"/>
+  </question>
+  <question text="Крайньою південною точкою України є:" level="1" simple="True">
+    <answer text="м. Сарич" flag="1"/>
+    <answer text="м. Тарханкут" flag="0"/>
+    <answer text="м. Меганом" flag="0"/>
+  </question>
+  <question text="Які з тверджень є правильними?" level="1" simple="True">
+    <answer text="Площа території України становить 603,7 тис. кв. км" flag="1"/>
+    <answer text="Україна межує з сімома країнами" flag="1"/>
+    <answer text="Територія України омивається водами трьох морів" flag="0"/>
+  </question>
+  <question text="З якими із перелічених країн не межує Україна?" level="1" simple="True">
+    <answer text="Зі Словаччиною" flag="0"/>
+    <answer text="З Болгарією" flag="1"/>
+    <answer text=" Зі Словенією" flag="1"/>
+  </question>
+  <question text="У якому році завершилось формування території України?" level="1" simple="True">
+    <answer text="У 1922" flag="0"/>
+    <answer text="У 1954" flag="1"/>
+    <answer text="У 1991" flag="0"/>
+  </question>
+  <question text=" Які території були включені до складу України в повоєнні часи?" level="1" simple="True">
+    <answer text="Північна Буковина" flag="0"/>
+    <answer text="Південна Бессарабія" flag="0"/>
+    <answer text="Закарпаття" flag="1"/>
+    <answer text="Кримська область" flag="1"/>
+  </question>
+  <question text="Членом яких із перелічених організацій  є Україна?" level="1" simple="True">
+    <answer text="ОПЕК" flag="0"/>
+    <answer text="Співдружність незалежних держав" flag="1"/>
+    <answer text="Міжнародний валютний фонд" flag="1"/>
+    <answer text="Світова організація торгівлі" flag="1"/>
+  </question>
+  <question text="Яка з відповідей є правильною?" level="1" simple="True">
+    <answer text=" Вибори до Верховної Ради України проводяться раз у п'ять років" flag="0"/>
+    <answer text="Вибори Президента України відбуваються раз у чотири роки" flag="0"/>
+    <answer text="Парламент України складається з 450 депутатів" flag="1"/>
+  </question>
+</testing>

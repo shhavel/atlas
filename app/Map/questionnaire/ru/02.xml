@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПРИРОДНЫЕ УСЛОВИЯ И ПРИРОДНЫЕ РЕСУРСЫ">
+  <question text="Древнейшими архейскими и протерозойскими породами сложены:" level="1" simple="True">
+    <answer text="Причерноморскую впадину" flag="0"/>
+    <answer text="Воронежский кристаллический щит" flag="0"/>
+    <answer text="Украинский щит" flag="1"/>
+    <answer text="Волыно-Подольске Плиту" flag="0"/>
+  </question>
+  <question text="В какой из геологических периодов последние моря покинули территорию Украины?" level="1" simple="True">
+    <answer text="В неогене" flag="1"/>
+    <answer text="В юре" flag="0"/>
+    <answer text="В палеогене" flag="0"/>
+  </question>
+  <question text="Высочайшей вершиной Крыма является" level="1" simple="True">
+    <answer text="г. Роман-Кош" flag="1"/>
+    <answer text="г. Демерджи" flag="0"/>
+    <answer text="г. Ай-Петри" flag="0"/>
+  </question>
+  <question text="Какая высота Говерлы?" level="1" simple="True">
+    <answer text="1545 м" flag="0"/>
+    <answer text="2061 м" flag="1"/>
+    <answer text="1527 м" flag="0"/>
+  </question>
+  <question text="Какой из ответов является правильной?" level="1" simple="True">
+    <answer text="Вся территория Украины расположена в умеренном климатическом поясе" flag="0"/>
+    <answer text="Континентальность климата Украины растет с севера на юг" flag="0"/>
+    <answer text="Крупнейшие годовые суммы осадков в Украине приходятся на Карпаты" flag="1"/>
+  </question>
+  <question text="Сколько горных вершин Украины имеют высоту более 2000 метров?" level="1" simple="True">
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question text="Какое из утверждений является неправильным?" level="1" simple="True">
+    <answer text="Основная масса осадков в Украине выпадает в теплый период года" flag="0"/>
+    <answer text="Украина хорошо обеспечена водными ресурсами" flag="1"/>
+    <answer text="Южный берег Крыма находится в пределах субтропического климатического пояса" flag="0"/>
+  </question>
+  <question text="Какая из рек Украины не относится к Азово-Черноморского бассейна?" level="1" simple="True">
+    <answer text="Западный Буг" flag="1"/>
+    <answer text="Днестр" flag="0"/>
+    <answer text="Сейм" flag="0"/>
+  </question>
+  <question text="Какие из ответов являются правильными?" level="1" simple="True">
+    <answer text="Наименьшая соленость воды Черного моря наблюдается в его южной части" flag="0"/>
+    <answer text="Большинство живых организмов Черного моря живет в его глубинных слоях" flag="0"/>
+    <answer text="Максимальная глубина Азовского моря составляет 15 м" flag="1"/>
+    <answer text="Большинство живых организмов Черному морю живут на глубинах до 200 м" flag="1"/>
+  </question>
+  <question text="Какие почвы распространены в лесостепной и степной зонах Украины?" level="1" simple="True">
+    <answer text="Черноземы" flag="1"/>
+    <answer text="Дерново-подзолистые" flag="0"/>
+    <answer text="Серые лесные" flag="0"/>
+  </question>
+  <question text="К какой из перечисленных тектонических структур приурочены месторождения нефти и газа, залежи каменного угля в Украине?" level="1" simple="True">
+    <answer text="Днепровско-Донецкая впадина" flag="1"/>
+    <answer text="Воронежский кристаллический массив" flag="0"/>
+    <answer text="Украинский кристаллический щит" flag="0"/>
+  </question>
+  <question text="Угольными бассейнами Украины являются:" level="1" simple="True">
+    <answer text="Причерноморский" flag="0"/>
+    <answer text="Донецкий" flag="1"/>
+    <answer text="Львовско-Волынский" flag="1"/>
+  </question>
+  <question text="Как называется отрыв и перемещение масс горных пород по склону под действием силы тяжести?" level="1" simple="True">
+    <answer text="Плоскостной смыв" flag="0"/>
+    <answer text="Карстообразования" flag="0"/>
+    <answer text="Смещение" flag="1"/>
+  </question>
+  <question text="В какой природной зоне Украины самая высокая сельскохозяйственная освоенность земель?" level="1" simple="True">
+    <answer text="В степной" flag="1"/>
+    <answer text="В лесной" flag="0"/>
+    <answer text="В лесостепной" flag="0"/>
+  </question>
+</testing>
