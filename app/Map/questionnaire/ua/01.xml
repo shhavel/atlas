@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ГЕОГРАФІЧНЕ ПІЗНАННЯ ЗЕМЛІ">
+ <question text="В уяві яких народів Земля була півкулею, яку тримали чотири слони?" level="1" simple="True">
+  <answer text="Стародавніх єгиптян" flag="0"/>
+  <answer text="Давніх китайців" flag="0"/>
+  <answer text="Стародавніх індійців" flag="1"/>
+ </question>
+ <question text="Хто першим обрахував розміри нашої планети і ввів поняття ''паралелі'' та ''меридіани''?" level="1" simple="True">
+  <answer text="Ератосфен" flag="1"/>
+  <answer text="Птолемей" flag="0"/>
+  <answer text="Бегайм" flag="0"/>
+ </question>
+ <question text="Хто першим висловив припущення, що Земля має форму кулі?" level="1" simple="True">
+  <answer text="Бегайм" flag="0"/>
+  <answer text="Піфагор" flag="1"/>
+  <answer text="Ератосфен" flag="0"/>
+ </question>
+ <question text="Глобус як макет земної кулі вперше створив" level="1" simple="True">
+  <answer text="Ератосфен Кіренський" flag="0"/>
+  <answer text="Мартін Бегайм" flag="1"/>
+  <answer text="Герард Меркатор" flag="0"/>
+ </question>
+ <question text="Кого вважають першовідкривачами Ісландії й Ґренландії?" level="1" simple="True">
+  <answer text="Норманів" flag="1"/>
+  <answer text="Фінікійців" flag="0"/>
+  <answer text="Єгиптян" flag="0"/>
+ </question>
+ <question text="Хто першим використав компас у мореплавстві?" level="1" simple="True">
+  <answer text="Китайці" flag="1"/>
+  <answer text="Араби" flag="0"/>
+  <answer text="Нормани" flag="0"/>
+ </question>
+ <question text="Роботи кого з європейських мандрівників стали свого часу першим систематизованим джерелом знань про Китай?" level="1" simple="True">
+  <answer text="Марко Поло" flag="1"/>
+  <answer text="Афанасія Нікітіна" flag="0"/>
+  <answer text="Христофора Колумба" flag="0"/>
+ </question>
+ <question text="В якому році було відкрито Америку?" level="1" simple="True">
+  <answer text="У 1492 р." flag="1"/>
+  <answer text="У 1498 р." flag="0"/>
+  <answer text="У 1504 р." flag="0"/>
+ </question>
+ <question text="Хто з мореплавців відкрив Америку?" level="1" simple="True">
+  <answer text="Амеріго Веспуччі" flag="0"/>
+  <answer text="Христофор Колумб" flag="1"/>
+  <answer text="Фернан Маґеллан" flag="0"/>
+ </question>
+ <question text="Яку назву мав головний корабель Колумба?" level="1" simple="True">
+  <answer text="&quot;Сантьяго&quot;" flag="0"/>
+  <answer text="&quot;Санта-Марія&quot;" flag="1"/>
+  <answer text="&quot;Тринідад&quot;" flag="0"/>
+ </question>
+ <question text="Хто першим висловив припущення, що нові землі, відкриті Колумбом, насправді є невідомим материком?" level="1" simple="True">
+  <answer text="Амеріго Веспуччі" flag="1"/>
+  <answer text="Фернан Маґеллан" flag="0"/>
+  <answer text="Мартін Вальдземюллер" flag="0"/>
+ </question>
+ <question text="Фернан Маґеллан увійшов в історію як мореплавець," level="1" simple="True">
+  <answer text="що відкрив Америку" flag="0"/>
+  <answer text="що очолював першу навколосвітню подорож" flag="1"/>
+  <answer text="що відкрив морський шлях із Європи до Індії" flag="0"/>
+  <answer text="що дав назву найбільшому океанові планети" flag="1"/>
+ </question>
+ <question text="Які  каравели з експедиції  Маґеллана не досягли Севільї під час першої кругосвітньої подорожі?" level="1" simple="True">
+  <answer text="“Тринідад” " flag="1"/>
+  <answer text="“Сан-Антоніо”" flag="1"/>
+  <answer text="“Вікторія”" flag="0"/>
+  <answer text="“Сантьяго”" flag="1"/>
+  <answer text="“Консепсіон”" flag="1"/>
+ </question>
+ <question text="Хто з мандрівників першим досяг Північного полюса?" level="1" simple="True">
+  <answer text="Роберт Пірі" flag="1"/>
+  <answer text="Фрітьоф Нансен" flag="0"/>
+  <answer text="Руаль Амундсен" flag="0"/>
+ </question>
+ <question text="Хто дав назву найбільшому океану планети?" level="1" simple="True">
+  <answer text="Христофор Колумб" flag="0"/>
+  <answer text="Фернан Маґеллан" flag="1"/>
+  <answer text="Бартоломеу Діаш" flag="0"/>
+ </question>
+ <question text="Як називали Австралію з 1606 по 1814 роки?" level="1" simple="True">
+  <answer text="Нова Британія" flag="0"/>
+  <answer text="Нова Іспанія" flag="0"/>
+  <answer text="Нова Голландія" flag="1"/>
+ </question>
+ <question text="Де в 1779 році у сутичці з тубільцями загинув Джеймс Кук?" level="1" simple="True">
+  <answer text="На Філіппінських островах" flag="0"/>
+  <answer text="На Розбійницьких (Маріанських) островах" flag="0"/>
+  <answer text="На Гавайських островах" flag="1"/>
+ </question>
+ <question text="Філіппінські острови стали місцем загибелі" level="1" simple="True">
+  <answer text="Христофора Колумба" flag="0"/>
+  <answer text="Джеймса Кука" flag="0"/>
+  <answer text="Фернана Маґеллана" flag="1"/>
+ </question>
+ <question text="Яке громадянство мав мандрівник, що першим досяг Південного полюса?" level="1" simple="True">
+  <answer text="Французьке" flag="0"/>
+  <answer text="Англійське" flag="0"/>
+  <answer text="Норвезьке" flag="1"/>
+ </question>
+ <question text="Які засоби пересування не використовувалися експедицією Амундсена під час підкорення Південного полюса?" level="1" simple="True">
+  <answer text="Собаки" flag="0"/>
+  <answer text="Коні" flag="1"/>
+  <answer text="Трактори" flag="1"/>
+ </question>
+ <question text="Що було головною причиною невдачі експедиції Роберта Скотта до Південного полюса?" level="1" simple="True">
+  <answer text="Невдало вибрані засоби пересування" flag="1"/>
+  <answer text="Неточна навігація" flag="0"/>
+  <answer text="Недостатнє фінансування експедиції" flag="0"/>
+ </question>
+ <question text="Хто з перерахованих мандрівників мав українське коріння?" level="1" simple="True">
+  <answer text="Лисянський" flag="1"/>
+  <answer text="Крузенштерн" flag="0"/>
+  <answer text="Беллінсгаузен" flag="0"/>
+ </question>
+ <question text="З якого року в Антарктиді функціонає українська полярна станція &quot;Академік Вернадський&quot;?" level="1" simple="True">
+  <answer text="З 1996 р." flag="1"/>
+  <answer text="З 1991 р." flag="0"/>
+  <answer text="З 2001 р." flag="0"/>
+ </question>
+ <question text="Як називається одиниця швидкості у мореплавстві?" level="1" simple="True">
+  <answer text="Морська миля" flag="0"/>
+  <answer text="Вузол" flag="1"/>
+  <answer text="Морський вузол" flag="0"/>
+  <answer text="Гордіїв вузол" flag="0"/>
+ </question>
+</testing>

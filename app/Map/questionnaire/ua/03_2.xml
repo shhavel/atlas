@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ГІДРОСФЕРА">
+ <question text="Яка частина земної поверхні зайнята Світовим океаном?" level="1" simple="True">
+  <answer text="17 %" flag="0"/>
+  <answer text="40 %" flag="0"/>
+  <answer text="60 %" flag="0"/>
+  <answer text="71 %" flag="1"/>
+ </question>
+ <question text="Яку течію називають теплою?" level="1" simple="True">
+  <answer text="Ту, в якій вода тепліша за 0°С" flag="0"/>
+  <answer text="Ту, в якій вода тепліша за +20°С" flag="0"/>
+  <answer text="Ту, в якій вода тепліша за навколишні океанічні води" flag="1"/>
+  <answer text="Ту, в якій вода ніколи не замерзає" flag="0"/>
+ </question>
+ <question text="У яких одиницях вимірюють солоність океанічної води?" level="1" simple="True">
+  <answer text="У грамах на літр кубічний" flag="0"/>
+  <answer text="У відсотках" flag="0"/>
+  <answer text="У проміле" flag="1"/>
+  <answer text="У кілограмах на метр кубічний" flag="0"/>
+ </question>
+ <question text="Як називається частина річкової долини, постійно зайнята водним потоком?" level="1" simple="True">
+  <answer text="Заплавою" flag="0"/>
+  <answer text="Річищем" flag="1"/>
+  <answer text="Терасою" flag="0"/>
+  <answer text="Гирлом" flag="0"/>
+ </question>
+ <question text="Від яких факторів залежит висота припливів?" level="1" simple="True">
+  <answer text="Глибини моря" flag="1"/>
+  <answer text="Від взаємного розміщення Землі, Місяця та Сонця" flag="1"/>
+  <answer text="Від пори року" flag="0"/>
+  <answer text="Від форми берегової лінії" flag="1"/>
+ </question>
+ <question text="Яка максимальна висота припливів у світовому океані?" level="1" simple="True">
+  <answer text="Понад 18 м" flag="1"/>
+  <answer text="Близько 10 м" flag="0"/>
+  <answer text="Не більше 0,5 м" flag="0"/>
+ </question>
+ <question text="Як змінюється температура води в океані до глибини 700 м?" level="1" simple="True">
+  <answer text="Практично не змінюється" flag="0"/>
+  <answer text="Постійно знижується" flag="1"/>
+  <answer text="Постійно підвищується" flag="0"/>
+  <answer text="Зниження та підвищення температури чергуються" flag="0"/>
+ </question>
+ <question text="Яке з тверджень є неправильним?" level="1" simple="True">
+  <answer text="Біля самого дна океану вода найхолодніша, оскільки туди зовсім не&#xA; проникають сонячні промені" flag="1"/>
+  <answer text="На великих глибинах уся вода має однакову температуру, близьку до 0°С" flag="0"/>
+  <answer text="Біля самого дна вода стає теплішою, через те що  нагрівається теплою речовиною&#xA; мантії, що залягає порівняно неглибоко" flag="0"/>
+ </question>
+ <question text="Які агрегатні стани характерні для води?" level="1" simple="True">
+  <answer text="Газоподібний" flag="1"/>
+  <answer text="Рідкий" flag="1"/>
+  <answer text="В'язкий" flag="0"/>
+  <answer text="Твердий" flag="1"/>
+ </question>
+ <question text="Як називається процес, коли вода, випаровуючись над океаном, переноситься&#xA; на суходіл і після випадання на поверхню стікає в океан по поверхні або просочуючись під землю?" level="1" simple="True">
+  <answer text="Стік" flag="0"/>
+  <answer text="Просочування" flag="0"/>
+  <answer text="Малий кругообіг" flag="0"/>
+  <answer text="Великий кругообіг" flag="1"/>
+ </question>
+ <question text="Як називаються виступи твердих порід над дном річки у вигляді окремих&#xA; кам'яних брил?" level="1" simple="True">
+  <answer text="Водоспад" flag="0"/>
+  <answer text="Урвище" flag="0"/>
+  <answer text="Дамба" flag="0"/>
+  <answer text="Пороги" flag="1"/>
+ </question>
+ <question text="Як називаються озера, що виникли на легкорозчинних гірських&#xA; породах?" level="1" simple="True">
+  <answer text="Озера-стариці" flag="0"/>
+  <answer text="Льодовикові" flag="0"/>
+  <answer text="Карстові" flag="1"/>
+  <answer text="Лиманні" flag="0"/>
+ </question>
+</testing>
