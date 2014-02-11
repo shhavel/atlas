@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Географическое положение">
+  <question level="1" simple="True" text="По размерам территории Украина в Европе:">
+    <answer text="является крупнейшей" flag="0"/>
+    <answer text="уступает только России" flag="1"/>
+    <answer text="уступает Франции и России" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="С какой из перечисленных стран Украина не имеет общих границ?">
+    <answer text="С Болгарией" flag="1"/>
+    <answer text="С Румынией" flag="0"/>
+    <answer text="Со Словакией" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Из аэропортов находится в пределах Киева?">
+    <answer text="Борисполь" flag="0"/>
+    <answer text="Киев (Жуляны)" flag="1"/>
+    <answer text="Гостомельский" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из городов-спутников Киева больше всего?">
+    <answer text="Бровары" flag="1"/>
+    <answer text="Борисполь" flag="0"/>
+    <answer text="Вышгород" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является правильным?">
+    <answer text="Южнее Киева находится Киевское водохранилище" flag="0"/>
+    <answer text="Киев находится в северной части государства" flag="1"/>
+    <answer text="Аэропорт Борисполь расположен западнее Киева" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="По какой реке осуществляется судоходное сообщение Украины с рядом стран Центральной и Западной Европы?">
+    <answer text="По Днепру" flag="0"/>
+    <answer text="По Дунаю" flag="1"/>
+    <answer text="По Западному Бугу" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В какой части света находится Украина?">
+    <answer text="В Европе" flag="1"/>
+    <answer text="В Азии" flag="0"/>
+    <answer text="В Евразии" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer text="Киев-крупнейший город государства" flag="0"/>
+    <answer text="Киев-крупнейший город Восточной Европы" flag="1"/>
+    <answer text="Через Киев проходит граница лесной и лесостепной зоны" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Если выехать из Киева в западном направлении, то первым областным центром на пути будет:">
+    <answer text="Чернигов" flag="0"/>
+    <answer text="Житомир" flag="1"/>
+    <answer text="Ровно" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Северная часть границы Киевской области является одновременно государственной границей Украины с:">
+    <answer text="Беларусью" flag="1"/>
+    <answer text="Россией" flag="0"/>
+    <answer text="Польшей" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer text="Украина граничит с семью государствами" flag="0"/>
+    <answer text="Территория Украины омывается водами двух морей" flag="0"/>
+    <answer text="Из столиц иностранных государств в Киев ближе расположена Москва" flag="1"/>
+  </question>
+</testing>

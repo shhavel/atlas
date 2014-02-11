@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Київ у минулому">
+  <question level="1" simple="True" text="В який з перелічених років Київ мав найбільшу кількість жителів?">
+    <answer text="900 р." flag="0"/>
+    <answer text="1200 р." flag="1"/>
+    <answer text="1500 р." flag="0"/>
+    <answer text="1700 р." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В який з перелічених років Київ мав найменшу кількість жителів?">
+    <answer text="1914 р." flag="0"/>
+    <answer text="1920 р." flag="0"/>
+    <answer text="1940 р." flag="0"/>
+    <answer text="1943 р." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Найдавніший опис Києва датується:">
+    <answer text="1240 роком" flag="0"/>
+    <answer text="945 роком" flag="1"/>
+    <answer text="1380 роком" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="За часів Ігоря, Ольги та Святослава більшість населення міста проживала на:">
+    <answer text="Горі" flag="0"/>
+    <answer text="Подолі" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="В якому році військо Батия зруйнувало столицю Русі?">
+    <answer text="У 1240" flag="1"/>
+    <answer text="У 945" flag="0"/>
+    <answer text="У 1147" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Як називався керівний орган Києва часів Речі Посполитої?">
+    <answer text="Парламент" flag="0"/>
+    <answer text="Магістрат" flag="1"/>
+    <answer text="Міська дума" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Засновником колегіуму, що діяв у стінах Братського монастиря, був:">
+    <answer text="Адам Кисель" flag="0"/>
+    <answer text="Петро Могила" flag="1"/>
+    <answer text="Михайло Ломоносов" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Перша київська друкарня працювала в:">
+    <answer text="Печерському монастирі" flag="1"/>
+    <answer text="Софійському монастирі" flag="0"/>
+    <answer text="Михайлівському монастирі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Гору, на якій стояв київський замок, згодом стали називати...">
+    <answer text="Лиса" flag="0"/>
+    <answer text="Дитинка" flag="0"/>
+    <answer text="Киселівка" flag="1"/>
+    <answer text="Черепанова" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="В якому році Катерина II відвідала Київ?">
+    <answer text="У 1787 році" flag="1"/>
+    <answer text="У 1616 році" flag="0"/>
+    <answer text="У 1825 році" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Саркофаг, в якому поховано Ярослава Мудрого, знаходиться в:">
+    <answer text="Києво-Печерській лаврі" flag="0"/>
+    <answer text="Софійському соборі" flag="1"/>
+    <answer text="Михайлівському Золотоверхому соборі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка визначна подія в житті Києва сталася в 1870 році?">
+    <answer text="Місту було надане магдебурзьке право" flag="0"/>
+    <answer text="До міста прийшла залізниця" flag="1"/>
+    <answer text="Київ відвідала Катерина II" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Населення. Історія та сучасність">
+  <question level="1" simple="True" text="У Голосіївському районі є місцевість, назва якої означає:">
+    <answer text="групу господарських споруд" flag="0"/>
+    <answer text="переправу для великої рогатої худоби" flag="0"/>
+    <answer text="пристрій для боротьби з домашніми шкідниками" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перелічених місцевостей у XVIII ст. була заселеною?">
+    <answer text="Пріорка" flag="1"/>
+    <answer text="Пуща-Водиця" flag="0"/>
+    <answer text="Оболонь" flag="0"/>
+    <answer text="Теличка" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="До якого району за сучасним адміністративним поділом належить місцевість Кудрявець?">
+    <answer text="Печерського" flag="0"/>
+    <answer text="Подільського" flag="0"/>
+    <answer text="Шевченківського" flag="1"/>
+    <answer text="Солом’янського" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Яка з перелічених місцевостей офіційно не належала до міста Києва на початку XX ст. (станом на 1914 р.)?">
+    <answer text="Оболонь" flag="0"/>
+    <answer text="Совки" flag="1"/>
+    <answer text="Звіринець" flag="0"/>
+    <answer text="Труханів острів" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У сучасному Печерському районі є місцевість, назва якої походить:">
+    <answer text="від імені слов’янського бога" flag="0"/>
+    <answer text="від стародавніх курганів" flag="0"/>
+    <answer text="від липового гаю" flag="1"/>
+    <answer text="від імені половецького хана" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="У сучасному Оболонському районі є житловий масив, названий на честь:">
+    <answer text="столиці Білорусі" flag="1"/>
+    <answer text="Академії наук" flag="0"/>
+    <answer text="героя Великої Вітчизняної війни" flag="0"/>
+    <answer text="українського радянського поета" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="До території сучасного Дарницького району входить колишнє село, назва якого пов’язана з:">
+    <answer text="чумаками" flag="0"/>
+    <answer text="рибалками" flag="0"/>
+    <answer text="бджолярами" flag="1"/>
+    <answer text="козаками" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="На честь митрополита Рафаїла Заборовського названо:">
+    <answer text="браму, що вела до Софійського монастиря" flag="1"/>
+    <answer text="вулицю на Печерську" flag="0"/>
+    <answer text="аудиторію Києво-Могилянської академії" flag="0"/>
+    <answer text="джерело у Лаврі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Первісне призначення будинку Філармонії:">
+    <answer text="Купецьке зібрання" flag="1"/>
+    <answer text="Палац генерал-губернатора" flag="0"/>
+    <answer text="Педагогічний музей" flag="0"/>
+    <answer text="Театр &quot;Соловцов" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Іподром, Експоцентр, Бібліотека ім. В. Вернадського розташовані:">
+    <answer text="у Шевченківському районі" flag="0"/>
+    <answer text="у Голосіївському районі" flag="1"/>
+    <answer text="у Дніпровському районі" flag="0"/>
+    <answer text="у Печерському районі" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Якій з перелічених осіб у Києві поки що немає пам’ятника?">
+    <answer text="Миколі Лисенку" flag="0"/>
+    <answer text="Ярославу Мудрому" flag="0"/>
+    <answer text="Володимиру Вернадському" flag="0"/>
+    <answer text="Петру Могилі" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Скульптурні зображення Михайла Глінки, Лесі Українки, Марії Заньковецької можна побачити:">
+    <answer text="у Маріїнському парку" flag="0"/>
+    <answer text="у Міському саду" flag="1"/>
+    <answer text="у Хрещатому парку" flag="0"/>
+    <answer text="у Печерському ландшафтному парку" flag="0"/>
+  </question>
+</testing>
