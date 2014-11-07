@@ -43,9 +43,9 @@ module BrowserHelper
     translation = if @lang == 'ua'
       translations_ua[key]
     elsif @lang == 'ru'
-      translations_ru[key])
+      translations_ru[key]
     else
-      translations_en[key])
+      translations_en[key]
     end
     translation.nil? ? key : translation
   end
