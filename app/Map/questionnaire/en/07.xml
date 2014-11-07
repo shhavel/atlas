@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries of Asia">
+  <question text="For the demographic situation of the majority of Asian countries is characteristic">
+    <answer flag="0" text="aging nations"/>
+    <answer flag="0" text="demographic crisis"/>
+    <answer flag="1" text="population explosion"/>
+    <answer flag="0" text="depopulation"/>
+  </question>
+  <question text="Which of the Transcaucasian countries well endowed with oil?">
+    <answer flag="0" text="Georgia"/>
+    <answer flag="0" text="Armenia"/>
+    <answer flag="1" text="Azerbaijan"/>
+  </question>
+  <question text="Major crops grown on irrigated land in Central Asia, is">
+    <answer flag="0" text="rice"/>
+    <answer flag="1" text="cotton"/>
+    <answer flag="0" text="peanuts"/>
+  </question>
+  <question text="China is the largest port">
+    <answer flag="1" text="Shanghai"/>
+    <answer flag="0" text="Peking"/>
+    <answer flag="0" text="Qingdao"/>
+    <answer flag="0" text="Dalian"/>
+  </question>
+  <question text="Specify the State in which the oil industry is the branch of international specialization">
+    <answer flag="1" text="Kuwait"/>
+    <answer flag="0" text="Syria"/>
+    <answer flag="1" text="Brunei"/>
+    <answer flag="1" text="Saudi Arabia"/>
+  </question>
+  <question text="Taj Mahal is located in">
+    <answer flag="0" text="Nepal"/>
+    <answer flag="0" text="Thailand"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="Turkey"/>
+  </question>
+  <question text="The main role in the industry of Japan plays">
+    <answer flag="1" text="center about. Honshu"/>
+    <answer flag="0" text="north of. Hokkaido"/>
+    <answer flag="0" text="south on. Kyushu"/>
+    <answer flag="0" text="southeast of. Shikoku"/>
+  </question>
+  <question text="China is the national religion">
+    <answer flag="0" text="Shintoism"/>
+    <answer flag="1" text="Confucianism and Taoism"/>
+    <answer flag="0" text="Buddhism"/>
+    <answer flag="0" text="Sikhism"/>
+  </question>
+  <question text="Which of these countries is in the group &quot;Asian tigers&quot;?">
+    <answer flag="0" text="Israel"/>
+    <answer flag="0" text="Philippines"/>
+    <answer flag="1" text="South Korea"/>
+    <answer flag="0" text="Malaysia"/>
+  </question>
+  <question text="The most economically developed areas of China is">
+    <answer flag="1" text="Eastern"/>
+    <answer flag="0" text="Northern"/>
+    <answer flag="0" text="Western"/>
+  </question>
+  <question text="In some parts of Asia are having Islam and Christianity?">
+    <answer flag="0" text="The central"/>
+    <answer flag="1" text="In the southwestern"/>
+    <answer flag="0" text="In the southern"/>
+    <answer flag="0" text="In the southeastern"/>
+  </question>
+  <question text="The main export crops in Sri Lanka is">
+    <answer flag="0" text="vanilla"/>
+    <answer flag="0" text="Dates"/>
+    <answer flag="1" text="tea"/>
+    <answer flag="0" text="rice"/>
+  </question>
+</testing>

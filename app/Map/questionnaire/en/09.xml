@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Africa, Australia and Oceania">
+  <question text="In what part of Africa is grown most rice?">
+    <answer flag="0" text="Western"/>
+    <answer flag="1" text="Eastern"/>
+    <answer flag="0" text="South"/>
+    <answer flag="0" text="Northern"/>
+  </question>
+  <question text="Manufacturing industries of Africa placed mainly in">
+    <answer flag="0" text="capitals"/>
+    <answer flag="1" text="port cities"/>
+    <answer flag="0" text="central part of the country"/>
+  </question>
+  <question text="Colonial features of the transport network of African countries are">
+    <answer flag="0" text="lack of an integrated transport system"/>
+    <answer flag="1" text="more dense transport network on the coast"/>
+    <answer flag="0" text="the virtual absence of rail transport"/>
+  </question>
+  <question text="Type a country, for which the problem of shortage of fresh water is the most urgent?">
+    <answer flag="0" text="Congo"/>
+    <answer flag="1" text="Egypt"/>
+    <answer flag="0" text="Liberia"/>
+    <answer flag="0" text="Angola"/>
+  </question>
+  <question text="Year of African liberation is">
+    <answer flag="0" text="1950"/>
+    <answer flag="1" text="1960"/>
+    <answer flag="0" text="1970"/>
+  </question>
+  <question text="Peoples living in southern Africa, it is">
+    <answer flag="0" text="Berbers"/>
+    <answer flag="1" text="borax"/>
+    <answer flag="0" text="Pygmies"/>
+    <answer flag="0" text="Arabs"/>
+  </question>
+  <question text="What a monocultural country Africa specializes in the export of bauxite?">
+    <answer flag="0" text="Ivory Coast"/>
+    <answer flag="0" text="Republic of South Africa"/>
+    <answer flag="1" text="Guinea"/>
+    <answer flag="0" text="Cameroon"/>
+  </question>
+  <question text="Which of these countries belong to the group of the poorest countries in the world?">
+    <answer flag="0" text="Libya"/>
+    <answer flag="0" text="Papua New Guinea"/>
+    <answer flag="1" text="Sierra Leone"/>
+  </question>
+  <question text="Colonial history of Australia and New Zealand is shown in">
+    <answer flag="1" text="raw export specialization"/>
+    <answer flag="0" text="predominance of large estates"/>
+    <answer flag="0" text="territorial structure of the economy"/>
+  </question>
+  <question text="What kind of transportation is virtually absent in Australia?">
+    <answer flag="0" text="Automobile"/>
+    <answer flag="0" text="Railway"/>
+    <answer flag="1" text="River"/>
+    <answer flag="0" text="Air"/>
+  </question>
+  <question text="The most densely populated areas in Australia is">
+    <answer flag="0" text="North"/>
+    <answer flag="1" text="Southeast"/>
+    <answer flag="0" text="Southwest"/>
+  </question>
+  <question text="The main export product is the island countries of Oceania">
+    <answer flag="0" text="fish"/>
+    <answer flag="0" text="pearls"/>
+    <answer flag="1" text="copra"/>
+    <answer flag="0" text="citrus"/>
+  </question>
+</testing>
