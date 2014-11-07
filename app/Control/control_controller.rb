@@ -16,11 +16,11 @@ class ControlController < Rho::RhoController
     Rho::NativeToolbar.remove
     @controls = Control.find(:all)
     @controls.each do |control|
-      # if control.type == 'checkbox'
-      #   control.update_attributes({'value' => (@params[control.name] ? '1' : '0' )})
-      # else
+      if control.type == 'checkbox'
+        control.update_attributes({'value' => (@params[control.name] ? '1' : '0' )})
+      else
         control.update_attributes({'value' => @params[control.name]}) if @params[control.name]
-      # end
+      end
     end
     Control.lang = @params['lang'] if @params['lang']
     render :back => @params['referer']

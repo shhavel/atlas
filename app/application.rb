@@ -6,14 +6,13 @@ class AppApplication < Rho::RhoApplication
       Rhom::Rhom.database_full_reset(false, true)
       # PLACEHOLDER: categories & maps, i.e. categories.each{|category| Category.create(category) }
     end
-    if Bill.find(:all).size == 0
-      code = (0...6).map{(65 + rand(26)).chr }.join
-      token =  (0...32).map.with_index{|i| ('a'..'z').to_a.concat(('0'..'9').to_a)[rand(36)] }.join
-      Bill.create({'code' => code, 'token' => token, 'paid' => 0})
-    end
     if Control.find(:all).size == 0
+      system_lang = nil
+      if ['uk', 'ru', 'en'].include?(System.get_locale)
+        system_lang = System.get_locale == 'uk' ? 'ua' : System.get_locale
+      end
       # PLACEHOLDER: default_lang, e.g. default_lang = 'ru'
-      Control.create({'name' => 'lang', 'value' => default_lang, 'type' => 'select', 'values_str' => '["ru","ua"]'})
+      Control.create({'name' => 'lang', 'value' => (system_lang || default_lang), 'type' => 'select', 'values_str' => '["ua","ru","en"]'})
       Control.create({'name' => 'icon_size', 'value' => (System::get_property('platform') == 'APPLE' ? 'small' : 'normal'), 'type' => 'select', 'values_str' => '["small","normal"]'})
       Control.create({'name' => 'zoom_step', 'value' => '70', 'type' => 'range', 'values_str' => '{"min":50,"max":100,"step":1}'})
       Control.create({'name' => 'show_controls_icon', 'value' => '1', 'type' => 'checkbox'})
