@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Totalitarian and dictatorial regimes">
+  <question text="Monarchy in Russia was overthrown as a result of">
+    <answer flag="1" text="February Revolution"/>
+    <answer flag="0" text="October revolution"/>
+    <answer flag="0" text="General Kornilov revolt"/>
+  </question>
+  <question text="The first Bolshevik government in Russia led">
+    <answer flag="0" text="Trotsky"/>
+    <answer flag="1" text="Lenin"/>
+    <answer flag="0" text="Stalin"/>
+  </question>
+  <question text="Brest-Litovsk was signed">
+    <answer flag="0" text="December 18, 1917"/>
+    <answer flag="0" text="February 23, 1918"/>
+    <answer flag="1" text="March 3, 1918"/>
+  </question>
+  <question text="Armed revolt Spartacus (communists) took place in Berlin in">
+    <answer flag="0" text="November, 1918"/>
+    <answer flag="1" text="January, 1919"/>
+    <answer flag="0" text="April, 1919"/>
+  </question>
+  <question text="Nazi &quot;Beer Hall Putsch&quot; was held in">
+    <answer flag="0" text="Berlin"/>
+    <answer flag="1" text="Munich"/>
+    <answer flag="0" text="Nuremberg"/>
+    <answer flag="0" text="Kiel"/>
+  </question>
+  <question text="The coming of the Nazis to power in Germany was held in">
+    <answer flag="0" text="In 1919"/>
+    <answer flag="0" text="In 1923"/>
+    <answer flag="1" text="In 1933"/>
+    <answer flag="0" text="In 1939"/>
+  </question>
+  <question text="Mutiny nationalists against the government of the Popular Front in Spain broke">
+    <answer flag="0" text="January 28, 1930"/>
+    <answer flag="0" text="April 14, 1931"/>
+    <answer flag="1" text="July 17, 1936"/>
+  </question>
+  <question text="Anti-Semitism manifested itself most actively in politics">
+    <answer flag="1" text="German Nazis"/>
+    <answer flag="0" text="Italian fascists"/>
+    <answer flag="0" text="Spanish Falangist"/>
+  </question>
+  <question text="What name was Bolshevik policy, introduced in 1921?">
+    <answer flag="0" text="&quot;War Communism&quot;"/>
+    <answer flag="1" text="NEP"/>
+    <answer flag="0" text="Collectivization"/>
+  </question>
+  <question text="3 shows the group name of those where for 20-30's. Established totalitarian regimes.">
+    <answer flag="0" text="Bulgaria, China, Poland, Romania"/>
+    <answer flag="0" text="Yugoslavia, Czechoslovakia, Japan, the USSR, Germany"/>
+    <answer flag="1" text="USSR, Germany, Italy"/>
+  </question>
+  <question text="What year was established the USSR?">
+    <answer flag="1" text="In 1922"/>
+    <answer flag="0" text="In 1923"/>
+    <answer flag="0" text="In 1924"/>
+  </question>
+  <question text="In which country were &quot;two red years&quot;?">
+    <answer flag="0" text="Spain"/>
+    <answer flag="1" text="Italy"/>
+    <answer flag="0" text="USSR"/>
+    <answer flag="0" text="Germany"/>
+  </question>
+</testing>

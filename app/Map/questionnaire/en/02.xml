@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Construction of the post-war world">
+  <question text="Which of the aforementioned agreements were concluded first?">
+    <answer flag="0" text="Trianon"/>
+    <answer flag="0" text="Rapallo"/>
+    <answer flag="0" text="Sevres"/>
+    <answer flag="0" text="Neyyiskyy"/>
+    <answer flag="1" text="Saint-Germain"/>
+  </question>
+  <question text="When was launched the Paris Peace Conference?">
+    <answer flag="0" text="November 11, 1918"/>
+    <answer flag="1" text="January 18, 1919"/>
+    <answer flag="0" text="June 28, 1919"/>
+  </question>
+  <question text="Which country in the First World War was part of the Entente, but was not invited to the Paris Peace Conference?">
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Italy"/>
+    <answer flag="0" text="Hungary"/>
+    <answer flag="0" text="Serbia"/>
+    <answer flag="1" text="Russia"/>
+  </question>
+  <question text="Which of these territories Germany lost under the Treaty of Versailles?">
+    <answer flag="0" text="Holstein"/>
+    <answer flag="0" text="Luxembourg"/>
+    <answer flag="0" text="Burgenland"/>
+    <answer flag="0" text="Sudetenland"/>
+    <answer flag="1" text="Alsace and Lotarynґiyu"/>
+    <answer flag="0" text="Liechtenstein"/>
+    <answer flag="0" text="about. Heligoland"/>
+    <answer flag="0" text="Bavaria"/>
+    <answer flag="0" text="Saxony"/>
+  </question>
+  <question text="What was the name of peace treaty with Hungary?">
+    <answer flag="0" text="Saint-Germain"/>
+    <answer flag="1" text="Trianon"/>
+    <answer flag="0" text="Versailles"/>
+    <answer flag="0" text="Sevres"/>
+    <answer flag="0" text="Neyyiskyy"/>
+  </question>
+  <question text="Which of these contracts signed in 1919-1921 gg., Decided the fate of Ukrainian lands?">
+    <answer flag="1" text="Saint-Germain"/>
+    <answer flag="0" text="&quot;Treaty 4&quot; states"/>
+    <answer flag="0" text="Versailles"/>
+    <answer flag="0" text="Trianon"/>
+    <answer flag="0" text="Sevres"/>
+    <answer flag="0" text="Lausanne"/>
+    <answer flag="0" text="Neyyiskyy"/>
+  </question>
+  <question text="Vashynґtonska conference showed the predominant influence in the Asia-Pacific region">
+    <answer flag="0" text="USA"/>
+    <answer flag="0" text="Soviet"/>
+    <answer flag="1" text="Japan"/>
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Great Britain"/>
+  </question>
+  <question text="One reason for the ineffectiveness of the Versailles-Washington system was">
+    <answer flag="0" text="difficult economic situation of post-war"/>
+    <answer flag="1" text="national liberation struggle of the oppressed peoples"/>
+    <answer flag="0" text="imbalance in the arms of European nations"/>
+  </question>
+  <question text="Germany joined the League of Nations">
+    <answer flag="0" text="in 1919"/>
+    <answer flag="0" text="in 1922"/>
+    <answer flag="1" text="in 1926"/>
+    <answer flag="0" text="in 1933"/>
+  </question>
+  <question text="What territory won Denmark by the Treaty of Versailles?">
+    <answer flag="0" text="Eupen and Melmedi"/>
+    <answer flag="1" text="North Schleswig"/>
+    <answer flag="0" text="Poznan and Pomerania"/>
+  </question>
+  <question text="For what purpose was convened Vashynґtonsku conference?">
+    <answer flag="0" text="Before signing the agreement with the Allies in Germany"/>
+    <answer flag="1" text="In order to regulate the relations between the major powers in the Asia-Pacific region"/>
+    <answer flag="0" text="To develop a common strategy leading states against the Soviet Union"/>
+  </question>
+  <question text="Occupation of the Ruhr in 1923-1925. Participated troops">
+    <answer flag="0" text="France and England"/>
+    <answer flag="1" text="France and Belgium"/>
+    <answer flag="0" text="France and the USA"/>
+  </question>
+</testing>

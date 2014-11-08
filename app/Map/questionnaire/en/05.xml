@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Central and Eastern Europe">
+  <question text="The independence of the Polish Republic was proclaimed in">
+    <answer flag="0" text="In 1917"/>
+    <answer flag="1" text="In 1918"/>
+    <answer flag="0" text="In 1919"/>
+  </question>
+  <question text="The title of &quot;chief of state&quot; used">
+    <answer flag="1" text="J. Pilsudski"/>
+    <answer flag="0" text="I. Mostsytskyy"/>
+    <answer flag="0" text="E. Rydz-Smihly"/>
+  </question>
+  <question text="Post-war borders of Poland were finally">
+    <answer flag="0" text="In 1918"/>
+    <answer flag="0" text="In 1919"/>
+    <answer flag="0" text="In 1921"/>
+    <answer flag="1" text="In 1923"/>
+  </question>
+  <question text="Poland 20-30 years had territorial problems with">
+    <answer flag="1" text="all its neighbors"/>
+    <answer flag="0" text="Lithuania and the Soviet Union"/>
+    <answer flag="0" text="Lithuania and Czechoslovakia"/>
+  </question>
+  <question text="When Poland was set to &quot;sanitation&quot;?">
+    <answer flag="0" text="In 1919"/>
+    <answer flag="0" text="In 1920"/>
+    <answer flag="1" text="In 1926"/>
+  </question>
+  <question text="Czechoslovakia was formed in">
+    <answer flag="1" text="In 1918"/>
+    <answer flag="0" text="In 1919"/>
+    <answer flag="0" text="In 1920"/>
+  </question>
+  <question text="The first president of Czechoslovakia was">
+    <answer flag="0" text="K.Henlyayn"/>
+    <answer flag="0" text="E.Benesh"/>
+    <answer flag="1" text="Masaryk"/>
+    <answer flag="0" text="H.Haha"/>
+  </question>
+  <question text="Czechoslovakia was divided neighbors and finally ceased to exist in">
+    <answer flag="0" text="In 1938"/>
+    <answer flag="1" text="In 1939"/>
+    <answer flag="0" text="In 1941"/>
+  </question>
+  <question text="When the Hungarian Soviet power there?">
+    <answer flag="0" text="In 1918"/>
+    <answer flag="1" text="In 1919"/>
+    <answer flag="0" text="In 1920"/>
+  </question>
+  <question text="Which of the following countries experienced major territorial losses during the first world war?">
+    <answer flag="1" text="Hungary"/>
+    <answer flag="0" text="Bulgaria"/>
+    <answer flag="0" text="Romania"/>
+  </question>
+  <question text="Dictatorial regime of General Y.Antonesku operated">
+    <answer flag="1" text="Romania"/>
+    <answer flag="0" text="Bulgaria"/>
+    <answer flag="0" text="Hungary"/>
+  </question>
+  <question text="Vladayske revolt in 1918 occurred in">
+    <answer flag="0" text="Romania"/>
+    <answer flag="1" text="Bulgaria"/>
+    <answer flag="0" text="Hungary"/>
+    <answer flag="0" text="Yugoslavia"/>
+  </question>
+</testing>

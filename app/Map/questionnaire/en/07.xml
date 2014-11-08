@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Cultural development">
+  <question text="The dominant artistic trends in the USSR was">
+    <answer flag="0" text="realism"/>
+    <answer flag="0" text="critical realism"/>
+    <answer flag="1" text="Socialist Realism"/>
+  </question>
+  <question text="Which group of the cultural sphere in the 20-30 years was under control of the state?">
+    <answer flag="1" text="Germany, Italy, USSR"/>
+    <answer flag="0" text="England, France, USA"/>
+    <answer flag="0" text="Poland, Hungary, Romania"/>
+  </question>
+  <question text="Established V.Hroppiusom German Bauhaus school of defining new trends">
+    <answer flag="0" text="Literature"/>
+    <answer flag="0" text="Painting"/>
+    <answer flag="1" text="architecture"/>
+  </question>
+  <question text="Was the founder of Next?">
+    <answer flag="0" text="Realism"/>
+    <answer flag="1" text="Surrealism"/>
+    <answer flag="0" text="Socialist Realism"/>
+    <answer flag="0" text="critical realism"/>
+  </question>
+  <question text="Center of production of films in the US in 30 years was">
+    <answer flag="0" text="Chicago"/>
+    <answer flag="0" text="NY"/>
+    <answer flag="1" text="Hollywood"/>
+  </question>
+  <question text="The most politicized Olympics in the 20-30 years was the Olympics">
+    <answer flag="0" text="Paris"/>
+    <answer flag="1" text="Berlin"/>
+    <answer flag="0" text="LA"/>
+  </question>
+  <question text="Kitsch - is">
+    <answer flag="1" text="mass production, designed for external effect"/>
+    <answer flag="0" text="kind of mass culture"/>
+    <answer flag="0" text="a new kind of pop genre"/>
+  </question>
+  <question text="What is new media became widely used in 20-30 years?">
+    <answer flag="0" text="Newspapers"/>
+    <answer flag="0" text="Journals"/>
+    <answer flag="1" text="Radio"/>
+    <answer flag="0" text="Cinema"/>
+  </question>
+  <question text="In popular culture in countries with totalitarian regimes characteristic">
+    <answer flag="1" text="propahandyzm"/>
+    <answer flag="0" text="accountability"/>
+    <answer flag="0" text="democracy, emancipation"/>
+  </question>
+  <question text="What is the major role played by popular culture in totalitarian states?">
+    <answer flag="0" text="Entertaining"/>
+    <answer flag="1" text="The ideological"/>
+    <answer flag="0" text="Educative"/>
+  </question>
+  <question text="The art that was reduced to a certain ratio of lines and shapes, has been called">
+    <answer flag="1" text="abstract"/>
+    <answer flag="0" text="dekadenstvo"/>
+    <answer flag="0" text="surrealism"/>
+  </question>
+  <question text="In which country in 20-30 years there was a &quot;cultural revolution&quot;?">
+    <answer flag="0" text="Germany"/>
+    <answer flag="0" text="Italy"/>
+    <answer flag="1" text="USSR"/>
+  </question>
+</testing>
