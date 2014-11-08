@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Household">
+  <question text="Which answers are correct?" level="1" simple="True">
+    <answer text="Nikolaev - the largest shipbuilding center State" flag="1"/>
+    <answer text="Lviv - Ukraine Bus single center" flag="0"/>
+    <answer text="Kiev - Ukraine ferrous metallurgy center" flag="1"/>
+  </question>
+  <question text="Which answers are correct?" level="1" simple="True">
+    <answer text="In the three cities of Ukraine operates Metro" flag="1"/>
+    <answer text="Ukraine has five operating nuclear power plants" flag="0"/>
+    <answer text="In Odessa is the largest cargo port in Ukraine" flag="1"/>
+  </question>
+  <question text="Most of the coal reserves are concentrated in Ukraine:" level="1" simple="True">
+    <answer text="Dnieper basin" flag="0"/>
+    <answer text="Lviv-Volyn basin" flag="0"/>
+    <answer text="Donets Basin" flag="1"/>
+  </question>
+  <question text="Which answers are wrong?" level="1" simple="True">
+    <answer text="Most of the coal produced in Ukraine mine (closed) method" flag="0"/>
+    <answer text="For small mines of Donbass characteristic depth of the coal seams" flag="1"/>
+    <answer text="Ukraine has deposits of uranium ore" flag="0"/>
+    <answer text="Brown coal has a higher calorific value than stone" flag="1"/>
+  </question>
+  <question text="The largest share of the gross national product of Ukraine is:" level="1" simple="True">
+    <answer text="agriculture" flag="0"/>
+    <answer text="industry" flag="1"/>
+    <answer text="construction and communication" flag="0"/>
+  </question>
+  <question text="What are the options for 'Name NPP - satellite city' right?" level="1" simple="True">
+    <answer text="Rivne - Kuznetskov" flag="1"/>
+    <answer text="Zaporizhia - Juzhnoukrainsk" flag="0"/>
+    <answer text="Khmelnytsky - Netishin" flag="1"/>
+    <answer text="South Ukraine - Enerhodar" flag="0"/>
+  </question>
+  <question text="Select the correct statement." level="1" simple="True">
+    <answer text="To the central economic region consists of Cherkassy and Kirovograd" flag="1"/>
+    <answer text="The major share of iron ore in Ukraine gives Rog basin" flag="1"/>
+    <answer text="Most of Ukrainian electric power generated at hydroelectric" flag="0"/>
+    <answer text="Nikolaev Alumina Plant is a large" flag="1"/>
+  </question>
+  <question text="Of these cities large resort tsenre are:" level="1" simple="True">
+    <answer text="New Kahovka" flag="0"/>
+    <answer text="Myrgorod" flag="1"/>
+    <answer text="Zhitomir" flag="0"/>
+    <answer text="Berdyansk" flag="1"/>
+  </question>
+  <question text="Import of goods from abroad is called:" level="1" simple="True">
+    <answer text="import" flag="1"/>
+    <answer text="export" flag="0"/>
+    <answer text="Barter" flag="0"/>
+  </question>
+  <question text="South Ukraine NPP is:" level="1" simple="True">
+    <answer text="in the Odessa region" flag="0"/>
+    <answer text="in the Zaporozhye region" flag="0"/>
+    <answer text="in Mykolaiv region" flag="1"/>
+  </question>
+  <question text="Center ferrous metallurgy in Ukraine are:" level="1" simple="True">
+    <answer text="Kramators'k" flag="0"/>
+    <answer text="Zaporozhye" flag="1"/>
+    <answer text="Kharkiv" flag="0"/>
+  </question>
+  <question text="Valid is the statement" level="1" simple="True">
+    <answer text="Enerhodar is a city NPP satellite, which is located in the west of Ukraine" flag="0"/>
+    <answer text="Zaporozhye is the largest center for automotive Ukraine" flag="1"/>
+    <answer text="The deposits of uranium ore in Ukraine are concentrated in Kirovohrad and Dnipropetrovsk" flag="1"/>
+    <answer text="Ukraine fully meets the needs of petroleum products resulting from the processing of oil refineries on their own" flag="0"/>
+  </question>
+  <question text="Which phrase is correct?" level="1" simple="True">
+    <answer text="Kramatorska CHP" flag="1"/>
+    <answer text="Rivne HPS" flag="0"/>
+    <answer text="Khmelnitsky NPP" flag="1"/>
+    <answer text="Tashlyk TES" flag="0"/>
+  </question>
+  <question text="The main centers of brown coal are:" level="1" simple="True">
+    <answer text="Donets'k" flag="0"/>
+    <answer text="Vatutine" flag="1"/>
+    <answer text="Makiyivka" flag="0"/>
+    <answer text="Alexandria" flag="1"/>
+  </question>
+</testing>

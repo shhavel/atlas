@@ -7,8 +7,8 @@
   </question>
   <question text="Общепризнанный географический центр Украины находится:" level="1" simple="True">
     <answer text="возле с. Марьяновка Черкасской области" flag="1"/>
-    <answer text=" вблизи пгт Добровеличковка Кировоградской области" flag="0"/>
-    <answer text="у Чигирин Черкасской области" flag="0"/>
+    <answer text="вблизи пгт Добровеличковка Кировоградской области" flag="0"/>
+    <answer text="вблизи города Чигирин Черкасской области" flag="0"/>
   </question>
   <question text="Какой из ответов является неправильной?" level="1" simple="True">
     <answer text="По площади среди европейских стран Украина уступает только России" flag="0"/>
@@ -22,9 +22,9 @@
     <answer text="Волынская - наименьшая по численности населения область Украины" flag="0"/>
   </question>
   <question text="Крайняя северная точка Украины находится у:" level="1" simple="True">
-    <answer text="м. Тарханкут" flag="0"/>
+    <answer text="г. Тарханкут" flag="0"/>
     <answer text="с. Гремяч" flag="1"/>
-    <answer text=" Червона Звезда" flag="0"/>
+    <answer text="с. Червона Звезда" flag="0"/>
   </question>
   <question text=" Какие из утверждений являются правильными?" level="1" simple="True">
     <answer text="Украина граничит с семью странами" flag="1"/>
@@ -32,12 +32,12 @@
     <answer text="Территория Украины омывается водами трех морей" flag="0"/>
   </question>
   <question text="С какими из перечисленных стран не граничит Украина?" level="1" simple="True">
-    <answer text=" Со Словенией" flag="1"/>
-    <answer text=" С Болгарией" flag="1"/>
+    <answer text="Со Словенией" flag="1"/>
+    <answer text="С Болгарией" flag="1"/>
     <answer text="Со Словакией" flag="0"/>
   </question>
   <question text="В каком году завершилось формирование территории Украины?" level="1" simple="True">
-    <answer text=" В 1922" flag="0"/>
+    <answer text="В 1922" flag="0"/>
     <answer text="В 1954" flag="1"/>
     <answer text="В 1991" flag="0"/>
   </question>

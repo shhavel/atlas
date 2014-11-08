@@ -16,7 +16,7 @@
     <answer text="Галичина" flag="0"/>
   </question>
   <question text="В якій області  найбільша загальна густота населення?" level="1" simple="True">
-    <answer text=" Львівській" flag="0"/>
+    <answer text="Львівській" flag="0"/>
     <answer text="Дніпропетровській" flag="0"/>
     <answer text="Донецькій" flag="1"/>
   </question>

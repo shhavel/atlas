@@ -7,7 +7,7 @@
   </question>
   <question text="Загальновизнаний географічний центр України знаходиться:" level="1" simple="True">
     <answer text="біля с. Мар‘янівка Черкаської  області" flag="1"/>
-    <answer text=" поблизу смт Добровеличківка Кіровоградської області" flag="0"/>
+    <answer text="поблизу смт Добровеличківка Кіровоградської області" flag="0"/>
     <answer text="біля м.Чигирин Черкаської області" flag="0"/>
   </question>
   <question text="Яка з відповідей є неправильною?" level="1" simple="True">
@@ -24,20 +24,20 @@
   <question text="Крайня північна точка України знаходиться біля:" level="1" simple="True">
     <answer text="м. Тарханкут" flag="0"/>
     <answer text="с. Грем‘яч" flag="1"/>
-    <answer text=" с.Червона Зірка" flag="0"/>
+    <answer text="с. Червона Зірка" flag="0"/>
   </question>
-  <question text=" Які з тверджень є правильними?" level="1" simple="True">
+  <question text="Які з тверджень є правильними?" level="1" simple="True">
     <answer text="Україна межує з сімома країнами" flag="1"/>
     <answer text="Площа території України становить 603,7 тис. кв. км" flag="1"/>
     <answer text="Територія України омивається водами трьох морів" flag="0"/>
   </question>
   <question text="З якими із перелічених країн не межує  Україна?" level="1" simple="True">
-    <answer text=" Зі Словенією" flag="1"/>
-    <answer text=" З Болгарією" flag="1"/>
+    <answer text="Зі Словенією" flag="1"/>
+    <answer text="З Болгарією" flag="1"/>
     <answer text="Зі Словаччиною" flag="0"/>
   </question>
   <question text="У якому році завершилось формування території України?" level="1" simple="True">
-    <answer text=" У 1922" flag="0"/>
+    <answer text="У 1922" flag="0"/>
     <answer text="У 1954" flag="1"/>
     <answer text="У 1991" flag="0"/>
   </question>
@@ -52,7 +52,7 @@
     <answer text="Співдружність незалежних держав" flag="1"/>
     <answer text="ОПЕК" flag="0"/>
   </question>
-  <question text=" Які з відповідей є неправильними?" level="1" simple="True">
+  <question text="Які з відповідей є неправильними?" level="1" simple="True">
     <answer text="Вибори до Верховної Ради України відбуваються раз у п'ять років" flag="1"/>
     <answer text="Вибори Президента України відбуваються раз у чотири роки" flag="1"/>
     <answer text="Парламент України складається з 450 депутатів" flag="0"/>

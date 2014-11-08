@@ -16,7 +16,7 @@
     <answer text="Галичина" flag="0"/>
   </question>
   <question text="В какой области самая общая плотность населения?" level="1" simple="True">
-    <answer text=" Львовской" flag="0"/>
+    <answer text="Львовской" flag="0"/>
     <answer text="Днепропетровской" flag="0"/>
     <answer text="Донецкой" flag="1"/>
   </question>

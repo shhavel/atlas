@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="INTRODUCTION">
+  <question text=" For the first time the name &quot;Ukraine&quot; is mentioned:" level="1" simple="True">
+    <answer text="in &quot;Kyiv Chronicle&quot; (1187)" flag="1"/>
+    <answer text="G. Boplana in the book &quot;Description of Ukraine&quot; (1650)." flag="0"/>
+    <answer text="in the descriptions of Byzantine and Arab travelers X century." flag="0"/>
+  </question>
+  <question text="Avowed geographical center of Ukraine is:" level="1" simple="True">
+    <answer text="near the village. Marianivka Cherkasy region" flag="1"/>
+    <answer text="near the town of Kirovograd region Dobrovelichkivka" flag="0"/>
+    <answer text="near Chyhyryn, Cherkassy region" flag="0"/>
+  </question>
+  <question text="Which answer is wrong?" level="1" simple="True">
+    <answer text="By area among European countries, Ukraine is second only to Russia" flag="0"/>
+    <answer text="With the second largest population in Europe, Ukraine" flag="1"/>
+    <answer text="Ukraine borders with seven countries" flag="0"/>
+  </question>
+  <question text="Valid statements are:" level="1" simple="True">
+    <answer text="In terms of population the largest region of Ukraine Donetsk" flag="1"/>
+    <answer text="With its area of ​​the largest region of Ukraine Odessa" flag="1"/>
+    <answer text="Chernivtsi - the smallest area region Ukraine" flag="1"/>
+    <answer text="Chernovtsy - the smallest in terms of population region Ukraine" flag="0"/>
+  </question>
+  <question text="Extreme northern point of Ukraine is about:" level="1" simple="True">
+    <answer text="city Tarkhankut" flag="0"/>
+    <answer text="village Hrem'yach" flag="1"/>
+    <answer text="village Chervona Star" flag="0"/>
+  </question>
+  <question text=" Which of the statements is correct?" level="1" simple="True">
+    <answer text="Ukraine borders with seven countries" flag="1"/>
+    <answer text="The area of ​​Ukraine is 603,7 thousand sq. M. km" flag="1"/>
+    <answer text="The territory of Ukraine is washed by three seas" flag="0"/>
+  </question>
+  <question text="Which of these countries not bordering Ukraine?" level="1" simple="True">
+    <answer text="Slovenia" flag="1"/>
+    <answer text="From Bulgaria" flag="1"/>
+    <answer text="From Slovakia" flag="0"/>
+  </question>
+  <question text="What year ended with the formation of Ukraine?" level="1" simple="True">
+    <answer text="In 1922" flag="0"/>
+    <answer text="In 1954" flag="1"/>
+    <answer text="In 1991" flag="0"/>
+  </question>
+  <question text="Which of these areas were included in the Ukraine in pre-war times?" level="1" simple="True">
+    <answer text="South Bessarabia" flag="1"/>
+    <answer text="Northern Bukovina" flag="1"/>
+    <answer text="Transcarpathia and Crimea region" flag="0"/>
+  </question>
+  <question text="Which member of these organizations is Ukraine?" level="1" simple="True">
+    <answer text="The World Trade Organization" flag="1"/>
+    <answer text="The International Monetary Fund" flag="1"/>
+    <answer text="Commonwealth of Independent States" flag="1"/>
+    <answer text="OPEC" flag="0"/>
+  </question>
+  <question text=" Which answers are wrong?" level="1" simple="True">
+    <answer text="Elections to the Verkhovna Rada of Ukraine are held every five years" flag="1"/>
+    <answer text="Presidential elections in Ukraine held every four years" flag="1"/>
+    <answer text="Ukraine's Parliament consists of 450 members" flag="0"/>
+  </question>
+  <question text="A member of an international organization was the Ukraine in 2008?" level="1" simple="True">
+    <answer text="IMF" flag="0"/>
+    <answer text="WTO" flag="1"/>
+    <answer text="NATO" flag="0"/>
+    <answer text="OPEC" flag="0"/>
+  </question>
+  <question text="Which term describes the Ukraine?" level="1" simple="True">
+    <answer text="Unitary" flag="1"/>
+    <answer text="Federal" flag="0"/>
+    <answer text="Republic" flag="1"/>
+    <answer text="Monarchy" flag="0"/>
+  </question>
+  <question text="The headquarters of the enumerated international organizations located in London?" level="1" simple="True">
+    <answer text="WTO" flag="0"/>
+    <answer text="GUAM" flag="1"/>
+    <answer text="CIS" flag="0"/>
+    <answer text="IRF" flag="0"/>
+  </question>
+</testing>

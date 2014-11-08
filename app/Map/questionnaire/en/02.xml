@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="POPULATION">
+  <question text="In what year was held last census Ukraine?" level="1" simple="True">
+    <answer text="In 1991" flag="0"/>
+    <answer text="In 2001" flag="1"/>
+    <answer text="In 1996" flag="0"/>
+  </question>
+  <question text="In terms of population in Europe, Ukraine:" level="1" simple="True">
+    <answer text="ranked sixth" flag="1"/>
+    <answer text="second only to France" flag="0"/>
+    <answer text="second only to Russia" flag="0"/>
+  </question>
+  <question text="The most urbanized region in the state are:" level="1" simple="True">
+    <answer text="Kyivshchyna" flag="0"/>
+    <answer text="Donbass" flag="1"/>
+    <answer text="Galicia" flag="0"/>
+  </question>
+  <question text="In what area the most common population density?" level="1" simple="True">
+    <answer text="Lviv" flag="0"/>
+    <answer text="Dnipropetrovsk" flag="0"/>
+    <answer text="Donetsk" flag="1"/>
+  </question>
+  <question text="Which answer is wrong?" level="1" simple="True">
+    <answer text="In a city of millionaires is a seaport" flag="0"/>
+    <answer text="All regional centers of our country - the city of millionaires" flag="1"/>
+    <answer text="All cities-millionaires are regional centers of Ukraine" flag="0"/>
+  </question>
+  <question text="Which answers are wrong?" level="1" simple="True">
+    <answer text="The vast majority of Russians living in Ukraine cities" flag="0"/>
+    <answer text="Since independence, Ukraine has not been a single census" flag="1"/>
+    <answer text="In Crimea, the lowest population growth among the regions of Ukraine" flag="1"/>
+  </question>
+  <question text="Choose the correct answer" level="1" simple="True">
+    <answer text="Crimea - the only region of Ukraine, where the population structure is dominated by Russians" flag="1"/>
+    <answer text="Areas of the state with the highest level of urbanization has the highest overall population density" flag="1"/>
+    <answer text="Since Ukraine gained independence Crimea is an autonomous status" flag="0"/>
+    <answer text="In most regions of Ukraine rates of natural population growth are negative" flag="1"/>
+  </question>
+  <question text="Which of the statements is correct?" level="1" simple="True">
+    <answer text="Among the religious faiths of Islam most prevalent in Odesa" flag="0"/>
+    <answer text="In Ukraine, four cities-millionaires" flag="1"/>
+    <answer text="In Dnipropetrovsk region rural population dominates the city" flag="0"/>
+  </question>
+  <question text="In that period, Ukraine was the largest population?" level="1" simple="True">
+    <answer text="Before the Second World War" flag="0"/>
+    <answer text="In the early 90-ies" flag="1"/>
+    <answer text="In 2001" flag="0"/>
+  </question>
+  <question text="Home to the vast majority of Muslims of Ukraine?" level="1" simple="True">
+    <answer text="In Crimea" flag="1"/>
+    <answer text="In the Donetsk region" flag="0"/>
+    <answer text="In the Odessa region" flag="0"/>
+  </question>
+  <question text="Enter the country where the population of over 1 million people of Ukrainian descent" level="1" simple="True">
+    <answer text="Canada" flag="1"/>
+    <answer text="Brazil" flag="0"/>
+    <answer text="Russia" flag="1"/>
+    <answer text="Poland" flag="0"/>
+    <answer text="USA" flag="1"/>
+  </question>
+</testing>
