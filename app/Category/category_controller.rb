@@ -33,11 +33,17 @@ private
 
   def set_lang
     @control_lang ||= Control.find(:all, :conditions => {'name' => 'lang'}).first
-    if @params['lang'] && @params['lang'] != @control_lang.value && (@params['lang'] == 'ru' || @params['lang'] == 'ua')
+    if @params['lang'] && @params['lang'] != @control_lang.value && ['ua', 'ru', 'en'].include?(@params['lang'])
       @control_lang.update_attributes({'value' => @params['lang']})
       Control.lang = @params['lang']
     end
     @lang = @control_lang.value
-    @next_lang = (@lang == 'ru' ? 'ua' : 'ru')
+    @next_lang = if @lang == 'ua'
+      'ru'
+    elsif @lang == 'ru'
+      'en'
+    else
+      'ua'
+    end
   end
 end
