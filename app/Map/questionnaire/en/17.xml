@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="South and Southeast Asia">
+  <question level="1" simple="True" text="What events took place in August 1947?">
+    <answer text="Proclamation of the Republic of India" flag="0"/>
+    <answer text="Proclamation of the Islamic Republic of Pakistan" flag="0"/>
+    <answer text="The division of India into two states, Indian Union and Pakistan" flag="1"/>
+    <answer text="Britain granted independence to India" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which were fought Indo-Pakistani War?">
+    <answer text="In 1946" flag="0"/>
+    <answer text="Of 1946-1947." flag="0"/>
+    <answer text="1947-1949 biennium." flag="1"/>
+    <answer text="In 1965" flag="1"/>
+    <answer text="In 1971" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When was the independence of East Pakistan - People's Republic of Bangladesh?">
+    <answer text="August 15, 1947" flag="0"/>
+    <answer text="March 23, 1956" flag="0"/>
+    <answer text="March 26, 1971" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When was the Soviet invasion in Avhanistan under cover of slogans &quot;providing international assistance to the brotherly people&quot;?">
+    <answer text="April 27, 1978" flag="0"/>
+    <answer text="December 27, 1979" flag="1"/>
+    <answer text="February 15, 1989" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some countries in 1975 Communists came to power?">
+    <answer text="Myanmar" flag="0"/>
+    <answer text="Thailand" flag="0"/>
+    <answer text="Laos" flag="1"/>
+    <answer text="Nepal" flag="0"/>
+    <answer text="Cambodia" flag="1"/>
+    <answer text="Vietnam" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in 2008?">
+    <answer text="Thailand" flag="0"/>
+    <answer text="Cambodia" flag="0"/>
+    <answer text="Laos" flag="0"/>
+    <answer text="Bhutan" flag="0"/>
+    <answer text="Nepal" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When Cambodia was overthrown regime &quot;Khmer Rouge&quot;?">
+    <answer text="in December 1978" flag="1"/>
+    <answer text="In April 1975" flag="0"/>
+    <answer text="In January 1977" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the proclamation of a united Socialist Republic of Vietnam?">
+    <answer text="March 2, 1945" flag="0"/>
+    <answer text="October 26, 1955" flag="0"/>
+    <answer text="July 2, 1976" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When and where was the US pidpyano agreement ending the war and restoring peace in Vietnam?">
+    <answer text="May 13, 1968" flag="0"/>
+    <answer text="March 30, 1972" flag="0"/>
+    <answer text="January 27, 1973" flag="1"/>
+    <answer text="Paris" flag="1"/>
+    <answer text="Washington" flag="0"/>
+    <answer text="Saigon" flag="0"/>
+  </question>
+</testing>

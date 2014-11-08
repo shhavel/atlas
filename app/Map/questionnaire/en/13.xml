@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The collapse of the Soviet Union. The formation of new states.">
+  <question level="1" simple="True" text="Where and when there was a catastrophic accident at the Chernobyl nuclear power plant?">
+    <answer text="Ukrainian SSR" flag="1"/>
+    <answer text="Byelorussian SSR" flag="0"/>
+    <answer text="Russian SFSR" flag="0"/>
+    <answer text="In March 1969" flag="0"/>
+    <answer text="In April 1986" flag="1"/>
+    <answer text="August 1981" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was carried unsuccessful coup putsch in Moscow?">
+    <answer text="25-26 April 1986" flag="0"/>
+    <answer text="19-21 August 1991" flag="1"/>
+    <answer text="8-10 December 1991" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What historical events took place December 8, 1991?">
+    <answer text="The signing of the &quot;Agreement on the establishment of the CIS&quot;" flag="1"/>
+    <answer text="Dissolution of the USSR" flag="1"/>
+    <answer text="&quot;Orange Revolution&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which countries were the founders of CIS?">
+    <answer text="The Russian Federation" flag="1"/>
+    <answer text="Belarus" flag="1"/>
+    <answer text="Estonia" flag="0"/>
+    <answer text="Lithuania" flag="0"/>
+    <answer text="Ukraine" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which former republics declared independence August 24, 1991?">
+    <answer text="Belarusian" flag="0"/>
+    <answer text="Georgian" flag="0"/>
+    <answer text="Ukrainian" flag="1"/>
+    <answer text="Moldova" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some years and in some countries of the CIS took place &quot;color&quot; revolution?">
+    <answer text="In 1991" flag="0"/>
+    <answer text="In 2003" flag="1"/>
+    <answer text="In 2004" flag="1"/>
+    <answer text="In 2005" flag="1"/>
+    <answer text="The Russian Federation" flag="0"/>
+    <answer text="Georgia" flag="1"/>
+    <answer text="Ukraine" flag="1"/>
+    <answer text="Kyrgyzstan" flag="1"/>
+  </question>
+</testing>

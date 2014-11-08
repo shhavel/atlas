@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="China, Japan and Korea">
+  <question level="1" simple="True" text="When was the People's Republic of China (PRC)?">
+    <answer text="January 31, 1949" flag="0"/>
+    <answer text="October 1, 1949" flag="1"/>
+    <answer text="December 12, 1949" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which were fought anti-Chinese uprising in Xinjiang and Tibet?">
+    <answer text="In 1949" flag="0"/>
+    <answer text="In 1950" flag="1"/>
+    <answer text="In 1959" flag="1"/>
+    <answer text="In 1969" flag="0"/>
+    <answer text="In 1979" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and between which countries are dangerous armed clashes took place on the island. Damanski and m. Lake Zhalanashkol?">
+    <answer text="June 13, 1969" flag="1"/>
+    <answer text="July 13, 1969" flag="0"/>
+    <answer text="August 13, 1969" flag="1"/>
+    <answer text="Vietnam" flag="0"/>
+    <answer text="USSR" flag="1"/>
+    <answer text="China" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What countries participated in 1979 in a military conflict with Cambodia?">
+    <answer text="Laos" flag="0"/>
+    <answer text="Vietnam" flag="1"/>
+    <answer text="China" flag="1"/>
+    <answer text="USA" flag="0"/>
+    <answer text="USSR" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When we adopted a new Constitution of Japan, according to which the emperor was deprived of real power (denied &quot;divine origin&quot;)?">
+    <answer text="September 2, 1945" flag="0"/>
+    <answer text="May 3, 1947" flag="1"/>
+    <answer text="March 8, 1951" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the proclamation of the Republic of Korea (South Korea) and North Korea (North Korea)?">
+    <answer text="August 15, 1948" flag="1"/>
+    <answer text="September 9, 1948" flag="1"/>
+    <answer text="September 15, 1950" flag="0"/>
+    <answer text="October 25, 1950" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was established the demarcation line between the two Koreas to a truce in Panmynchzhoni?">
+    <answer text="September 15, 1950" flag="0"/>
+    <answer text="October 24, 1950" flag="0"/>
+    <answer text="July 27, 1953" flag="1"/>
+  </question>
+</testing>

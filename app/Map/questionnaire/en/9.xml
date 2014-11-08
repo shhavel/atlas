@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Europe in the 1945-1989 biennium.">
+  <question level="1" simple="True" text="Which countries are party to the European Association of share trading in 1960?">
+    <answer text="Finland" flag="1"/>
+    <answer text="Romania" flag="0"/>
+    <answer text="Spain" flag="0"/>
+    <answer text="Austria" flag="1"/>
+    <answer text="Switzerland" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries receive assistance under the plan &quot;Marshall&quot; from 1948-1952's.?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Yugoslavia" flag="1"/>
+    <answer text="France" flag="1"/>
+    <answer text="Bulgaria" flag="0"/>
+    <answer text="Norway" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which country in the 1967-1974 biennium. Ruled regime &quot;black colonels&quot;?">
+    <answer text="Turkey" flag="0"/>
+    <answer text="Albania" flag="0"/>
+    <answer text="Greece" flag="1"/>
+    <answer text="Yugoslavia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was a revolution in Portugal, which paved the way for democracy?">
+    <answer text="In 1968" flag="0"/>
+    <answer text="In 1974" flag="1"/>
+    <answer text="In 1984" flag="0"/>
+    <answer text="In 1989" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in 1946?">
+    <answer text="Romania" flag="0"/>
+    <answer text="Yugoslavia" flag="0"/>
+    <answer text="Bulgaria" flag="1"/>
+    <answer text="Greece" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these states was the founder of the United Nations June 26, 1945 at a conference in San Francisco?">
+    <answer text="Czechoslovakia" flag="1"/>
+    <answer text="Spain" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="Poland" flag="1"/>
+    <answer text="Ukraine (USSR)" flag="1"/>
+  </question>
+</testing>

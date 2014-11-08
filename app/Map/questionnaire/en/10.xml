@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="World in 1945-1989 years.">
+  <question level="1" simple="True" text="What countries participated in the meeting at which it was decided to set up a Council for Mutual Economic Assistance (CMEA) in January 1949?">
+    <answer text="Romania" flag="1"/>
+    <answer text="USSR" flag="1"/>
+    <answer text="USA" flag="0"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="Poland" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which organization was established in May 1955, and which of the countries it included?">
+    <answer text="UN" flag="0"/>
+    <answer text="SEATO" flag="0"/>
+    <answer text="Warsaw Pact" flag="1"/>
+    <answer text="OPEC" flag="0"/>
+    <answer text="GDR" flag="0"/>
+    <answer text="Albania" flag="1"/>
+    <answer text="Yugoslavia" flag="0"/>
+    <answer text="Bulgaria" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are called &quot;Asian tigers&quot; stimke for their growth?">
+    <answer text="Thailand" flag="0"/>
+    <answer text="Philippines" flag="0"/>
+    <answer text="Taiwan" flag="1"/>
+    <answer text="South Korea (Republic of Korea)" flag="1"/>
+    <answer text="Singapore" flag="1"/>
+    <answer text="Hong Kong (Brit.)" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what year and with the participation of countries which held the Falklands war?">
+    <answer text="In 1982" flag="1"/>
+    <answer text="In 1962" flag="0"/>
+    <answer text="In 1979" flag="0"/>
+    <answer text="Great Britain" flag="1"/>
+    <answer text="Brazil" flag="0"/>
+    <answer text="Chile" flag="0"/>
+    <answer text="Argentina" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are permanent members of the UN Security Council?">
+    <answer text="USSR (Russia)" flag="1"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="China" flag="1"/>
+    <answer text="France" flag="1"/>
+    <answer text="Great Britain" flag="1"/>
+    <answer text="USA" flag="1"/>
+    <answer text="Germany" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some countries, attempts were made to communist transformation?">
+    <answer text="Somalia" flag="1"/>
+    <answer text="Afghanistan" flag="1"/>
+    <answer text="Algeria" flag="1"/>
+    <answer text="Libya" flag="1"/>
+    <answer text="Turkey" flag="0"/>
+  </question>
+</testing>

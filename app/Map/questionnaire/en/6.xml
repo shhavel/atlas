@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Europe after the Second World War. Territorial changes and political developments (1945-1956 gg.)">
+  <question level="1" simple="True" text="When was the Potsdam Conference, and who took part in it?">
+    <answer text="4-11 February 1945" flag="0"/>
+    <answer text="April 26 - June 26, 1945" flag="0"/>
+    <answer text="July 17 - August 2, 1945" flag="1"/>
+    <answer text="Roosevelt" flag="0"/>
+    <answer text="Truman" flag="1"/>
+    <answer text="Churchill" flag="1"/>
+    <answer text="Attlee" flag="1"/>
+    <answer text="Stalin" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When exchanged border areas (areas in Zech. Bug and Sian) between the USSR and Poland?">
+    <answer text="July 17, 1945" flag="0"/>
+    <answer text="February 15, 1951" flag="1"/>
+    <answer text="October 5, 1954" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which countries have signed peace treaties February 10, 1947 at a conference in Paris?">
+    <answer text="Italy" flag="1"/>
+    <answer text="Yugoslavia" flag="0"/>
+    <answer text="Finland" flag="1"/>
+    <answer text="Bulgaria" flag="1"/>
+    <answer text="Hungary" flag="1"/>
+    <answer text="Romania" flag="1"/>
+    <answer text="Greece" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What countries under an agreement April 9, 1945, was occupied by Julian extreme?">
+    <answer text="USSR" flag="0"/>
+    <answer text="US and UK" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="Yugoslavia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are divided Berlin into occupation zones (sectors) in the postwar years?">
+    <answer text="USA" flag="1"/>
+    <answer text="Great Britain" flag="1"/>
+    <answer text="Poland" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="USSR" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries in World War II was installed communist regimes?">
+    <answer text="Romania" flag="1"/>
+    <answer text="Poland" flag="1"/>
+    <answer text="Albania" flag="1"/>
+    <answer text="Italy" flag="0"/>
+    <answer text="France" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some countries in the 1956 anti-communist uprising took place?">
+    <answer text="Czechoslovakia" flag="0"/>
+    <answer text="Hungary" flag="1"/>
+    <answer text="Poland" flag="1"/>
+    <answer text="Austria" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Africa">
+  <question level="1" simple="True" text="Which country was the colonial name of French Sudan?">
+    <answer text="Sudan" flag="0"/>
+    <answer text="Small" flag="1"/>
+    <answer text="Tanzania" flag="0"/>
+    <answer text="Namibia" flag="0"/>
+    <answer text="Zambia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was founded the Organization of African Unity (OAU)?">
+    <answer text="May 1963?" flag="1"/>
+    <answer text="May 1964?" flag="0"/>
+    <answer text="May 1967?" flag="0"/>
+    <answer text="May 1969?" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and between which countries held military conflict &quot;Sand War&quot;?">
+    <answer text="1963-1964 biennium." flag="1"/>
+    <answer text="From 1975-1976." flag="0"/>
+    <answer text="1977-1983 biennium." flag="0"/>
+    <answer text="Somalia and Ethiopia" flag="0"/>
+    <answer text="Libya and Chad" flag="0"/>
+    <answer text="Morocco and Algeria" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what year and in what country the Assembly of the OAU adopted a resolution on the inviolability of the borders of African states?">
+    <answer text="In 1963" flag="0"/>
+    <answer text="In 1964" flag="1"/>
+    <answer text="In 1965" flag="0"/>
+    <answer text="In 1967" flag="0"/>
+    <answer text="Ethiopia" flag="0"/>
+    <answer text="Egypt" flag="1"/>
+    <answer text="Algiers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in 1974?">
+    <answer text="Libya" flag="0"/>
+    <answer text="Sudan" flag="0"/>
+    <answer text="Ethiopia" flag="1"/>
+    <answer text="Egypt" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year and where was established the African Union?">
+    <answer text="In 1963" flag="0"/>
+    <answer text="In 1986" flag="0"/>
+    <answer text="In 2002" flag="1"/>
+    <answer text="Durban" flag="1"/>
+    <answer text="Cape Town" flag="0"/>
+    <answer text="Pretoria" flag="0"/>
+  </question>
+</testing>

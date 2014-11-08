@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Second World War (Events September 1, 1939 - June 21, 1941)">
+  <question level="1" simple="True" text="Cody signed a secret additional protocol to the Molotov-Ribbentrop Pact?">
+    <answer text="August 23, 1939" flag="1"/>
+    <answer text="September 1, 1939" flag="0"/>
+    <answer text="June 21, 1939" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and in what city was made a provocation that was the reason for the war?">
+    <answer text="August 31, 1939" flag="1"/>
+    <answer text="September 28, 1939" flag="0"/>
+    <answer text="October 10, 1939" flag="0"/>
+    <answer text="Ґleyvits" flag="1"/>
+    <answer text="Berlin" flag="0"/>
+    <answer text="Breslau" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the name of border fortifications Finland?">
+    <answer text="Line &quot;Maginot&quot;" flag="0"/>
+    <answer text="Line &quot;Zikfrida&quot;" flag="0"/>
+    <answer text="Line &quot;Mannerheim&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When held entourage of French, British and Belgian troops at Dunkirk and their evacuation?">
+    <answer text="17-28 September 1939" flag="0"/>
+    <answer text="May 26 - June 4, 1940" flag="1"/>
+    <answer text="22 June -2 July 1940" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and between countries that originally signed Tripartite Pact?">
+    <answer text="June 28, 1940" flag="0"/>
+    <answer text="August 30, 1940" flag="0"/>
+    <answer text="September 7, 1940" flag="0"/>
+    <answer text="September 27, 1940" flag="1"/>
+    <answer text="Germany" flag="1"/>
+    <answer text="Romania" flag="0"/>
+    <answer text="Italy" flag="1"/>
+    <answer text="Japan" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Against which country was attacked (&quot;Operation Marita&quot;) by German forces and their allies in the April-May 1941?">
+    <answer text="France" flag="0"/>
+    <answer text="Yugoslavia" flag="1"/>
+    <answer text="Britain" flag="0"/>
+    <answer text="Greece" flag="1"/>
+    <answer text="Egypt" flag="0"/>
+  </question>
+</testing>

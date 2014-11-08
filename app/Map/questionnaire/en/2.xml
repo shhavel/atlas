@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Second World War (Events June 22, 1941 - November 18, 1942)">
+  <question level="1" simple="True" text="When the directive was signed №21 - plan &quot;Barbarossa&quot;?">
+    <answer text="August 23, 1939" flag="0"/>
+    <answer text="September 1, 1940" flag="0"/>
+    <answer text="September 27, 1940" flag="0"/>
+    <answer text="December 18, 1940" flag="1"/>
+    <answer text="June 21, 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When Germany attacked the Soviet Union?">
+    <answer text="June 22, 1941" flag="1"/>
+    <answer text="September 24, 1941" flag="0"/>
+    <answer text="December 7, 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event is considered the first significant defeat of Nazi Germany in World War II?">
+    <answer text="Kiev defensive operation" flag="0"/>
+    <answer text="Battle of Smolensk" flag="0"/>
+    <answer text="Defense of Odessa" flag="0"/>
+    <answer text="Battle of Leningrad" flag="0"/>
+    <answer text="Defense of Sevastopol" flag="0"/>
+    <answer text="Battle for Moscow" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries signed the &quot;Atlantic Charter&quot; and when the document was finalized?">
+    <answer text="Italy" flag="0"/>
+    <answer text="Great Britain" flag="1"/>
+    <answer text="USSR" flag="1"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="USA" flag="1"/>
+    <answer text="September 24, 1941" flag="1"/>
+    <answer text="December 7, 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What historical event began November 17, 1942?">
+    <answer text="Battle of Stalingrad" flag="1"/>
+    <answer text="Battle of Kursk" flag="0"/>
+    <answer text="Battle of the Dnieper" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the commander of the German-Italian forces in North Africa from February 1941 to March 1943?">
+    <answer text="Rommel" flag="1"/>
+    <answer text="Guderian" flag="0"/>
+    <answer text="Klyayst" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the cooperation of governments, individuals with the occupiers?">
+    <answer text="Collaboration" flag="1"/>
+    <answer text="Holocaust" flag="0"/>
+    <answer text="Ghetto" flag="0"/>
+  </question>
+</testing>
