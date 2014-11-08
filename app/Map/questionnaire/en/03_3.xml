@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ATMOSPHERE">
+ <question text="What is the composition of air?" level="1" simple="True">
+  <answer text="21% nitrogen, 78% oxygen, 1% other gases" flag="0"/>
+  <answer text="78% nitrogen, 21% oxygen, 1% other gases" flag="1"/>
+  <answer text="78% nitrogen, 1% oxygen, 21% other gases" flag="0"/>
+  <answer text="1% nitrogen, 78% oxygen, 21% other gases" flag="0"/>
+ </question>
+ <question text="Which layer of the atmosphere is the ozone layer?" level="1" simple="True">
+  <answer text="Troposphere" flag="0"/>
+  <answer text="Stratosphere" flag="1"/>
+  <answer text="Mesosphere" flag="0"/>
+  <answer text="Thermosphere" flag="0"/>
+ </question>
+ <question text="How does the air temperature within the troposphere?" level="1" simple="True">
+  <answer text="Virtually unchanged" flag="0"/>
+  <answer text="Increased by 0,6 ° per 100 m ascent up" flag="0"/>
+  <answer text="Increases by 1 degree for every 100 m ascent up" flag="0"/>
+  <answer text="Reduced by 0,6 ° per 100 m ascent up" flag="1"/>
+ </question>
+ <question text="When the overnight temperature is lowest?" level="1" simple="True">
+  <answer text="Just after sunset" flag="0"/>
+  <answer text="At midnight" flag="0"/>
+  <answer text="Before Sunrise" flag="1"/>
+ </question>
+ <question text="What is the wind direction is characteristic of breeze?" level="1" simple="True">
+  <answer text="Clock from the sea to the land" flag="0"/>
+  <answer text="Clock from land to sea" flag="0"/>
+  <answer text="Day - the sea on dry ground at night - the opposite" flag="1"/>
+  <answer text="Night - from sea to land during the day - on the contrary" flag="0"/>
+ </question>
+ <question text="What is called saturated air?" level="1" simple="True">
+  <answer text="What begins to condense steam on cold objects" flag="0"/>
+  <answer text="Which contains the maximum possible for a given Temperature amount of water vapor" flag="1"/>
+  <answer text="In which begin to form liquid precipitation" flag="0"/>
+  <answer text="In which begin to form solid precipitation" flag="0"/>
+ </question>
+ <question text="Why on the banks of the Scandinavian Peninsula grow mixed forests, while in Greenland at the same latitude - bahatokilometrova thickness of ice?" level="1" simple="True">
+  <answer text="The cold Labrador Current climate cools Greenland" flag="0"/>
+  <answer text="The warm North Atlantic current warms the air coast of Scandinavia" flag="1"/>
+  <answer text="Greenland is located close to the north magnetic pole" flag="0"/>
+  <answer text="Greenland is larger than the area of ​​Scandinavia" flag="0"/>
+ </question>
+ <question text="How is climate with cold winters and hot summers and relatively low rainfall?" level="1" simple="True">
+  <answer text="Sea" flag="0"/>
+  <answer text="Moderate" flag="0"/>
+  <answer text="Continental" flag="1"/>
+  <answer text="Tropical" flag="0"/>
+ </question>
+ <question text="What type of climate is typical for the majority of Ukraine?" level="1" simple="True">
+  <answer text="Sharply continental" flag="0"/>
+  <answer text="Moderately continental" flag="1"/>
+  <answer text="Continental" flag="0"/>
+  <answer text="Sea" flag="0"/>
+ </question>
+ <question text="What are the main parameters to characterize the weather?" level="1" simple="True">
+  <answer text="Temperature, pressure" flag="1"/>
+  <answer text="Transparency and purity of the air" flag="0"/>
+  <answer text="Speed, strength and direction of the wind" flag="1"/>
+  <answer text="Humidity, cloudiness and precipitation" flag="1"/>
+ </question>
+ <question text="Which of the following factors are decisive in shaping the environment of a site?" level="1" simple="True">
+  <answer text="Longitude location" flag="0"/>
+  <answer text="Geographic latitude" flag="1"/>
+  <answer text="Air flow" flag="1"/>
+  <answer text="The nature of the surface pidstelyayuchoyi" flag="1"/>
+ </question>
+ <question text="How does the climate of the cold currents?" level="1" simple="True">
+  <answer text="Contribute to the formation of deserts" flag="1"/>
+  <answer text="Contribute excessive moisture coastal areas" flag="0"/>
+  <answer text="Almost did not have any influence" flag="0"/>
+  <answer text="Causes moderate rainfall throughout the year" flag="0"/>
+ </question>
+</testing>

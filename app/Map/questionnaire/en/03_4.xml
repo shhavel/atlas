@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="BIOSPHERE AND GEOGRAPHIC SHELL">
+ <question text="When, according to scientists, there is Earth?" level="1" simple="True">
+  <answer text="About 45 million years ago" flag="0"/>
+  <answer text="About 4.5 million years ago" flag="0"/>
+  <answer text="About 4.5 billion years ago" flag="1"/>
+ </question>
+ <question text="When, according to scientists on Earth life began?" level="1" simple="True">
+  <answer text="There from the beginning of the Earth" flag="0"/>
+  <answer text="About 35 million years ago" flag="0"/>
+  <answer text="About 3.5 billion years ago" flag="1"/>
+ </question>
+ <question text="Under what conditions on Earth life began?" level="1" simple="True">
+  <answer text="Were included from other planets meteorites" flag="0"/>
+  <answer text="In the shallow sea due to simple physical and chemical processes" flag="1"/>
+  <answer text="Were included from other planets from space aliens" flag="0"/>
+  <answer text="On land, on the shores of the warm bodies of water" flag="0"/>
+ </question>
+ <question text="How is the ability of living organisms by absorbing solar energyrecycle carbon dioxide into carbohydrates and create organic matter inhis body, while stressing the oxygen?" level="1" simple="True">
+  <answer text="Mutation" flag="0"/>
+  <answer text="Transformation" flag="0"/>
+  <answer text="Photosynthesis" flag="1"/>
+ </question>
+ <question text="What earthly shell includes the biosphere?" level="1" simple="True">
+  <answer text="Lithosphere and atmosphere" flag="0"/>
+  <answer text="The lower part of the atmosphere and hydrosphere all" flag="0"/>
+  <answer text="The entire top of the hydrosphere and lithosphere" flag="0"/>
+  <answer text="The lower part of the atmosphere, hydrosphere, and the entire upper part of the lithosphere" flag="1"/>
+ </question>
+ <question text="How many species of living organisms living on Earth?" level="1" simple="True">
+  <answer text="More than 2 thousand." flag="0"/>
+  <answer text="More than 20 thousand." flag="0"/>
+  <answer text="More than 2 million" flag="1"/>
+ </question>
+ <question text="The largest zonal prorodnymy complexes are" level="1" simple="True">
+  <answer text="Geographic zones" flag="1"/>
+  <answer text="Natural areas" flag="0"/>
+  <answer text="Continents and Oceans" flag="0"/>
+ </question>
+ <question text="The change in natural systems, depending on the altitude called" level="1" simple="True">
+  <answer text="Mountain zoning" flag="0"/>
+  <answer text="Altitudinal zonation" flag="1"/>
+  <answer text="Altitudinal zonation" flag="0"/>
+ </question>
+ <question text="Where in the world formed the largest number of high-altitude zones?" level="1" simple="True">
+  <answer text="On the southern slopes of the Himalayas" flag="1"/>
+  <answer text="In the mountainous regions of equatorial Africa" flag="0"/>
+  <answer text="In the Andes" flag="0"/>
+ </question>
+ <question text="Which of the following environmental problems are global?" level="1" simple="True">
+  <answer text="The greenhouse effect and raising sea levels" flag="1"/>
+  <answer text="Excessive numbers of marsupials bears in Australia" flag="0"/>
+  <answer text="Air pollution and associated acid rain" flag="1"/>
+  <answer text="Ocean pollution and depletion of resources" flag="1"/>
+  <answer text="Ozone depletion" flag="1"/>
+ </question>
+ <question text="Which of global environmental problems caused by human activity?" level="1" simple="True">
+  <answer text="Ozone depletion" flag="1"/>
+  <answer text="Desertification" flag="1"/>
+  <answer text="Ocean pollution, and reducing its resources" flag="1"/>
+  <answer text="The negative impact on health and health space storms" flag="0"/>
+ </question>
+ <question text="What determines the fertility of the soil?" level="1" simple="True">
+  <answer text="Power humus layer" flag="1"/>
+  <answer text="Mechanical composition of soil" flag="0"/>
+  <answer text="Moisture area" flag="0"/>
+ </question>
+</testing>

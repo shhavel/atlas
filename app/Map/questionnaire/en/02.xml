@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="EARTH TO PLAN AND MAP">
+ <question text="What is a Latin word meaning &quot;globe&quot;?" level="1" simple="True">
+  <answer text="Bullet" flag="1"/>
+  <answer text="Model" flag="0"/>
+  <answer text="Model" flag="0"/>
+  <answer text="Zemlepodibnyy" flag="0"/>
+ </question>
+ <question text="How on the globe or map grid called meridians and parallels?" level="1" simple="True">
+  <answer text="Parallel" flag="0"/>
+  <answer text="Rectangular" flag="0"/>
+  <answer text="Meridian" flag="0"/>
+  <answer text="Degree" flag="1"/>
+ </question>
+ <question text="How is an imaginary line on the Earth's surface equidistant from the poles?" level="1" simple="True">
+  <answer text="Equator" flag="1"/>
+  <answer text="Meridian" flag="0"/>
+  <answer text="Tropic" flag="0"/>
+ </question>
+ <question text="What is the reference latitude?" level="1" simple="True">
+  <answer text="North Pole" flag="0"/>
+  <answer text="South Pole" flag="0"/>
+  <answer text="Equator" flag="1"/>
+  <answer text="Ґrynvitskyy Meridian" flag="0"/>
+ </question>
+ <question text="Which statement is correct?" level="1" simple="True">
+  <answer text="Equator - the longest parallel" flag="1"/>
+  <answer text="From Ґrynvitskoho meridian of longitude readout is performed" flag="1"/>
+  <answer text="Length of parallels increases in the direction from the equator to the poles" flag="0"/>
+ </question>
+ <question text="What point on the Earth's surface with longitude?" level="1" simple="True">
+  <answer text="Located on the meridian Ґrynvitskomu" flag="0"/>
+  <answer text="Located on the equator" flag="1"/>
+  <answer text="The geographic poles of the Earth" flag="0"/>
+  <answer text="The magnetic poles of the Earth" flag="0"/>
+ </question>
+ <question text="What are the signs point to the north?" level="1" simple="True">
+  <answer text="Moss on one side of the trunk" flag="1"/>
+  <answer text="A gentle slope nest" flag="0"/>
+  <answer text="In short branches on one side of tree than the other" flag="1"/>
+  <answer text="Polar star" flag="1"/>
+ </question>
+ <question text="In what direction the compass needle always points?" level="1" simple="True">
+  <answer text="In the direction of the geographic North Pole of the Earth" flag="0"/>
+  <answer text="Towards the north magnetic pole of the Earth" flag="1"/>
+  <answer text="Towards the South geographic poles of the Earth" flag="0"/>
+  <answer text="Towards the South magnetic pole of the Earth" flag="0"/>
+ </question>
+ <question text="If you stand facing south," level="1" simple="True">
+  <answer text="back to north" flag="1"/>
+  <answer text="right will rise" flag="0"/>
+  <answer text="east is to the left" flag="1"/>
+ </question>
+ <question text="How to determine azimuth?" level="1" simple="True">
+  <answer text="From the south to any subject over the course clockwise" flag="0"/>
+  <answer text="From the south to any object against clockwise" flag="0"/>
+  <answer text="From the north towards any object the progress clockwise" flag="1"/>
+  <answer text="From the north towards any object against clockwise" flag="0"/>
+ </question>
+ <question text="Which of the azimuth defined correctly?" level="1" simple="True">
+  <answer text="Azimuth south direction is 180 °" flag="1"/>
+  <answer text="Azimuth northerly direction is 0 °" flag="1"/>
+  <answer text="Azimuth eastern direction is 90 °" flag="1"/>
+  <answer text="West azimuth is 360 °" flag="0"/>
+ </question>
+ <question text="As should be oriented towards the plate during okomirnoho removal?" level="1" simple="True">
+  <answer text="The upper edge of the south" flag="0"/>
+  <answer text="The upper edge of the north" flag="1"/>
+  <answer text="The upper edge of the east" flag="0"/>
+  <answer text="Random" flag="0"/>
+ </question>
+ <question text="How is the elevation above sea level?" level="1" simple="True">
+  <answer text="The relative height" flag="0"/>
+  <answer text="Relative height" flag="0"/>
+  <answer text="The absolute height" flag="1"/>
+ </question>
+ <question text="Which statement is incorrect?" level="1" simple="True">
+  <answer text="Map area depicted somewhat distorted" flag="0"/>
+  <answer text="In one sense can be described whole surface of the Earth" flag="1"/>
+  <answer text="The map shows the area more precisely than in terms" flag="1"/>
+  <answer text="The plan can be represented more territory than on the map" flag="1"/>
+ </question>
+ <question text="As called out, written as a fractional number, the numerator of which is one and the denominator - the number that indicates how many times the reduced images?" level="1" simple="True">
+  <answer text="Appointed" flag="0"/>
+  <answer text="Fractional" flag="0"/>
+  <answer text="Numeric or numerical" flag="1"/>
+  <answer text="The graphic" flag="0"/>
+ </question>
+ <question text="Cards, 1 cm which corresponds to 2 km on the ground, are classified" level="1" simple="True">
+  <answer text="Medium-Sized" flag="0"/>
+  <answer text="large" flag="1"/>
+  <answer text="SSC" flag="0"/>
+ </question>
+ <question text="Which statement is incorrect?" level="1" simple="True">
+  <answer text="The plan takes into account the spherical shape of the Earth" flag="1"/>
+  <answer text="Map takes into account the spherical shape of the Earth" flag="0"/>
+  <answer text="The larger the denominator of the scale, the smaller scale" flag="0"/>
+ </question>
+ <question text="How many main groups divided all symbols topographical plans and maps?" level="1" simple="True">
+  <answer text="for 4" flag="1"/>
+  <answer text="of 2" flag="0"/>
+  <answer text="5" flag="0"/>
+  <answer text="of 3" flag="0"/>
+ </question>
+ <question text="Which statement is correct?" level="1" simple="True">
+  <answer text="Outlined symbols convey the true shape of the object" flag="1"/>
+  <answer text="Linear length of the object symbols convey the scale" flag="1"/>
+  <answer text="What larger scale, the larger the denominator of the scale" flag="0"/>
+ </question>
+ <question text="Badges symbols" level="1" simple="True">
+  <answer text="convey the true shape and size of facility-wide plan" flag="0"/>
+  <answer text="used to image linear objects" flag="0"/>
+  <answer text="apply when a form object via its small size, can not be shown on the scale" flag="1"/>
+ </question>
+ <question text="What is the denominator of the scale, if 1 cm map corresponds to 100 meters on the ground?" level="1" simple="True">
+  <answer text="100" flag="0"/>
+  <answer text="In 1000" flag="0"/>
+  <answer text="10 000" flag="1"/>
+ </question>
+ <question text="Horizontal is" level="1" simple="True">
+  <answer text="lines connecting points of the area with the same relative height" flag="0"/>
+  <answer text="lines connecting the highest point of the area" flag="0"/>
+  <answer text="line connecting points of equal area absolute height" flag="1"/>
+ </question>
+ <question text="That is a sign of considerable steepness of the slope on the map?" level="1" simple="True">
+  <answer text="Horizontal located far apart" flag="0"/>
+  <answer text="Horizontal very sinuous" flag="0"/>
+  <answer text="Horizontal located close to each other" flag="1"/>
+ </question>
+ <question text="How berhshtryhy place on the map?" level="1" simple="True">
+  <answer text="Free end upward relief" flag="0"/>
+  <answer text="Free end downward relief" flag="1"/>
+  <answer text="Always free end toward the nearest sea" flag="0"/>
+ </question>
+</testing>

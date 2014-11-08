@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hydrosphere">
+ <question text="What part of the earth's surface occupied by oceans?" level="1" simple="True">
+  <answer text="17% of" flag="0"/>
+  <answer text="40% of" flag="0"/>
+  <answer text="60% of" flag="0"/>
+  <answer text="71% of" flag="1"/>
+ </question>
+ <question text="What a warm current called?" level="1" simple="True">
+  <answer text="One in which water is warmer than 0 ° C" flag="0"/>
+  <answer text="One in which water is warmer for + 20 ° C" flag="0"/>
+  <answer text="One in which water is warmer for the surrounding oceanic water" flag="1"/>
+  <answer text="One in which water never freezes" flag="0"/>
+ </question>
+ <question text="In what units of measure the salinity of ocean water?" level="1" simple="True">
+  <answer text="In grams per liter cubic" flag="0"/>
+  <answer text="Percentage" flag="0"/>
+  <answer text="In ppm" flag="1"/>
+  <answer text="In kilograms per cubic meter" flag="0"/>
+ </question>
+ <question text="What is the name of the river valley, constantly occupied by water flow?" level="1" simple="True">
+  <answer text="Floodplain" flag="0"/>
+  <answer text="Channel" flag="1"/>
+  <answer text="Terrace" flag="0"/>
+  <answer text="Outfall" flag="0"/>
+ </question>
+ <question text="What factors depend tidal height?" level="1" simple="True">
+  <answer text="Depths of the Sea" flag="1"/>
+  <answer text="The relative placement of the Earth, Moon and Sun." flag="1"/>
+  <answer text="The season" flag="0"/>
+  <answer text="From the shape of the coastline" flag="1"/>
+ </question>
+ <question text="What is the maximum height of the tides in the oceans?" level="1" simple="True">
+  <answer text="More than 18 m" flag="1"/>
+  <answer text="About 10 m" flag="0"/>
+  <answer text="Not more than 0.5 m" flag="0"/>
+ </question>
+ <question text="How does the temperature of water in the ocean to a depth of 700 m?" level="1" simple="True">
+  <answer text="Virtually unchanged" flag="0"/>
+  <answer text="Permanently reduced" flag="1"/>
+  <answer text="Permanently increases" flag="0"/>
+  <answer text="Lowering and raising the temperature alternating" flag="0"/>
+ </question>
+ <question text="Which of the statements is wrong?" level="1" simple="True">
+  <answer text="At the bottom of the ocean water is coldest, as there is not penetrating sunlight" flag="1"/>
+  <answer text="At greater depths all the water has the same temperature close to 0 ° C" flag="0"/>
+  <answer text="At the bottom water becomes warmer because the substance is heated with warm mantle, which lies relatively shallow" flag="0"/>
+ </question>
+ <question text="What are the aggregate states characteristic of water?" level="1" simple="True">
+  <answer text="Gas" flag="1"/>
+  <answer text="Liquid" flag="1"/>
+  <answer text="Viscous" flag="0"/>
+  <answer text="Solid" flag="1"/>
+ </question>
+ <question text="How is the process where water evaporates over the ocean is transferred on dry land after the loss of surface flows into the ocean to the surface or seeping into the ground?" level="1" simple="True">
+  <answer text="Flow" flag="0"/>
+  <answer text="Seepage" flag="0"/>
+  <answer text="Small cycle" flag="0"/>
+  <answer text="Great cycling" flag="1"/>
+ </question>
+ <question text="What are the performances of solid rock above the bottom of the river as separate boulders?" level="1" simple="True">
+  <answer text="Waterfall" flag="0"/>
+  <answer text="Cliff" flag="0"/>
+  <answer text="Dam" flag="0"/>
+  <answer text="Thresholds" flag="1"/>
+ </question>
+ <question text="What are the lakes that have arisen in soluble rock rocks?" level="1" simple="True">
+  <answer text="Oxbow lakes" flag="0"/>
+  <answer text="Ice" flag="0"/>
+  <answer text="Karst" flag="1"/>
+  <answer text="Estuary" flag="0"/>
+ </question>
+</testing>
