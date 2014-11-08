@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="South America">
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="The longest river flowing Planet South America" flag="0"/>
+    <answer text="In South America is the largest desert in the world" flag="0"/>
+    <answer text="Atacama - most droughty desert planet" flag="1"/>
+    <answer text="Angel - the highest waterfall of the world" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the animals are endemic to South America?">
+    <answer text="Panda" flag="0"/>
+    <answer text="Piran'ya" flag="1"/>
+    <answer text="Anaconda" flag="1"/>
+    <answer text="Cougar" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the highest mountain in South America?">
+    <answer text="Cotopaxi" flag="0"/>
+    <answer text="Aconcagua" flag="1"/>
+    <answer text="Kosciusko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Strait of Magellan separates ...">
+    <answer text="North and South America" flag="0"/>
+    <answer text="South America and Tierra del Fuego archipelago" flag="1"/>
+    <answer text="South America and Antarctica" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="Andes - a mountain range in the west of South America" flag="1"/>
+    <answer text="Pampa - grassy steppes in the south of South America" flag="1"/>
+    <answer text="Amazon - the longest river in the world" flag="0"/>
+  </question>
+</testing>

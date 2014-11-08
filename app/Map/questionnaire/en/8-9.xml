@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Natural areas of Ukraine. Animal and plant life">
+  <question level="1" simple="True" text="Which animal is the largest in Ukraine?">
+    <answer text="Peccary" flag="0"/>
+    <answer text="Aurochs" flag="1"/>
+    <answer text="Deer" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How to change the natural areas in the mountains?">
+    <answer text="It does not change" flag="0"/>
+    <answer text="Change in direction from bottom to top" flag="1"/>
+    <answer text="Change in direction from north to south" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the most common soils in the steppe zone?">
+    <answer text="Brown" flag="0"/>
+    <answer text="Sod-podzolic" flag="0"/>
+    <answer text="Chernozem" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What natural area is Askania Nova?">
+    <answer text="Steppe" flag="1"/>
+    <answer text="Forest-steppe" flag="0"/>
+    <answer text="Mixed forests" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the listed city is located on the border zone of mixed forests and forest?">
+    <answer text="Cherkasy" flag="0"/>
+    <answer text="Kyiv" flag="1"/>
+    <answer text="Lviv" flag="0"/>
+  </question>
+</testing>

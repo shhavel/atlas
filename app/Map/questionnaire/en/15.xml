@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Eurasia">
+  <question level="1" simple="True" text="What characterizes Eurasia?">
+    <answer text="It is the highest mountain in the world" flag="1"/>
+    <answer text="It recorded the lowest temperature of the planet" flag="0"/>
+    <answer text="Eurasia is the largest continent" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="Lake Baikal - the deepest lake in the world" flag="1"/>
+    <answer text="In eastern Eurasia Atlantic Ocean" flag="0"/>
+    <answer text="The Arabian Peninsula is the largest peninsula of the Earth" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What Cherapundzhi?">
+    <answer text="This town, which recorded temperature record" flag="0"/>
+    <answer text="This town, which recorded the highest rainfall" flag="1"/>
+    <answer text="This is the name of the largest world's top" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The largest lake in the world is ...">
+    <answer text="Baikal" flag="0"/>
+    <answer text="Balkhash" flag="0"/>
+    <answer text="The Caspian Sea" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What connects the Red and Mediterranean Sea?">
+    <answer text="Gibraltar channel" flag="0"/>
+    <answer text="Suez Canal" flag="1"/>
+    <answer text="Gulf of Aden" flag="0"/>
+  </question>
+</testing>

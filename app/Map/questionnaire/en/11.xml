@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Population. Races">
+  <question level="1" simple="True" text="What on Earth is now home to people?">
+    <answer text="5 billion people" flag="0"/>
+    <answer text="6 billion people" flag="0"/>
+    <answer text="more than 7 billion people" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which country is the largest in the world by population?">
+    <answer text="Russia" flag="0"/>
+    <answer text="China" flag="1"/>
+    <answer text="India" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Most people in the world live in ...">
+    <answer text="Cities" flag="1"/>
+    <answer text="Villages" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Representatives of every race is Ukrainian?">
+    <answer text="Caucasian" flag="1"/>
+    <answer text="Mongoloid" flag="0"/>
+    <answer text="Avstraloyidna" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Do any of the people live in Antarctica?">
+    <answer text="Yes" flag="0"/>
+    <answer text="No, there's none of the people there" flag="0"/>
+    <answer text="There's no permanent population, and are only members of polar expeditions" flag="1"/>
+  </question>
+</testing>

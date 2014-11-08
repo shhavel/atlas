@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Household">
+  <question level="1" simple="True" text="Which of these crops predominant crop Ukrainian Polesie?">
+    <answer text="Potatoes" flag="1"/>
+    <answer text="Sunflower" flag="0"/>
+    <answer text="Wheat" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where in the Ukraine crop is mostly represented by vineyards and fruit?">
+    <answer text="Polesie" flag="0"/>
+    <answer text="Transcarpathia" flag="1"/>
+    <answer text="South Crimea" flag="1"/>
+    <answer text="Sumy region" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which cities of Ukraine is the automobile business?">
+    <answer text="Lugansk" flag="0"/>
+    <answer text="Luck" flag="1"/>
+    <answer text="Lviv" flag="1"/>
+    <answer text="Zaporozhye" flag="1"/>
+    <answer text="Amounts" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many in Ukraine operating nuclear power plants?">
+    <answer text="Three" flag="0"/>
+    <answer text="Four" flag="1"/>
+    <answer text="five" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where in Ukraine the most favorable conditions for the cultivation of corn and sunflower?">
+    <answer text="Steppe" flag="1"/>
+    <answer text="Polesie" flag="0"/>
+    <answer text="Southern coast of Crimea" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Antarctica">
+  <question level="1" simple="True" text="How is the Ukrainian Antarctic Station?">
+    <answer text="&quot;Youth&quot;" flag="0"/>
+    <answer text="&quot;Akademik Vernadsky&quot;" flag="1"/>
+    <answer text="&quot;East&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What characterizes Antarctica?">
+    <answer text="Lack of water in any state in the central part of the continent" flag="0"/>
+    <answer text="Intensive mining" flag="0"/>
+    <answer text="The largest of the continents average height" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct statement">
+    <answer text="In Antarctica, the lowest temperature recorded on the planet" flag="1"/>
+    <answer text="In the Antarctic ice is concentrated most of all the fresh water of the planet" flag="1"/>
+    <answer text="Due to the harsh climate in Antarctica there are no living organisms" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What animals are found in Antarctica and its coastal waters?">
+    <answer text="Polar Bear" flag="0"/>
+    <answer text="Polar Deer" flag="0"/>
+    <answer text="Penguin" flag="1"/>
+    <answer text="Seal" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="Antarctica - the smallest of the continents" flag="0"/>
+    <answer text="Antarctica is the closest to Africa" flag="0"/>
+    <answer text="In Antarctica is not mining" flag="1"/>
+  </question>
+</testing>

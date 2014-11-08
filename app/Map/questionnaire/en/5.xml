@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Soils">
+  <question level="1" simple="True" text="What soils best suited for agricultural activities?">
+    <answer text="Turf" flag="0"/>
+    <answer text="Chernozem" flag="1"/>
+    <answer text="Brown" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which regions of Ukraine most common brownsoil soil?">
+    <answer text="In mountainous areas of the Carpathians and the Crimea" flag="1"/>
+    <answer text="In the steppe zone" flag="0"/>
+    <answer text="In Polesie" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the most common soils in northern Ukraine?">
+    <answer text="Mountain" flag="0"/>
+    <answer text="Chernozem" flag="0"/>
+    <answer text="Turf" flag="1"/>
+  </question>
+</testing>

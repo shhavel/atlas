@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The starry sky of the northern hemisphere. The Earth - a planet of the solar system">
+  <question level="1" simple="True" text="Which star can determine the direction to the north in the Northern Hemisphere?">
+    <answer text="Vega" flag="0"/>
+    <answer text="Polar" flag="1"/>
+    <answer text="Altair" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What characterizes the sun?">
+    <answer text="This is the largest celestial body in the solar system" flag="1"/>
+    <answer text="It is the star" flag="1"/>
+    <answer text="It is the largest planet" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The biggest planet in the solar system is ...">
+    <answer text="Jupiter" flag="1"/>
+    <answer text="Neptune" flag="0"/>
+    <answer text="Saturn" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the result of Earth's rotation around the sun?">
+    <answer text="Change of seasons" flag="1"/>
+    <answer text="Day and night" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="After that there is a change of day and night?">
+    <answer text="The rotation of the Earth on its axis" flag="1"/>
+    <answer text="The rotation of the Earth around the Sun." flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Physical map of the hemispheres">
+  <question level="1" simple="True" text="What island is the largest planet?">
+    <answer text="Madagascar" flag="0"/>
+    <answer text="Greenland" flag="1"/>
+    <answer text="Aetolia" flag="0"/>
+    <answer text="New Guinea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What characterizes Africa?">
+    <answer text="It is the longest river flowing Earth" flag="1"/>
+    <answer text="The continent is the highest mountain in the world" flag="0"/>
+    <answer text="It is the largest desert in the world" flag="1"/>
+    <answer text="Here is the deepest lake in the world" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer.">
+    <answer text="The lowest temperature recorded in the world in Antarctica" flag="1"/>
+    <answer text="Naypovnovodnisha planet river flows in Africa" flag="0"/>
+    <answer text="Highest waterfalls of the planet is Niagara" flag="0"/>
+    <answer text="Lake Baikal - the deepest lake in the world" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who is Christopher Columbus?">
+    <answer text="Navigator, which made the first trip around the world" flag="0"/>
+    <answer text="Discoverer of America" flag="1"/>
+    <answer text="The traveler who discovered the sea route from Europe to India" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the largest peninsula?">
+    <answer text="Labrador" flag="0"/>
+    <answer text="Hindustan" flag="0"/>
+    <answer text="Arabian" flag="1"/>
+  </question>
+</testing>

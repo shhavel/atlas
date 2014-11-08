@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The territory of Ukraine">
+  <question level="1" simple="True" text="What is the area of ​​Ukraine is bordered by Belarus and Russia">
+    <answer text="Sums" flag="0"/>
+    <answer text="Kiev" flag="0"/>
+    <answer text="Chernihiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is the capital of the autonomous republic of Ukraine">
+    <answer text="Sevastopol" flag="0"/>
+    <answer text="Simferopol" flag="1"/>
+    <answer text="Odessa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The westernmost region of Ukraine is">
+    <answer text="Transcarpathian" flag="1"/>
+    <answer text="Lugansk" flag="0"/>
+    <answer text="Ivano-Frankivsk" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What foreign countries bordering Volyn region?">
+    <answer text="Poland" flag="1"/>
+    <answer text="Belarus" flag="1"/>
+    <answer text="Russia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Enter regions of Ukraine, which borders Moldova">
+    <answer text="Khmelnytsky" flag="0"/>
+    <answer text="Vinnytsia" flag="1"/>
+    <answer text="Chernivtsi" flag="1"/>
+    <answer text="Odessa" flag="1"/>
+  </question>
+</testing>

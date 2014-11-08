@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Physical map of Ukraine. Minerals">
+  <question level="1" simple="True" text="What is the highest mountain in Ukraine?">
+    <answer text="Roman-Kosh" flag="0"/>
+    <answer text="Ai-Petri" flag="0"/>
+    <answer text="Goverla" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Near which town is the geographical cent Ukraine?">
+    <answer text="Marianivka" flag="1"/>
+    <answer text="Talnoe" flag="0"/>
+    <answer text="Kirovograd" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the river, which forms a significant part of the border between Ukraine and Moldova?">
+    <answer text="Danube" flag="0"/>
+    <answer text="Dniester" flag="1"/>
+    <answer text="Rod" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where the river enters another body of water, called ...">
+    <answer text="Channel" flag="0"/>
+    <answer text="Mouth" flag="1"/>
+    <answer text="Tributary" flag="0"/>
+    <answer text="Reservoir" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What reservoir located on the Dnieper River south of Kyiv?">
+    <answer text="Kaniv" flag="1"/>
+    <answer text="Kiev" flag="0"/>
+    <answer text="Kremenchug" flag="1"/>
+    <answer text="Dniprodzerginsky" flag="1"/>
+    <answer text="Kakhovske" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Region of Ukraine where most coal is mined, it ...">
+    <answer text="Volyn" flag="0"/>
+    <answer text="Donbass" flag="1"/>
+    <answer text="Transcarpathia" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+<Item FileName="1" Caption="Galileo Telescope"/>
+<Item FileName="2" Caption="Optical Telescope"/>
+<Item FileName="3" Caption="Radio telescopes"/>
+<Item FileName="4" Caption="Space Telescope"/>
+<Item FileName="5" Caption="Probe"/>
+<Item FileName="6" Caption="Orbital Station"/>
+<Item FileName="7" Caption="Reusable manned spacecraft"/>
+<Item FileName="8" Caption="Artificial satellites"/>
+</List>

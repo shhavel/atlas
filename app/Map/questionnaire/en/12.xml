@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="North America">
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="Off the coast of North America is the largest island in the world" flag="1"/>
+    <answer text="In North America, the highest recorded temperature on Earth" flag="0"/>
+    <answer text="Off the coast of North America there are the highest tides" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What strait separates North America and Eurasia?">
+    <answer text="Bering" flag="1"/>
+    <answer text="Devisova" flag="0"/>
+    <answer text="Hudson" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What animals and plants are found only in North America?">
+    <answer text="Polar Bear" flag="0"/>
+    <answer text="Sequoia" flag="1"/>
+    <answer text="Buffalo" flag="1"/>
+    <answer text="Cactus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities is located in the area tverdolystyh evergreen forests and shrubs?">
+    <answer text="Washington" flag="0"/>
+    <answer text="San Francisco" flag="1"/>
+    <answer text="Mexico" flag="0"/>
+  </question>
+</testing>

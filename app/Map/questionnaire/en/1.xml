@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The concept of the plan. The concept of scale">
+  <question level="1" simple="True" text="What is the plan for the area?">
+    <answer text="Reduced copy globe" flag="0"/>
+    <answer text="Thumbnail image areas of the earth's surface" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Dimensions that are shown on the plan ...">
+    <answer text="smaller than the true size of these objects on the surface" flag="1"/>
+    <answer text="not differ on the size of these objects on the surface" flag="0"/>
+    <answer text="larger than the size of objects on the surface" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Can one plan to reflect the entire globe?">
+    <answer text="Yes" flag="0"/>
+    <answer text="Neither" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As usual oriented plans?">
+    <answer text="The upper edge of the south" flag="0"/>
+    <answer text="The upper edge of the north" flag="1"/>
+    <answer text="Random" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Can scale to determine the actual size of the object shown in the plan?">
+    <answer text="Neither" flag="0"/>
+    <answer text="Yes" flag="1"/>
+  </question>
+</testing>

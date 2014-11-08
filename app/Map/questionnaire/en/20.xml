@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The concept of the horizon">
+  <question level="1" simple="True" text="What are the signs point to the north?">
+    <answer text="Moss on one side of the trunk" flag="1"/>
+    <answer text="A gentle slope nest" flag="0"/>
+    <answer text="Shorter branches from one side of the tree" flag="1"/>
+    <answer text="Polar star" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which direction the compass needle always points?">
+    <answer text="Towards the geographic North Pole of the Earth" flag="0"/>
+    <answer text="Towards the north magnetic pole of the Earth" flag="1"/>
+    <answer text="Towards the southern geographic pole of the Earth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="If you stand facing south, the ...">
+    <answer text="back to north" flag="1"/>
+    <answer text="case will rise" flag="0"/>
+    <answer text="east to the left" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How is the imaginary line where the sky supposedly converges with the Earth?">
+    <answer text="Horizon" flag="1"/>
+    <answer text="Equator" flag="0"/>
+    <answer text="Azimuth" flag="0"/>
+  </question>
+</testing>

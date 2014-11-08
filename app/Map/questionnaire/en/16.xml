@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Australia">
+  <question level="1" simple="True" text="What characterizes Australia?">
+    <answer text="It is the smallest mainland" flag="1"/>
+    <answer text="It is the largest island" flag="0"/>
+    <answer text="Here, a large number of endemic and relict species" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="The continent Australia is one country - Australia" flag="1"/>
+    <answer text="Australia lies entirely in the Southern Hemisphere" flag="1"/>
+    <answer text="From the east coast of Australia is washed Atlantic" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the largest coral formation in the world?">
+    <answer text="Atoll" flag="0"/>
+    <answer text="Great Barrier Reef" flag="1"/>
+    <answer text="Great Dividing Range" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Australia is endemic ...">
+    <answer text="Dromedary" flag="0"/>
+    <answer text="Kangaroo" flag="1"/>
+    <answer text="Platypus" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which part of Australia is its largest peak">
+    <answer text="Northwest" flag="0"/>
+    <answer text="Southeast" flag="1"/>
+    <answer text="North" flag="0"/>
+    <answer text="South" flag="0"/>
+  </question>
+</testing>

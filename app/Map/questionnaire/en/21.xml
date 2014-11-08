@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Knowledge Universe">
+  <question level="1" simple="True" text="Who explorers made the first trip around the world?">
+    <answer text="Christopher Columbus" flag="0"/>
+    <answer text="Ferdinand Magellan" flag="1"/>
+    <answer text="Marco Polo" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who are the scientists first suggested that the Earth along with the planets move around the sun and not vice versa?">
+    <answer text="Aristotle" flag="0"/>
+    <answer text="Aristarchus of Samos" flag="1"/>
+    <answer text="Ptolemy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first to observe the celestial bodies used a telescope?">
+    <answer text="Giordano Bruno" flag="0"/>
+    <answer text="Galileo Galilei" flag="1"/>
+    <answer text="Nicholas Copernicus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who is the first cosmonaut of the planet?">
+    <answer text="Leonid Kadeniuk" flag="0"/>
+    <answer text="Yuri Gagarin" flag="1"/>
+    <answer text="Neil Armstrong" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first astronauts visited the moon?">
+    <answer text="Leonid Kadeniuk" flag="0"/>
+    <answer text="Yuri Gagarin" flag="0"/>
+    <answer text="Neil Armstrong" flag="1"/>
+  </question>
+</testing>

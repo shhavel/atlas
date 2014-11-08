@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Africa">
+  <question level="1" simple="True" text="What characterizes Africa?">
+    <answer text="The continent in half crosses the equator" flag="1"/>
+    <answer text="Hottest continent" flag="1"/>
+    <answer text="Here the river flows naypovnovodnisha world" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which part of the continent is the highest mountain in Africa?">
+    <answer text="To the east" flag="1"/>
+    <answer text="In the south" flag="0"/>
+    <answer text="The event" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What strait separates Africa and o.Madahaskar?">
+    <answer text="Gibraltar" flag="0"/>
+    <answer text="Mozambican" flag="1"/>
+    <answer text="Bab el Mandebska" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What characterizes Africa?">
+    <answer text="It formed the largest desert in the world" flag="1"/>
+    <answer text="Here dwells the largest land animal" flag="1"/>
+    <answer text="This is the most humid continent" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="In Africa, the highest temperature recorded on the planet" flag="1"/>
+    <answer text="In Africa recorded the highest rainfall" flag="0"/>
+    <answer text="The highest peak in Africa - Kilimanjaro g" flag="1"/>
+  </question>
+</testing>

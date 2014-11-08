@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Structure of the Earth">
+  <question level="1" simple="True" text="What depth is the most wells drilled in humans?">
+    <answer text="1200 meters" flag="0"/>
+    <answer text="12 miles" flag="1"/>
+    <answer text="1200 kilometers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The thinnest layer of the Earth is ...">
+    <answer text="Core" flag="0"/>
+    <answer text="Mantle" flag="0"/>
+    <answer text="Crust" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The highest temperature in the Earth's interior reaches ...">
+    <answer text="15 000 ° C" flag="0"/>
+    <answer text="5000 ° C" flag="1"/>
+    <answer text="2900 ° C" flag="0"/>
+  </question>
+</testing>

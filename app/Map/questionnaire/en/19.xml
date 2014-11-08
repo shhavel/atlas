@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Horizon">
+  <question level="1" simple="True" text="How is the imaginary line where the sky is allegedly connected with the surface of the Earth?">
+    <answer text="Equator" flag="0"/>
+    <answer text="The earth's axis" flag="0"/>
+    <answer text="Horizon" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Happy summer solstice in the Northern Hemisphere is ...">
+    <answer text="January 1" flag="0"/>
+    <answer text="June 22" flag="1"/>
+    <answer text="December 22" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="December 22 is ...">
+    <answer text="the winter solstice in the Northern Hemisphere" flag="1"/>
+    <answer text="day with the longest night" flag="1"/>
+    <answer text="summer solstice in the Northern Hemisphere" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answer">
+    <answer text="December 22 the shortest day in the Northern Hemisphere" flag="1"/>
+    <answer text="June 22 is the smallest length of the night in the Northern Hemisphere" flag="1"/>
+    <answer text="During the day high above the earth is the sun in the morning" flag="0"/>
+  </question>
+</testing>
