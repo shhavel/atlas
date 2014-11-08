@@ -13,12 +13,19 @@ class Category
   property :sign, :string
   property :name_ru, :string
   property :name_ua, :string
+  property :name_en, :string
 
   def maps
     Map.find(:all, :conditions => {'category_sign' => self.sign})
   end
 
   def name
-    Control.lang == 'ua' ? name_ua : name_ru
+    if Control.lang == 'ua'
+      name_ua
+    elsif Control.lang == 'ru'
+      name_ru
+    else
+      name_en
+    end
   end
 end
