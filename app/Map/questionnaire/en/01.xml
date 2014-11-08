@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="GENERAL SECTION">
+  <question text="Which answer is correct?" level="1" simple="True">
+    <answer text="Ukraine is in a third time zone" flag="0"/>
+    <answer text="The countdown is on 180 th meridian" flag="1"/>
+    <answer text="Midday in Ukraine comes two hours earlier than zero (Western European) time zone" flag="1"/>
+  </question>
+  <question text="Which answer is wrong?" level="1" simple="True">
+    <answer text="By type of geometric surface map projections are divided into cylindrical, azimuthal, conical" flag="0"/>
+    <answer text=" By thematic maps are geographical and economic maps" flag="0"/>
+    <answer text="Using equal projection, you can create maps without distortion" flag="1"/>
+  </question>
+  <question text="For the first time the name &quot;Ukraine&quot; is mentioned:" level="1" simple="True">
+    <answer text="the Kyiv Chronicle (1187)" flag="1"/>
+    <answer text="G. Boplana in the book &quot;Description of Ukraine&quot; (1650)" flag="0"/>
+    <answer text="in the descriptions of Byzantine and Arab travelers X century." flag="0"/>
+  </question>
+  <question text="The author of the &quot;Description of Ukraine&quot; are:" level="1" simple="True">
+    <answer text="Hippocrates" flag="0"/>
+    <answer text="G. Boplan" flag="1"/>
+    <answer text="Herodotus" flag="0"/>
+  </question>
+  <question text="Avowed geographical center of Ukraine is:" level="1" simple="True">
+    <answer text=" in the city. Svitlovodsk Kirovograd region" flag="0"/>
+    <answer text="near the village. Marianivka Cherkasy region" flag="1"/>
+    <answer text="m.Chyhyryn near Cherkassy region" flag="0"/>
+  </question>
+  <question text="The southernmost point of Ukraine:" level="1" simple="True">
+    <answer text="Sarich" flag="1"/>
+    <answer text="Tarkhankut" flag="0"/>
+    <answer text="Meganom" flag="0"/>
+  </question>
+  <question text="Which of the statements is correct?" level="1" simple="True">
+    <answer text="The area of ​​Ukraine is 603,7 thousand sq. M. km" flag="1"/>
+    <answer text="Ukraine borders with seven countries" flag="1"/>
+    <answer text="The territory of Ukraine is washed by three seas" flag="0"/>
+  </question>
+  <question text="Which of these countries not bordering Ukraine?" level="1" simple="True">
+    <answer text="From Slovakia" flag="0"/>
+    <answer text="From Bulgaria" flag="1"/>
+    <answer text=" Slovenia" flag="1"/>
+  </question>
+  <question text="What year ended with the formation of Ukraine?" level="1" simple="True">
+    <answer text="In 1922" flag="0"/>
+    <answer text="In 1954" flag="1"/>
+    <answer text="In 1991" flag="0"/>
+  </question>
+  <question text=" Which territories were included in the Ukraine in World War II?" level="1" simple="True">
+    <answer text="Northern Bukovina" flag="0"/>
+    <answer text="South Bessarabia" flag="0"/>
+    <answer text="Transcarpathia" flag="1"/>
+    <answer text="Crimean region" flag="1"/>
+  </question>
+  <question text="Which member of these organizations is Ukraine?" level="1" simple="True">
+    <answer text="OPEC" flag="0"/>
+    <answer text="Commonwealth of Independent States" flag="1"/>
+    <answer text="The International Monetary Fund" flag="1"/>
+    <answer text="The World Trade Organization" flag="1"/>
+  </question>
+  <question text="Which answer is correct?" level="1" simple="True">
+    <answer text=" Elections to the Verkhovna Rada of Ukraine shall be held once every five years" flag="0"/>
+    <answer text="Presidential elections in Ukraine held every four years" flag="0"/>
+    <answer text="Ukraine's Parliament consists of 450 members" flag="1"/>
+  </question>
+</testing>

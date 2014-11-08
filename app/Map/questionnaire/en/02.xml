@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="NATURAL CONDITIONS AND NATURAL RESOURCES">
+  <question text="The oldest Archean and Proterozoic rocks composed of:" level="1" simple="True">
+    <answer text="Black Sea basin" flag="0"/>
+    <answer text="Voronezh crystalline shield" flag="0"/>
+    <answer text="Ukrainian Shield" flag="1"/>
+    <answer text="Volyn-Podolsk Cooker" flag="0"/>
+  </question>
+  <question text="Which of past geological periods Sea left the Ukraine?" level="1" simple="True">
+    <answer text="In the Neogene" flag="1"/>
+    <answer text="In the Jurassic" flag="0"/>
+    <answer text="In the Paleogene" flag="0"/>
+  </question>
+  <question text="The highest peak in the Crimea is" level="1" simple="True">
+    <answer text="Roman-Kosh" flag="1"/>
+    <answer text="Demerdzhi" flag="0"/>
+    <answer text="Ai-Petri" flag="0"/>
+  </question>
+  <question text="What height Goverly?" level="1" simple="True">
+    <answer text="1545 m" flag="0"/>
+    <answer text="2061 m" flag="1"/>
+    <answer text="1527 m" flag="0"/>
+  </question>
+  <question text="Which answer is correct?" level="1" simple="True">
+    <answer text="The whole territory of Ukraine is located in the temperate climate zone" flag="0"/>
+    <answer text="The continental climate of Ukraine is increasing from north to south" flag="0"/>
+    <answer text="The greatest annual precipitation in the Carpathian Mountains of Ukraine is" flag="1"/>
+  </question>
+  <question text="How many peaks of Ukraine shall have a height of 2000 meters?" level="1" simple="True">
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question text="Which of the statements is wrong?" level="1" simple="True">
+    <answer text="Most of the precipitation falls in the Ukraine during the warmer seasons" flag="0"/>
+    <answer text="Ukraine is well provided with water" flag="1"/>
+    <answer text="Southern coast of Crimea is within the subtropical climatic zone" flag="0"/>
+  </question>
+  <question text="Which river does not belong to Ukraine Black Sea?" level="1" simple="True">
+    <answer text="Western Bug" flag="1"/>
+    <answer text="Dniester" flag="0"/>
+    <answer text="Diet" flag="0"/>
+  </question>
+  <question text="Which answer is correct?" level="1" simple="True">
+    <answer text="The lowest salinity of the Black Sea seen in its southern part" flag="0"/>
+    <answer text="Most living organisms inhabit the Black Sea in its deep layers" flag="0"/>
+    <answer text="The maximum depth of the Sea of ​​Azov is 15 m" flag="1"/>
+    <answer text="Most living organisms inhabiting the Black Sea at depths up to 200 m" flag="1"/>
+  </question>
+  <question text="What are the most common soils in the forest-steppe and steppe zones of Ukraine?" level="1" simple="True">
+    <answer text="Chernozem" flag="1"/>
+    <answer text="Sod-podzolic" flag="0"/>
+    <answer text="Gray forest" flag="0"/>
+  </question>
+  <question text="Which of these tectonic structures confined deposits of oil and gas deposits of coal in Ukraine?" level="1" simple="True">
+    <answer text="Dnieper-Donetsk Basin" flag="1"/>
+    <answer text="Voronezh crystalline massif" flag="0"/>
+    <answer text="Ukrainian crystalline shield" flag="0"/>
+  </question>
+  <question text="Coal basin of Ukraine are:" level="1" simple="True">
+    <answer text="Black Sea" flag="0"/>
+    <answer text="Donetsk" flag="1"/>
+    <answer text="Lviv-Volyn" flag="1"/>
+  </question>
+  <question text="How is lead and moving masses of rock slope under the force of gravity?" level="1" simple="True">
+    <answer text="Plane wash" flag="0"/>
+    <answer text="Karst" flag="0"/>
+    <answer text="Landslide" flag="1"/>
+  </question>
+  <question text="What natural zone of Ukraine is the highest agricultural development of the land?" level="1" simple="True">
+    <answer text="The steppe" flag="1"/>
+    <answer text="In the forest" flag="0"/>
+    <answer text="In the forest-steppe" flag="0"/>
+  </question>
+</testing>
