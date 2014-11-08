@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Occupation regime in Ukraine">
+  <question level="1" simple="True" text="As called Reichscommisariat, introducing the Nazi command in the occupied territories of the Soviet Union?">
+    <answer text="&quot;Ukraine&quot;" flag="1"/>
+    <answer text="&quot;Transnistria&quot;" flag="0"/>
+    <answer text="&quot;Ostland&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which city was the Nazi administration of occupied Ukraine?">
+    <answer text="Warsaw" flag="0"/>
+    <answer text="Odessa" flag="0"/>
+    <answer text="Exactly" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What region was included in the General Governorship (Poland)?">
+    <answer text="Volyn" flag="0"/>
+    <answer text="Right Bank" flag="0"/>
+    <answer text="Poltava" flag="0"/>
+    <answer text="Eastern Galicia" flag="1"/>
+    <answer text="Northern Bukovina" flag="0"/>
+    <answer text="Bessarabia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was concluded the German-Romanian agreement to transfer mizhyrichchya Dniester and Southern Bug River with the city Kiev?">
+    <answer text="July 19, 1941" flag="1"/>
+    <answer text="September 19, 1941" flag="0"/>
+    <answer text="August 19, 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which cities were the most massive executions populous Jewish communities?">
+    <answer text="Jmerinka" flag="0"/>
+    <answer text="Berdichev" flag="0"/>
+    <answer text="Yaniv" flag="1"/>
+    <answer text="Kyiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Near where are housed Hitler (&quot;Werewolf&quot;) in Ukraine?">
+    <answer text="Kyiv" flag="0"/>
+    <answer text="Vinnitsa" flag="1"/>
+    <answer text="Exactly" flag="0"/>
+    <answer text="Limekiln" flag="0"/>
+  </question>
+</testing>

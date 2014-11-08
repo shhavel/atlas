@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine's foreign policy. Ukrainian Diaspora">
+  <question level="1" simple="True" text="Which two countries have recognized Ukraine first?">
+    <answer text="Russia" flag="0"/>
+    <answer text="Poland" flag="1"/>
+    <answer text="Canada" flag="1"/>
+    <answer text="USA" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the countries of the former Soviet Union are not included in the CIS?">
+    <answer text="Georgia" flag="0"/>
+    <answer text="Latvia" flag="1"/>
+    <answer text="Lithuania" flag="1"/>
+    <answer text="Estonia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are now also members of GUAM and the CIS?">
+    <answer text="Uzbekistan" flag="0"/>
+    <answer text="Ukraine" flag="1"/>
+    <answer text="Georgia" flag="0"/>
+    <answer text="Moldova" flag="1"/>
+    <answer text="Azerbaijan" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Founder of an international organization became in Ukraine in 1945?">
+    <answer text="NATO" flag="0"/>
+    <answer text="League of Nations" flag="0"/>
+    <answer text="UN" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was the main reason the first wave of Ukrainian immigration second half of XIX century.?">
+    <answer text="Lack of land" flag="1"/>
+    <answer text="Polityni prosecution" flag="0"/>
+    <answer text="Ethnic harassment" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="For what period is the flow of Ukrainian emigrants to the Australian and New Zealand?">
+    <answer text="After World War II" flag="1"/>
+    <answer text="Before World War I" flag="0"/>
+    <answer text="Between the two world wars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which countries are concentrated three largest Ukrainian community?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Canada" flag="1"/>
+    <answer text="Russia" flag="1"/>
+    <answer text="USA" flag="1"/>
+    <answer text="Brazil" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the country, the center of political life in the Ukrainian city which is Prudentopolis?">
+    <answer text="Canada" flag="0"/>
+    <answer text="Brazil" flag="1"/>
+    <answer text="Australia" flag="0"/>
+    <answer text="New Zealand" flag="0"/>
+  </question>
+</testing>

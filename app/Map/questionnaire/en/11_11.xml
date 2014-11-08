@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Annexation of Western Ukraine SSR">
+  <question level="1" simple="True" text="When the Red Army launched a &quot;liberation campaign&quot; at Western, committing aggression against Poland?">
+    <answer text="August 23, 1939" flag="0"/>
+    <answer text="September 1, 1939" flag="0"/>
+    <answer text="September 17, 1939" flag="1"/>
+    <answer text="September 28, 1939" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Is it correct judgments? Events Sovietization: 1) perceived the population of Western Ukraine unambiguously negative; 2) were carried out only violent actions secret police.">
+    <answer text="both are valid /" flag="0"/>
+    <answer text="only one correct option" flag="0"/>
+    <answer text="only 2 correct option" flag="1"/>
+    <answer text="both are wrong" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Soviet government ordered the General Command of the Red Army to cross the border and take the protection of life and property of the population of Western Ukraine and Western Belarus?">
+    <answer text="August 23, 1939" flag="0"/>
+    <answer text="September 1, 1939" flag="0"/>
+    <answer text="September 17, 1939" flag="1"/>
+    <answer text="September 28, 1939" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these Ukrainian lands became part of the Soviet Union and the Ukrainian SSR before?">
+    <answer text="Eastern Galicia" flag="1"/>
+    <answer text="Northern Bukovina" flag="0"/>
+    <answer text="South Bessarabia" flag="0"/>
+    <answer text="Transcarpathia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What measures Sovietization of Western Ukraine in 1939-1941. Were welcomed Ukrainian population: 1) elimination of the Polish and Romanian government vehicles; 2) the introduction of free health care; 3) elimination of political parties; 4) repression and deportation; 5) ukrainization education system; 6) Elimination of large land owners and the distribution among the peasants ix; 7) collectivization.">
+    <answer text="2" flag="1"/>
+    <answer text="3" flag="0"/>
+    <answer text="1" flag="1"/>
+    <answer text="6" flag="1"/>
+    <answer text="5" flag="1"/>
+    <answer text="4" flag="0"/>
+    <answer text="7" flag="0"/>
+  </question>
+</testing>

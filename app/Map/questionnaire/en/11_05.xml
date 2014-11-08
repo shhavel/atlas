@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Soviet Union in the late 1980s">
+  <question level="1" simple="True" text="How many union republics was part of the Soviet Union?">
+    <answer text="6" flag="0"/>
+    <answer text="8" flag="0"/>
+    <answer text="10" flag="0"/>
+    <answer text="15" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the administrative units of the Soviet Union did not have the status of union republics?">
+    <answer text="Tuva" flag="1"/>
+    <answer text="Yakutsk" flag="1"/>
+    <answer text="Tajik" flag="0"/>
+    <answer text="Kirghiz" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What political units existed in the hierarchy of the division of the USSR?">
+    <answer text="Republic" flag="0"/>
+    <answer text="Region" flag="0"/>
+    <answer text="Province" flag="1"/>
+    <answer text="County" flag="0"/>
+    <answer text="Edge" flag="0"/>
+    <answer text="Provinces" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities were capitals of union republics?">
+    <answer text="Tashkent" flag="1"/>
+    <answer text="Yakutsk" flag="0"/>
+    <answer text="Frunze" flag="1"/>
+    <answer text="Baku" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what year was the Constitution adopted that defines leadership of the CPSU in Soviet society?">
+    <answer text="In 1977" flag="1"/>
+    <answer text="In 1987" flag="0"/>
+    <answer text="In 1989" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What nation in the world by population dominated by the Soviet Union?">
+    <answer text="China" flag="1"/>
+    <answer text="Indonesia" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="United States" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What in the world by area occupied Soviet Union?">
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="0"/>
+    <answer text="4" flag="0"/>
+    <answer text="1" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which among the Soviet republics Ukraine occupied the area?">
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in the Great Patriotic War (June 1941-November 1942).">
+  <question level="1" simple="True" text="When the signed plan of attack on the USSR, which was named &quot;Barbarossa&quot;?">
+    <answer text="In December 1939" flag="0"/>
+    <answer text="In December 1940" flag="1"/>
+    <answer text="In March 1941" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Nazi Germany suddenly attacked the USSR">
+    <answer text="September 1, 1939" flag="0"/>
+    <answer text="December 22, 1940" flag="0"/>
+    <answer text="June 22, 1941" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Forces are the Army in January 1942 was carried out the attack in order to return Kharkov?">
+    <answer text="6th Army" flag="1"/>
+    <answer text="12 Army" flag="1"/>
+    <answer text="21 Army" flag="1"/>
+    <answer text="44th Army" flag="0"/>
+    <answer text="55th Army" flag="0"/>
+    <answer text="58th Army" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How Front commanded by Michael Kyrponos?">
+    <answer text="Bryansk" flag="0"/>
+    <answer text="Southern" flag="0"/>
+    <answer text="The North" flag="0"/>
+    <answer text="Southwest" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The city, which Soviet troops in August 1942 were recently it">
+    <answer text="Mariupol" flag="0"/>
+    <answer text="Sverdlovsk" flag="1"/>
+    <answer text="Kharkiv" flag="0"/>
+    <answer text="Sevastopol" flag="0"/>
+    <answer text="Amounts" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Battles were fought for Stalingrad during">
+    <answer text="August - November 1942" flag="1"/>
+    <answer text="November - December 1942" flag="0"/>
+    <answer text="December 1942 - January 1943" flag="0"/>
+    <answer text="October - November 1942" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In June 1941 the Army Group &quot;South&quot; opposing forces">
+    <answer text="Kharkov Military District" flag="0"/>
+    <answer text="Kiev Special District" flag="1"/>
+    <answer text="Odessa Military District" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Army which countries (except Germany) participated in the invasion of Ukraine?">
+    <answer text="Italy" flag="0"/>
+    <answer text="Hungary" flag="1"/>
+    <answer text="Romania" flag="1"/>
+  </question>
+</testing>

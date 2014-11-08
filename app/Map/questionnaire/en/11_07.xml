@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The ethnic composition of the population">
+  <question level="1" simple="True" text="In which region of Ukraine, representatives of the titular nation is not the predominant ethnic group?">
+    <answer text="Odessa region" flag="0"/>
+    <answer text="Donbass" flag="0"/>
+    <answer text="Kyivshchyna" flag="0"/>
+    <answer text="Crimea" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What Ukrainian ethnographic group lives in Chernihiv?">
+    <answer text="Polishchuk" flag="0"/>
+    <answer text="Boyko" flag="0"/>
+    <answer text="Guzuls" flag="0"/>
+    <answer text="Litvin" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what areas Boyko live?">
+    <answer text="Khmelnitsky" flag="0"/>
+    <answer text="Ivano-Frankivsk" flag="1"/>
+    <answer text="Lviv" flag="1"/>
+    <answer text="Rivne" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Representatives of the three national minorities are most numerous in Kyiv?">
+    <answer text="Belarusians" flag="1"/>
+    <answer text="Moldovans" flag="0"/>
+    <answer text="Poles" flag="0"/>
+    <answer text="Jews" flag="1"/>
+    <answer text="Russians" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many other nationalities (according to Census 2001) live in our country?">
+    <answer text="More than 7.5 million" flag="0"/>
+    <answer text="More than 10.5 million" flag="1"/>
+    <answer text="More than 12.5 million" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some cities, one of the main ethnic groups are the Poles?">
+    <answer text="Exactly" flag="0"/>
+    <answer text="Zhitomir" flag="1"/>
+    <answer text="Vinnitsa" flag="0"/>
+    <answer text="Khmelnitsky" flag="1"/>
+    <answer text="Luck" flag="0"/>
+    <answer text="Lviv" flag="1"/>
+  </question>
+</testing>

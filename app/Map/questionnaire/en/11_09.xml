@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in World War II (November 1942 - January 1945).">
+  <question level="1" simple="True" text="What period considered the turning point in the war?">
+    <answer text="The winter of 1941-1942." flag="0"/>
+    <answer text="Winter 1942-1943." flag="1"/>
+    <answer text="Winter 1943-1944 biennium." flag="0"/>
+    <answer text="Winter 1944-1945 biennium." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When Soviet troops were first released in Ukraine village Pivnivka?">
+    <answer text="November 19, 1942" flag="0"/>
+    <answer text="November 23, 1942" flag="0"/>
+    <answer text="December 18, 1942" flag="1"/>
+    <answer text="February 16, 1943" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event in the war took place February 2, 1943?">
+    <answer text="Culminated in the battle of Stalingrad" flag="1"/>
+    <answer text="There was a Battle of Kursk" flag="0"/>
+    <answer text="There was a battle for the Dnieper" flag="0"/>
+    <answer text="Began fighting for the liberation of Kyiv" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What front was reformed and renamed the 1st Ukrainian?">
+    <answer text="Steppe" flag="0"/>
+    <answer text="Southwest" flag="0"/>
+    <answer text="Voronezh" flag="1"/>
+    <answer text="South" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is an event associated operation &quot;Citadel&quot;?">
+    <answer text="Battle of Kursk" flag="1"/>
+    <answer text="Battle of the Dnieper" flag="0"/>
+    <answer text="Battle of Stalingrad" flag="0"/>
+    <answer text="Korsun-Shevchenko battle" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was released Kyiv?">
+    <answer text="February 2, 1943" flag="0"/>
+    <answer text="November 6, 1943" flag="1"/>
+    <answer text="January 24, 1944" flag="0"/>
+    <answer text="October 8, 1944" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was released in the last pre-war within the locality USSR?">
+    <answer text="April 8, 1944" flag="0"/>
+    <answer text="October 8, 1944" flag="1"/>
+    <answer text="May 8, 1945" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What states - winner boundaries outlined postwar Europe at conferences in Tehran and Yalta?">
+    <answer text="USSR" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="Great Britain" flag="1"/>
+    <answer text="Romania" flag="0"/>
+    <answer text="USA" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The structure of a State's Transcarpathia before World War II?">
+    <answer text="Czechoslovakia" flag="0"/>
+    <answer text="Hungary" flag="1"/>
+    <answer text="Poland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The administrative center of Ukraine was occupied by the Germans city">
+    <answer text="Kyiv" flag="0"/>
+    <answer text="Vinnitsa" flag="0"/>
+    <answer text="Exactly" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The main area of ​​operations partisans in occupied Ukraine was">
+    <answer text="Volyn" flag="1"/>
+    <answer text="in Kharkiv" flag="0"/>
+    <answer text="Crimea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which city had to get two Soviet troops during the liberation of Ukraine?">
+    <answer text="Kyiv" flag="0"/>
+    <answer text="Kharkiv" flag="1"/>
+    <answer text="Odessa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In liberating the Crimea major role played by the host">
+    <answer text="1st Ukrainian Front" flag="0"/>
+    <answer text="4th Ukrainian Front" flag="1"/>
+    <answer text="The North Front" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The territory of Ukraine was eventually liberated from the Nazis">
+    <answer text="in August 1944" flag="0"/>
+    <answer text="in October 1944" flag="1"/>
+    <answer text="in January 1945" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="During the Romanian occupation of Transnistria area called">
+    <answer text="Odessa Region" flag="1"/>
+    <answer text="Chernivtsi region" flag="0"/>
+    <answer text="Transcarpathia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is an autonomous republic was part of the USSR until 1940">
+    <answer text="The Crimea" flag="0"/>
+    <answer text="Moldova" flag="1"/>
+    <answer text="Donetsk" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As the plan was called the German attack on the Soviet Union?">
+    <answer text="&quot;Ost&quot;" flag="0"/>
+    <answer text="&quot;Barbarossa&quot;" flag="1"/>
+    <answer text="&quot;Citadel&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many Ukrainian Front was formed in 1943">
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="0"/>
+    <answer text="4" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Liberation of Ukraine began with the territory">
+    <answer text="Kharkiv region" flag="0"/>
+    <answer text="Voroshylovhrad area" flag="1"/>
+    <answer text="Sumy region" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The latter were liberated towns">
+    <answer text="Volyn region" flag="0"/>
+    <answer text="Lviv region" flag="0"/>
+    <answer text="Drohobych region" flag="1"/>
+  </question>
+</testing>

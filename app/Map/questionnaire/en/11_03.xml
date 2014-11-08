@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Deployment of the resistance movement in Ukraine">
+  <question level="1" simple="True" text="What are the names of commanders of the Ukrainian Insurgent Army (UPA)">
+    <answer text="Shuhevich" flag="1"/>
+    <answer text="Bulba-Borovets" flag="0"/>
+    <answer text="Bandera" flag="0"/>
+    <answer text="Klyachkivskyy" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When was the Act of the Ukrainian state?">
+    <answer text="November 1941" flag="0"/>
+    <answer text="In June 1941" flag="1"/>
+    <answer text="In May 1942" flag="0"/>
+    <answer text="October 1942" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who led the Ukrainian government after the proclamation of the Act of the Ukrainian state?">
+    <answer text="Bandera" flag="0"/>
+    <answer text="J. S.Stetsko" flag="1"/>
+    <answer text="R. Shuhevich" flag="0"/>
+    <answer text="A. Sheptitsky" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who led the squad, &quot;Woodland Sich&quot;?">
+    <answer text="C. Cap" flag="0"/>
+    <answer text="Bandera" flag="0"/>
+    <answer text="A. Sabur" flag="0"/>
+    <answer text="Taras Bulba-Borovets" flag="1"/>
+    <answer text="Alexander Fedorov" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Bandera was created three groups of derivatives that were supposed to move from the western border, respectively,">
+    <answer text="to Kyiv" flag="1"/>
+    <answer text="to Simferopol" flag="0"/>
+    <answer text="on Poltava" flag="0"/>
+    <answer text="to Kharkiv" flag="1"/>
+    <answer text="to Dnepropetrovsk" flag="0"/>
+    <answer text="to New York" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the legal Ukrainian organization">
+    <answer text="Public Committee" flag="1"/>
+    <answer text="Woodland Sich" flag="0"/>
+    <answer text="Ukrainian National Committee" flag="1"/>
+    <answer text="Ukrayinka National Council" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which city was the main center of activity &quot;Polesie Sich&quot; in June and November 1941?">
+    <answer text="Ovruch" flag="0"/>
+    <answer text="Stolin" flag="0"/>
+    <answer text="Sarni" flag="0"/>
+    <answer text="Olevsk" flag="1"/>
+    <answer text="Selizivka" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which cities were Soviet underground organizations?">
+    <answer text="Pavlograd" flag="1"/>
+    <answer text="Krasnodon" flag="1"/>
+    <answer text="Nizhin" flag="1"/>
+    <answer text="Konotop" flag="0"/>
+    <answer text="Lubni" flag="0"/>
+    <answer text="Shepetivka" flag="1"/>
+    <answer text="Mariupol" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;The act of the Ukrainian state&quot; was declared">
+    <answer text="Lviv" flag="1"/>
+    <answer text="Rivne" flag="0"/>
+    <answer text="Kiev" flag="0"/>
+    <answer text="Lutsk" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the spring of 1942 the Ukrainian Central Committee headed">
+    <answer text="B. Kubiyovych" flag="1"/>
+    <answer text="B. Velychkovsky" flag="0"/>
+    <answer text="J. S.Stetsko" flag="0"/>
+  </question>
+</testing>
