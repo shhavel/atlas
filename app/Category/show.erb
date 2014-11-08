@@ -6,6 +6,10 @@
       <a href="<%= url_for :action => :index, :query => { :lang => Control.lang } %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
         <%= t('Back') %>
       </a>
+    <% else %>
+      <a href="<%= url_for :controller => :Control, :action => :index, :query => { :lang => Control.lang, :referer => "/app/Category/show/#{@category.object}" } %>">
+        <%= t('Controls') %>
+      </a>
     <% end %>
     <a href="<%= url_for :action => :show, :id => @category.object, :query => { :lang => @next_lang }, :reload => true %>" class="ui-btn-right">
       <%= t(@lang) %>
