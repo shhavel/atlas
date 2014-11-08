@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kievan state of Prince Volodymyr the Great">
+  <question level="1" simple="True" text="When Vladimir Svyatoslavich reigned in Kiev?">
+    <answer text="For 945 - 964 years." flag="0"/>
+    <answer text="Over the years 980-1015." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When Kievan Rus was established Christianity as the state religion?">
+    <answer text="980." flag="0"/>
+    <answer text="988." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the limits on the east and west have been about Vladimir possession at the time of greatest power?">
+    <answer text="Dniester Basin, Western Bug, Neman, Western Dvina and rivers Oka and Volga" flag="1"/>
+    <answer text="Peipus, Ladoga, Onega lakes, the Gulf and the Black Sea and Azov Sea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What city on the western border of Russia were added to the Kievan Rus by Prince Vladimir?">
+    <answer text="Roden, Ljubech, Basil, Pereyaslav" flag="0"/>
+    <answer text="Przemysl, Volyn, June, Belz" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How was the baptism of Kiev?">
+    <answer text="Most Kiev with children came to the river and entered the water. In the presence of Vladimir priests dubbed" flag="1"/>
+    <answer text="First was called Vladimir and all his boyars, then the people of Kiev" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events, according to historical records, preceded the introduction of Christianity as the state religion?">
+    <answer text="Construction of Vladimir Church of Our Lady (Tithe) and streamlining laws" flag="0"/>
+    <answer text="Hike Vladimir city of Korsun Crimea and marriage to the Byzantine princess Anna" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was the famous Church of Our Lady (Tithe), built Vladimir?">
+    <answer text="Here was buried the first Christian prince Askold" flag="0"/>
+    <answer text="It was the main and the first stone church of Kievan Rus" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences of the introduction of Christianity in Kievan state in domestic politics?">
+    <answer text="Strengthening the power of the prince of Kiev, rallying around Kyiv ethnically diverse areas" flag="1"/>
+    <answer text="Strengthening the position of the priests and the spread of pagan cults" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What famous Kyiv Volodymyr Division of times?">
+    <answer text="Here was located the church princely chambers, houses nayzamozhnih Kyivers" flag="0"/>
+    <answer text="Here were located Kiev Targovishte city and harbor, as well as home buyers and artisan people" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which states supported the relationship of Prince Vladimir?">
+    <answer text="From Byzantium, Czech Republic, Hungary, Poland, Bulgaria" flag="1"/>
+    <answer text="From the Khazar Khanate, Georgian kingdom, Volga Bulgaria" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which states coexisted Kievan Rus Prince Volodymyr on its western borders?">
+    <answer text="Polish and Hungarian Kingdom" flag="1"/>
+    <answer text="With the Byzantine Empire and the Georgian kingdom" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How to call a coin minted Vladimir?">
+    <answer text="CURRENCY" flag="0"/>
+    <answer text="Silversmiths and zlatnyk" flag="1"/>
+  </question>
+</testing>

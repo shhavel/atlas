@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="East Slavic tribes - the ancestors of the Ukrainian - before the formation of the state">
+  <question level="1" simple="True" text="When it was established Dulib tribal alliance?">
+    <answer text="In the 2nd century." flag="0"/>
+    <answer text="In the 7 century." flag="1"/>
+    <answer text="In the 9th century." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Names are East Slavic tribal unions that have survived to the time of formation of the state on the territory of Ukraine, retained the record?">
+    <answer text="Slovenia, Krivichi radzimichy, Dregovichi and vyatichi" flag="0"/>
+    <answer text="Polanyi, drevlyans, Volhynians, Croats, Ukichi, Tyvertsi and Northerners" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What territory occupied East Slavic tribal union glades?">
+    <answer text="Middle Dnieper &quot;in the forests on the mountains above the river Dnipro&quot;" flag="1"/>
+    <answer text="Between Sluch rivers and the Dnieper, Pripyat and Teterev" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the neighboring countries was the main trading partner of East Slavic tribal unions in 7-8 centuries.?">
+    <answer text="Khazar Khanate" flag="0"/>
+    <answer text="The Byzantine Empire" flag="1"/>
+    <answer text="Polish principality" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the neighboring states of Eastern Slavs dominated the Black Sea steppes until the late 10th century., Trying to extend to these areas their power?">
+    <answer text="Khazar Khanate" flag="1"/>
+    <answer text="Avar khanate" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How to call soldiers from the north - the ancestors of the Danes, Swedes, Norwegians, who were hired to powerful rulers?">
+    <answer text="Chud, Merya" flag="0"/>
+    <answer text="The Normans, Vikings" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Where was it located breeding centers Dulib union?">
+    <answer text="In Zimne Settlement, near Vladimir in Volhynia" flag="1"/>
+    <answer text="In Kiev settlement" flag="0"/>
+  </question>
+  <question level="1" simple="True" text=" What East Slavic tribal unions in Ukraine has not been the Dulib tribal alliance?">
+    <answer text="Derevlyany" flag="0"/>
+    <answer text="Northerners" flag="1"/>
+    <answer text="Catch" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where, according to archaeologists, was located Settlement Kyi?">
+    <answer text="In the north-western part of the mountain Starokyivskaya" flag="1"/>
+    <answer text="In the Cave" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the discovery of the archaeological site of ancient settlement Kyi testifies to the spiritual life of the Eastern Slavs?">
+    <answer text="Zbrutsky Idol" flag="0"/>
+    <answer text="Ancient temples" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As referred to religious beliefs and rites of the Eastern Slavs, which consisted in the deification of natural forces?">
+    <answer text="Paganism" flag="1"/>
+    <answer text="Christianity" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is historical, in which the most important events recorded in chronological order by year?">
+    <answer text="Chronicle" flag="1"/>
+    <answer text="Lesson" flag="0"/>
+    <answer text="Miscellany" flag="0"/>
+  </question>
+</testing>

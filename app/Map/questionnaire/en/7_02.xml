@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The earliest farmers and herders in Ukraine">
+  <question level="1" simple="True" text="As archaeologists call next to the Paleolithic era in the history of mankind?">
+    <answer text="Mesolithic" flag="1"/>
+    <answer text="Neolith" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the instruments used by Mesolithic hunters?">
+    <answer text="Spears, and made a trap in the form of pits" flag="0"/>
+    <answer text="Bow and arrow" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Reason of archaeological cultures, scientists linked to the establishment of pre-Ukrainian territories reproductive economy?">
+    <answer text="With Trypillian" flag="1"/>
+    <answer text="With Jamno" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How long existed in our lands Tripoli culture?">
+    <answer text="Fifteen hundred years - from 4 mill. the first half of the 3 mill." flag="1"/>
+    <answer text="Two thousand years - from 6 mill. prior to the 4 mill." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="On what day of the archaeological periodization of ancient history of Ukraine fell flourishing Tripoli culture?">
+    <answer text="Chalcolithic" flag="1"/>
+    <answer text="Bronze Age" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territories Ukrainian lands seized Trypolian humanity?">
+    <answer text="Forest-steppe zone of the Ukrainian lands from the Dniester to the Dnieper" flag="1"/>
+    <answer text="Steppe Dnieper, Azov, Seversky Donets basin and the Lower Don region" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was Trypillians based economy?">
+    <answer text="Fallow agriculture" flag="1"/>
+    <answer text="Pasture cattle" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What sown and grown tripillian?">
+    <answer text="Sown barley, millet, wheat, grown almost all currently known in Ukraine horticultural crops" flag="1"/>
+    <answer text="Rye, oats, flax and hemp with vegetable crops cultivated potatoes" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the culture that lived at the same time Trypillians in the steppe zone?">
+    <answer text="Bug-Dniester" flag="0"/>
+    <answer text="Serednostohivska" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In the region of Ukraine was first discovered remains of ancient farmers of life that gave the name of culture?">
+    <answer text="Kyivshchyna" flag="1"/>
+    <answer text="Volyn" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What remained the most important monuments of the ancient inhabitants of our Barrens?">
+    <answer text="Mounds" flag="1"/>
+    <answer text="Two- storey buildings" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the main occupation of the inhabitants of steppe zone of Ukraine for the Bronze Age?">
+    <answer text="Agriculture" flag="0"/>
+    <answer text="Stockbreeding" flag="1"/>
+  </question>
+</testing>

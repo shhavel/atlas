@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient city-colonies in the northern Black Sea coast">
+  <question level="1" simple="True" text="When they began to appear the first ancient city in the northern Black Sea coast?">
+    <answer text="7-5 c. BC" flag="1"/>
+    <answer text="5-7 centuries." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What starts as the first Greek colony in southern Ukraine?">
+    <answer text="The settlement on the island of Berezan" flag="1"/>
+    <answer text="In place of the modern Belgorod-Dniester" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was it built up a Greek colony Chersonesos city, which emerged in the late 5th century. BC?">
+    <answer text="In place of the modern Eupatoria" flag="0"/>
+    <answer text="In the vicinity of modern Sevastopol" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What Greek city-colony was located on the site of the current Kerch?">
+    <answer text="Kerkinitis" flag="0"/>
+    <answer text="Pantikapaion" flag="1"/>
+    <answer text="Chersonesos" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What polity had many Greek city on the Black Sea?">
+    <answer text="There were slave democratic or aristocratic republic" flag="1"/>
+    <answer text="There were despotic monarchy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What Greek city played a major role in the colonization of the Northern Black Sea?">
+    <answer text="Miletus" flag="1"/>
+    <answer text="Olbia" flag="0"/>
+    <answer text="Chersonesos" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who are the gods most revered Northern Pontic Greeks?">
+    <answer text="Apollo" flag="1"/>
+    <answer text="Jupiter" flag="0"/>
+    <answer text="Mercury" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What evidence of the spread of literacy among the Greek colonists?">
+    <answer text="A large number of finds from various inscriptions on things - dedication, wishes, names and even the school exercises" flag="1"/>
+    <answer text="A large number of manuscripts and printed books" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the basis of the economy of Greek colonists?">
+    <answer text="Growing corn, grapes, vegetables, fishing and fish processing, animal husbandry" flag="1"/>
+    <answer text="Hunting, gathering, fishing and fish processing" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What goods Greek colonists sold to Greece?">
+    <answer text="Corn, cattle, hides, furs, salted fish, salt, slaves" flag="1"/>
+    <answer text="Metal products, weapons, textiles, precious jewelry, utensils, spices, olive oil and wine" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As referred to state that there was 480 BCE. and brought together more than 20 Greek city on the Kerch Peninsula?">
+    <answer text="Great Scythia" flag="0"/>
+    <answer text="Bosporus" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who gave his power Bosporan king Perisad V about 107 BC.?">
+    <answer text="Pontic king Mithridates VI Eupator" flag="1"/>
+    <answer text="Scythian king Ateyu" flag="0"/>
+  </question>
+</testing>

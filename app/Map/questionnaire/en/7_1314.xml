@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kievan Rus by the successors of Yaroslav. Monomakh">
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="The first mention in the annals of the Polovtsian" flag="1"/>
+    <answer text="Lyubetsky congress of princes" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How do stolonasliduvannya introduced Yaroslav the Wise?">
+    <answer text="Kyiv table would submit on principle from father to son" flag="0"/>
+    <answer text="Kyiv table would submit elder brother" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As the tables were spread in the Ruthenian lands between sons of Yaroslav the Wise in 1054?">
+    <answer text="Major land was concentrated in the hands of the elders Yaroslavichy: Kyiv - Izjaslaw, Chernihiv - Sviatoslav Pereyaslav - Vsevolod" flag="1"/>
+    <answer text="Major land was concentrated in the hands of senior Yaroslavichy - Iziaslav" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who came in the Battle of the River Alta in 1068?">
+    <answer text="The Russians and Cumans three Yaroslavichy" flag="1"/>
+    <answer text="The Russians and the Pechenegs Yaroslav the Wise" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What ended the Battle of the River Alta in 1068?">
+    <answer text="Defeat Polovtsian Iziaslav and return to Kyiv" flag="0"/>
+    <answer text="Defeat Rus and performance against the people of Kiev Prince Iziaslav" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The name of one of Yaroslavichy involved in establishing two manuscripts, one of which is paged thumbnail picture princely family?">
+    <answer text="Sviatoslav Yaroslavych" flag="1"/>
+    <answer text="Vladimir Monomakh" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What's Cathedral was built in the Pechersk monastery at the expense of Prince Svyatoslav Yaroslavych?">
+    <answer text="Sophia" flag="0"/>
+    <answer text="Assumption" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who among princes, seeking to end a princely feuds and unite forces to repel Polovtzy initiated Lyubech Congress?">
+    <answer text="Iziaslav of Kiev" flag="0"/>
+    <answer text="Monomakh" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="During which years Monomakh reigned in Kiev?">
+    <answer text="In 1113 - 1125 рр." flag="1"/>
+    <answer text="In 1125 - 1132 рр." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The author of the works which was Monomakh?">
+    <answer text="&quot;Miscellany&quot;" flag="0"/>
+    <answer text="&quot;Instructions for Children&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many battles against the Polovtsian their own calculations, participated Monomakh?">
+    <answer text="38" flag="0"/>
+    <answer text="83" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the last prince of Kiev, whose power is characterized as a monarchy, and after whose death the Kievan state finally disintegrated into separate independent principality?">
+    <answer text="Vsevolod" flag="0"/>
+    <answer text="Mstislav Vladimirovich" flag="1"/>
+  </question>
+</testing>

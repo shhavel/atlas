@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kiev State for first princes">
+  <question level="1" simple="True" text="Which of the Kievan princes, according to the chronicle, died as a result of a conspiracy of swords Norman soldiers, led by Oleg?">
+    <answer text="Askold" flag="1"/>
+    <answer text="Igor" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When seized power in Kiev, Oleg?">
+    <answer text="In 882." flag="1"/>
+    <answer text="In 945." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What impact has the campaign of Askold to the Byzantine Empire?">
+    <answer text="Powerful blow Russian Navy forced the Byzantine Empire to recognize Russia as a state" flag="1"/>
+    <answer text="Rus' fleet was destroyed by the so-called Greek fire" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many years, according to the chronicler, in Kiev prince Oleg?">
+    <answer text="5 years" flag="0"/>
+    <answer text="'30" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first Rurik princes of Kiev on the table?">
+    <answer text="Prince Askold" flag="0"/>
+    <answer text="Prince Igor" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The contractions which Slavic tribal unions Prince Igor began his reign in opposition to what met his death?">
+    <answer text="Polyansky" flag="0"/>
+    <answer text="Derevlyansku" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Kievan princes as a sign of victory nailed his shield on the Golden Gate Byzantine capital?">
+    <answer text="Prince Oleg" flag="1"/>
+    <answer text="Prince Igor" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How to call militias that were the standing army of the prince and his unit of power?">
+    <answer text="The Chamber" flag="0"/>
+    <answer text="Wife" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is an event historians associate the first attempt implementing measures princely power of Christianity in the territory of the Russian state?">
+    <answer text="With the campaign of Prince Askold to Byzantium 860." flag="1"/>
+    <answer text="With the campaign of Prince Igor Byzantium 912 g." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Earth East Slavic tribal unions which were annexed to the Kievan state by Oleg?">
+    <answer text="Slovenia, Krivichy, Radimichi" flag="1"/>
+    <answer text="Northerners fields, Derevlyany" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What nomads had to fight Rusich for 9 - early 10th century.?">
+    <answer text="The Khazars, Magyars, Pechenegs" flag="1"/>
+    <answer text="The Huns, Avars, Bulgars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities already existed on the territory of Ukraine under the reign of games?">
+    <answer text="Novgorod, Rostov, Polotsk, Ladoga, Moore, Pskov" flag="0"/>
+    <answer text="Liubech, Chernihiv, Pereyaslav, Toompea, Iskorosten, Galich" flag="1"/>
+  </question>
+</testing>

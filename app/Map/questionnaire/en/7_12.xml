@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kiev State under Yaroslav the Wise">
+  <question level="1" simple="True" text="In what years of the reign of Yaroslav the Wise of Kiev?">
+    <answer text="In the years 978-1015." flag="0"/>
+    <answer text="In the 1019-1054 biennium." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What ended the Battle of the River Alta in 1018?">
+    <answer text="Victory Svjatopolka and his father-King of Poland and the return of Jaroslav of Novgorod" flag="0"/>
+    <answer text="Yaroslav victory and consolidation of his desk at Kiev" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is the Church - Kyiv greatest building - was built by Yaroslav?">
+    <answer text="Church of the Tithes" flag="0"/>
+    <answer text="Saint Sophia Cathedral" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which events mentioned in chronicles before?">
+    <answer text="The construction of St. Sophia Cathedral" flag="1"/>
+    <answer text="Establishment Caves Monastery" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who are the leaders of Kievan Rus' first Ruthenian Church canonized?">
+    <answer text="First Christian princes Askold and Olga" flag="0"/>
+    <answer text="The dead brother, Jaroslaw - Princes Boris and Gleb" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which is derived from the nomadic peoples came to an end in the time of Prince Yaroslav?">
+    <answer text="Pechenegov" flag="1"/>
+    <answer text="Khazars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who is Hilarion?">
+    <answer text="Chronicler, author of &quot;The Tale of Bygone Years&quot;" flag="0"/>
+    <answer text="The first Metropolitan of Kyiv Rus Rus" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many times, according to the archaeological site of increased area &quot;of the city of Yaroslav&quot; versus &quot;city of Vladimir&quot;?">
+    <answer text="The 3 times" flag="0"/>
+    <answer text="7 times" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is &quot;True Yaroslav&quot;?">
+    <answer text="The first written collection of Russian laws" flag="1"/>
+    <answer text="The book brought Anna Yaroslavna to France, where the French kings swore later" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Why Yaroslav the Wise called the father of Europe?">
+    <answer text="Bo Duke has cultural and educational activities on the European model" flag="0"/>
+    <answer text="For the foreign policy of the prince largely focused inter-dynasty marriages" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which states the times of Kievan Rus Yaroslav the Wise maintained the closest relations?">
+    <answer text="From Byzantium, Germany and Poland" flag="1"/>
+    <answer text="From Italy, Georgia, Lithuania" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How to call a complex of buildings designed for living monks, the administration of religious observance, education, etc?">
+    <answer text="Cathedral" flag="0"/>
+    <answer text="Monastery" flag="1"/>
+    <answer text="Church" flag="0"/>
+  </question>
+</testing>

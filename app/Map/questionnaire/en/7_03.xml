@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Early Iron Age in Ukrainian lands. World nomads">
+  <question level="1" simple="True" text="What people first among the inhabitants of the steppe learned to produce iron, started the Iron Age in the steppe of our territory?">
+    <answer text="Cimmerians" flag="1"/>
+    <answer text="The Scythians" flag="0"/>
+    <answer text="Sarmatians" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What happened before?">
+    <answer text="Domination Cimmerians in the plains pivnichnoprychornomorskyh" flag="1"/>
+    <answer text="Invasion of Sarmatian tribes in the Black Sea steppes" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What people researchers call the first nomads Ukrainian lands?">
+    <answer text="Cimmerians" flag="1"/>
+    <answer text="Scythians" flag="0"/>
+    <answer text="Sarmatians" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which period is flourishing day Scythian state?">
+    <answer text="In 5-4 centuries. e. e." flag="1"/>
+    <answer text="In 3-2 centuries. BC" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territories conquered his power Atey king at the time of highest elevation of Great Scythia?">
+    <answer text="Earth from the Danube to the Don" flag="1"/>
+    <answer text="Earth from the Dniester to the Dnieper" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What Scythian tribes dominated the Great Scythia conquering other tribes?">
+    <answer text="Scythians tiller and Scythian farmers" flag="1"/>
+    <answer text="Nomadic Scythians and Royal Scythians" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was found the famous gold pectoral 4. BC, which belonged to the Scythian king?">
+    <answer text="On the mound Chortomlyk in Dnipropetrovsk" flag="0"/>
+    <answer text="In the thick mound graves in Dnipropetrovsk" flag="1"/>
+    <answer text="On the mound Solokha in Zaporozhye" flag="0"/>
+  </question>
+  <question level="1" simple="True" text=" What was the basis of the economy of the Scythians?">
+    <answer text="Breeding horses, cattle and sheep, and a variety of crafts, trade with ancient cities, plunder and tribute neighboring tribes" flag="1"/>
+    <answer text="Growing corn, grapes, vegetables, fishing and fish processing and handicraft production" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which weapon used by the Scythians during the war?">
+    <answer text="A complex long-range and short bows and long swords" flag="1"/>
+    <answer text="Chablis and murolomnymy Machine rams" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who is the famous Greek historians devoted Scythians book their studies, which described their territory, lessons, life, customs, religion and the campaign against them by the Persian king Darius I?">
+    <answer text="Hippocrates" flag="0"/>
+    <answer text="Herodotus" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which nomadic peoples have given the Scythians, having lost dominant position in the Ukrainian steppes?">
+    <answer text="Cimmerians" flag="0"/>
+    <answer text="Sarmatians" flag="1"/>
+    <answer text="Ґotam" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How long reign Sarmatians in the steppes of the Black Sea?">
+    <answer text="Almost 200 years" flag="0"/>
+    <answer text="Almost 600 years" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The emergence of human life in Ukraine">
+  <question level="1" simple="True" text="When the first time in Ukraine there pralyudy?">
+    <answer text="About 1 million years ago" flag="1"/>
+    <answer text="About 150 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of parking pralyudey considered the oldest in Ukraine?">
+    <answer text="Mizyn village in Chernihiv" flag="0"/>
+    <answer text="Village Queen in Transcarpathia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As archaeologists explain the term cultural layer?">
+    <answer text="So called archaeological culture" flag="0"/>
+    <answer text="So-called soil in which traces of human life" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As scientists call predecessors Cro-Magnon?">
+    <answer text="Paleanthropines (Neanderthals)" flag="1"/>
+    <answer text="Archanthropinae (prezyndzhantropamy and apes)" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When there was a &quot;reasonable man&quot;?">
+    <answer text="150 thousand. Years ago" flag="0"/>
+    <answer text="40-35 thousand. Years ago" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What time of reaching the origin of art and religious beliefs?">
+    <answer text="Times when the first pralyudey" flag="0"/>
+    <answer text="Hours of Neanderthals" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How to call &quot;wise man&quot; at the place of first discovery of ancient fossils?">
+    <answer text="Neanderthals" flag="0"/>
+    <answer text="Cro-Magnons" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the main occupations of Homo sapiens at the time of the late Paleolithic?">
+    <answer text="Hunting" flag="1"/>
+    <answer text="Livestock and agriculture" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the most famous Parking Upper Paleolithic in Ukraine?">
+    <answer text="Mesopotamia in Cherkasy, Chernihiv region Mizyn, Cyril parking in Kiev" flag="1"/>
+    <answer text="Rokosovo in Transcarpathia Luka Vrublovetska in the Dniester, Labushne in Odesa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What tools were most common in the Cro-Magnon?">
+    <answer text="Hand axes, which could chop, slice and chop" flag="0"/>
+    <answer text="Scrubber for skin treatment, cutters for use with the bone, cutting knives, needles, awls" flag="1"/>
+    <answer text="Hostrokonechnyky and scrapers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What groups of Cro-Magnons lived?">
+    <answer text="Groups - herds" flag="0"/>
+    <answer text="The collective family of 30 - 40 persons - tribal communities" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How is the science that studies the history of society on the material remains of the life and activity of people - real sights?">
+    <answer text="Archeology" flag="1"/>
+    <answer text="Chronology" flag="0"/>
+  </question>
+</testing>

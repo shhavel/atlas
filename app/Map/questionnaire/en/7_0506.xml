@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient Slavs">
+  <question level="1" simple="True" text="When was large settlement of Slavs?">
+    <answer text="In 7-6 centuries. BC" flag="0"/>
+    <answer text="In 6-7 centuries." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In some cultures, archaeological monuments of the ancient Slavs available?">
+    <answer text="Tripoli, yamniy, carcass" flag="0"/>
+    <answer text="Zarubynec'k, Przewor, chernyakhivska" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Where and when facing their own Slavic archaeological culture?">
+    <answer text="In northeastern Europe and northern Asia in the 6-7 centuries." flag="0"/>
+    <answer text="In the forest-steppe of South-Eastern Europe in the 5-6 centuries." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What tribal groups together with the Slavs belong to the Slavic archaeological culture?">
+    <answer text="Gauthier, Scythians, Sarmatians, Thracians, etc." flag="1"/>
+    <answer text="Cimmerians, Greeks, Romans, etc." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the area swept Slavic culture that emerged in the 3rd century. AD?">
+    <answer text="Earth between Pripyat and Desna in the north and the Black Sea and the Danube in the south" flag="1"/>
+    <answer text="From the Urals to the lower reaches of the Danube" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As called Slavs in written sources 2 tbsp.?">
+    <answer text="Chernyahivtsyamy" flag="0"/>
+    <answer text="Wends" flag="1"/>
+    <answer text="Tripillian" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who is the author of the book &quot;On the Origin and act ґetiv&quot; (6 in.) In which there is mention of Slavs?">
+    <answer text="Jordan" flag="1"/>
+    <answer text="Procopius of Caesarea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What nomadic Turkic-speaking people came to the steppes of Ukraine in Mongolia and China, replacing Iranian nomads and started the era of the Great Migration?">
+    <answer text="Gauthier" flag="0"/>
+    <answer text="The Huns" flag="1"/>
+    <answer text="Avars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Archaeological which etnopleminne ancient Slavs is a Prague-korchatska culture, monuments which are in the territory between the Dniester and the Danube?">
+    <answer text="Anti" flag="0"/>
+    <answer text="Sklavyny" flag="1"/>
+    <answer text="Avars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What to buy Slavs in their trading partners?">
+    <answer text="Dishes, glassware, bronze, silver and gold, wine, oil" flag="1"/>
+    <answer text="Furs, honey, wax, hides, grain" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territories captured Slavs during the Great Migration, rozselyayuchys west and south?">
+    <answer text="Danube, parts of the Balkan Peninsula, pool Elbe and Baltic coasts" flag="1"/>
+    <answer text="Upper reaches of the Dnieper, Don and Volga upper" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the historical significance of the Great Migration to the Slavic world?">
+    <answer text="Was started by the division on ethnic groups Slavs who laid the foundations of the formation of the Slavic peoples" flag="1"/>
+    <answer text="It was launched in the settlement of the Slavs from the Oder to the Dnieper" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The historical significance of Kievan Rus' and Galicia-Volyn state">
+  <question level="1" simple="True" text="What state was the direct heir of the political and cultural traditions of Kievan Rus?">
+    <answer text="Galicia-Volhynia" flag="1"/>
+    <answer text="Pereyaslavskoe principality" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What nomadic people bothered raids Kievan Rus in the XII century.?">
+    <answer text="The Khazars" flag="0"/>
+    <answer text="Pechenigi" flag="0"/>
+    <answer text="Polovtsi" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what years the final stage of the history of Kievan Rus?">
+    <answer text="By the middle of the XII century." flag="0"/>
+    <answer text="In the first four decades of the XIII century." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the chronological limits of Galicia-Volyn state?">
+    <answer text="1132 - 1240 рр." flag="0"/>
+    <answer text="1199 - 1340 рр." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the monuments preserved representation trident period of Kievan Rus?">
+    <answer text="In silversmiths and zlatnyk Vladimir the Great" flag="1"/>
+    <answer text="In books from the library of Yaroslav the Wise" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What picture on the prince's sign has spread at the beginning of the XII century. in the Kiev land?">
+    <answer text="Holy Archangel Michael" flag="1"/>
+    <answer text="Leo, based on the rock" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is written in the press and George L.?">
+    <answer text="&quot;Lord George King of Russia&quot;" flag="1"/>
+    <answer text="&quot;Lord George, Prince of Kievan Rus'" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What linked the sea route &quot;from the Varangians to the Greeks&quot;?">
+    <answer text="Baltic and Black Sea" flag="1"/>
+    <answer text=" Azov Sea and the Mediterranean" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What prince called father of Europe?">
+    <answer text="Yaroslav the Wise" flag="1"/>
+    <answer text="Svjatopolka Accursed" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What Duke was the first king in our history?">
+    <answer text="Monomakh" flag="0"/>
+    <answer text="Daniel R." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which country had the most influence on the culture of Russian lands?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Byzantium" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How to call a form of government in which the supreme power is concentrated in the hands of the sole holder of the ruling dynasty?">
+    <answer text="Republic" flag="0"/>
+    <answer text="Monarchy" flag="1"/>
+  </question>
+</testing>
