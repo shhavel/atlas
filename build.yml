@@ -2,14 +2,14 @@
 sdkversion: "3.4.0"
 # PLACEHOLDER: name, e.g. name: "Geography 10"
 name: "Ukraine History 10"
-version: 1.3
-vendor: "shhavel"
+version: 1.4
+vendor: "ukrmap"
 build: "debug"
 bbver: 4.6
 applog: "rholog.txt"
 iphone:
   configuration: "Release"
-  sdk: "iphonesimulator5.0"
+  sdk: "iphonesimulator6.1"
   provisionprofile: 
   codesignidentity: 
   entitlements: 
@@ -31,7 +31,3 @@ extensions:
   - json
   - rexml
   - set
-  - net-http
-  - thread
-  - timeout
-  - uri
