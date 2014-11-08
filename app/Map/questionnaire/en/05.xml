@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Global Problems of Mankind">
+  <question level="1" simple="True" text="Energy problems caused">
+    <answer text="increasing energy" flag="1"/>
+    <answer text="low quality fuel resources" flag="0"/>
+    <answer text="the use of alternative energy sources" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The population explosion in the twentieth century. caused">
+    <answer text="increasing number of cities in the world" flag="0"/>
+    <answer text="high level of industrial development in developed countries" flag="0"/>
+    <answer text="significant reduction in mortality in developing countries" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which international organizations coordinate work to overcome global challenges?">
+    <answer text="ASEAN" flag="0"/>
+    <answer text="CIS" flag="0"/>
+    <answer text="EU" flag="0"/>
+    <answer text="UN" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="On which continent is the &quot;pole hunger&quot;?">
+    <answer text="Australia" flag="0"/>
+    <answer text="Africa" flag="1"/>
+    <answer text="Eurasia" flag="0"/>
+    <answer text="South America" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What parts of the oceans is the most polluted?">
+    <answer text="Territorial waters" flag="0"/>
+    <answer text="Open water area" flag="0"/>
+    <answer text="Shelf zone" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which continent has the largest proportion of protected areas in the general area?">
+    <answer text="North America" flag="0"/>
+    <answer text="Eurasia" flag="0"/>
+    <answer text="Africa" flag="0"/>
+    <answer text="Australia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the world's forests are cut down most heavily?">
+    <answer text="Taiga" flag="0"/>
+    <answer text="Selvas" flag="1"/>
+    <answer text="The jungle of equatorial Africa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In large cities, the main source of air pollution is">
+    <answer text="TES" flag="0"/>
+    <answer text="petrochemical company" flag="0"/>
+    <answer text="construction materials" flag="0"/>
+    <answer text="vehicles" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Reclamation of land is">
+    <answer text="Career ground works" flag="0"/>
+    <answer text="restoration of disturbed lands" flag="1"/>
+    <answer text="plowing virgin" flag="0"/>
+    <answer text="shrinking farmland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The creation of the greenhouse effect contributes to an increase in Earth's atmosphere">
+    <answer text="carbon dioxide" flag="1"/>
+    <answer text="sulfur dioxide" flag="0"/>
+    <answer text="CFCs" flag="0"/>
+    <answer text="ozone" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="On which continent is the lowest life expectancy?">
+    <answer text="Asia" flag="0"/>
+    <answer text="Africa" flag="1"/>
+    <answer text="Australia" flag="0"/>
+    <answer text="South America" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Countries where most inherent separatist movements, it">
+    <answer text="USA" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="Poland" flag="0"/>
+  </question>
+</testing>

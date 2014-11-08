@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Africa, Australia and Oceania">
+  <question level="1" simple="True" text="In which part of Africa's most rice is grown?">
+    <answer text="West" flag="0"/>
+    <answer text="Eastern" flag="1"/>
+    <answer text="South" flag="0"/>
+    <answer text="North" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Manufacturing of Africa located mostly in">
+    <answer text="capitals" flag="0"/>
+    <answer text="port cities" flag="1"/>
+    <answer text="central part of the country" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Colonial features of the transport network is Africa">
+    <answer text="lack of an integrated transport system" flag="0"/>
+    <answer text="a dense transport network on the coast" flag="1"/>
+    <answer text="virtual absence of rail transport" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Enter the country for which the problem of shortage of fresh water is the most important?">
+    <answer text="Congo" flag="0"/>
+    <answer text="Egypt" flag="1"/>
+    <answer text="Liberia" flag="0"/>
+    <answer text="Angola" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Year of the liberation of Africa is">
+    <answer text="In 1950" flag="0"/>
+    <answer text="In 1960" flag="1"/>
+    <answer text="In 1970" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The people living in southern Africa, it is">
+    <answer text="Berbers" flag="0"/>
+    <answer text="storm" flag="1"/>
+    <answer text="Pygmies" flag="0"/>
+    <answer text="Arabs" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What monocultural country in Africa specializing in the export of bauxite?">
+    <answer text="Ivory Coast" flag="0"/>
+    <answer text="South Africa" flag="0"/>
+    <answer text="Guinea" flag="1"/>
+    <answer text="Cameroon" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries, according to the UN belongs to the group of the poorest countries in the world?">
+    <answer text="Libya" flag="0"/>
+    <answer text="Papua New Guinea" flag="0"/>
+    <answer text="Sierra Leone" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The impact of the colonial past of Australia and New Zealand is shown in">
+    <answer text="raw export specialization" flag="1"/>
+    <answer text="predominance of large estates" flag="0"/>
+    <answer text="territorial structure in the" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of transport is virtually nonexistent in Australia?">
+    <answer text="Automobile" flag="0"/>
+    <answer text="Railway" flag="0"/>
+    <answer text="River" flag="1"/>
+    <answer text="Air" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The most densely populated area in Australia is">
+    <answer text="North" flag="0"/>
+    <answer text="South East" flag="1"/>
+    <answer text="South West" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The main export commodity Pacific island countries are">
+    <answer text="fish" flag="0"/>
+    <answer text="pearls" flag="0"/>
+    <answer text="copra" flag="1"/>
+    <answer text="Citrus" flag="0"/>
+  </question>
+</testing>

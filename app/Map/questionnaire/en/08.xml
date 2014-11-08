@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Americas">
+  <question level="1" simple="True" text="Major oil producing states of the United States is">
+    <answer text="Alaska, Texas" flag="1"/>
+    <answer text="Massachusetts, California" flag="0"/>
+    <answer text="Ohio, Michigan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of power in the electricity sector is the leading US?">
+    <answer text="TES" flag="1"/>
+    <answer text="GES" flag="0"/>
+    <answer text="NPP" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what region of the United States is concentrated most oil refineries?">
+    <answer text="States Atlantic coast" flag="0"/>
+    <answer text="California and Alaska" flag="0"/>
+    <answer text="Texas and Louisiana" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Where is the &quot;corn belt&quot; of the United States?">
+    <answer text="North East" flag="0"/>
+    <answer text="Pacific Coast" flag="0"/>
+    <answer text="Gulf Coast" flag="0"/>
+    <answer text="Midwest" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Uneven distribution of farms in Canada explained">
+    <answer text="natural conditions" flag="1"/>
+    <answer text="distribution of minerals" flag="0"/>
+    <answer text="terms of development of the country" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of power produces the largest share of electricity in Canada?">
+    <answer text="TES" flag="0"/>
+    <answer text="GES" flag="1"/>
+    <answer text="NPP" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which Canadian provinces are allocated the largest concentration of industry?">
+    <answer text="Saskatchewan and Manitoba" flag="0"/>
+    <answer text="Quebec and Ontario" flag="1"/>
+    <answer text="Nova Scotia and Newfoundland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries is not a member of the British Commonwealth of Nations?">
+    <answer text="Jamaica" flag="0"/>
+    <answer text="Bahamas" flag="0"/>
+    <answer text="Panama" flag="1"/>
+    <answer text="Barbados" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="A unique richness of Chile is">
+    <answer text="petroleum" flag="0"/>
+    <answer text="coal" flag="0"/>
+    <answer text="saltpeter" flag="1"/>
+    <answer text="tin" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The steppes of Argentina called">
+    <answer text="Llanos" flag="0"/>
+    <answer text="Campos" flag="0"/>
+    <answer text="pampa" flag="1"/>
+    <answer text="prairie" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Breadbasket of Canada is the Province">
+    <answer text="Manitoba, British Columbia" flag="0"/>
+    <answer text="Quebec, Ontario" flag="0"/>
+    <answer text="Alberta, Saskatchewan" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Metropolitan area in South America with a population of over 5 million people are">
+    <answer text="Montevideo" flag="0"/>
+    <answer text="Lima" flag="1"/>
+    <answer text="Caracas" flag="0"/>
+    <answer text="Porto Aleґri" flag="0"/>
+  </question>
+</testing>

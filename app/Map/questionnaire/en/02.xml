@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="World population">
+  <question level="1" simple="True" text="Most multi-national and multi-country considered">
+    <answer text="Russia" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="China" flag="0"/>
+    <answer text="Indonesia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is the transfer of the wealthy population in the suburbs for permanent residence?">
+    <answer text="Urbanization" flag="0"/>
+    <answer text="Pseudo" flag="0"/>
+    <answer text="Suburbanization" flag="1"/>
+    <answer text="Agglomeration" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following language groups belong to the Indo-European language family?">
+    <answer text="Armenian" flag="1"/>
+    <answer text="Romance" flag="1"/>
+    <answer text="Finno-Ugric" flag="0"/>
+    <answer text="Nuristanska" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries has the lowest level of urbanization?">
+    <answer text="Kuwait" flag="0"/>
+    <answer text="Brazil" flag="0"/>
+    <answer text="Afghanistan" flag="1"/>
+    <answer text="New Zealand" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following religions are predominantly ethnic lines one nation?">
+    <answer text="Buddhism" flag="0"/>
+    <answer text="Catholicism" flag="0"/>
+    <answer text="Hinduism" flag="1"/>
+    <answer text="Islam" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following as the most common in North Africa?">
+    <answer text="German" flag="0"/>
+    <answer text="Spanish" flag="0"/>
+    <answer text="French" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What percentage of the economically active population is typical for developed countries?">
+    <answer text="45% of" flag="0"/>
+    <answer text="55% of" flag="0"/>
+    <answer text="70% of" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The category of migration are based on migration">
+    <answer text="external" flag="0"/>
+    <answer text="economic" flag="1"/>
+    <answer text="forced" flag="0"/>
+    <answer text="Seasonal" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The largest in terms of population megalopolis world is">
+    <answer text="Lakeside" flag="0"/>
+    <answer text="British" flag="0"/>
+    <answer text="Tokaido" flag="1"/>
+    <answer text="Pryatlantychnyy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Among the youngest of the world religions are:">
+    <answer text="Buddhism" flag="0"/>
+    <answer text="Islam" flag="1"/>
+    <answer text="Christianity" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of population reproduction is typical for Japan?">
+    <answer text="Expanded" flag="0"/>
+    <answer text="Diminished" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the clusters of urban areas, between which there are strong ties?">
+    <answer text="Agglomerations" flag="1"/>
+    <answer text="Megalopolis" flag="0"/>
+    <answer text="City-millionaires" flag="0"/>
+  </question>
+</testing>

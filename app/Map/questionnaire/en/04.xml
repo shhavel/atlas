@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="World Economy">
+  <question level="1" simple="True" text="What type of power is leading in the energy balance of the world?">
+    <answer text="NPP" flag="0"/>
+    <answer text="TES" flag="1"/>
+    <answer text="GES" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="For the chemical industry are characterized by">
+    <answer text="extensive production" flag="0"/>
+    <answer text="power consumption" flag="0"/>
+    <answer text="water consumption" flag="1"/>
+    <answer text="high cost of equipment" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which country has the largest fleet?">
+    <answer text="Japan" flag="0"/>
+    <answer text="USA" flag="1"/>
+    <answer text="China" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The largest freight port in the world for this">
+    <answer text="London" flag="0"/>
+    <answer text="Rotterdam" flag="0"/>
+    <answer text="Shanghai" flag="1"/>
+    <answer text="NY" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="First place in the world for the production of fertilizers ranks">
+    <answer text="Russia" flag="0"/>
+    <answer text="USA" flag="0"/>
+    <answer text="China" flag="1"/>
+    <answer text="India" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The basis of agricultural production is">
+    <answer text="land resources" flag="1"/>
+    <answer text="ethnic and religious characteristics of the population" flag="0"/>
+    <answer text="historical traditions" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What qualities inherent in extensive farming livestock?">
+    <answer text="Breeding work" flag="0"/>
+    <answer text="Pet Stall" flag="0"/>
+    <answer text="Production increase mainly due to increased livestock" flag="1"/>
+    <answer text="Pasture Stalled Pet" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Organization of Petroleum Exporting Countries is">
+    <answer text="OPEC" flag="1"/>
+    <answer text="APEC" flag="0"/>
+    <answer text="NAFTA" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="By type of transport operations are divided into">
+    <answer text="water, air, road, rail" flag="0"/>
+    <answer text="freight and passenger" flag="1"/>
+    <answer text="onerary and Cartage" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The leading sectors of agriculture are">
+    <answer text="aquaculture and apiculture" flag="0"/>
+    <answer text="sericulture" flag="0"/>
+    <answer text="Crop and livestock" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Non-ferrous metals smelting of heavy metals are oriented in primarily on">
+    <answer text="cheap electricity" flag="0"/>
+    <answer text="availability of raw materials" flag="1"/>
+    <answer text="availability of water" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which goods dominate the freight turnover of maritime transport?">
+    <answer text="Building materials" flag="0"/>
+    <answer text="Ores, ferrous and non-ferrous metals" flag="0"/>
+    <answer text="Grain" flag="0"/>
+    <answer text="Oil and oil products" flag="1"/>
+  </question>
+</testing>

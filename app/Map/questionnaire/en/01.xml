@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Political World Map">
+  <question level="1" simple="True" text="Public education, delegating foreign (and sometimes domestic) law sovereign state, called">
+    <answer text="colonies" flag="0"/>
+    <answer text="protectorates" flag="1"/>
+    <answer text="Trust Territories" flag="0"/>
+    <answer text="vassalage" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Union State, which includes self-governing territory with a political and economic independence, but some issues (defense, foreign policy, finance, etc.) are within the competence of the authorities zahalnoderzhavnh it">
+    <answer text="federation" flag="1"/>
+    <answer text="confederation" flag="0"/>
+    <answer text="unitary state" flag="0"/>
+    <answer text="union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Generally accepted criteria for determining the level of economic development is">
+    <answer text="of the territory" flag="0"/>
+    <answer text="terms of gross domestic product per capita" flag="1"/>
+    <answer text="availability of natural resources" flag="0"/>
+    <answer text="sectoral structure of the economy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Banana Republic&quot; is a country that">
+    <answer text="export to the world market for one or two products" flag="1"/>
+    <answer text="is a major supplier of bananas in the world market" flag="0"/>
+    <answer text="are the largest importers of bananas" flag="0"/>
+    <answer text="with the largest banana plantation" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Add a group of countries that make up the &quot;Big Eight&quot;">
+    <answer text="US, Japan, Germany, France, UK, Italy, China, India" flag="0"/>
+    <answer text="US, Japan, Germany, France, Great Britain, Brazil, Canada, Russia" flag="0"/>
+    <answer text="US, Russia, Japan, Germany, France, UK, Brazil, India" flag="0"/>
+    <answer text="US, Japan, Germany, France, UK, Italy, Canada, Russia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text=" How many states - the former Soviet Union make up the CIS?">
+    <answer text="10" flag="0"/>
+    <answer text="12" flag="0"/>
+    <answer text="15" flag="0"/>
+    <answer text="11" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What states - the former Soviet Union that are not members of the CIS">
+    <answer text="Russia, Ukraine, Armenia" flag="0"/>
+    <answer text="Kazakhstan, Turkmenistan," flag="0"/>
+    <answer text="Lithuania, Latvia, Estonia, Georgia" flag="1"/>
+    <answer text="Georgia, Kyrgyzstan, Armenia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="For the countries of centrally managed economy is typical">
+    <answer text="developed mechanisms for self-management" flag="0"/>
+    <answer text="high level of socialization of production" flag="1"/>
+    <answer text="objective allocation and control of resources" flag="0"/>
+    <answer text="minimal government interference in the activities of entities" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was established the United Nations?">
+    <answer text="In 1945" flag="1"/>
+    <answer text="In 1991" flag="0"/>
+    <answer text="In 1980" flag="0"/>
+    <answer text="In 1914" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Select the group of countries that make up the UN Security Council">
+    <answer text="US, Russia, Britain, France, China" flag="1"/>
+    <answer text="USA, Russia, Germany, France, China" flag="0"/>
+    <answer text="US, Russia, Britain, France, Japan" flag="0"/>
+    <answer text="US, Russia, Britain, France, China, Germany, Japan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="UNESCO Headquarters located in">
+    <answer text="Moscow" flag="0"/>
+    <answer text="Brussels" flag="0"/>
+    <answer text="NYC" flag="0"/>
+    <answer text="Paris" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Technological society is Australia and Oceania (select exhaustive answer)">
+    <answer text="Japan and the Philippines" flag="0"/>
+    <answer text="Australia and New Zealand" flag="1"/>
+    <answer text="Federated States of Micronesia and New Zealand" flag="0"/>
+    <answer text="Australia and Papua New Guinea" flag="0"/>
+  </question>
+</testing>

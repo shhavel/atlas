@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Asia">
+  <question level="1" simple="True" text="For demographic most Asian countries are characterized by">
+    <answer text="national aging" flag="0"/>
+    <answer text="demographic crisis" flag="0"/>
+    <answer text="population explosion" flag="1"/>
+    <answer text="depopulation" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Caucasus well endowed with oil?">
+    <answer text="Georgia" flag="0"/>
+    <answer text="Armenia" flag="0"/>
+    <answer text="Azerbaijan" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Major crops grown on irrigated land in Central Asia is">
+    <answer text="rice" flag="0"/>
+    <answer text="cotton" flag="1"/>
+    <answer text="peanuts" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="China is the largest port">
+    <answer text="Shanghai" flag="1"/>
+    <answer text="Beijing" flag="0"/>
+    <answer text="Qingdao" flag="0"/>
+    <answer text="Dalian" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Enter the state in which the oil industry is not a sector of international specialization">
+    <answer text="Kuwait" flag="0"/>
+    <answer text="Syria" flag="1"/>
+    <answer text="Brunei" flag="0"/>
+    <answer text="Saudi Arabia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Taj Mahal is in">
+    <answer text="Nepal" flag="0"/>
+    <answer text="Thailand" flag="0"/>
+    <answer text="Of India" flag="1"/>
+    <answer text="Turkey" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The major role played by the industry in Japan">
+    <answer text="center of. Honshu" flag="1"/>
+    <answer text="north of. Hokkaido" flag="0"/>
+    <answer text="south of. Kyushu" flag="0"/>
+    <answer text="southeast of. Shikoku" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="National religion of China is">
+    <answer text="Shinto" flag="0"/>
+    <answer text="Confucianism and Taoism" flag="1"/>
+    <answer text="Buddhism" flag="0"/>
+    <answer text="Sikhism" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries is part of the &quot;Asian Tigers&quot;?">
+    <answer text="Israel" flag="0"/>
+    <answer text="Philippines" flag="0"/>
+    <answer text="South Korea" flag="1"/>
+    <answer text="Malaysia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The most economically developed areas of China is">
+    <answer text="Eastern" flag="1"/>
+    <answer text="North" flag="0"/>
+    <answer text="Western" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What part of Asia are having Islam and Christianity?">
+    <answer text="In the central" flag="0"/>
+    <answer text="In southwestern" flag="1"/>
+    <answer text="In southern" flag="0"/>
+    <answer text="In southeastern" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The main export crop in Sri Lanka is">
+    <answer text="vanilla" flag="0"/>
+    <answer text="dates" flag="0"/>
+    <answer text="tea" flag="1"/>
+    <answer text="rice" flag="0"/>
+  </question>
+</testing>
