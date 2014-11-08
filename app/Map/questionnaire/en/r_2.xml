@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="OCEANS">
+  <question level="1" simple="True" text="What is the largest ocean on the planet?">
+    <answer text="Atlantic" flag="0"/>
+    <answer text="Quiet" flag="1"/>
+    <answer text="Indian" flag="0"/>
+    <answer text="Arctic" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Under the influence of factors are ocean currents?">
+    <answer text="Constant winds" flag="1"/>
+    <answer text="The outlines of the coast" flag="0"/>
+    <answer text="Movement of the ocean floor" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the depth of the trench is Puerto Rico?">
+    <answer text="11 022 m" flag="0"/>
+    <answer text="8742 m" flag="1"/>
+    <answer text="9783 m" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the warmest ocean?">
+    <answer text="Indian" flag="1"/>
+    <answer text="Atlantic" flag="0"/>
+    <answer text="Quiet" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The name of the Pacific received from:">
+    <answer text="Marco Polo" flag="0"/>
+    <answer text="Ferdinand Magellan" flag="1"/>
+    <answer text="Christopher Columbus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="Arctic Ocean - the smallest of the oceans" flag="0"/>
+    <answer text="Compared with the Pacific Atlantic Ocean is much more influenced land" flag="0"/>
+    <answer text="The organic world oceans rich in the depths of the oceans" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which part of the Atlantic Ocean there is the highest salinity?">
+    <answer text="In places where the ocean flowing rivers powerful" flag="0"/>
+    <answer text="In tropical latitudes" flag="1"/>
+    <answer text="In polar latitudes" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="In the Indian Ocean there is no mid-ocean ridges" flag="1"/>
+    <answer text="Indian Ocean - most salty sea in the world" flag="0"/>
+    <answer text="Indian Ocean - the hottest on the planet" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The main role in the formation of ocean currents of the Arctic Ocean plays:">
+    <answer text="atmospheric circulation" flag="0"/>
+    <answer text="powerful stream of water of the Atlantic Ocean" flag="1"/>
+    <answer text="topography of the ocean floor" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The highest salinity of the Arctic Ocean have:">
+    <answer text="in places where rivers flow into the ocean" flag="0"/>
+    <answer text="where are flowing into the ocean waters of the Atlantic and Pacific Oceans" flag="1"/>
+    <answer text="in the central part of the ocean" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the depth of Marianas Trench?">
+    <answer text="8848 m" flag="0"/>
+    <answer text="8742 m" flag="0"/>
+    <answer text="11 022 m" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What sea is the most salty sea?">
+    <answer text="Mediterranean" flag="0"/>
+    <answer text="The Black" flag="0"/>
+    <answer text="Mahogany" flag="1"/>
+  </question>
+</testing>

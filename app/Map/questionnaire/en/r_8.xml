@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="EURASIA">
+  <question level="1" simple="True" text="Area Eurasia together with the islands is as follows:">
+    <answer text="30,320,000 sq. M. km" flag="0"/>
+    <answer text="54.6 million sq. M. km" flag="1"/>
+    <answer text="24,250,000 sq. M. km" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer text="G. Everest - the highest peak of the world" flag="1"/>
+    <answer text="In Eurasia is - the largest desert in the world" flag="0"/>
+    <answer text="The longest river is the Dnieper Europe" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Extreme eastern point of Eurasia are:">
+    <answer text="Dezhnev" flag="1"/>
+    <answer text="Cheliuskin" flag="0"/>
+    <answer text="Piay" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Deepest lake in the world are:">
+    <answer text="Baikal" flag="1"/>
+    <answer text="Lop Nor" flag="0"/>
+    <answer text="Issyk-Kul" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Larger and include:">
+    <answer text="Arabian Peninsula" flag="1"/>
+    <answer text="The Scandinavian Peninsula" flag="0"/>
+    <answer text="Iberian Peninsula" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the climate of Eurasia which have the greatest impact Indian and Pacific Oceans?">
+    <answer text="Western part of the continent" flag="0"/>
+    <answer text="The central part of the continent" flag="0"/>
+    <answer text="South and Southeast Asia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="In Eurasia, common all natural zones of the Northern Hemisphere" flag="0"/>
+    <answer text="Mixed and deciduous forests are most common in the western part of the continent" flag="0"/>
+    <answer text="The largest number of high-altitude zones formed on the northern slopes of the Himalayas" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Of these travelers the greatest contribution to the study of Eurasia did:">
+    <answer text="Marco Polo" flag="1"/>
+    <answer text="Christopher Columbus" flag="0"/>
+    <answer text="James Cook" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Among the world's religions in western Eurasia, the most common are:">
+    <answer text="Christianity" flag="1"/>
+    <answer text="Buddhism" flag="0"/>
+    <answer text="Islam" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="China - the most populous country in the world" flag="0"/>
+    <answer text="In India, less than China's population density" flag="1"/>
+    <answer text="Indonesia - the most populous Muslim country in the world" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Of these countries to the group of highly developed countries include:">
+    <answer text="China" flag="0"/>
+    <answer text="Japan" flag="1"/>
+    <answer text="Singapore" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Most of the world's proven oil reserves are concentrated:">
+    <answer text="the Caspian Sea region" flag="0"/>
+    <answer text="offshore North Sea" flag="0"/>
+    <answer text="in the Persian Gulf" flag="1"/>
+  </question>
+</testing>

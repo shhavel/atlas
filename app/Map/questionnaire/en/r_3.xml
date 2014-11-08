@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="AFRICA">
+  <question level="1" simple="True" text="The first researcher was interior regions of Africa:">
+    <answer text="David Livingston County" flag="1"/>
+    <answer text="Henry Stanley" flag="0"/>
+    <answer text="Vasco da Gama" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The southernmost point of Africa are:">
+    <answer text="Cape of Good Hope" flag="0"/>
+    <answer text="Cape Aґulyas" flag="1"/>
+    <answer text="Cape Ras Engel" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer text="Africa - the hottest continent" flag="1"/>
+    <answer text="Africa - the continent's largest" flag="0"/>
+    <answer text="Africa - driest continent" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The highest peak in Africa are:">
+    <answer text="g Kosciusko" flag="0"/>
+    <answer text="g Kilimanjaro" flag="1"/>
+    <answer text="h Kenya" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what part of Africa are Drakensberg?">
+    <answer text="In the north" flag="0"/>
+    <answer text="The south-east" flag="1"/>
+    <answer text="To the east" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer text="In the climate of the Sahara has a significant impact Mediterranean" flag="0"/>
+    <answer text="Sahara - most droughty desert planet" flag="0"/>
+    <answer text="Sahara - the largest desert in the world" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer text="Neil - naypovnovodnisha river in Africa" flag="0"/>
+    <answer text="Congo - naypovnovodnisha river Planet" flag="0"/>
+    <answer text="Nile - the longest river in the world" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is the deepest lake in Africa?">
+    <answer text="Tanganyika" flag="1"/>
+    <answer text="Victoria" flag="0"/>
+    <answer text="Tan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which river belongs to the Indian Ocean?">
+    <answer text="Niger" flag="0"/>
+    <answer text="Zambezi" flag="1"/>
+    <answer text="Congo" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As referred in Africa dry river valleys, where water appears only occasionally?">
+    <answer text="Oases" flag="0"/>
+    <answer text="Wadi" flag="1"/>
+    <answer text="Creek" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The population of North Africa, the most common religion is:">
+    <answer text="Christianity" flag="0"/>
+    <answer text="Islam" flag="1"/>
+    <answer text="Buddhism" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The category of developed countries in the world include:">
+    <answer text="Egypt" flag="0"/>
+    <answer text="Libya" flag="0"/>
+    <answer text="South Africa" flag="1"/>
+  </question>
+</testing>

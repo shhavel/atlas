@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="SOUTH AMERICA">
+  <question level="1" simple="True" text="In South America there is:">
+    <answer text="naypovnovodnisha river in the world" flag="1"/>
+    <answer text="longest river in the world" flag="0"/>
+    <answer text="largest desert" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The highest peak in South America are:">
+    <answer text="Aconcagua" flag="1"/>
+    <answer text="McKinley" flag="0"/>
+    <answer text="Cotopaxi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is incorrect?">
+    <answer text="Hummingbird is endemic" flag="1"/>
+    <answer text="South America - the wettest continent planet" flag="0"/>
+    <answer text="In South America there is driest desert" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Christopher Columbus discovered America in">
+    <answer text="1492," flag="1"/>
+    <answer text="1498" flag="0"/>
+    <answer text="1502" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The highest waterfall in the world are:">
+    <answer text="Iguaçu" flag="0"/>
+    <answer text="Angel" flag="1"/>
+    <answer text="Victoria" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Most of the rivers of South America:">
+    <answer text="belongs to the basin of the Atlantic Ocean" flag="1"/>
+    <answer text="belongs to the basin of the Pacific" flag="0"/>
+    <answer text="is in the area of ​​internal drainage" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The wet equatorial forests of South America are called:">
+    <answer text="pampa" flag="0"/>
+    <answer text="jungle" flag="0"/>
+    <answer text="Selva" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Pampa is:">
+    <answer text="grassy steppes of South America" flag="1"/>
+    <answer text="humid equatorial forests of South America" flag="0"/>
+    <answer text="Desert of South America" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Indigenous peoples of South America are:">
+    <answer text="Metis" flag="0"/>
+    <answer text="Indians" flag="1"/>
+    <answer text="sambo" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Countries in South America include:">
+    <answer text="the group of developing countries" flag="1"/>
+    <answer text="the group of poorest countries" flag="0"/>
+    <answer text="the world's most developed countries" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="Brazil - The largest country in South America" flag="0"/>
+    <answer text="Brazil - the birthplace of football" flag="1"/>
+    <answer text="Brazil - the largest in terms of population of South America" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The most common languages ​​among the population of South America are:">
+    <answer text="German and the language of the Incas" flag="0"/>
+    <answer text="English and French" flag="0"/>
+    <answer text="Spanish and Portuguese" flag="1"/>
+  </question>
+</testing>
