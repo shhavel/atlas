@@ -11,7 +11,7 @@
     <ul data-role="listview">
 
       <li>
-        <div class="itemLabel">Результат: </div>
+        <div class="itemLabel"><%= t('Results') %>: </div>
         <div class="itemValue"><%= "#{(100.0 * @count / @questions.size).round(1)}% (#{@count}/#{@questions.size})" %></div>
       </li>
 
