@@ -2,9 +2,15 @@
 
   <div data-role="header" data-position="inline">
     <h1><%= t('Controls') %></h1>
-    <a href="<%= @params['referer'] %>?lang=<%= Control.lang %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
-      <%= t('Back') %>
-    </a>
+    <% if @params['referer'] %>
+      <a href="<%= @params['referer'] %>?lang=<%= Control.lang %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+        <%= t('Back') %>
+      </a>
+    <% else %>
+      <a href="<%= url_for :controller => :Category, :action => :index, :query => { :lang => Control.lang } %>" class="ui-btn-left" data-icon="arrow-l" data-direction="reverse">
+        <%= t('Back') %>
+      </a>
+    <% end %>
   </div>
 
   <div data-role="content">
@@ -12,7 +18,7 @@
       <input type="hidden" name="referer" value="<%= @params['referer'] %>" />
       <% @controls.each do |control| %>
 
-        <% next if (System::get_property('platform') == 'APPLE' && control.name == 'icon_size') || control.name == 'show_controls_icon' %>
+        <% next if (System::get_property('platform') == 'APPLE' && control.name == 'icon_size') %>
 
         <div data-role="fieldcontain">
           <label for="<%= control.name %>" class="fieldLabel"><%= t(control.name) %></label>
