@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The life of ancient people">
+  <question level="1" simple="True" text="When was the first man on Earth?">
+    <answer text="About 2 million years ago" flag="1"/>
+    <answer text="About 5 million years ago" flag="0"/>
+    <answer text="About 1 million years ago" flag="0"/>
+    <answer text="About 4 million years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What continent by most modern scholars, is considered the ancestral home of the first people on earth?">
+    <answer text="North America" flag="0"/>
+    <answer text="South America" flag="0"/>
+    <answer text="Antarctica" flag="0"/>
+    <answer text="Eurasia" flag="0"/>
+    <answer text="Africa" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When living on Earth Australopithecus and &quot;Homo habilis&quot;?">
+    <answer text="5,5-1,5 million years ago" flag="1"/>
+    <answer text="1,5-300 thousand. Years ago" flag="0"/>
+    <answer text="300-35 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of people lived on the Earth 1.5 million - 300 thousand. Years ago?">
+    <answer text="Pithecanthropus" flag="1"/>
+    <answer text="Atlantropy" flag="1"/>
+    <answer text="Neanderthals" flag="0"/>
+    <answer text="Cro-Magnons" flag="0"/>
+    <answer text="Peking Man" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was the name people - younger contemporary Neanderthal?">
+    <answer text="Pithecanthropus" flag="0"/>
+    <answer text="Australopithecus" flag="0"/>
+    <answer text="Cro-Magnon" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In that grouping united ancient people?">
+    <answer text="Herd" flag="1"/>
+    <answer text="Tribal communities" flag="1"/>
+    <answer text="Tribe" flag="1"/>
+    <answer text="State" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who led the life of a tribe?">
+    <answer text="King" flag="0"/>
+    <answer text="Zherets" flag="0"/>
+    <answer text="Council officers" flag="1"/>
+    <answer text="Leader" flag="1"/>
+    <answer text="Pharaoh" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When people probably switched from gathering to farming?">
+    <answer text="12-10 thousand. Years ago" flag="1"/>
+    <answer text="7 thousand. Years ago" flag="0"/>
+    <answer text="5 thousand. Years ago" flag="0"/>
+    <answer text="4 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which animal was domesticated humans first?">
+    <answer text="Horse" flag="0"/>
+    <answer text="Cow" flag="0"/>
+    <answer text="Pig" flag="0"/>
+    <answer text="Cat" flag="0"/>
+    <answer text="Dog" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When man learned to make tools out of metal?">
+    <answer text="15-10 thousand. Years ago" flag="0"/>
+    <answer text="7-6 thousand. Years ago" flag="1"/>
+    <answer text="5 thousand. Years ago" flag="0"/>
+    <answer text="4 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What cities are known to archaeologists, are the oldest?">
+    <answer text="Chzhoukoudyan" flag="0"/>
+    <answer text="Tripoli" flag="0"/>
+    <answer text="Catal-Giiyuk" flag="1"/>
+    <answer text="Jericho" flag="1"/>
+    <answer text="Ternifin" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is considered the reference point &quot;AD&quot;?">
+    <answer text="Founding of Rome" flag="0"/>
+    <answer text="Nativity" flag="1"/>
+    <answer text="Occurrence of the Earth" flag="0"/>
+    <answer text="The appearance of the first man" flag="0"/>
+  </question>
+</testing>

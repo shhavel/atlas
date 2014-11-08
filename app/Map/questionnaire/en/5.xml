@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The ancient history of Ukrainian lands">
+  <question level="1" simple="True" text="What are the archaeological finds were made in the village. Queen (Transcarpathia)?">
+    <answer text="Tools &quot;Homo erectus&quot;" flag="1"/>
+    <answer text="The remains of Neanderthal" flag="0"/>
+    <answer text="The remains of Australopithecus settlement" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Near the village is found buried Neanderthals?">
+    <answer text="Tripoli" flag="0"/>
+    <answer text="Dobranychivka" flag="0"/>
+    <answer text="Kyyik Koba" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When, under the assumptions of archaeologists could be the first people in Ukraine?">
+    <answer text="About 2 million years ago" flag="0"/>
+    <answer text="About 1.7 million years ago" flag="0"/>
+    <answer text="About 1.5 million years ago" flag="0"/>
+    <answer text="About 1 million years ago" flag="1"/>
+    <answer text="About 500 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the first farmers and herders in Ukraine?">
+    <answer text="About 10 thousand. Years ago" flag="0"/>
+    <answer text="About 7 thousand. Years ago" flag="1"/>
+    <answer text="About 5 thousand. Years ago" flag="0"/>
+    <answer text="About 30 thousand. Years ago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As scholars have called representatives of ancient agricultural crops in Ukraine Neolithic?">
+    <answer text="The Scythians" flag="0"/>
+    <answer text="Cimmerians" flag="0"/>
+    <answer text="Tripolye" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As most Sarmatian tribes called?">
+    <answer text="Yazigi" flag="1"/>
+    <answer text="Roksolany" flag="1"/>
+    <answer text="Aorsy" flag="1"/>
+    <answer text="Scirii" flag="0"/>
+    <answer text="Sirak" flag="1"/>
+    <answer text="Bastarnae" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the names of Scythian burial mounds that are found in Ukraine?">
+    <answer text="Chortomlyk" flag="1"/>
+    <answer text="Mariupol" flag="1"/>
+    <answer text="Mylohrad" flag="0"/>
+    <answer text="Oguz" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which BC. e. the Persian king Darius I went to conquer the land of ancient Ukraine and whose resistance he then not overcome?">
+    <answer text="521" flag="0"/>
+    <answer text="514" flag="1"/>
+    <answer text="510" flag="0"/>
+    <answer text="Sarmatians" flag="0"/>
+    <answer text="Cimmerians" flag="0"/>
+    <answer text="The Scythians" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was the name state that existed on Ukrainian territory in VII - IV century. e. e.?">
+    <answer text="Persia" flag="0"/>
+    <answer text="Great Scythia" flag="1"/>
+    <answer text="Assyria" flag="0"/>
+    <answer text="Phoenicia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the name of ancient and modern capital of the Bosporus?">
+    <answer text="Chersonesos" flag="0"/>
+    <answer text="Olbia" flag="0"/>
+    <answer text="Pantikapaion" flag="1"/>
+    <answer text="Sevastopol" flag="0"/>
+    <answer text="Nikolaev" flag="0"/>
+    <answer text="Kerch" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What nations at various times lived on the territory of modern Ukraine?">
+    <answer text="The Celts" flag="0"/>
+    <answer text="The Slavs" flag="1"/>
+    <answer text="Cimmerians" flag="1"/>
+    <answer text="The Scythians" flag="1"/>
+    <answer text="Sarmatians" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the Slavic tribes living in Ukraine?">
+    <answer text="Goths" flag="0"/>
+    <answer text="Anti" flag="1"/>
+    <answer text="Sklavyny" flag="1"/>
+    <answer text="The Huns" flag="0"/>
+  </question>
+</testing>

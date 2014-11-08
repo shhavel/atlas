@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient Rome">
+  <question level="1" simple="True" text="Who and when, according to legend, founded Rome?">
+    <answer text="Amulius" flag="0"/>
+    <answer text="Numitora" flag="0"/>
+    <answer text="Romulus" flag="1"/>
+    <answer text="Rem" flag="0"/>
+    <answer text="765 BC. E. e." flag="0"/>
+    <answer text="761 BC. E. e." flag="0"/>
+    <answer text="753 BC. E. e." flag="1"/>
+    <answer text="750 BC. E. e." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As the first known ruler of Rome?">
+    <answer text="Leader" flag="0"/>
+    <answer text="Emperor" flag="0"/>
+    <answer text="King" flag="1"/>
+    <answer text="Pharaoh" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the basis of the alphabet?">
+    <answer text="Cuneiform" flag="0"/>
+    <answer text="Greek charter" flag="1"/>
+    <answer text="Ancient Egyptian hieroglyphs" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="To actually possessed real power in the Roman Republic?">
+    <answer text="Senate" flag="1"/>
+    <answer text="The supreme masters" flag="1"/>
+    <answer text="People's Assembly" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the First Punic War?">
+    <answer text="264 BC. E. e." flag="1"/>
+    <answer text="241 BC. E. e." flag="0"/>
+    <answer text="218 g. E. e." flag="0"/>
+    <answer text="201 BC. E. e." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As the troops were called Roman army?">
+    <answer text="Angel" flag="0"/>
+    <answer text="Phalanx" flag="0"/>
+    <answer text="Legions" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How to call slaves, who were given guns and forced to fight each other to death?">
+    <answer text="Pets" flag="0"/>
+    <answer text="State" flag="0"/>
+    <answer text="Gladiators" flag="1"/>
+    <answer text="Temple" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When started the greatest in the history of the ancient world slave revolt led by Spartacus?">
+    <answer text="'73 BC. e." flag="1"/>
+    <answer text="'73 BC. e." flag="0"/>
+    <answer text="'71 BC. e." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="He signed a &quot;union of three men&quot; - a triumvirate?">
+    <answer text="Lutsyniy Crassus" flag="1"/>
+    <answer text="Gaius Marius" flag="0"/>
+    <answer text="Gnaeus Pompey" flag="1"/>
+    <answer text="Cornelius Sulla" flag="0"/>
+    <answer text="Julius Caesar" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who are the rulers of the Roman Empire did not belong to the Julio-Claudian dynasty?">
+    <answer text="Caligula" flag="0"/>
+    <answer text="Marcus Tullius Cicero" flag="1"/>
+    <answer text="Marc Anthony" flag="1"/>
+    <answer text="Nero" flag="0"/>
+    <answer text="Julius Caesar" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Roman emperors declared the death god?">
+    <answer text="Caligula" flag="0"/>
+    <answer text="Nero" flag="0"/>
+    <answer text="Vespasian" flag="0"/>
+    <answer text="Trajan" flag="1"/>
+    <answer text="Marcus Aurelius" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and where were the early Christians?">
+    <answer text="Second century. e. e." flag="0"/>
+    <answer text="And art. e. e." flag="0"/>
+    <answer text="And art. n. e." flag="1"/>
+    <answer text="Ancient Palestine" flag="1"/>
+    <answer text="Egypt" flag="0"/>
+    <answer text="Macedonia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="On the territory of which public education originated Christianity?">
+    <answer text="Parthian Empire" flag="0"/>
+    <answer text="Roman Empire" flag="1"/>
+    <answer text="Armenia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What period of development experienced the Roman Empire in the third century. n. e.?">
+    <answer text="The Golden Age" flag="0"/>
+    <answer text="Crisis" flag="1"/>
+    <answer text="Civil War" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of Roman emperors and when legalized Christianity?">
+    <answer text="313" flag="1"/>
+    <answer text="325" flag="0"/>
+    <answer text="330" flag="0"/>
+    <answer text="Trajan" flag="0"/>
+    <answer text="Constantine and" flag="1"/>
+    <answer text="Nero" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was the transfer of the capital of the Roman Empire to Constantinople?">
+    <answer text="313" flag="0"/>
+    <answer text="330" flag="1"/>
+    <answer text="476" flag="0"/>
+    <answer text="478" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which were fought the invasion of the &quot;eternal city&quot; - Rome?">
+    <answer text="410" flag="1"/>
+    <answer text="451" flag="0"/>
+    <answer text="455" flag="1"/>
+    <answer text="476" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year is the year of the death of the Roman Empire, and who was the last emperor of Rome?">
+    <answer text="455" flag="0"/>
+    <answer text="476" flag="1"/>
+    <answer text="410" flag="0"/>
+    <answer text="Odoacer" flag="0"/>
+    <answer text="Aetius" flag="0"/>
+    <answer text="Romulus Augustus" flag="1"/>
+  </question>
+</testing>
