@@ -13,6 +13,7 @@ class Map
   property :category_sign, :string
   property :name_ru, :string
   property :name_ua, :string
+  property :name_en, :string
   property :file, :string
   property :summary, :string
   property :pictures_list, :string
@@ -24,6 +25,12 @@ class Map
   end
 
   def name
-    Control.lang == 'ua' ? name_ua : name_ru
+    if Control.lang == 'ua'
+      name_ua
+    elsif Control.lang == 'ru'
+      name_ru
+    else
+      name_en
+    end
   end
 end
