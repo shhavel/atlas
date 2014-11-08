@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testing name="Московское государство в XVI - XVII вв.">
   <question level="1" simple="True" text="В правление какого царя территория Московского государства выросла всего?">
-    <answer text="Василия ИИИ" flag="0"/>
+    <answer text="Василия ІІІ" flag="0"/>
     <answer text="Ивана IV" flag="1"/>
-    <answer text="Федора и" flag="0"/>
+    <answer text="Федора І" flag="0"/>
     <answer text="Бориса Годунова" flag="0"/>
   </question>
   <question level="1" simple="True" text="Укажите годы начала и завершения Ливонской войны:">
@@ -61,7 +61,7 @@
     <answer text="1615" flag="0"/>
   </question>
   <question level="1" simple="True" text="Какой московский царь первым начал использовать титул &quot;Божьей Милостью Великий Государь, Царь и Великий Князь всея Великой и Малой Руси Самодержец&quot;?">
-    <answer text="Василий ИИИ" flag="0"/>
+    <answer text="Василий ІІІ" flag="0"/>
     <answer text="Иван IV" flag="0"/>
     <answer text="Михаил Романов" flag="0"/>
     <answer text="Алексей Михайлович" flag="1"/>

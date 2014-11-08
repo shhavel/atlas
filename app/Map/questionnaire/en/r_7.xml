@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Thirty Years War">
+  <question level="1" simple="True" text="The Thirty Years War lasted for:">
+    <answer text="1618-1648 biennium" flag="1"/>
+    <answer text="1620-1650 biennium" flag="0"/>
+    <answer text="1625-1655 biennium" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who of these historical figures was a contemporary of the Thirty Years War?">
+    <answer text="Mary Stuart" flag="0"/>
+    <answer text="Richelieu" flag="1"/>
+    <answer text="Henry IV" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What state in the war strengthened its position on the Baltic Sea, effectively turning it into its &quot;inland lake&quot;?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Sweden" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="England" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="At the Battle of Lutzen died:">
+    <answer text="Tilly" flag="0"/>
+    <answer text="Wallenstein" flag="0"/>
+    <answer text="Gustav II Adolf" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="During the war, Albrecht Wallenstein led troops:">
+    <answer text="Catholic League" flag="1"/>
+    <answer text="Evangelistichnogo union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event was the occasion for the Thirty Years War?">
+    <answer text="The uprising in Prague against the power of the Emperor" flag="1"/>
+    <answer text="Creation of the Catholic League" flag="0"/>
+    <answer text="Joining France to evangelistichnogo union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What country gained independence under the terms of the Peace of Westphalia?">
+    <answer text="Denmark and Sweden" flag="0"/>
+    <answer text="Holland and Switzerland" flag="1"/>
+    <answer text="Austria and Bavaria" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these periods the Thirty Years War was chronologically the first?">
+    <answer text="French" flag="0"/>
+    <answer text="Czech" flag="1"/>
+    <answer text="Danish" flag="0"/>
+    <answer text="Swedish" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Outstanding military leader of the Catholic League was:">
+    <answer text="Gustav II Adolf" flag="0"/>
+    <answer text="Richelieu" flag="0"/>
+    <answer text="Wallenstein" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Major fighting the Thirty Years War continued in the territory:">
+    <answer text="Germany" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="Sweden" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries undertook territorial acquisitions during the war?">
+    <answer text="Spain" flag="0"/>
+    <answer text="Austria" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="Poland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What a Catholic country supported the Protestants in the Thirty Years War?">
+    <answer text="Denmark" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="Poland" flag="0"/>
+    <answer text="Turkey" flag="0"/>
+  </question>
+</testing>

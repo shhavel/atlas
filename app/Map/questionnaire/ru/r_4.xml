@@ -39,13 +39,13 @@
     <answer text="Стюартов" flag="0"/>
   </question>
   <question level="1" simple="True" text="Кому принадлежит высказывание: &quot;Государство это я!&quot;?">
-    <answer text="Генриху ИИИ" flag="0"/>
+    <answer text="Генриху ІІІ" flag="0"/>
     <answer text="Генриху IV" flag="0"/>
     <answer text="Людовику XIII" flag="0"/>
     <answer text="Людовику XIV" flag="1"/>
   </question>
   <question level="1" simple="True" text="Кардинал Ришелье был первым министром короля:">
-    <answer text="Генриха ИИИ" flag="0"/>
+    <answer text="Генриха ІІІ" flag="0"/>
     <answer text="Генриха IV" flag="0"/>
     <answer text="Людовика XIII" flag="1"/>
     <answer text="Людовика XIV" flag="0"/>
@@ -57,7 +57,7 @@
     <answer text="1629" flag="1"/>
   </question>
   <question level="1" simple="True" text="Тридцатилетняя война завершилась в правление французского короля:">
-    <answer text="Генриха ИИИ" flag="0"/>
+    <answer text="Генриха ІІІ" flag="0"/>
     <answer text="Генриха IV" flag="0"/>
     <answer text="Людовика XIII" flag="0"/>
     <answer text="Людовика XIV" flag="1"/>

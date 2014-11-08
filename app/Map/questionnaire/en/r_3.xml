@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Liberation movement in the Netherlands">
+  <question level="1" simple="True" text="The largest city by population of the Netherlands in the XVI century. was:">
+    <answer text="Antwerp" flag="1"/>
+    <answer text="Amsterdam" flag="0"/>
+    <answer text="Haarlem" flag="0"/>
+    <answer text="Brussels" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year in the Netherlands rebellion broke iconoclasts?">
+    <answer text="1656" flag="0"/>
+    <answer text="1566" flag="1"/>
+    <answer text="1567" flag="0"/>
+    <answer text="1568" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the Spanish king whose reign began the liberation movement in the Netherlands?">
+    <answer text="Charles I" flag="0"/>
+    <answer text="Henry III" flag="0"/>
+    <answer text="Philip II" flag="1"/>
+    <answer text="Sigismund III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Opposition to the Spanish authorities in the years of the liberation struggle in the Netherlands headed:">
+    <answer text="Duke of Alba" flag="0"/>
+    <answer text="Earl of Leicester" flag="0"/>
+    <answer text="William of Orange" flag="1"/>
+    <answer text="Maurice of Orange" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event was the impetus to revolt against the Spaniards in the north of the Netherlands?">
+    <answer text="rebellion iconoclasts" flag="0"/>
+    <answer text="Spanish siege of the city of Leiden" flag="0"/>
+    <answer text="marine capture gezam city Bril" flag="1"/>
+    <answer text="Spanish siege of the city of Haarlem" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Whose victory ended the siege of the city of Leiden?">
+    <answer text="Spanish" flag="0"/>
+    <answer text="Dutch" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who introduced in the Netherlands, 10 percent sales tax of all goods?">
+    <answer text="Margaret of Parma" flag="0"/>
+    <answer text="Duke of Alba" flag="1"/>
+    <answer text="William of Orange" flag="0"/>
+    <answer text="Maurice of Orange" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event happened before?">
+    <answer text="conclusion of Arras union" flag="1"/>
+    <answer text="conclusion of the Utrecht union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these provinces joined the union Arras?">
+    <answer text="Artois" flag="1"/>
+    <answer text="Zealand" flag="0"/>
+    <answer text="Utrecht" flag="0"/>
+    <answer text="Friesland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was elected Stadtholder of the United Provinces of the Netherlands after the death of William of Orange?">
+    <answer text="Maurice of Orange" flag="1"/>
+    <answer text="Margaret of Parma" flag="0"/>
+    <answer text="Henry of Navarre" flag="0"/>
+    <answer text="Duke of Guise" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When Spain finally recognized the independence of the United Provinces of the Netherlands?">
+    <answer text="1579" flag="0"/>
+    <answer text="1584" flag="0"/>
+    <answer text="1609" flag="0"/>
+    <answer text="1648" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which city of the Dutch Republic became the new center of world trade in the XVII century.?">
+    <answer text="Antwerp" flag="0"/>
+    <answer text="Amsterdam" flag="1"/>
+    <answer text="Leiden" flag="0"/>
+    <answer text="Haarlem" flag="0"/>
+  </question>
+</testing>

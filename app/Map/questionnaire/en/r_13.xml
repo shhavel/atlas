@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="America in the XVIII century.">
+  <question level="1" simple="True" text="When the British colonization of North America?">
+    <answer text="1492" flag="0"/>
+    <answer text="1607" flag="1"/>
+    <answer text="1648" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Puritans, the Pilgrims came to the shores of North America and founded the colony of New England on the ship:">
+    <answer text="&quot;Virginia&quot;" flag="0"/>
+    <answer text="&quot;Plymouth&quot;" flag="0"/>
+    <answer text="&quot;Mayflower&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The first British colony in North America was called:">
+    <answer text="New England" flag="0"/>
+    <answer text="Virginia" flag="1"/>
+    <answer text="Pennsylvania" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="US Declaration of Independence was proclaimed during operation:">
+    <answer text="The I of the Continental Congress" flag="0"/>
+    <answer text="II Continental Congress" flag="1"/>
+    <answer text="US Congress" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year started American Revolutionary War?">
+    <answer text="1773" flag="0"/>
+    <answer text="1774" flag="0"/>
+    <answer text="1775" flag="1"/>
+    <answer text="1776" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The first capital city of the United States was:">
+    <answer text="NY" flag="0"/>
+    <answer text="Philadelphia" flag="1"/>
+    <answer text="Yorktown" flag="0"/>
+    <answer text="Washington" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The authors of the Declaration of Independence were:">
+    <answer text="Jefferson and Adams" flag="1"/>
+    <answer text="Franklin and Washington" flag="0"/>
+    <answer text="Washington and Madison" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The decisive battle of the Revolutionary War took place:">
+    <answer text="1775 in Boston" flag="0"/>
+    <answer text="1777 in Saratoga" flag="1"/>
+    <answer text="1781 at Yorktown" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What countries supported the independence of the United States and had her military aid?">
+    <answer text="Prussia" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="Holland" flag="1"/>
+    <answer text="Spain" flag="1"/>
+    <answer text="Portugal" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was decided the existing US Constitution?">
+    <answer text="1776" flag="0"/>
+    <answer text="1783" flag="0"/>
+    <answer text="1787" flag="1"/>
+    <answer text="1791" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first president of the United States?">
+    <answer text="J., Washington" flag="1"/>
+    <answer text="T. Jefferson" flag="0"/>
+    <answer text="J. Adams" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When Britain recognized the independence of the United States?">
+    <answer text="1776" flag="0"/>
+    <answer text="1781" flag="0"/>
+    <answer text="1783" flag="1"/>
+    <answer text="1787" flag="0"/>
+  </question>
+</testing>

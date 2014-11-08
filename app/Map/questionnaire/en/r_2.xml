@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Beginning of the Reformation in Europe">
+  <question level="1" simple="True" text="Between any two European countries existed important confrontation in the XVI century.?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Sweden" flag="0"/>
+    <answer text="The Holy Roman Empire" flag="1"/>
+    <answer text="Denmark" flag="0"/>
+    <answer text="England" flag="0"/>
+    <answer text="France" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The dominant religion in western Europe on the eve of the Reformation was:">
+    <answer text="Protestantism" flag="0"/>
+    <answer text="Catholicism" flag="1"/>
+    <answer text="Orthodoxy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Germany XVI century. was:">
+    <answer text="single centralized state" flag="0"/>
+    <answer text="politically fragmented country" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Note superfluous:">
+    <answer text="Martin Luther" flag="0"/>
+    <answer text="Ulrich Zwingli" flag="0"/>
+    <answer text="Ignatius of Loyola" flag="1"/>
+    <answer text="John Calvin" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Lutherans recognize the authority of the Pope?">
+    <answer text="So" flag="0"/>
+    <answer text="Neither" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what year did Luther gave a outline of his doctrine?">
+    <answer text="1516" flag="0"/>
+    <answer text="1517" flag="1"/>
+    <answer text="1518" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How was called the Protestant Church of England?">
+    <answer text="Anglican" flag="1"/>
+    <answer text="Lutheran" flag="0"/>
+    <answer text="evangelical" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who of these people tried to establish a &quot;Kingdom of God on Earth&quot; in arms?">
+    <answer text="Thomas Müntzer" flag="1"/>
+    <answer text="John Calvin" flag="0"/>
+    <answer text="Martin Luther" flag="0"/>
+    <answer text="Erasmus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these figures of the Reformation acted in Switzerland?">
+    <answer text="Martin Luther" flag="0"/>
+    <answer text="Thomas Müntzer" flag="0"/>
+    <answer text="John Calvin" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Jesuit Order, or &quot;Society of Jesus&quot; was founded:">
+    <answer text="Pope Paul III" flag="0"/>
+    <answer text="Ignatius of Loyola" flag="1"/>
+    <answer text="Henry VIII" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries have been left behind the church reform movement?">
+    <answer text="Denmark" flag="0"/>
+    <answer text="Muscovy" flag="1"/>
+    <answer text="Scotland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some of these countries the ideas of the Reformation were not supported:">
+    <answer text="Netherlands" flag="0"/>
+    <answer text="Sweden" flag="0"/>
+    <answer text="Portugal" flag="1"/>
+  </question>
+</testing>

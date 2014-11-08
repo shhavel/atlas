@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="English Revolution of the mid XVII century.">
+  <question level="1" simple="True" text="Which dynasty was overthrown by the English revolution mid XVII.?">
+    <answer text="Stuarts" flag="1"/>
+    <answer text="The Tudors" flag="0"/>
+    <answer text="Hanover" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When war broke out between King and Parliament?">
+    <answer text="1640" flag="0"/>
+    <answer text="1642" flag="1"/>
+    <answer text="1651" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What king was beheaded during the revolution?">
+    <answer text="Jacob" flag="0"/>
+    <answer text="Charles I" flag="1"/>
+    <answer text="James II" flag="0"/>
+    <answer text="Charles II" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where the decisive battle of the English Civil War?">
+    <answer text="Marston Moor" flag="0"/>
+    <answer text="Neyzbi" flag="1"/>
+    <answer text="Preston" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the British Parliament passed the Navigation Act, which laid the foundations of naval superiority of England?">
+    <answer text="1642" flag="0"/>
+    <answer text="1649" flag="0"/>
+    <answer text="1651" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who during the revolution was proclaimed Lord Protector of England?">
+    <answer text="Stafford" flag="0"/>
+    <answer text="Cromwell" flag="1"/>
+    <answer text="William of Orange" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What events in the history of England were called &quot;Glorious Revolution&quot;?">
+    <answer text="Penalty King" flag="0"/>
+    <answer text="proclamation lordaprotektora" flag="0"/>
+    <answer text="founding a new dynasty" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the inventor of one of the first steam engines?">
+    <answer text="J. Hargivs" flag="0"/>
+    <answer text="J. Watt" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="At the end of the XVII century. confirmed in England:">
+    <answer text="Republic" flag="0"/>
+    <answer text="absolute monarchy" flag="0"/>
+    <answer text="parliamentary monarchy" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which country was the first colony of England?">
+    <answer text="China" flag="0"/>
+    <answer text="India" flag="0"/>
+    <answer text="Ireland" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Describe the main components of the United Kingdom:">
+    <answer text="Ireland" flag="1"/>
+    <answer text="Wales" flag="1"/>
+    <answer text="Scotland" flag="1"/>
+    <answer text="Brittany" flag="0"/>
+    <answer text="England" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="England became the &quot;workshop of the world&quot; as a result of:">
+    <answer text="Civil War" flag="0"/>
+    <answer text="Industrial Revolution" flag="1"/>
+    <answer text="conquest of colonies" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in East XVI - XVIII centuries.">
+  <question level="1" simple="True" text="In some of the countries of the East prevalent caste system?">
+    <answer text="China" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="Mongolia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the founder of the Mughal state?">
+    <answer text="Akbar" flag="0"/>
+    <answer text="Babur" flag="1"/>
+    <answer text="Aurangzeb" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When is the ruler of the Mughal power spread to almost the entire Indian Subcontinent?">
+    <answer text="Akbar" flag="1"/>
+    <answer text="Babur" flag="0"/>
+    <answer text="Aurangzeb" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year did the Manchus captured Beijing and founded a new dynasty, the Qing?">
+    <answer text="1526" flag="0"/>
+    <answer text="1571" flag="0"/>
+    <answer text="1644" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which dynasty ruled in China on the eve of the Manchu conquest?">
+    <answer text="Qing" flag="0"/>
+    <answer text="Min" flag="1"/>
+    <answer text="Song" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Turkish sultans called &quot;legislator&quot;?">
+    <answer text="Suleiman I" flag="1"/>
+    <answer text="And Selim" flag="0"/>
+    <answer text="Ahmed and" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The greatest flowering of the Ottoman Empire during the reign of Sultan reached:">
+    <answer text="Selim I" flag="0"/>
+    <answer text="Suleiman I" flag="1"/>
+    <answer text="Mohammed IV" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The Peasant War in China lasted for:">
+    <answer text="1620-1639 biennium" flag="0"/>
+    <answer text="1639-1644 biennium" flag="1"/>
+    <answer text="1644-1656 biennium" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The famous mosque-mausoleum Taj Mahal is a masterpiece of architecture:">
+    <answer text="China" flag="0"/>
+    <answer text="Mughal Empire" flag="1"/>
+    <answer text="Ottoman Empire" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the British East India Company?">
+    <answer text="1600" flag="1"/>
+    <answer text="1602" flag="0"/>
+    <answer text="1639" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Battle of Vienna in 1683 ended in victory:">
+    <answer text="Turkish Army" flag="0"/>
+    <answer text="anti-Turkish coalition troops" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When a battle Mohachem, which resulted in Hungary fell under the rule of the Ottoman Empire?">
+    <answer text="1520" flag="0"/>
+    <answer text="1526" flag="1"/>
+    <answer text="1571" flag="0"/>
+  </question>
+</testing>

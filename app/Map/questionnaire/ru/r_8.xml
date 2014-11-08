@@ -22,21 +22,21 @@
   </question>
   <question level="1" simple="True" text="Со смертью которого короля в Польше прекратила существование королевская династия Ягеллонов?">
     <answer text="Сигизмунда I" flag="0"/>
-    <answer text="Сигизмунда ИИ" flag="1"/>
+    <answer text="Сигизмунда ІІ" flag="1"/>
     <answer text="Стефана Батория" flag="0"/>
-    <answer text="Сигизмунда ИИИ" flag="0"/>
+    <answer text="Сигизмунда ІІІ" flag="0"/>
   </question>
   <question level="1" simple="True" text="В правление которого польского короля завершилась Ливонская война?">
     <answer text="Сигизмунда I" flag="0"/>
-    <answer text="Сигизмунда ИИ" flag="0"/>
+    <answer text="Сигизмунда ІІ" flag="0"/>
     <answer text="Стефана Батория" flag="1"/>
-    <answer text="Сигизмунда ИИИ" flag="0"/>
+    <answer text="Сигизмунда ІІІ" flag="0"/>
   </question>
   <question level="1" simple="True" text="Укажите первого польского короля избранное голосованием палат сейма:">
     <answer text="Сигизмунд I" flag="0"/>
     <answer text="Генрих Валуа" flag="0"/>
     <answer text="Стефан Баторий" flag="1"/>
-    <answer text="Сигизмунд ИИИ" flag="0"/>
+    <answer text="Сигизмунд ІІІ" flag="0"/>
   </question>
   <question level="1" simple="True" text="Территория Ливонского ордена отошла к Речи Посполитой по:">
     <answer text="Ям-Запольский соглашением" flag="1"/>

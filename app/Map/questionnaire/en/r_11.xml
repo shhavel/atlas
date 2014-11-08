@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Russian state at the end of XVII - XVIII centuries.">
+  <question level="1" simple="True" text="Who of the Russian rulers reigned first?">
+    <answer text="Catherine II" flag="0"/>
+    <answer text="Elizabeth" flag="0"/>
+    <answer text="Peter" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which state had to fight for access to Peter I of Russia to the Baltic Sea?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Sweden" flag="1"/>
+    <answer text="Ottoman Empire" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Russian Empire was proclaimed in:">
+    <answer text="1700" flag="0"/>
+    <answer text="1721" flag="1"/>
+    <answer text="1725" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Catherine II fought for Russia's withdrawal to the coast:">
+    <answer text="Baltic Sea" flag="0"/>
+    <answer text="Black Sea" flag="1"/>
+    <answer text="Pacific" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which continents spread ownership of the Russian Empire in the late XVIII century.?">
+    <answer text="Europe" flag="1"/>
+    <answer text="Asia" flag="1"/>
+    <answer text="Africa" flag="0"/>
+    <answer text="North America" flag="1"/>
+    <answer text="South America" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The era of &quot;palace coup&quot; in Russia started:">
+    <answer text="after the death of Peter I" flag="1"/>
+    <answer text="after the death of Elizabeth" flag="0"/>
+    <answer text="with the reign of Catherine II" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some European war Russia participated in the reign of Elizabeth?">
+    <answer text="Thirty" flag="0"/>
+    <answer text="Northern" flag="0"/>
+    <answer text="Seven Years" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many partition of Poland took place in the XVIII century.?">
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Peasant war led by Pugachev lasted for:">
+    <answer text="1756-1763 biennium" flag="0"/>
+    <answer text="Of 1768-1774" flag="0"/>
+    <answer text="Of 1773-1775" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When was eliminated Zaporozhye?">
+    <answer text="1710" flag="0"/>
+    <answer text="1734" flag="0"/>
+    <answer text="1775" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Capital of the Russian Empire, St. Petersburg was founded in:">
+    <answer text="1700" flag="0"/>
+    <answer text="1703" flag="1"/>
+    <answer text="1721" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What name was during the reign of Catherine II?">
+    <answer text="&quot;Golden Age&quot;" flag="1"/>
+    <answer text="&quot;Silver Age&quot;" flag="0"/>
+    <answer text="The era of &quot;palace coup&quot;" flag="0"/>
+  </question>
+</testing>

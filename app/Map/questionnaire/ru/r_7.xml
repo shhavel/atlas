@@ -19,7 +19,7 @@
   <question level="1" simple="True" text="В битве при Лютцене погиб:">
     <answer text="Тилли" flag="0"/>
     <answer text="Валленштейн" flag="0"/>
-    <answer text="Густав ИИ Адольф" flag="1"/>
+    <answer text="Густав ІІ Адольф" flag="1"/>
   </question>
   <question level="1" simple="True" text="Во время войны Альбрехт Валленштейн возглавлял войска:">
     <answer text="Католической лиги" flag="1"/>
@@ -42,7 +42,7 @@
     <answer text="шведский" flag="0"/>
   </question>
   <question level="1" simple="True" text="Выдающимся полководцем Католической лиги был:">
-    <answer text="Густав ИИ Адольф" flag="0"/>
+    <answer text="Густав ІІ Адольф" flag="0"/>
     <answer text="Ришелье" flag="0"/>
     <answer text="Валленштейн" flag="1"/>
   </question>

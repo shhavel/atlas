@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="England in the XVI century.">
+  <question level="1" simple="True" text="Which dynasty ruled England in the XVI century.?">
+    <answer text="Stuarts" flag="0"/>
+    <answer text="The Tudors" flag="1"/>
+    <answer text="Bourbon" flag="0"/>
+    <answer text="Valois" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The capital of the Scottish kingdom in the XVI century. was the city:">
+    <answer text="London" flag="0"/>
+    <answer text="Glasgow" flag="0"/>
+    <answer text="Belfast" flag="0"/>
+    <answer text="Edinburgh" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In the monarch whose reign began the Reformation in England?">
+    <answer text="Henry VIII" flag="1"/>
+    <answer text="Edward VI" flag="0"/>
+    <answer text="Mary and" flag="0"/>
+    <answer text="Elizabeth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the British Parliament proclaimed &quot;Act of Supremacy&quot;?">
+    <answer text="1509" flag="0"/>
+    <answer text="1534" flag="1"/>
+    <answer text="1547" flag="0"/>
+    <answer text="1571" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The laws included in the history of England as the &quot;bloody legislation&quot; were directed against:">
+    <answer text="Protestants" flag="0"/>
+    <answer text="vagrants and beggars" flag="1"/>
+    <answer text="Catholics" flag="0"/>
+    <answer text="robbers and murderers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the monarch whose reign was taken English &quot;Creed&quot; (&quot;39 Articles&quot;)?">
+    <answer text="Henry VIII" flag="0"/>
+    <answer text="Edward VI" flag="0"/>
+    <answer text="Mary and" flag="0"/>
+    <answer text="Elizabeth" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The uprising led by Robert Keta coverage:">
+    <answer text="Norfolk" flag="1"/>
+    <answer text="Wales" flag="0"/>
+    <answer text="Ulster" flag="0"/>
+    <answer text="Connaught" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the campaign &quot;Invincible Armada 'against England?">
+    <answer text="1534" flag="0"/>
+    <answer text="1559" flag="0"/>
+    <answer text="1588" flag="1"/>
+    <answer text="1603" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As in honor of Elizabeth, called the first English colony in North America B. Raleigh?">
+    <answer text="Boston" flag="0"/>
+    <answer text="Virginia" flag="1"/>
+    <answer text="Jamestown, County Leitrim" flag="0"/>
+    <answer text="Charleston" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who are the representatives of the Tudor dynasty in the period 1509-1603 years was on the English throne longer?">
+    <answer text="Henry VIII" flag="0"/>
+    <answer text="Edward VI" flag="0"/>
+    <answer text="Mary I" flag="0"/>
+    <answer text="Elizabeth" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which English monarch was first declared himself king of Ireland?">
+    <answer text="Henry VIII" flag="1"/>
+    <answer text="Edward VI" flag="0"/>
+    <answer text="Elizabeth" flag="0"/>
+    <answer text="James I" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which dynasty ruled England from 1603?">
+    <answer text="Stuarts" flag="1"/>
+    <answer text="The Tudors" flag="0"/>
+    <answer text="Bourbon" flag="0"/>
+    <answer text="Valois" flag="0"/>
+  </question>
+</testing>

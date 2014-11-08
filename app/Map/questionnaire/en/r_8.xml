@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Poland in XVI - XVIII centuries.">
+  <question level="1" simple="True" text="The city was the capital of the Kingdom of Poland until 1596?">
+    <answer text="Krakow" flag="1"/>
+    <answer text="Warsaw" flag="0"/>
+    <answer text="Gniezno" flag="0"/>
+    <answer text="Lublin" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where and when was signed on the establishment of a union Rzeczpospolita?">
+    <answer text="Krakow" flag="0"/>
+    <answer text="Warsaw" flag="0"/>
+    <answer text="Brest" flag="0"/>
+    <answer text="Lublin" flag="1"/>
+    <answer text="1569" flag="1"/>
+    <answer text="1583" flag="0"/>
+    <answer text="1596" flag="0"/>
+    <answer text="1618" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Ukrainian land Rzeczpospolita were part:">
+    <answer text="Polish Kingdom" flag="1"/>
+    <answer text="Grand Duchy of Lithuania" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="With the death of the King of Poland which had ceased to exist Jagiellonian royal dynasty?">
+    <answer text="Sigismund I" flag="0"/>
+    <answer text="Sigismund II" flag="1"/>
+    <answer text="Stefan Batory" flag="0"/>
+    <answer text="Sigismund III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the reign of Polish king which ended the Livonian War?">
+    <answer text="Sigismund I" flag="0"/>
+    <answer text="Sigismund II" flag="0"/>
+    <answer text="Stefan Batory" flag="1"/>
+    <answer text="Sigismund III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Specify the first Polish king favorites by voting chambers of the Diet:">
+    <answer text="Sigismund I" flag="0"/>
+    <answer text="Henry Valois" flag="0"/>
+    <answer text="Stefan Batory" flag="1"/>
+    <answer text="Sigismund III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The territory of the Livonian Order moved to the Commonwealth by:">
+    <answer text="Yam Zapol'skii agreement" flag="1"/>
+    <answer text="Deulinskoyu agreement" flag="0"/>
+    <answer text="Mitavsky world" flag="0"/>
+    <answer text="Polyanovsky world" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="For some agreement from the Moscow State to the Commonwealth moved Chernihiv-Sivershchyna?">
+    <answer text="Yam Zapol'skii" flag="0"/>
+    <answer text="Deulinskoyu" flag="1"/>
+    <answer text="Andrusovo" flag="0"/>
+    <answer text="&quot;Eternal Peace&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When there is a Polish-Swedish War of the second half of the XVII century.?">
+    <answer text="Of 1648-1657" flag="0"/>
+    <answer text="1654-1655 biennium" flag="0"/>
+    <answer text="1655-1660 biennium" flag="1"/>
+    <answer text="1680-1686 biennium" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What Ukrainian lands were occupied by the Ottoman Empire in the last quarter of the XVII century.?">
+    <answer text="Galicia" flag="0"/>
+    <answer text="Zaporozhye" flag="0"/>
+    <answer text="Volyn" flag="0"/>
+    <answer text="Skirts" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As part of the state were the result of &quot;Eternal Peace&quot; Left-bank Ukraine and Odessa?">
+    <answer text="Muscovy" flag="1"/>
+    <answer text="Rzeczpospolita" flag="0"/>
+    <answer text="The Ottoman Empire" flag="0"/>
+    <answer text="Crimean Khanate" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the battle took place under Hawtin which was attended Ukrainian Cossacks, led P. Konashevich Sagaydachnogo?">
+    <answer text="1616" flag="0"/>
+    <answer text="1621" flag="1"/>
+    <answer text="1648" flag="0"/>
+    <answer text="1651" flag="0"/>
+  </question>
+</testing>

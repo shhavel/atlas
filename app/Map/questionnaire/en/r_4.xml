@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="France in the XVI - first half of the XVII century.">
+  <question level="1" simple="True" text="The city was the capital of France in the XVI century.?">
+    <answer text="Marseilles" flag="0"/>
+    <answer text="Orleans" flag="0"/>
+    <answer text="Paris" flag="1"/>
+    <answer text="Le Havre" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what part of the French kingdom movement Huguenots received the most support of the population?">
+    <answer text="in the north" flag="0"/>
+    <answer text="in the south" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Italian war ended with the signing:">
+    <answer text="Peace with Kato Kambrezi" flag="1"/>
+    <answer text="Edict of Nantes" flag="0"/>
+    <answer text="Edict of mercy" flag="0"/>
+    <answer text="&quot;Act of Supremacy&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The Huguenots were supporters:">
+    <answer text="Lutheranism" flag="0"/>
+    <answer text="Calvinism" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Chambre Ardente&quot; fought with:">
+    <answer text="Catholics" flag="0"/>
+    <answer text="Protestants" flag="1"/>
+    <answer text="criminals" flag="0"/>
+    <answer text="beggars" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the event occurred, entered history as the &quot;Massacre of St. Bartholomew&quot;?">
+    <answer text="1562" flag="0"/>
+    <answer text="1565" flag="0"/>
+    <answer text="1572" flag="1"/>
+    <answer text="1575" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which royal dynasty established in France after Henry of Navarre took the throne?">
+    <answer text="Bourbon" flag="1"/>
+    <answer text="Valois" flag="0"/>
+    <answer text="The Tudors" flag="0"/>
+    <answer text="Stuarts" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who owns the statement: &quot;The state is me!&quot;?">
+    <answer text="Henry III" flag="0"/>
+    <answer text="Henry IV" flag="0"/>
+    <answer text="Louis XIII" flag="0"/>
+    <answer text="Louis XIV" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Cardinal Richelieu was the first minister of the King:">
+    <answer text="Henry III" flag="0"/>
+    <answer text="Henry IV" flag="0"/>
+    <answer text="Louis XIII" flag="1"/>
+    <answer text="Louis XIV" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When issued &quot;Edict of grace&quot;?">
+    <answer text="1562" flag="0"/>
+    <answer text="1572" flag="0"/>
+    <answer text="1598" flag="0"/>
+    <answer text="1629" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The Thirty Years War ended with the reign of the French king:">
+    <answer text="Henry III" flag="0"/>
+    <answer text="Henry IV" flag="0"/>
+    <answer text="Louis XIII" flag="0"/>
+    <answer text="Louis XIV" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Colbert, Louis XIV appointed to the post:">
+    <answer text="First Minister" flag="0"/>
+    <answer text="Minister of War" flag="0"/>
+    <answer text="Minister of Finance" flag="1"/>
+    <answer text="Commander of the Army" flag="0"/>
+  </question>
+</testing>

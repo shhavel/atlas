@@ -16,8 +16,8 @@
     <answer text="Пенсильвания" flag="0"/>
   </question>
   <question level="1" simple="True" text="Декларация независимости США была провозглашена во время работы:">
-    <answer text="И Континентального конгресса" flag="0"/>
-    <answer text="ИИ Континентального конгресса" flag="1"/>
+    <answer text="І Континентального конгресса" flag="0"/>
+    <answer text="ІІ Континентального конгресса" flag="1"/>
     <answer text="Конгресса США" flag="0"/>
   </question>
   <question level="1" simple="True" text="В каком году началась война за независимость США?">

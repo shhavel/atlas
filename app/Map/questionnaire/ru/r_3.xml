@@ -14,9 +14,9 @@
   </question>
   <question level="1" simple="True" text="В правление которого испанского короля начался освободительное движение в Нидерландах?">
     <answer text="Карла I" flag="0"/>
-    <answer text="Генриха ИИИ" flag="0"/>
+    <answer text="Генриха ІІІ" flag="0"/>
     <answer text="Филиппа II" flag="1"/>
-    <answer text="Сигизмунда ИИИ" flag="0"/>
+    <answer text="Сигизмунда ІІІ" flag="0"/>
   </question>
   <question level="1" simple="True" text="Оппозицию испанским властям в годы освободительной борьбы в Нидерландах возглавлял:">
     <answer text="герцог Альба" flag="0"/>
