@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Getman Philip Orlik and its Constitution of Ukraine">
+  <question level="1" simple="True" text="What kind of historical figure in question? Formed an alliance with the Swedish king, on which Ukraine was recognized as an independent state. Led anticolonial revolt against Muscovy">
+    <answer text="About Ivan Mazepa" flag="1"/>
+    <answer text="About Semen Paly" flag="0"/>
+    <answer text="About Philip Orlik" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="He was initiated into all the affairs of Hetman Mazepa supported him during the rebellion antymoskovskoho went with him into exile by the end of staying true to the idea of ​​liberation of Ukraine?">
+    <answer text="John Samoylovych" flag="0"/>
+    <answer text="Philip Orlik" flag="1"/>
+    <answer text="Seven Pale" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the election of P. Orlik Hetman in exile?">
+    <answer text="In 1710" flag="1"/>
+    <answer text="In 1727" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What document was approved during the Cossack Council of 5 April 1710 in Bender?">
+    <answer text="&quot;Pacts and Constitutions of Laws i freedoms of Zaporizhia&quot;" flag="1"/>
+    <answer text="&quot;Reshetylivskyh articles»" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the rights for senior officials included Orlyk Constitution?">
+    <answer text="Gave absolute power of the Hetman, included the creation of the officer council with legislative powers" flag="0"/>
+    <answer text="A rule limiting the hetman, included the establishment of a representative body - the General Council" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What new interstate agreement was concluded in Bendepah May 10, 1710 p.?">
+    <answer text="Moscow dohovip-p?" flag="0"/>
+    <answer text="Swedish treaty-p?" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What ended march P. Oplyka Right Bank Ukraine in 1711?">
+    <answer text="In failure coalition antymoskovskoyi" flag="1"/>
+    <answer text="Establishment of the power of P. Orlik Right Bank" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a result of events which signed a peace Pputskyy dohovip?">
+    <answer text="As a result of the adoption of &quot;Pacts and Constitutions of Laws i liberties Cossack Army&quot;" flag="0"/>
+    <answer text="As a result of the unsuccessful campaign of Peter the south of Ukraine and Moldavia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the consequences for Ukraine had Prut Peace Treaty?">
+    <answer text="Russia actually withdraw from skirts and South Kyiv, and the territory of Zaporizhzhya passed under the protectorate of Turkey" flag="1"/>
+    <answer text="Right Bank Ukpayina remained in Poland, and at the Sich were distributed power P. Orlik" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Destruction of the imperial troops Chortomlyk Host" flag="1"/>
+    <answer text="Battle of Poltava" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the name Hetman in the laws and orders of the king's government after the Ukrainian-Moscow Treaty in 1654?">
+    <answer text="Little Russia" flag="1"/>
+    <answer text="Ukraine" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Do unable P. Orlik liberate Ukraine from the power of the Russian empire and unite all Ukrainian lands into a strong state?">
+    <answer text="Yes" flag="0"/>
+    <answer text="Neither" flag="1"/>
+  </question>
+</testing>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in the events of the Great Northern War. Revolt of Ivan Mazepa against Muscovy">
+  <question level="1" simple="True" text="Between the States broke Northern War?">
+    <answer text="Between Ukraine and Sweden" flag="0"/>
+    <answer text="Between Russia and Sweden" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When the Northern War began?">
+    <answer text="In 1700" flag="1"/>
+    <answer text="In 1708" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What prompted Ivan Mazepa to the anti-colonial revolt against Muscovy?">
+    <answer text="The desire to acquire new personal privileges and enriched" flag="0"/>
+    <answer text="Awareness of the dangers of being Cossack Ukraine within, understanding the harmful effects of colonial policy for the country" flag="1"/>
+    <answer text="The desire to take revenge on Peter and for personal wrongs" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the content of the agreement between Mazepa and Charles XII at the end of October 1708?">
+    <answer text="Ukraine had become an independent state. Its territory is proclaimed principality with a lifetime hereditary prince hetman authority" flag="1"/>
+    <answer text="Sweden and Ukraine formed a new nation with a common king, the Sejm, the Senate, the CFSP" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the city that had the status of hetman capital, was destroyed in November 1708 p. And the orders Petpa?">
+    <answer text="Chyhypyn" flag="0"/>
+    <answer text="Batupyn" flag="1"/>
+    <answer text="Hlukhiv" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was elected hetman in accordance with the royal will instead Mazepa?">
+    <answer text="Paul Polubotko" flag="0"/>
+    <answer text="Danylo Apostol" flag="0"/>
+    <answer text="John Skopopadskoho" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What ataman led the Cossacks who supported Mazepa during the rebellion antymoskovskoho?">
+    <answer text="Ivan Sirko" flag="0"/>
+    <answer text="Bone Gordienko" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was demolished in January in 1709 p.?">
+    <answer text="The most Cossacks" flag="0"/>
+    <answer text="MOSCOW soldiers on the orders of the king" flag="1"/>
+    <answer text="Nogai Tatar hordes," flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the Battle of Poltava?">
+    <answer text="In 1708 chepvni p." flag="0"/>
+    <answer text="In June 1709 p." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What ended the Battle of Poltava?">
+    <answer text="Victory shvediv" flag="0"/>
+    <answer text="Victory posiyan" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences for the Battle of Poltava Ukrainian lands?">
+    <answer text="Russia became the most powerful state in contemporary European politics; its actions towards Ukraine was aimed at limiting the autonomy of the Hetmanate" flag="1"/>
+    <answer text="Ukraine as autonomy within Russia won new rights" flag="0"/>
+    <answer text="Moscow's soldiers destroyed the capital of the Cossack - Baturin, the capital of Zaporozhian Sich - Chortomlyk Jan, suffered repression supporters Mazepa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How old hetmanuvav Mazepa?">
+    <answer text="'15" flag="0"/>
+    <answer text="22 years" flag="1"/>
+    <answer text="'30" flag="0"/>
+  </question>
+</testing>

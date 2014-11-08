@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Church life in the first half of the XVII century.">
+  <question level="1" simple="True" text="When it was restored Orthodox hierarchy has been eliminated as a result of the Union of Brest?">
+    <answer text="In 1596" flag="0"/>
+    <answer text="In 1620" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the two bishops remained faithful to Orthodoxy after the Union of Brest?">
+    <answer text="Bishop Vladimir Hypatia sweat and Luck - Cyril Terletskyi" flag="0"/>
+    <answer text="Bishop of Lviv Gideon Balaban and Peremyshl - Michael Kopystensky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When unfolded operate Metropolitan Petro Mohyla?">
+    <answer text="In 20-30 years. XVII." flag="0"/>
+    <answer text="In 30-40 years. XVII." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="The election of the Orthodox Metropolitan of Kiev Job Boretsky" flag="1"/>
+    <answer text="The adoption of the Polish Sejm 'Articles to calm Russian people &quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who during his stay in the metropolitan throne made important steps to streamline and update church life?">
+    <answer text="Gideon Balaban" flag="0"/>
+    <answer text="Peter May" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of the metropolitans called Cossack?">
+    <answer text="Petro Mohyla" flag="0"/>
+    <answer text="Job Boretsky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the Greek Catholic Metropolitan of the death of Metropolitan Michael cattail?">
+    <answer text="Job Boretskyi" flag="0"/>
+    <answer text="Hypatia Potiy" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is preaching?">
+    <answer text="Speech religious content you recite during the service" flag="1"/>
+    <answer text="The lower church administrative unit, in fact the territory where the living members of the community of the faithful one temple" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which fraternities, except Lviv, had the status Stauropegial?">
+    <answer text="Kiev and Chernigov" flag="0"/>
+    <answer text="Lutsk and Kiev" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What event linked to the activities of Metropolitan Petro Mohyla?">
+    <answer text="Creating 1632 Kiev-Bratsk board" flag="1"/>
+    <answer text="The reform of monasticism, which was combined into one order - Basilian" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The recognition of the legitimate Orthodox Church during 1632-1633 biennium. And restore the Orthodox episcopate became possible due">
+    <answer text="intervention of the Catholic clergy and the Polish king" flag="0"/>
+    <answer text="bold claims Cossacks and Orthodox nobility after the death of King Sigismund III, nemesis of Orthodoxy" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Brest Church Union">
+    <answer text="contributed to the normalization of relations Catholic and Orthodox churches in the Ukrainian lands" flag="0"/>
+    <answer text="led to the growing influence of the Catholic Church in the Ukrainian lands" flag="1"/>
+  </question>
+</testing>

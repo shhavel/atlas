@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Uprising 90 years of the XVI century.">
+  <question level="1" simple="True" text="When the first Cossack rebellion?">
+    <answer text="At the end of the XV century." flag="0"/>
+    <answer text="At the end of the XVI century." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What events associated with the name John Horseshoes?">
+    <answer text="Destruction Tomakivsky Host and construction Bazavluk" flag="0"/>
+    <answer text="Hike Cossacks to Moldavia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Moldovan Hiking Horseshoes John" flag="1"/>
+    <answer text="Cossack uprising led by M. Shaul and S.Nalivayko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which city was the capital of the Moldavian principality in the second half of the XVI century.?">
+    <answer text="Siret" flag="0"/>
+    <answer text="Iasi" flag="1"/>
+    <answer text="Suceava" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of personality in question? Cossack hetman, the first leader of the Cossack uprising of 1591-1593 years.">
+    <answer text="About Kryshtof Kosinski" flag="1"/>
+    <answer text="About Severin Nalivaiko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territory embraced rebellion K. Kosinski?">
+    <answer text="Kiev and Bratslavshchina, and later spread to Volyn" flag="1"/>
+    <answer text="Galicia and Volhynia, and later spread to Bratslavshchina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who led the Cossack troops during the insurgency autumn 1595 - winter 1596?">
+    <answer text="Gregory Loboda, Matthew Shaul, Severin Nalyvayko" flag="1"/>
+    <answer text="Severin Nalyvayko Matthew Shaul, Krzysztof Kosinski" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territory embraced rebellion 1595-1596 biennium.?">
+    <answer text="Most of Ukraine and Belarus" flag="1"/>
+    <answer text="Areas of Rus and Podolski provinces" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event was crucial to stop the uprising of 1595-1596 years.?">
+    <answer text="Battle of the heel in Zhytomyr" flag="0"/>
+    <answer text="Battle of the tract under Solonytsya Lubny" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As in the historical sources referred to the southern regions of Kiev and Bratslav provinces that bordered on the lands of the Zaporozhian Host?">
+    <answer text="Province" flag="0"/>
+    <answer text="Parish" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As called array Ukrainian Cossack army, using which, the main force during the march or parking surrounded themselves with rows of wagons to defend against enemy attacks?">
+    <answer text="Camp" flag="1"/>
+    <answer text="Mess" flag="0"/>
+    <answer text="Picket" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What reason prompted the Polish government to create the Registered Cossacks?">
+    <answer text="The Polish government sought to draw on the civil service, using them to protect their southern border. Involvement of the public service Cossacks Poland sought to limit their trips to the Crimea and Turkey to avoid worsening relations with these countries" flag="1"/>
+    <answer text="The Polish government sought to officially recognize the Cossack military and political organization that has developed in Zaporozhye" flag="0"/>
+  </question>
+</testing>

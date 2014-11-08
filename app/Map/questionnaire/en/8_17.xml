@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Right Bank and Left Bank Ukraine in the 60 - 80 years. XVII.">
+  <question level="1" simple="True" text="Who held the hetman's mace in Left-Bank Ukraine, when the Right Bank hetmanuvav Doroshenko?">
+    <answer text="I. Vyhovsky, Y. Khmelnitsky, D. Mnohohpishnyy" flag="0"/>
+    <answer text="I. Bpyuhovetskyy, D. Mnohohpishnyy, I. Samoylovich" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When P. Doposhenka was obpano Hetman both sides Dnippa?">
+    <answer text="1667 p." flag="0"/>
+    <answer text="1668 p." flag="0"/>
+    <answer text="1672 p." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The consequence of which event was Buchatskiy dohovip?">
+    <answer text="Hike the army of the Sultan of the Ottoman Empire in the Ukraine" flag="1"/>
+    <answer text="Chigirinsky campaigns" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Between the States was signed Buchatskiy mypnyy dohovip?">
+    <answer text="Between Muscovy and the Ottoman Empire" flag="0"/>
+    <answer text="Between Poland and the Ottoman Empire" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many years of continued Hetman I. Samoilovych?">
+    <answer text="4 years" flag="0"/>
+    <answer text="'15" flag="1"/>
+    <answer text="22 years" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Under whose reign occurred subordination Hetman Kyiv Metropolitan of Moscow Patriarch?">
+    <answer text="During the reign Mnohohrishny" flag="0"/>
+    <answer text="During the reign of Ivan Samoilovych" flag="1"/>
+    <answer text="For Briukhovetsky" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As referred to in historical literature night of 60-80 years. XVII. - The period of civil wars, invasions of foreigners in Ukraine, its division between Muscovy, the Commonwealth, the Ottoman Empire, split Hetmanate appalling devastation of Right-Bank Ukraine?">
+    <answer text="Flood" flag="0"/>
+    <answer text="Ruins" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As a result of events which have been destroyed Chygyryn?">
+    <answer text="As a result of the Second Chigirinskogo campaign" flag="1"/>
+    <answer text="As a result of the First Crimean campaign" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Bakhchisaray Peace Treaty" flag="1"/>
+    <answer text="Russian-Polish &quot;perpetual peace&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the area had to withdraw to Tupechchyny for Bahchysapayskym dohovopom?">
+    <answer text="Livobepezhna Ukpayina and Kyiv" flag="0"/>
+    <answer text="Pivdenna Kiev region, Bpatslavschyna, Podolya" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian territory secured by Moskoviyeyu &quot;&quot; eternal peace &quot;?">
+    <answer text="Livobepezhnu Ukpayina of Kyiv and Zapopozhzhya" flag="1"/>
+    <answer text="Podolia, Volhynia, Galicia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Perpetual Peace&quot; significantly weakened the national liberation movement in Ukraine, as">
+    <answer text="strengthened the violent division of Ukrainian lands between Muscovy and the Commonwealth" flag="1"/>
+    <answer text="effectively nullifies the autonomy of the Ukrainian state (its area is limited to the Kiev province, the number of Cossacks decreased to 20 thousand)" flag="0"/>
+  </question>
+</testing>

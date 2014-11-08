@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian-Moscow Treaty in 1654 Continuation of the National Liberation War">
+  <question level="1" simple="True" text="Whose main achievement called revival of Ukrainian state?">
+    <answer text="Bogdan Khmelnitsky" flag="1"/>
+    <answer text="Maxim Krivonosa" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Common march troops Moscow Tsar and Ukrainian Cossacks against Poland" flag="1"/>
+    <answer text="Signature between Muscovy and the Commonwealth armistice anniversary in free" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which states Hetman government established diplomatic relations during the 1648-1657 years?">
+    <answer text="From the Crimean Khanate, Muscovy, Moldavia, Wallachia, Transylvania, Venice, Sweden" flag="1"/>
+    <answer text="From Austria, the Vatican, Spain, France, Holland, Brandenburg" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which city the negotiations between the Cossack Army and large Muscovy Embassy on the eve of the Ukrainian-Moscow Treaty?">
+    <answer text="Pereyaslav" flag="1"/>
+    <answer text="Zborow" flag="0"/>
+    <answer text="Moscow" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and where there was the conclusion of contractual items between the Cossack Army and Moskoviyeyu?">
+    <answer text="In Pepeyaslavi in ​​January 1654 p." flag="0"/>
+    <answer text="In Moscow in 1654 bepezni p." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What interstate relations predicted conditions Ukrainian-Muscovite contract?">
+    <answer text="Independence of Ukraine was not limited, Cossack Ukraine and Muscovy was predicted to merge in a kind of confederation" flag="1"/>
+    <answer text="Cossack Ukraine lost the independence she had to join the Muscovy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was due to change in foreign policy orientation of B. Khmelnitsky Hetman over the past years?">
+    <answer text="Hostilities troops Transylvanian prince Dyerdya II Rakotsi and Ukrainian regiments led by A. Zhdanovich against the Commonwealth" flag="0"/>
+    <answer text="By signing Vilna to Moscow-Polish armistice, and thus a violation of the Moscow government contract in 1654" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Under what conditions was concluded Vilna Polish-Muscovite truce?">
+    <answer text="Military action between the Commonwealth and Moscow stopped, the king had to be elected to the Polish throne" flag="1"/>
+    <answer text="Ukrainian court administration and remained independent and not subordinate MOSCOW, hetman of the Cossacks and officers had to vote in the council" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which states Bohdan Khmelnytsky revived diplomatic measures to conclude a union contract in recent years Hetman?">
+    <answer text="From Muscovy and England" flag="0"/>
+    <answer text="From Tpansylvaniyeyu and Sweden" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of these leaders actively helped Bogdan Khmelnitsky in his last years?">
+    <answer text="Nebaba Martin, Daniel Nechay Maxim Kryvonis Mikhail Krichevsky" flag="0"/>
+    <answer text="Zolotarenko Ivan, Ivan Bohun, Antin Zhdanovich John Vyhovsky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is a protectorate?">
+    <answer text="The form of dependence, by which one country takes over the implementation of external relations of another state to protect its territory" flag="1"/>
+    <answer text="Termination resistance forces or part of them on the terms proposed or agreed by the winner as a result of negotiations" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many years of continued Hetman Bohdan Khmelnitsky?">
+    <answer text="5 years" flag="0"/>
+    <answer text="'10" flag="1"/>
+    <answer text="'15" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Union of Lublin. Start the Polish domination in the Ukrainian lands">
+  <question level="1" simple="True" text="When most Ukrainian lands became part of the Kingdom of Poland?">
+    <answer text="In 1385" flag="0"/>
+    <answer text="In 1569" flag="1"/>
+    <answer text="In 1596" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Getting the Livonian War" flag="1"/>
+    <answer text="The establishment of the Commonwealth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of event it is? Six months there were disputes Lithuanian-Ruthenian and Polish Sejm deputies at the joint. Finally signed a decree on the union of two states - Grand Duchy of Lithuania and Poland">
+    <answer text="About Lublin union" flag="1"/>
+    <answer text="About Krevsk Union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the historical and ethnographic region of Ukraine at the end of the XIV century. captured the Polish Kingdom, soon created there Belz and Rus province?">
+    <answer text="Volyn" flag="0"/>
+    <answer text="Kyiv region" flag="0"/>
+    <answer text="Galicia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands were in the Grand Duchy of Lithuania at the beginning of the XVI century.?">
+    <answer text="Kiev Oblast, Volyn, Bratslavshchina (Eastern skirts), Chernihiv-Siverschyna" flag="1"/>
+    <answer text=" Galicia, Podolia, Chernihiv-Siverschyna" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What new province was formed on Ukrainian lands in the Kingdom of Poland after the Union of Lublin?">
+    <answer text="Volyn, Bratslav, Kyiv" flag="1"/>
+    <answer text="N, Belz, Podolsk" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What took the top layer of the social pyramid Ukrainian society in the XVI century.?">
+    <answer text="Princes" flag="1"/>
+    <answer text="Farmers" flag="0"/>
+    <answer text="Burghers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure about? Ukrainian prince - the uncrowned king of Rus-Ukraine was Kievpalatine and largest landowner after the King of Poland Rzeczpospolita">
+    <answer text="Yuriy managed" flag="0"/>
+    <answer text="Basil, Constantine Ostrog" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As a multi-call management, actively implementing the the Ukrainian lands in the second half of the XVI century., Where raw materials are not only produced, but also processed at the distillery, the tannery and a mill, and products exported to the markets?">
+    <answer text="Filvarky" flag="1"/>
+    <answer text="Workshops" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="That was one reason for the Union of Lublin?">
+    <answer text="The desire of the Polish nobility compare the rights of the Lithuanian-Ruthenian" flag="0"/>
+    <answer text="The desire of the Polish nobility to seize Ukrainian lands" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What results have Lublin Union?">
+    <answer text="It was formed by the Commonwealth state with one king, joint Sejm and the Senate" flag="1"/>
+    <answer text="It was formed by the Commonwealth state in which Lithuanian and Ukrainian lands retain full autonomy in foreign and domestic policy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="That was a direct consequence of the Union of Lublin to Ukrainian lands?">
+    <answer text="Joining Poland most Ukrainian lands and distributing them Polish administrative-territorial structure" flag="1"/>
+    <answer text="The unification of all Ukrainian lands in one state - the Commonwealth" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Military and political events of the National Liberation War 1650-1653 biennium.">
+  <question level="1" simple="True" text="When was the largest number of soldiers battle the National Liberation War?">
+    <answer text="In 1648" flag="0"/>
+    <answer text="In 1651" flag="1"/>
+    <answer text="In 1652" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="The second campaign Moldovan and Ukrainian troops battle Batozka" flag="0"/>
+    <answer text="Pylyavetska battle and campaign of Ukrainian troops to Western Ukraine" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="During which battle that took place in the period 1650-1653 gg., Horde suddenly left the battlefield at a time when victory was already on the side of Bohdan Khmelnytsky?">
+    <answer text="During the Battle of Korsun" flag="0"/>
+    <answer text="During the battle Berestetska" flag="1"/>
+    <answer text="During the battle Batozkoyi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure in question? Ukrainian military leader. During Berestechko battle in the absence of B. Khmelnytsky was elected acting hetman of the Cossacks organized out of the environment">
+    <answer text="Ivan Bohun" flag="1"/>
+    <answer text="Maxim Kryvonis" flag="0"/>
+    <answer text="Islam III Giray" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was the peace treaty signed between the government and the Polish Cossack on which area of ​​the Hetman Kyiv province government limited?">
+    <answer text="When Zboriv" flag="0"/>
+    <answer text="Close to town. Berestechko" flag="0"/>
+    <answer text="The White Church" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As a result of which the battle Bilotserkivskiy contract became ineffective and the Cossack Ukraine regained its independence?">
+    <answer text="Pylyavetskoyi battle" flag="0"/>
+    <answer text="Berestechko battle" flag="0"/>
+    <answer text="Batozkoyi battle" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What event happened in 1653?">
+    <answer text="Zbarazkiy Zboriv military campaign" flag="0"/>
+    <answer text="The siege of the Polish camp Cossack and Tartar troops under Gvantsem on the tail" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who is Vasile Lupu?">
+    <answer text="Ukrainian military commander who took part in the Battle Batozkiy" flag="0"/>
+    <answer text="Moldovan owner, in whose reign it was found alliance with Hetman's government" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which city was the capital of Moldavia in the XVII century.?">
+    <answer text="Suceava" flag="0"/>
+    <answer text="Iasi" flag="1"/>
+    <answer text="Bucharest" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What impact have Moldovan hiking B. Khmelnitsky?">
+    <answer text="It was agreed to start war against the Commonwealth of Moldova" flag="0"/>
+    <answer text="It was found the union and agreed to marrying the daughter of Moldavian master and T. Khmelnitsky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What had caused in the second half of 1653 Search Hetman Bohdan Khmelnytsky Cossack allies to the state?">
+    <answer text="The desire to bring the war against Poland to the finish" flag="1"/>
+    <answer text="Cossack officers desire to conclude a military agreement with Poland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the battles of the National Liberation War of contemporaries compared with a glorious victory at Cannes Hannibal in 216 BC. E. e.?">
+    <answer text="Berestetska" flag="0"/>
+    <answer text="Batozku" flag="1"/>
+  </question>
+</testing>

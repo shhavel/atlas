@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Background and top national liberation war of the Ukrainian people against Polish domination. Deployment of a national liberation war in 1648-1649.">
+  <question level="1" simple="True" text="When launched National War?">
+    <answer text="1548 p." flag="0"/>
+    <answer text="1648 p." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who led the National Liberation War of the Ukrainian people?">
+    <answer text="Bogdan Khmelnitsky" flag="1"/>
+    <answer text="Maxim Kryvonis" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the state of society played a key role in the course and leadership of the National Liberation War?">
+    <answer text="Peasantry" flag="0"/>
+    <answer text="Cossacks" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Where was the first battle between the rebels and the Polish army?">
+    <answer text="At Yellow Waters" flag="1"/>
+    <answer text="Korsun" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Upochystyy entry of B. Khmelnytsky Kyiv" flag="0"/>
+    <answer text="Ukrainian troops siege the city and Zamosc" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What battle opened the way Ukrainian army in Galicia in 1648?">
+    <answer text="Zhovtovods'ka" flag="0"/>
+    <answer text="Pylyavetska" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure in question? Ukrainian military leader. He participated in all the battles in 1648 died in November 1648 in a camp near Zamosc cholera">
+    <answer text="John Vyhovsky" flag="0"/>
+    <answer text="Maxim Kryvonis" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What ended Zbarazkiy Zboriv military campaign?">
+    <answer text="Conclusion of the contract Bilotserkivskyi" flag="0"/>
+    <answer text="By signing the Treaty of Zboriv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What land passed under the hetman for Zbopivskym dohovopom?">
+    <answer text="All states Ukraine, who were part of the Commonwealth" flag="0"/>
+    <answer text="The former Kiev, and Chernigov provinces Bratslav" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many Cossacks Cossack register provided by Zborowski contract?">
+    <answer text="20 thousand." flag="0"/>
+    <answer text="40 thousand." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Somebody at the beginning of the war Khmelnytsky entered into union agreement on military assistance?">
+    <answer text="With Moskoviyeyu" flag="0"/>
+    <answer text="From the Crimean Khanate" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What battle Poles considered the most shameful in the history of Poland?">
+    <answer text="Zhovtovods'ka" flag="0"/>
+    <answer text="Pylyavetsku" flag="1"/>
+  </question>
+</testing>

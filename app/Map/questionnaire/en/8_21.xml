@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hetmanate land-bank Ukraine late XVII - early XVIII century.">
+  <question level="1" simple="True" text="When and where born Ivan Mazepa?">
+    <answer text="1627 Chyhyryn" flag="0"/>
+    <answer text="1639 in Kyiv region" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What city was the residence of the Hetman Mazepa for?">
+    <answer text="Baturin" flag="1"/>
+    <answer text="Deaf" flag="0"/>
+    <answer text="Chygyryn" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year started Hetman Mazepa I.?">
+    <answer text="1672 p." flag="0"/>
+    <answer text="1687 p." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is the name received treaty article I.Mazepa the tsarist government?">
+    <answer text="Hluhivskyh" flag="0"/>
+    <answer text="Kolomaksky" flag="1"/>
+    <answer text="Konotop" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What Kolomaksky article differed from Hlukhivsky?">
+    <answer text="According to Kolomaksky articles in Hetman increased power of kings, suffered even more limited rights Hetman's government and" flag="1"/>
+    <answer text="Unlike Hlukhivsky Kolomaksky article predicted establishment between Ukraine and Muscovy mutually beneficial and equal relations" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the purpose of domestic policy Mazepa?">
+    <answer text="Contributed complete absorption of Hetman Ukraine Russia" flag="0"/>
+    <answer text="It was aimed at the creation of the state of Western design with traditional Cossack system" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What measures resorted Ivan Mazepa in the cultural and educational field?">
+    <answer text="Contributed to the construction and reconstruction of architectural structures, the development of national education and typography" flag="1"/>
+    <answer text="Forbade the printing press in Ukrainian Ukrainian persecuted writers and scientists; subordinated culture guidelines and instructions of the king's officials" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Why did the Polish government allowed to recover on the right bank Cossacks?">
+    <answer text="To protect themselves from the attacks of the Turkish-Tatar hordes, who through the devastation of the Right Bank freely moving deep into Polish territory" flag="1"/>
+    <answer text="In order to subsequently revive Cossack state on the Right Bank" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the associate Seeds piles on the right bank?">
+    <answer text="Samiylo I. (Samus), Andrew Abazinia, Zachary Spark" flag="1"/>
+    <answer text="Michael Myklashevsky John Skoropadskyi James Lyzogub" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What regiments were created as a result of the restoration of the Cossacks on the right bank?">
+    <answer text="Bohuslav, Korsun, Bratslav, Fastivskyi (Bilotserkivskiy)" flag="1"/>
+    <answer text="Sumy, Okhtyrka, Izyumskyy, Ostrohozkyy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What caused the national liberation uprising on the Right Bank 1702-1704 biennium.?">
+    <answer text="The actions of the Polish government, which zalahodyvshy case with Turkey no longer needed the help of the Cossacks, and therefore decided to eliminate the right-bank Cossacks" flag="1"/>
+    <answer text="The actions of the Moscow government, which is trying to conquer the land of the Right Bank, Left Bank Hetman ordered to take the right-bank shelves" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What ended the uprising 1702-1704 biennium.?">
+    <answer text="Defeat the rebels, right bank transfer under the authority of Ivan Mazepa" flag="1"/>
+    <answer text="Right-Bank Association of regiments under the authority of the Left Bank Hetman P. Palia" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine during the reign of Ivan Vigovs'kogo">
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Making Hadiach contract" flag="1"/>
+    <answer text="Konotopska battle" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure in question? Succeeded by Bogdan Khmelnitsky Hetman government. He concluded Hadiach agreement with the Poles. Muscovites won in battle Konotop">
+    <answer text="Dmitry Vyshnevetsky" flag="0"/>
+    <answer text="John Vyhovsky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What position was occupied by I. Vyhovsky to his election as hetman?">
+    <answer text="Secretary general" flag="1"/>
+    <answer text="Henepalnoho judge" flag="0"/>
+    <answer text="Henepalnoho Captain" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When and where was contracted between Sweden and the Hetmanate?">
+    <answer text="In October 1657 in Korsun" flag="1"/>
+    <answer text="In September 1658 in Gadyach" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who led the anti-mutiny in 1658 p.?">
+    <answer text="Ivan Bohun, Yuri Khmelnitsky" flag="0"/>
+    <answer text="Pushkap M., J. Bapabash" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the three states for Hadiach dohovopom have to enter the union?">
+    <answer text="Poland, Muscovy, Grand Duchy of Rus (Ukraine)" flag="0"/>
+    <answer text="Poland, the Grand Duchy of Lithuania, the Grand Duchy of Rus (Ukraine)" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Was vtileno life Hadiach dohovip?">
+    <answer text="Yes" flag="0"/>
+    <answer text="Neither" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The troops which states agreed Konotop during the reign of Ivan Vyhovsky?">
+    <answer text="Ukrainian army troops reinforced the Crimean Khan and Muscovite army" flag="1"/>
+    <answer text="The Polish army, reinforced by Turkish troops and Moscow army" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the main cause of Ukrainian-Russian War 1658 - 1659 gg.?">
+    <answer text="Incompatibility approaches Hetman and Royal Government to further develop bilateral relations" flag="1"/>
+    <answer text="Cossack Ukraine, seeking to become the strongest power in eastern Europe and in the Orthodox world in general, wanted to seize Russia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As the battle ended Konotopska?">
+    <answer text="Defeat Ukrainian" flag="0"/>
+    <answer text="Defeat Muscovites" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was elected the Hetman Ivan Vyhovsky instead?">
+    <answer text="I. Bpyuhovetskoho" flag="0"/>
+    <answer text="P. Tetepyu" flag="0"/>
+    <answer text="Yuri Khmelnitsky" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How many years of continued Hetman I. Vyhovsky?">
+    <answer text="2 years" flag="1"/>
+    <answer text="5 years" flag="0"/>
+    <answer text="'10" flag="0"/>
+  </question>
+</testing>

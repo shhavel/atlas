@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Violation of the territorial integrity of the Ukrainian state - Hetman">
+  <question level="1" simple="True" text="What kind of historical figure in question? In October 1659 in Pereyaslavi concluded interstate agreement on the terms proposed by tsarist diplomats, military leaders">
+    <answer text="Yuri Khmelnitsky" flag="1"/>
+    <answer text="I. Bryukhovetsky" flag="0"/>
+    <answer text="P. Teterya" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the national territory of the Cossack Ukraine was divided into right and left Hetmanate?">
+    <answer text="In 1663 after the failure of the government Yuri Khmelnitsky" flag="1"/>
+    <answer text="In 1667, after signing an agreement Andrusiv" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which cities under contract Yupiya Pereyaslav Khmelnitsky had come from Moscow garrison governor?">
+    <answer text="To Kyiv, Pereyaslav, Nizhyna, Chernihova, Bratslav, Umani" flag="1"/>
+    <answer text="Chyhyryn, Lviv, Baturin, Fastov, Korsun" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the result Chudnivskoyi campaign?">
+    <answer text="Making Hadiach agreement" flag="0"/>
+    <answer text="Making Slobodyshche Agreement" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="On which the contract was made Slobodyshche deal?">
+    <answer text="Zbopivskoho 1649 p." flag="0"/>
+    <answer text="Moscow, 1654 p? P." flag="0"/>
+    <answer text="Hadiach 1658 p.?" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences of the division of Cossacks in relation to Slobodyshche contract?">
+    <answer text="Yuri Khmelnytsky was forced to renounce power" flag="1"/>
+    <answer text="An association of Cossack Ukraine under the sole auspices mace and King of Poland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was elected the Hetman of Right-bank Ukraine after Yuri Khmelnytsky?">
+    <answer text="I. Bpyuhovetskoho" flag="0"/>
+    <answer text="P. Tetepyu" flag="1"/>
+    <answer text="P. Doposhenka" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who p? Hetmans first went to Moscow for approval by the king of his policies?">
+    <answer text="Yuri Khmelnitsky" flag="0"/>
+    <answer text="I. Bpyuhovetskyy" flag="1"/>
+    <answer text="P. Tetepya" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was the proclamation I. Bpyuhovetskoho Hetman Livoberezhnoyi Ukpayina?">
+    <answer text="On the black glad Nezhine" flag="1"/>
+    <answer text="At the council under Hermanivka in Kyiv region" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What states have concluded Andpusivske pepemyp'ya?">
+    <answer text="Ukraine and Moskoviya" flag="0"/>
+    <answer text="Ukpayina and Poland" flag="0"/>
+    <answer text="Moskoviya and Poland" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands remained in Poland for Andrusovo truce?">
+    <answer text="Livobepezhna Ukpayina of Kyiv" flag="0"/>
+    <answer text="Right-Bank Ukraine" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was elected right-bank hetman following an AP Teterya using his power to subdue the Polish Left Bank?">
+    <answer text="Yuri Khmelnitsky" flag="0"/>
+    <answer text="Doroshenko" flag="1"/>
+    <answer text="Briukhovetsky" flag="0"/>
+  </question>
+</testing>

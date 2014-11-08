@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hetman Pavlo Konashevych Sagaydachny. Ukrainian Cossacks in the first quarter of the XVII century.">
+  <question level="1" simple="True" text="Which period is called the &quot;heroic era of campaigns&quot;?">
+    <answer text="Rise of the 1591-1596 biennium., When the liberated territories was introduced Cossack system" flag="0"/>
+    <answer text="Successful sea trips Cossacks to the Turkish-Tatar fortress in the first two decades of the XVII century., Which was released as a result of hundreds of thousands of slaves" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what years Hetman Petro Konashevich Sahaydachnyi?">
+    <answer text="At 90 years of the XVI century." flag="0"/>
+    <answer text="In the first decades of the XVII century." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As the Cossacks called their boats, which they made trips into the possession of the Ottoman Empire?">
+    <answer text="Hard labor" flag="0"/>
+    <answer text="Mew" flag="1"/>
+    <answer text="Tryanhulamy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What a memorable year 1620 and in the history of Ukraine?">
+    <answer text="Measures Kyiv Brotherhood and Cossacks led P.Konashevychem-Sahaidachny restored church Orthodox hierarchy" flag="1"/>
+    <answer text="There was a march P. Konashevich Sahaydachnyi to Moscow, which was to help Prince Wladyslaw" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was located the largest slave market in the Crimea, whither his victorious march Hetman Pavlo Konashevych-Sahaidachny?">
+    <answer text="In Hotyne" flag="0"/>
+    <answer text="In Cafe" flag="1"/>
+    <answer text="In Iasi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the events was signed Truce of Deulino between Muscovy and the Commonwealth?">
+    <answer text="As a result, Old War" flag="0"/>
+    <answer text="As a result of the campaign of the Polish Prince Wladyslaw with Hetman Sahaidachny Moscow" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What land for Truce of Deulino between Muscovy and the Commonwealth ceded to Poland at 14, 5 years?">
+    <answer text="Smolensk and Chernigov-Siverschyna" flag="1"/>
+    <answer text="Kiev region, Bratslavshchina and Volhynia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which country were subject fortress against which directed their sea trips Cossacks in the era of heroic campaigns?">
+    <answer text="Ottoman Empire" flag="1"/>
+    <answer text="The Commonwealth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event of the above lower bound of Peter Konashevych-Sahaidachny?">
+    <answer text="The introduction of the Registered Cossack troops" flag="0"/>
+    <answer text="Introduction Cossack Army to Kyiv Brotherhood" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What army were opposed Khotyn war?">
+    <answer text="The Polish army, reinforced by 40 thousand. Cossack army and the Turkish-Tatar army" flag="1"/>
+    <answer text="The Polish army, reinforced by 40 thousand. Cossacks and Muscovite-Tatar army" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="He played a decisive role in the victory of the Commonwealth Khotyn war?">
+    <answer text="The army of the Commonwealth, headed by Crown Hetman of Lithuania Charles Khodkevych" flag="0"/>
+    <answer text="Cossacks, headed by Peter Konashevych-Sahaidachny" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences Old War?">
+    <answer text="The Ottoman Empire lost a lot of territory, including lands of the Crimean Khanate, and the Danubian countries - Moldavia, Wallachia, Transylvania" flag="0"/>
+    <answer text="Poland withdrew the threat of losing a lot of territory. The battle resulted in strengthening of the liberation struggle of the peoples conquered by the Turks" flag="1"/>
+  </question>
+</testing>

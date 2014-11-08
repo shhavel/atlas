@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Economic life and political structure of the Left Bank Hetmanate and Sloboda Ukraine in the second half of the XVII century.">
+  <question level="1" simple="True" text="For what period fell massive settlement of Sloboda Ukraine?">
+    <answer text="At the beginning of the XVII century." flag="0"/>
+    <answer text="By the mid-second half of the XVII century." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What modern territory covered Sloboda Ukraine?">
+    <answer text="Kharkiv, Sumy, north of Donetsk and Lugansk oblasts of Ukraine and southern part of the Voronezh, Kursk and Belgorod regions of most of the current Russian Federation" flag="1"/>
+    <answer text="Chernihiv, Zhytomyr, Volyn, Rivne Oblast, Ukraine, and the southern part of the Voronezh and Belgorod regions of most of the current Russian Federation" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many regiments consisted Left Bank Hetman late XVII century. ?">
+    <answer text="5 bands" flag="0"/>
+    <answer text="10 regiments" flag="1"/>
+    <answer text="16 regiments" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many regiments consisted Sloboda Cossack?">
+    <answer text="5 bands" flag="1"/>
+    <answer text="10 regiments" flag="0"/>
+    <answer text="16 regiments" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What armies existed in Sloboda Ukraine?">
+    <answer text="Ostrohozkyy, Kharkov, Sumy, and Okhtyrka Izyumskyy" flag="1"/>
+    <answer text="Stapodubskyy, Chernihiv, Lubenskii Prilutsky and Poltava" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What special little situation colonels in Sloboda Ukraine?">
+    <answer text="Colonels general officers elected for 1 year" flag="0"/>
+    <answer text="Colonels elected for life. Often happened inheriting the position of Colonel" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="To subordinate Slobodsko colonel?">
+    <answer text="Each individually directly Belgorod warlord" flag="1"/>
+    <answer text="Hetman Sloboda Ukraine" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is a military General's office?">
+    <answer text="Higher administrative agencies Hetman. It consisted hetman universal, has been prepared diplomatic correspondence, copied and copied documents considered legal and civil cases Cossacks, peasants, townspeople" flag="1"/>
+    <answer text="This council, composed of the hetman and general officers - ARCHITECTURE, clerk, two judges, podskarby, two captain, bunchuzhnyy and 10 colonels. It establishes the size of taxes, rent, took out the decision of the Defense" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which state Hetman and Slobozhanshchina were exempt from taxes, because his main duty was considered military service?">
+    <answer text="The Cossacks" flag="1"/>
+    <answer text="Clergy" flag="0"/>
+    <answer text="Burghers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How then called Cossacks, who lived in the cities, towns, villages, hamlets Hetmanate and Sloboda Ukraine?">
+    <answer text="Grass-roots Cossacks" flag="0"/>
+    <answer text="Backyard Cossacks" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which states briskly traded Sloboda Ukraine?">
+    <answer text="With Moscow, Moldaviyeyu, Tupechchynoyu, Kpymom" flag="1"/>
+    <answer text="From Poland, Britain, France" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What products imported into Ukraine of its trading partners?">
+    <answer text="Products of grain farming, beekeeping, distilling, mlynarstva, dihtyarstva" flag="0"/>
+    <answer text="Cloth, velvet, silk, porcelain, cosmetics, jewelry, weapons, drugs, and paper, coffee, spices, wine, walnuts" flag="1"/>
+  </question>
+</testing>

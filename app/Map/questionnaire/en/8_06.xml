@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Church life in the second half of the XVI century.">
+  <question level="1" simple="True" text="Which events happened before?">
+    <answer text="Translation Peresopnytsia Gospel" flag="1"/>
+    <answer text="Brest Church Union" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was established Ukrainian Greek Catholic Church?">
+    <answer text="In 1569" flag="0"/>
+    <answer text="In 1596" flag="1"/>
+    <answer text="In 1572" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was one of the causes of the crisis Ukrainian Orthodox Church at the end of the XVI century.?">
+    <answer text="Go to other faiths peasantry - the bulk of Ukrainian lands, as well as middle class and gentry" flag="0"/>
+    <answer text="Loss Ukrainian Orthodox Church of government support, the increasing involvement of lay people in church affairs" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was one consequence of Brest Church Union?">
+    <answer text="It lost the highest Orthodox hierarchy (up to 1620), and since moved to Union" flag="1"/>
+    <answer text="He started to deploy their activities Jesuit Order" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What religious brotherhood?">
+    <answer text="Self-governing communities of free artisans of one or more specialties, which under the statute had to adhere to certain features of production and a certain lifestyle" flag="0"/>
+    <answer text="Of the middle class in the Orthodox Church, which gradually increased with spolschennya and stick a catholic faith became vsestanovymy cultural and educational organizations" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What fraternity was the oldest among the Ukrainian church brotherhoods Cossack era?">
+    <answer text="Lviv Dormition Brotherhood" flag="1"/>
+    <answer text="Lutsk Holy Cross Brotherhood" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who called the &quot;father of the Union&quot;?">
+    <answer text="Gideon Balaban" flag="0"/>
+    <answer text="Hypatia sweat" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What were the main achievements of the Reformation in Ukraine?">
+    <answer text="Translation of the Holy Scriptures the then Ukrainian language and its use in worship" flag="1"/>
+    <answer text="There were many Jesuit schools, training which opens up opportunities for further education at universities in Poland, Germany, Italy, France" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the signs relating to the Greek Catholic Church?">
+    <answer text="Obeyed the Pope, recognized some of the dogmas of Catholicism, but the Orthodox rite remained" flag="1"/>
+    <answer text="Subordinate to the Pope, the language of worship served as Latin, Orthodox rite remained" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When it was introduced the new Gregorian calendar in the territory of the Commonwealth?">
+    <answer text="In 1569" flag="0"/>
+    <answer text="In 1582" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What is the Gospel?">
+    <answer text="One of the most important parts of the New Testament, which describes the earthly life of Jesus Christ, His teachings, miracles, the cross of suffering, death, resurrection and ascension into heaven" flag="1"/>
+    <answer text="Home divine service in the Orthodox Church, during which the sacrament of conversion of bread and wine into the body and blood of Jesus Christ" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What the church hierarchy traveled to Rome to meet with Pope for official connection with the Catholic Church?">
+    <answer text="Gideon Balaban and Michael Kopystensky" flag="0"/>
+    <answer text="Hypatia sweat and Cyril Terletskyi" flag="1"/>
+  </question>
+</testing>
