@@ -63,6 +63,7 @@ module BrowserHelper
       'Again' => 'Еще раз',
       'Continue' => 'Далее',
       'Update' => 'Сохранить',
+      'Results' => 'Результат',
       # Controls
       'lang' => 'Язык',
       'ru' => 'русский',
@@ -89,6 +90,7 @@ module BrowserHelper
       'Again' => 'Ще раз',
       'Continue' => 'Далі',
       'Update' => 'Зберегти',
+      'Results' => 'Результат',
       # Controls
       'lang' => 'Мова',
       'ru' => 'російська',
@@ -114,6 +116,7 @@ module BrowserHelper
       'Again' => 'Again',
       'Continue' => 'Continue',
       'Update' => 'Save',
+      'Results' => 'Results',
       # Controls
       'lang' => 'Language',
       'ru' => 'russian',
