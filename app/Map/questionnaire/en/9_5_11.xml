@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands in the Austrian and Russian empires in the early nineteenth century. Subdivisions in the first 50 years of the nineteenth century.">
+  <question level="1" simple="True" text="What region of Ukraine at the beginning of the nineteenth century. was the most populated?">
+    <answer text="Galicia" flag="1"/>
+    <answer text="Right Bank" flag="0"/>
+    <answer text="Left Bank" flag="0"/>
+    <answer text="Sloboda" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Centered on the province in the early nineteenth century. was Zhitomir?">
+    <answer text="Podolsk" flag="0"/>
+    <answer text="Volyn" flag="1"/>
+    <answer text="Kievan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What was the name of the historical and geographical region that was inhabited by the Black Sea Cossacks?">
+    <answer text="Zaporozhye" flag="0"/>
+    <answer text="New Russia" flag="0"/>
+    <answer text="Kuban" flag="1"/>
+    <answer text="Taurus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many provinces existed in the Ukrainian lands in the Russian Empire in the mid-nineteenth century.?">
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="0"/>
+    <answer text="7" flag="0"/>
+    <answer text="9" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands were &quot;Kingdom of Galicia and Lodomeria&quot; within the Austrian Empire at the beginning of the nineteenth century.?">
+    <answer text="Eastern Galicia" flag="0"/>
+    <answer text="Eastern Galicia, northern Bukovina" flag="1"/>
+    <answer text="Eastern Galicia, northern Bukovina, Transcarpathia" flag="0"/>
+    <answer text="Eastern Galicia, northern Bukovina, Transcarpathia, Volhynia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which province was formed in the former Hetmanate in 1802?">
+    <answer text="Chernihiv and Poltava;" flag="1"/>
+    <answer text="Little Russian and Kiev" flag="0"/>
+    <answer text="Sloboda-Ukrainian and Little Russian" flag="0"/>
+    <answer text="Novorossiysk and Little Russian" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which social condition was dominant at the Ukrainian lands in the mid-nineteenth century.?">
+    <answer text="clergy" flag="0"/>
+    <answer text="landowners, industrialists and entrepreneurs" flag="0"/>
+    <answer text="workers" flag="0"/>
+    <answer text="peasantry" flag="1"/>
+  </question>
+</testing>

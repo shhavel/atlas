@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The development of Ukrainian culture in the late nineteenth - early twentieth century.">
+  <question level="1" simple="True" text="How many universities acted on Ukrainian lands in the early twentieth century.?">
+    <answer text="3" flag="0"/>
+    <answer text="4" flag="0"/>
+    <answer text="5" flag="0"/>
+    <answer text="6" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who is the founder of Ukrainian classical music?">
+    <answer text="Gulak-Artemovskij" flag="0"/>
+    <answer text="Lysenko" flag="1"/>
+    <answer text="M. Verbitsky" flag="0"/>
+    <answer text="M. Arkas" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When at Western was introduced compulsory primary education?">
+    <answer text="In 1861" flag="0"/>
+    <answer text="In 1869" flag="1"/>
+    <answer text="In 1875" flag="0"/>
+    <answer text="In 1888" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these universities in the Ukrainian lands was founded in the late nineteenth century.?">
+    <answer text="Kharkiv" flag="0"/>
+    <answer text="Kyiv" flag="0"/>
+    <answer text="Lviv" flag="0"/>
+    <answer text="Chernivtsi" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What year was established Scientific Society. Shevchenko (Shevchenko Scientific Society), which played the role of the Academy of Sciences of Ukraine?">
+    <answer text="In 1873" flag="0"/>
+    <answer text="In 1882" flag="0"/>
+    <answer text="In 1892" flag="1"/>
+    <answer text="In 1895" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In that period there was flourishing Ukrainian theater?">
+    <answer text="1870-ies." flag="0"/>
+    <answer text="1880s." flag="1"/>
+    <answer text="1890s." flag="0"/>
+    <answer text="in the early twentieth century." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who wrote the opera &quot;Natalka Poltavka&quot;, &quot;Taras Bulba&quot;, &quot;Aeneid&quot;, &quot;goat-dereza&quot;?">
+    <answer text="I.Hulak-Artemovskij" flag="0"/>
+    <answer text="Lysenko" flag="1"/>
+    <answer text="M.Leontovych" flag="0"/>
+    <answer text="M. Verbitsky" flag="0"/>
+  </question>
+</testing>

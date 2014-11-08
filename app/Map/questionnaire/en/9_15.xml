@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Social and political life of Ukrainian lands in the second half">
+  <question level="1" simple="True" text="What are the Ukrainian lands in the late nineteenth century. Mr. Antonovich guide community movement called &quot;Ukrainian P`yemontom&quot;?">
+    <answer text="Slobidska" flag="0"/>
+    <answer text="Dnieper" flag="0"/>
+    <answer text="Eastern Galicia" flag="1"/>
+    <answer text="Transcarpathia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the trend in Ukrainian movement in Western Ukraine became dominant at the end of the nineteenth - early twentieth century.?">
+    <answer text="Russophile" flag="0"/>
+    <answer text="Starorusynska" flag="0"/>
+    <answer text="Radical" flag="0"/>
+    <answer text="People '" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which of these events were caused by the activities of the Populists in the Ukrainian lands?">
+    <answer text="&quot;Kiev Cossacks&quot;" flag="0"/>
+    <answer text="&quot;In Tavria for freedom&quot;" flag="0"/>
+    <answer text="&quot;Chygyryns'ka conspiracy&quot;" flag="1"/>
+    <answer text="&quot;Ruthenian action&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year was created the first Ukrainian party in Dnieper Ukraine?">
+    <answer text="In 1890" flag="0"/>
+    <answer text="In 1892" flag="0"/>
+    <answer text="In 1900" flag="1"/>
+    <answer text="In 1905" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these organizations was considered a leading cultural and educational activities?">
+    <answer text="&quot;Falcon&quot;, &quot;January&quot;, &quot;Plast&quot;" flag="0"/>
+    <answer text="&quot;Russian conversation&quot;, &quot;Education&quot;" flag="1"/>
+    <answer text="&quot;Maslosoyuz&quot;, &quot;farmer&quot;" flag="0"/>
+    <answer text="&quot;Dniester&quot;, &quot;Regional Land Bank&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which movements of national liberation movement in Western Ukraine formed before?">
+    <answer text="People '" flag="0"/>
+    <answer text="Russophile" flag="1"/>
+    <answer text="Radical" flag="0"/>
+    <answer text="Rusyn" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a political organization called Muscophiles (Russophile) in the 1870-1880's.?">
+    <answer text="Ruthenian Council" flag="1"/>
+    <answer text="People's Council" flag="0"/>
+    <answer text="Galicia-n matrix" flag="0"/>
+    <answer text="Russian conversation" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Whose predecessor movement were &quot;hlopomany&quot;?">
+    <answer text="Populists" flag="0"/>
+    <answer text="Populists" flag="0"/>
+    <answer text="Hromadamen" flag="1"/>
+    <answer text="Muscophiles" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what years was conducted active work of Ukrainian Studies Southwestern Branch of the Russian Geographical Society?">
+    <answer text="1863-1873 biennium." flag="0"/>
+    <answer text="1861-1862 biennium." flag="0"/>
+    <answer text="1873-1876 biennium." flag="1"/>
+    <answer text="1878-1879 biennium." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was the king issued a decree, which proclaimed &quot;... to prevent the importation of the borders of the empire ... whatever it was books and pamphlets published abroad in maloruskomu dialect, as well as printing it to musical texts notes ... &quot;?">
+    <answer text="In 1861" flag="0"/>
+    <answer text="In 1863" flag="0"/>
+    <answer text="In 1876" flag="1"/>
+    <answer text="In 1882" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what city in 1900 was founded the Revolutionary Ukrainian Party (RUP)?">
+    <answer text="Kharkiv" flag="1"/>
+    <answer text="Kiev" flag="0"/>
+    <answer text="Odessa" flag="0"/>
+    <answer text="Lviv" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Around an organization hurtuvavsya Ukrainian national movement in Nadnipryanskiy Ukraine in the first half of the 70s of the XIX century.?">
+    <answer text="Cyril and Methodius (Brotherhood)" flag="0"/>
+    <answer text="Southwest Branch of the Russian Geographical Society" flag="1"/>
+    <answer text="The total Ukrainian non-party organization" flag="0"/>
+    <answer text="Circle &quot;hlopomaniv&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands were covered by the Polish national liberation uprising of 1863?">
+    <answer text="Eastern Galicia" flag="0"/>
+    <answer text="Right Bank" flag="1"/>
+    <answer text="South" flag="0"/>
+    <answer text="Left Bank" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the Ukrainian political magazine published Drahomanov in Geneva in 1878-1882's.?">
+    <answer text="&quot;Land and Freedom&quot;" flag="0"/>
+    <answer text="&quot;Dawn Galician&quot;" flag="0"/>
+    <answer text="&quot;Basis&quot;" flag="0"/>
+    <answer text="&quot;Community&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the founder of the Ruthenian-Ukrainian Radical Party (RURP) at Western?">
+    <answer text="Franko and M.Pavlyk" flag="1"/>
+    <answer text="M.Hankevych, S.Vityk, Yu.Bachynskyy" flag="0"/>
+    <answer text="Ye.Levytskyy, V.Ohrymovych" flag="0"/>
+    <answer text="Mr. Antonovich, Hrushevsky" flag="0"/>
+  </question>
+</testing>

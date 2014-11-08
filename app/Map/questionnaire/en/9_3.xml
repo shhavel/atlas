@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands in the late eighteenth century.">
+  <question level="1" simple="True" text="Zaporozhian lands after the dissolution of New Host was included in the ...">
+    <answer text="Azov Novorossiysk provinces" flag="1"/>
+    <answer text="Novorossiysk province" flag="0"/>
+    <answer text="Astrakhan province" flag="0"/>
+    <answer text="Ekaterinoslavskogo province" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year was founded Odessa?">
+    <answer text="In 1768" flag="0"/>
+    <answer text="In 1774" flag="0"/>
+    <answer text="In 1793" flag="0"/>
+    <answer text="In 1795" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What year was the first section of the Commonwealth?">
+    <answer text="In 1770" flag="0"/>
+    <answer text="In 1772" flag="1"/>
+    <answer text="In 1776" flag="0"/>
+    <answer text="In 1778" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="By what section of the Commonwealth that took place in the eighteenth century. The Russian Empire gained Volhynia, Western Belarus, Lithuania?">
+    <answer text="The first" flag="0"/>
+    <answer text="The second" flag="0"/>
+    <answer text="Third" flag="1"/>
+    <answer text="Fourth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What countries participated in the division of the Commonwealth last quarter of the eighteenth century.?">
+    <answer text="Prussia" flag="1"/>
+    <answer text="Empire" flag="1"/>
+    <answer text="Sweden" flag="0"/>
+    <answer text="The monarchy of Habsburg Austria" flag="1"/>
+    <answer text="The Ottoman Empire" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the Polish liberation uprising led by Todeushem Kosciuszko?">
+    <answer text="In 1783" flag="0"/>
+    <answer text="In 1791" flag="0"/>
+    <answer text="In 1793" flag="0"/>
+    <answer text="In 1794" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The right to possess the land which the Ukrainian region assigned to Austria Constantinople Convention of 1775?">
+    <answer text="Kholmshchyna" flag="0"/>
+    <answer text="Transcarpathia" flag="0"/>
+    <answer text="Bucovina" flag="1"/>
+    <answer text="Galicia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year in Left-Bank Ukraine Cossack regiments were abolished and turned into regular units of the Russian army?">
+    <answer text="In 1768" flag="0"/>
+    <answer text="In 1775" flag="0"/>
+    <answer text="In 1781" flag="0"/>
+    <answer text="In 1783" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct? As a result of the partitions of the Commonwealth most Ukrainian lands: 1) was part of the Russian Empire; 2) have hubernialnyy administrative divisions.">
+    <answer text="Both are valid" flag="1"/>
+    <answer text="Only one correct option" flag="0"/>
+    <answer text="Only 2 correct option" flag="0"/>
+    <answer text="Both are incorrect" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the events of the Russian Empire entered the Black Sea land between the Dniester and Southern Bug?">
+    <answer text="Second Partition of Poland" flag="0"/>
+    <answer text="Third Partition of Poland" flag="0"/>
+    <answer text="Russo-Turkish War of 1768-1774." flag="0"/>
+    <answer text="Russian-Turkish war of 1787-1791 years." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Host countries which took part in the suppression of the Polish uprising led by T. Kosciuszko?">
+    <answer text="Empire" flag="1"/>
+    <answer text="Ottoman Empire" flag="0"/>
+    <answer text="Monarchy Habsburg Austria" flag="0"/>
+    <answer text="Prussia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What year was eliminated Crimean Khanate?">
+    <answer text="In 1775" flag="0"/>
+    <answer text="In 1783" flag="1"/>
+    <answer text="In 1791" flag="0"/>
+    <answer text="In 1795" flag="0"/>
+  </question>
+</testing>

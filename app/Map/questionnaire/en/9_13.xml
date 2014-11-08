@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The abolition of serfdom in the Ukrainian lands">
+  <question level="1" simple="True" text="Which reforms 1860-1870's. Did not extend to the province of Right-Bank Ukraine?">
+    <answer text="judicial reform" flag="0"/>
+    <answer text="urban reform" flag="0"/>
+    <answer text="rural reform" flag="1"/>
+    <answer text="military reform" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year the Ukrainian lands in the Russian Empire were abolished serfdom?">
+    <answer text="In 1861" flag="1"/>
+    <answer text="In 1863" flag="0"/>
+    <answer text="In 1864" flag="0"/>
+    <answer text="In 1865" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How many military districts were created in the Ukrainian lands under military reform?">
+    <answer text="1" flag="0"/>
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Under what conditions farmers, freed from serfdom, received land after implementation of agrarian reform?">
+    <answer text="paid indemnity payments" flag="1"/>
+    <answer text="receiving long-term lease" flag="0"/>
+    <answer text="became state property" flag="0"/>
+    <answer text="vidroblyaly size of indemnity payments" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some provinces, after reform, farmers lost part of the land which they previously enjoyed?">
+    <answer text="Left-bank Ukraine" flag="1"/>
+    <answer text="South of Ukraine" flag="0"/>
+    <answer text="Right-Bank Ukraine" flag="0"/>
+    <answer text="Sloboda Ukraine" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which reforms 60-70's. Was the most democratic?">
+    <answer text="Litigation" flag="1"/>
+    <answer text="Military" flag="0"/>
+    <answer text="Agricultural" flag="0"/>
+    <answer text="Zemskaya" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Is it correct judgments? After the Agrarian Reform of 1860: 1) The majority of land in Ukraine belonged to the landlords; 2) The peasants had to pay indemnity payments.">
+    <answer text="Both are valid" flag="1"/>
+    <answer text="Only one correct option" flag="0"/>
+    <answer text="Only 2 correct option" flag="0"/>
+    <answer text="Both are incorrect" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event gave impetus to the abolition of serfdom in the Ukrainian lands in the Russian Empire?">
+    <answer text="&quot;Manifesto ...&quot; Russian Tsar" flag="0"/>
+    <answer text="The revolutionary events in the Austrian Empire" flag="0"/>
+    <answer text="Russia's defeat in the Crimean War" flag="1"/>
+    <answer text="Convert Austrian Empire into Austria-Hungary" flag="0"/>
+  </question>
+</testing>

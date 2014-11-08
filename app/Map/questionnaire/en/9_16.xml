@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Resettlement and Ukrainian emigration in the late nineteenth - early twentieth century.">
+  <question level="1" simple="True" text="What has caused massive labor emigration Ukrainian late nineteenth century.?">
+    <answer text="Agrarian overpopulation Ukrainian lands" flag="1"/>
+    <answer text="The desire of the Russian and Austrian governments to get rid of the Ukrainian population" flag="0"/>
+    <answer text="Undeveloped urban life in the Ukrainian lands" flag="0"/>
+    <answer text="The eternal quest for new adventures and discoveries" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the name gained ground, Ukrainian mastered the Far East?">
+    <answer text="Green Wedge" flag="1"/>
+    <answer text="Grey wedge" flag="0"/>
+    <answer text="Saskatchewan" flag="0"/>
+    <answer text="Kuban" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries Ukrainian settlers came first?">
+    <answer text="Canada" flag="0"/>
+    <answer text="USA" flag="0"/>
+    <answer text="Brazil" flag="1"/>
+    <answer text="Argentina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries Ukrainian community in the early twentieth century. was the largest?">
+    <answer text="Canada" flag="0"/>
+    <answer text="USA" flag="1"/>
+    <answer text="Brazil" flag="0"/>
+    <answer text="Argentina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the regions of Ukraine dominated labor emigration to the West?">
+    <answer text="Galicia, Transcarpathia, Bukovina, Volyn" flag="1"/>
+    <answer text="Podolia, Kiev region" flag="0"/>
+    <answer text="Steppe areas" flag="0"/>
+    <answer text="Basin, Sloboda, Dnieper" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year is the beginning of Ukrainian migrant?">
+    <answer text="In 1850" flag="0"/>
+    <answer text="In 1860" flag="0"/>
+    <answer text="In 1870" flag="1"/>
+    <answer text="In 1880" flag="0"/>
+  </question>
+</testing>

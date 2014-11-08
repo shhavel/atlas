@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian culture first half of the nineteenth century.">
+  <question level="1" simple="True" text="How many universities existed on Ukrainian lands in the first half of the nineteenth century.?">
+    <answer text="1" flag="0"/>
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+    <answer text="4" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the author of the collections &quot;Little Russian Songs&quot;, &quot;Ukrainian Folk Songs&quot; that fond of contemporary Ukrainian and Russian intellectuals?">
+    <answer text="I.Kotlyarevsky" flag="0"/>
+    <answer text="M.Maksymovych" flag="1"/>
+    <answer text="M. Certelev" flag="0"/>
+    <answer text="Shevchenko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year came the first edition of &quot;Poet&quot; Shevchenko?">
+    <answer text="In 1836" flag="0"/>
+    <answer text="In 1840" flag="1"/>
+    <answer text="In 1847" flag="0"/>
+    <answer text="In 1861" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the author of the first literary work written in Ukrainian folk live?">
+    <answer text="I.Kotlyarevsky" flag="1"/>
+    <answer text="P.Hulak-Artemovskij" flag="0"/>
+    <answer text="H.Kvitky-Osnovyanenko" flag="0"/>
+    <answer text="Shevchenko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What style of architecture prevalent in Ukraine in the first half of the nineteenth century.?">
+    <answer text="Baroque" flag="0"/>
+    <answer text="Rococo" flag="0"/>
+    <answer text="Classicism" flag="1"/>
+    <answer text="Modern" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who Ukrainian mathematicians launched Petersburg mathematical school?">
+    <answer text="M.Ostrohradskyy" flag="1"/>
+    <answer text="T.Osypovskyy" flag="0"/>
+    <answer text="M.Kostomarov" flag="0"/>
+    <answer text="Maksymovych" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Social and political life of Ukrainian lands in the first half of the nineteenth century.">
+  <question level="1" simple="True" text="What was the name first Ukrainian newspaper at Western?">
+    <answer text="&quot;Mermaid Dnistrova&quot;" flag="0"/>
+    <answer text="&quot;Dawn Galician&quot;" flag="1"/>
+    <answer text="&quot;Dilo&quot;" flag="0"/>
+    <answer text="&quot;Ruthenian church&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year saw the publication of the first edition of Shevchenko's poetry collection &quot;Kobzar&quot;?">
+    <answer text="In 1836" flag="0"/>
+    <answer text="In 1840" flag="1"/>
+    <answer text="In 1848" flag="0"/>
+    <answer text="In 1861" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Is it correct judgments? Freemasons: 1) were extended to Ukrainian lands in the first quarter of the nineteenth century .; 2) in the early nineteenth century. advocated the separation of Ukraine from Russia.">
+    <answer text="Both are valid" flag="0"/>
+    <answer text="Only one correct option" flag="1"/>
+    <answer text="Only 2 correct option" flag="0"/>
+    <answer text="Both are incorrect" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Program which provided for the establishment of the company Decembrists Ukrainian, Black Sea and bug States with centers in Kharkov, Odessa and Kiev?">
+    <answer text="&quot;Union blahodenstviya&quot;" flag="0"/>
+    <answer text="&quot;Society of United Slavs&quot;" flag="0"/>
+    <answer text="&quot;Southern Company&quot;" flag="0"/>
+    <answer text="&quot;Northern Society&quot;" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What document provided the Decembrists providing autonomous rights of Ukrainian lands?">
+    <answer text="&quot;Constitution&quot; Muraveva" flag="1"/>
+    <answer text="&quot;Russian Truth&quot;" flag="0"/>
+    <answer text="&quot;Act of God&quot;" flag="0"/>
+    <answer text="&quot;Green Book&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What kind of organization in 1846 founded Kostomarov and M. Gulak?">
+    <answer text="&quot;Society of United Slavs&quot;" flag="0"/>
+    <answer text="Cyril and Methodius Brotherhood (company)" flag="1"/>
+    <answer text="&quot;N trinity&quot;" flag="0"/>
+    <answer text="Brotherhood tarasivtsi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="&quot;I bыl Rusin, and I am. I was born Rusyns chestnыy My rod not forget ostanus ego sыnom ... &quot;. Who is the author of the poem that later became the anthem of Transcarpathian Rusyns?">
+    <answer text="O. Dukhnovych" flag="1"/>
+    <answer text="Dobrianskyi" flag="0"/>
+    <answer text="M. Shashkevych" flag="0"/>
+    <answer text="V.Podolynskyy" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What impact has &quot;Spring of Nations&quot; to the Western lands?">
+    <answer text="Transcarpathia, Bukovina and Galicia gained autonomy" flag="0"/>
+    <answer text="All Ukrainian lands within the Austrian Empire were united into a single administrative unit" flag="0"/>
+    <answer text="In Western Ukraine were abolished serfdom" flag="1"/>
+    <answer text="Formed the first Ukrainian political parties" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was armed revolt of the Decembrists in Ukraine?">
+    <answer text="In 1812" flag="0"/>
+    <answer text="In 1821" flag="0"/>
+    <answer text="In 1825" flag="1"/>
+    <answer text="In 1829" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Ukrainian won the first experience of parliamentary work?">
+    <answer text="During the revolution of 1948-1949." flag="1"/>
+    <answer text="After creating the Galician Sejm" flag="0"/>
+    <answer text="During the Decembrist uprising in the Russian Empire" flag="0"/>
+    <answer text="After the Polish national uprising of 1830-1831." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What armed action took place at Western in the first half of the nineteenth century.?">
+    <answer text="The peasant uprising led by U.Karmalyuka" flag="0"/>
+    <answer text="The peasant uprising led led I.Kobylytsi" flag="1"/>
+    <answer text="Rise of the military settlers" flag="0"/>
+    <answer text="Rebellion Buh Cossacks" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What trends liberation movements existed on Ukrainian lands in the first half of the nineteenth century.?">
+    <answer text="Ukrainian" flag="1"/>
+    <answer text="Polish" flag="1"/>
+    <answer text="Russian" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Once Franko said: &quot;Mermaid Dnistrovaya&quot; although that little content that vague thought it vyskazani - was at one time through a revolutionary phenomenon. &quot;In what year was published this collection?">
+    <answer text="In 1814" flag="0"/>
+    <answer text="In 1831" flag="0"/>
+    <answer text="In 1836" flag="1"/>
+    <answer text="In 1848" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands were covered by the revolution of 1848-1849.?">
+    <answer text="Transcarpathia" flag="1"/>
+    <answer text="Galicia" flag="1"/>
+    <answer text="Bucovina" flag="1"/>
+    <answer text="Skirts" flag="0"/>
+    <answer text="Volyn" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which city became the center of the first wave of the national movement in Western Ukraine?">
+    <answer text="Lviv" flag="0"/>
+    <answer text="Kamyanets-Podolsky" flag="0"/>
+    <answer text="Przemysl" flag="1"/>
+    <answer text="Ternopil" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these events occurred at Western?">
+    <answer text="The peasant uprising led by U.Karmalyuka" flag="0"/>
+    <answer text="The creation of the Supreme Ruthenian Council" flag="1"/>
+    <answer text="Rise of the Chernigov Regiment" flag="0"/>
+    <answer text="Create Cyril and Methodius" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="He was a member of the circle of young intellectuals, known as the &quot;Russian threesome?&quot;">
+    <answer text="M. Shashkevych, I.Vahylevych, J. Holovatsky" flag="1"/>
+    <answer text="M. Shashkevych, M. Verbitsky, A.Bachynskyy" flag="0"/>
+    <answer text="H.Yahymovych, V.Podolynskyy, L.Kobylytsya" flag="0"/>
+    <answer text="O. Dukhnovych, Dobrianskyi, Y.Holovatskyi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What year was abolished Uniate Church in Right-Bank Ukraine?">
+    <answer text="In 1814" flag="0"/>
+    <answer text="In 1825" flag="0"/>
+    <answer text="In 1831" flag="0"/>
+    <answer text="In 1839" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="He played a leading role in the Ukrainian national movement in Western Ukraine in the first half of the nineteenth century.?">
+    <answer text="Ukrainian Polish nobility" flag="0"/>
+    <answer text="The descendants of the former Cossack officers" flag="0"/>
+    <answer text="Greek Catholic priests" flag="1"/>
+    <answer text="Intellectuals, who were vhidtsyamy of peasants and townspeople" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What region of Ukraine in the Russian Empire became the center of Ukrainian national movement in the first third of the nineteenth century.?">
+    <answer text="Skirts" flag="0"/>
+    <answer text="Kyivshchyna" flag="0"/>
+    <answer text="Zaporozhye" flag="0"/>
+    <answer text="Sloboda" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What event contributed to the abolition of serfdom in Western?">
+    <answer text="Rebellion in military settlements" flag="0"/>
+    <answer text="Revitalization Robin" flag="0"/>
+    <answer text="Peasant uprisings in 1846 and the revolutionary events of 1848-1849." flag="1"/>
+    <answer text="Polish uprising of 1830-1831." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What event was the occasion for the formation of Cossack regiments in Poltava and Chernihiv provinces in 1830?">
+    <answer text="Rebellion in military settlements" flag="0"/>
+    <answer text="Polish uprising" flag="1"/>
+    <answer text="The revolt of the peasants led Ustym Karmaluk" flag="0"/>
+    <answer text="Speech Decembrists" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which organization during the revolution of 1848-1849. Served as the representative of the Ukrainian population of Galicia to the central government?">
+    <answer text="&quot;Ruthenian church&quot;" flag="0"/>
+    <answer text="Cathedral of Russian scientists" flag="0"/>
+    <answer text="Supreme Ruthenian Council" flag="1"/>
+    <answer text="&quot;N trinity&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was the king's government banned the Masonic lodges, particularly in Ukraine?">
+    <answer text="In 1815" flag="0"/>
+    <answer text="In 1822" flag="1"/>
+    <answer text="In 1826" flag="0"/>
+    <answer text="In 1831" flag="0"/>
+  </question>
+</testing>
