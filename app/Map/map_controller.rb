@@ -1,10 +1,6 @@
 require 'rho/rhocontroller'
 require 'helpers/browser_helper'
 require 'rexml/document'
-require 'net/http'
-require 'thread'
-require 'timeout'
-require 'uri'
 
 class MapController < Rho::RhoController
   include BrowserHelper
@@ -51,13 +47,9 @@ class MapController < Rho::RhoController
   def question
     @map = Map.find(@params['id'])
     if @map
-      if unpaid?
-        render :action => :unpaid, :back => url_for(:action => :show, :id => @map.object)
-      else
-        prepare_questions_and_answers
-        Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
-        render :action => :question, :back => url_for(:action => :show, :id => @map.object)
-      end
+      prepare_questions_and_answers
+      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
+      render :action => :question, :back => url_for(:action => :show, :id => @map.object)
     else
       redirect :controller => :Category, :action => :index
     end
@@ -72,7 +64,6 @@ class MapController < Rho::RhoController
           variant[:flag] == @answers[num][idx]
         end == question_variants.count
       end
-      @result_sent = send_result
       Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
       render :action => :resume, :back => url_for(:action => :question, :id => @map.object)
     else
@@ -86,6 +77,7 @@ class MapController < Rho::RhoController
       setTimeout("$('div.map').lhpMegaImgViewer('zoomStop');", #{zoom_step});
     JS
   end
+
   def unzoom
     WebView.execute_js <<-JS
       $('div.map').lhpMegaImgViewer('unzoom');
@@ -124,53 +116,6 @@ private
       @answers[@num - 1] = ['0'] * @answers[@num - 1].size
       @params['current_answer'].map(&:to_i).each{|i| @answers[@num - 1][i] = '1' }
     end
-  end
-
-  def send_result
-    @bill = Bill.find(:all).first
-    uri = URI("http://ukrmap.su/result.php")
-    params = {
-      :atlas => atlas_sign,
-      :code => @bill.code,
-      :token => @bill.token,
-      :file => @map.questionnaire,
-      :testing_name => @testing_name,
-      :count => @count,
-      :count_all => @questions.size
-    }
-    uri.query = URI.encode_www_form(params)
-
-    res = Net::HTTP.get_response(uri)
-    if res.is_a?(Net::HTTPSuccess)
-      response = Rho::JSON.parse(res.body)
-      return true if response["ok"] == true
-    end
-    return false
-  rescue
-    return false
-  end
-
-  def unpaid?
-    @bill = Bill.find(:all).first
-    return false if @bill.paid == 1
-    uri = URI("http://ukrmap.su/check.php")
-    params = { :code => @bill.code, :token => @bill.token }
-    uri.query = URI.encode_www_form(params)
-
-    res = Net::HTTP.get_response(uri)
-    if res.is_a?(Net::HTTPSuccess)
-      @check = Rho::JSON.parse(res.body)
-      if @check["ok"] == true
-        @bill.update_attributes({"paid" => 1})
-        return false
-      else
-        return true
-      end
-    else
-      return true
-    end
-  rescue
-    return true
   end
 
   def toolbar(with_zoom = false)

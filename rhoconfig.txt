@@ -2,7 +2,7 @@
 start_path = '/app/Category'
 
 # path to the options page (in this case handled by javascript)
-options_path = '/app/Settings'
+options_path = '/app/Control'
 
 # location of bundle url (i.e. from rhohub.com); used by desktop win32 simulator
 rhobundle_zip_url = ''

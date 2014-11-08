@@ -40,7 +40,13 @@ module BrowserHelper
 
   def t(key)
     @lang ||= Control.find(:all, :conditions => {'name' => 'lang'}).first.value
-    translation = (@lang == 'ua' ? translations_ua[key] : translations_ru[key])
+    translation = if @lang == 'ua'
+      translations_ua[key]
+    elsif @lang == 'ru'
+      translations_ru[key]
+    else
+      translations_en[key]
+    end
     translation.nil? ? key : translation
   end
 
@@ -61,18 +67,12 @@ module BrowserHelper
       'lang' => 'Язык',
       'ru' => 'русский',
       'ua' => 'украинский',
+      'en' => 'английский',
       'icon_size' => 'Размер иконок',
       'small' => 'небольшие',
       'normal' => 'нормальные',
       'zoom_step' => 'Шаг масштаба',
       'show_controls_icon' => 'Показывать иконку настроек в режиме просмотра карты',
-      # Unregistered
-      'Unregistered version' => 'Незарегистрированная версия',
-      'You need to register the application.' => 'Необходимо зарегистрировать приложение для прохождения тестирования.',
-      'Go to page' => 'Зайдите на страницу',
-      'Enter code' => 'Введите код',
-      'Make the payment.' => 'Произведите оплату.',
-      'The result has been sent and stored:' => 'Результат был отправлен и сохранен:',
     }
   end
 
@@ -93,18 +93,37 @@ module BrowserHelper
       'lang' => 'Мова',
       'ru' => 'російська',
       'ua' => 'українська',
+      'en' => 'англійська',
       'icon_size' => 'Розмір іконок',
       'small' => 'невеликі',
       'normal' => 'нормальні',
       'zoom_step' => 'Крок масштабу',
       'show_controls_icon' => 'Показувати іконку налаштувань в режимі перегляду карти',
-      # Unregistered
-      'Unregistered version' => 'Незареєстрована версія',
-      'You need to register the application.' => 'Необхідно зареєструватися для проходження тестування.',
-      'Go to page' => 'Зайдіть на сторінку',
-      'Enter code' => 'Введіть код',
-      'Make the payment.' => 'Проведіть оплату.',
-      'The result has been sent and stored:' => 'Результат був відправлений і збережений:',
+    }
+  end
+
+  def translations_en
+    @translations_en ||= {
+      # PLACEHOLDER: Atlas Title ru, e.g. 'Atlas' => 'SOCIO-ECONOMIC GEOGRAPHY OF THE WORLD',
+      # General
+      'Controls' => 'Settings',
+      'Content' => 'Content',
+      'Back' => 'Back',
+      'Prev' => 'Prev.',
+      'Next' => 'Next',
+      'Again' => 'Again',
+      'Continue' => 'Continue',
+      'Update' => 'Save',
+      # Controls
+      'lang' => 'Language',
+      'ru' => 'russian',
+      'ua' => 'ukrainian',
+      'en' => 'english',
+      'icon_size' => 'Size of icons',
+      'small' => 'Small',
+      'normal' => 'Normal',
+      'zoom_step' => 'Zoom step',
+      'show_controls_icon' => 'Show settings icon in map view',
     }
   end
 
