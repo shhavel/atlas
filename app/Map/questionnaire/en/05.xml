@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Europe in XIV-XV centuries. The spiritual world of medieval">
+  <question text="The basis of the British army during the Hundred Years War constituted">
+    <answer text="free peasants" flag="1"/>
+    <answer text="Knights" flag="0"/>
+    <answer text="foreign mercenaries" flag="0"/>
+  </question>
+  <question text="The revolt of the peasants in France during the Hundred Years War was called">
+    <answer text="Tyler's rebellion Vota" flag="0"/>
+    <answer text="Jacquerie" flag="1"/>
+    <answer text="Peasant War" flag="0"/>
+  </question>
+  <question text="Have used a firearm during the Hundred Years War?">
+    <answer text="that" flag="1"/>
+    <answer text="neither" flag="0"/>
+  </question>
+  <question text="The last Byzantine emperor called">
+    <answer text="Constantine XI" flag="1"/>
+    <answer text="Olksiy I Komnenos" flag="0"/>
+    <answer text="Justinian III" flag="0"/>
+  </question>
+  <question text="What is the name given Constantinople by the Turks after a seizure?">
+    <answer text="Ankara" flag="0"/>
+    <answer text="Istanbul" flag="1"/>
+    <answer text="Porta" flag="0"/>
+  </question>
+  <question text="The main Gothic churches were decorated">
+    <answer text="stained" flag="1"/>
+    <answer text="Sculpture" flag="0"/>
+    <answer text="Icon" flag="0"/>
+  </question>
+  <question text="In 1479 married Isabella of Castile and Ferdinand Araґonskoho led to">
+    <answer text="the formation of the Kingdom of Portugal" flag="0"/>
+    <answer text="the formation of the Kingdom of Spain." flag="1"/>
+  </question>
+  <question text="As the ruler of Venice called?">
+    <answer text="duke" flag="0"/>
+    <answer text="doge" flag="1"/>
+    <answer text="Grand Duke" flag="0"/>
+    <answer text="king" flag="0"/>
+  </question>
+  <question text="The fight against the Hussites knights-crusaders headed">
+    <answer text="Huss" flag="0"/>
+    <answer text="Jan Tendon" flag="1"/>
+    <answer text="Sigismund of Luxembourg" flag="0"/>
+  </question>
+  <question text="Studies in medieval universities was conducted in">
+    <answer text="national languages" flag="0"/>
+    <answer text="Latin" flag="1"/>
+    <answer text="French" flag="0"/>
+  </question>
+  <question text="What country originated Gothic style in architecture?">
+    <answer text="Britain" flag="0"/>
+    <answer text="France" flag="1"/>
+    <answer text="Italy" flag="0"/>
+    <answer text="Germany" flag="0"/>
+  </question>
+  <question text="Who was the inventor of printing in Europe?">
+    <answer text="Ivan Fyodorov" flag="0"/>
+    <answer text="Johann Gutenberg" flag="1"/>
+    <answer text="Thomas Aquinas" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Formation of Muscovy. Asia">
+  <question text="What event contributed to world history proclaiming Moscow &quot;the third Rome&quot;?">
+    <answer text="Florentine union" flag="0"/>
+    <answer text="the fall of Constantinople" flag="1"/>
+    <answer text="Kulikovo" flag="0"/>
+  </question>
+  <question text="Baskakov - a">
+    <answer text="punitive detachment commander, who had to supervise compliance with the order" flag="0"/>
+    <answer text="Mongolian warlord" flag="0"/>
+    <answer text="collectors tribute" flag="1"/>
+  </question>
+  <question text="When was the Battle of Kulikovo?">
+    <answer text="In 1380" flag="1"/>
+    <answer text="1382" flag="0"/>
+    <answer text="In 1480" flag="0"/>
+  </question>
+  <question text="When was the Delhi Sultanate?">
+    <answer text="In 1206" flag="1"/>
+    <answer text="In 1398" flag="0"/>
+    <answer text="In 1453" flag="0"/>
+  </question>
+  <question text="Pagoda - a">
+    <answer text="Buddhist temple in the form of high-rise towers" flag="1"/>
+    <answer text="Hindu temple" flag="0"/>
+    <answer text="fortification in India and China" flag="0"/>
+  </question>
+  <question text="As the rulers were called in India?">
+    <answer text="tangerines" flag="0"/>
+    <answer text="Samurai" flag="0"/>
+    <answer text="Raja" flag="1"/>
+  </question>
+  <question text="What was the name Mongol dynasty in China?">
+    <answer text="Song" flag="0"/>
+    <answer text="Min" flag="0"/>
+    <answer text="Yuan" flag="1"/>
+  </question>
+  <question text="Andrei Rublev and Theophanes the Greek was">
+    <answer text="outstanding architects" flag="0"/>
+    <answer text="painters" flag="1"/>
+    <answer text="chroniclers" flag="0"/>
+  </question>
+  <question text="The fate of Novgorod decided to battle on the river">
+    <answer text="Acne" flag="0"/>
+    <answer text="Kalka" flag="0"/>
+    <answer text="Sheloni" flag="1"/>
+  </question>
+  <question text="From the twelfth century. the real rulers of Japan are">
+    <answer text="Samurai" flag="0"/>
+    <answer text="Kshatriya" flag="0"/>
+    <answer text="Shogun." flag="1"/>
+  </question>
+  <question text="What battle was called &quot;Mamay&quot;?">
+    <answer text="Kulikovska battle" flag="1"/>
+    <answer text="&quot;Standing on the Ugra&quot;" flag="0"/>
+    <answer text="Battle of the Kalka River" flag="0"/>
+  </question>
+  <question text="What dynasty ruled China before?">
+    <answer text="Song" flag="1"/>
+    <answer text="Yuan" flag="0"/>
+    <answer text="Min" flag="0"/>
+  </question>
+</testing>
