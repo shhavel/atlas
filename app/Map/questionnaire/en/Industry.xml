@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Economic activity">
+  <question level="1" simple="True" text="Factory whose products are excavators, road machinery?">
+    <answer text="ATEK" flag="1"/>
+    <answer text="AVIANT" flag="0"/>
+    <answer text="Bolshevik" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Most of Kiev enterprises located in the right-bank part of the city" flag="0"/>
+    <answer text="The plant produced only aircraft AVIANT" flag="1"/>
+    <answer text="Hryvnia banknotes and coins produced in one of Kiev enterprises" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of vehicles produced at a Kyiv enterprises?">
+    <answer text="Trolley" flag="1"/>
+    <answer text="Buses" flag="0"/>
+    <answer text="Trams" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What plants to generate electricity burning coal, oil, gas?">
+    <answer text="GES" flag="0"/>
+    <answer text="TES" flag="1"/>
+    <answer text="NPP" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the smallest plants pollute the environment?">
+    <answer text="TES" flag="0"/>
+    <answer text="CHP" flag="0"/>
+    <answer text="GES" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How Kiev existing metro lines?">
+    <answer text="1" flag="0"/>
+    <answer text="2" flag="0"/>
+    <answer text="3" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How is the metro station, which was enacted in 2008?">
+    <answer text="Adobe" flag="0"/>
+    <answer text="Red Farm" flag="1"/>
+    <answer text="Boryspil" flag="0"/>
+    <answer text="Dorohozhychi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which administrative district of Kyiv is the tower?">
+    <answer text="Shevchenko" flag="1"/>
+    <answer text="Podolsky" flag="0"/>
+    <answer text="Solomianskyi" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Kiev subway line which was built the very first?">
+    <answer text="Kurynivska-Lybedskaya" flag="0"/>
+    <answer text="Kiev-Brovarska" flag="1"/>
+    <answer text="Syretsko Caves" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What type of transport Kyiv is the oldest?">
+    <answer text="Funicular" flag="0"/>
+    <answer text="Tram" flag="1"/>
+    <answer text="Bus" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="The subway in our city operates from 1960" flag="0"/>
+    <answer text="The airport &quot;Borispol&quot; is outside Kyiv" flag="0"/>
+    <answer text="Kyiv HPP is located south of Kyiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which city is the largest airport in Ukraine?">
+    <answer text="In Borispol" flag="1"/>
+    <answer text="In Kiev" flag="0"/>
+    <answer text="In Kharkiv" flag="0"/>
+  </question>
+</testing>

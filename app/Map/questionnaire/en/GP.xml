@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Geographical location">
+  <question level="1" simple="True" text="The size of the territory of Ukraine in Europe:">
+    <answer text="is the largest" flag="0"/>
+    <answer text="second only to Russia" flag="1"/>
+    <answer text="inferior to France and Russia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="With which of these countries, Ukraine has no common borders?">
+    <answer text="From Bulgaria" flag="1"/>
+    <answer text="From Romania" flag="0"/>
+    <answer text="From Slovakia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which airport is within Kyiv?">
+    <answer text="Borispol" flag="0"/>
+    <answer text="Kyiv (Juliani)" flag="1"/>
+    <answer text="Gostomelsky" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the satellite cities of Kyiv most?">
+    <answer text="Brovary" flag="1"/>
+    <answer text="Borispol" flag="0"/>
+    <answer text="Toompea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer text="To the south of Kyiv Kiev reservoir is" flag="0"/>
+    <answer text="Kyiv is in the northern part of the state" flag="1"/>
+    <answer text="Boryspil Airport is located west of Kyiv" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="On which river is made navigable communication Ukraine with a number of Central and Western Europe?">
+    <answer text="The Dnieper" flag="0"/>
+    <answer text="On the Danube" flag="1"/>
+    <answer text="In the Western Bug" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In which part of the world is Ukraine?">
+    <answer text="In Europe" flag="1"/>
+    <answer text="In Asia" flag="0"/>
+    <answer text="In Eurasia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="Kyiv, the largest city in the state" flag="0"/>
+    <answer text="Kyiv, the largest city in Eastern Europe" flag="1"/>
+    <answer text="Because of Kyiv is the border of forest and forest-steppe zone" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="If you leave Kyiv in the west, the first regional center will be on the way:">
+    <answer text="Chernigov" flag="0"/>
+    <answer text="Zhitomir" flag="1"/>
+    <answer text="Exactly" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The northern part of the boundaries of the Kiev region is also the state border of Ukraine:">
+    <answer text="Belarus" flag="1"/>
+    <answer text="Russia" flag="0"/>
+    <answer text="Poland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer text="Ukraine borders with seven countries" flag="0"/>
+    <answer text="The territory of Ukraine is washed by two seas" flag="0"/>
+    <answer text="From the capitals of foreign countries to Kyiv located near Moscow" flag="1"/>
+  </question>
+</testing>

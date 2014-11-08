@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The surface of Kyiv. Weather">
+  <question level="1" simple="True" text="Kyiv left bank lies within:">
+    <answer text="Dnieper Lowland" flag="1"/>
+    <answer text="Polesie lowlands" flag="0"/>
+    <answer text="Dnieper Upland" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Within which the administrative district of Kyiv is the highest point of the city?">
+    <answer text="Goloseevskogo" flag="0"/>
+    <answer text="Caves" flag="1"/>
+    <answer text="Podolski" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Ravines in Kiev formed mainly under the influence of external forces of nature" flag="0"/>
+    <answer text="Artificial landforms are embankments, dams, quarries, canals" flag="0"/>
+    <answer text="Landslides are most common in the left bank of Kyiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Soil fertility is determined by the capacity of the humus layer" flag="0"/>
+    <answer text="Desna flows into the Dnieper south of Kyiv" flag="1"/>
+    <answer text="The soil within Kyiv heavily modified" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What are the artificial landforms are formed in areas of mining?">
+    <answer text="Feeds" flag="0"/>
+    <answer text="Rowe" flag="0"/>
+    <answer text="Careers" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The process of tearing and shearing will rock by gravity is called:">
+    <answer text="weathering" flag="0"/>
+    <answer text="landslide" flag="1"/>
+    <answer text="yaroutvorennya" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Within which the administrative district of Kyiv is the lowest point of the city?">
+    <answer text="Goloseevskogo" flag="1"/>
+    <answer text="Podolski" flag="0"/>
+    <answer text="Desnyanskogo" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="How is founded on the slopes of watercourses special system of ditches and pipes to drain groundwater?">
+    <answer text="Sewerage" flag="0"/>
+    <answer text="Drainage" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Soil fertility is determined by the capacity of the humus layer" flag="0"/>
+    <answer text="The Kiev reservoir makes a significant impact on the climate of Kyiv" flag="0"/>
+    <answer text="Each administrative district of Kyiv is a meteorological station" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Change of seasons on the planet is the result:">
+    <answer text="Earth's rotation on its axis" flag="0"/>
+    <answer text="rotation of the Earth around the Sun." flag="1"/>
+  </question>
+  <question level="1" simple="True" text="How does the temperature increased levels of air pollution in Kyiv and a large number of harmful emissions into the atmosphere?">
+    <answer text="The temperature in the city is always lower than in Kyiv" flag="0"/>
+    <answer text="The temperature in the city is always higher than in Kyiv" flag="1"/>
+    <answer text="The temperature in Kiev such as outside the city" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="The warmest month is July in Kiev" flag="0"/>
+    <answer text="The highest rainfall in Kiev account for the cold season" flag="1"/>
+    <answer text="Weather - a state of the surface air in a particular area at a particular time" flag="0"/>
+  </question>
+</testing>

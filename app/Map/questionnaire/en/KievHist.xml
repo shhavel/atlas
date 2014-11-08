@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kyiv last">
+  <question level="1" simple="True" text="Which of the following years, Kyiv had the greatest number of residents?">
+    <answer text="900." flag="0"/>
+    <answer text="In 1200" flag="1"/>
+    <answer text="In 1500" flag="0"/>
+    <answer text="In 1700" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following years had the least amount of Kyiv residents?">
+    <answer text="In 1914" flag="0"/>
+    <answer text="In 1920" flag="0"/>
+    <answer text="In 1940" flag="0"/>
+    <answer text="In 1943" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The oldest dates back to Kyiv description:">
+    <answer text="1240." flag="0"/>
+    <answer text="945 year" flag="1"/>
+    <answer text="1380 year" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="During Igor, Olga and Svyatoslav most of the city's population lived in:">
+    <answer text="Mount" flag="0"/>
+    <answer text="Hem" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In what year did the army of Batu Khan destroyed the capital of Russia?">
+    <answer text="In 1240" flag="1"/>
+    <answer text="In 945" flag="0"/>
+    <answer text="In 1147" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a governing body called the Kyiv since the Commonwealth?">
+    <answer text="Parliament" flag="0"/>
+    <answer text="Magistrate" flag="1"/>
+    <answer text="The City Council" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The founder of the Collegium, which operated within the walls of the Bratsk Monastery was:">
+    <answer text="Adam Kisel" flag="0"/>
+    <answer text="Peter May" flag="1"/>
+    <answer text="Mikhail Lomonosov" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The first printing house worked in Kiev:">
+    <answer text="Pechersk Monastery" flag="1"/>
+    <answer text="Sophia monastery" flag="0"/>
+    <answer text="St. Michael's Monastery" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Mountain, on which stood Kyiv castle later became known ...">
+    <answer text="Fox" flag="0"/>
+    <answer text="The baby" flag="0"/>
+    <answer text="Kiselevka" flag="1"/>
+    <answer text="Cherepanov" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was Catherine II visited Kyiv?">
+    <answer text="In 1787" flag="1"/>
+    <answer text="In 1616" flag="0"/>
+    <answer text="In 1825" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The sarcophagus, which was buried Yaroslav the Wise, is in:">
+    <answer text="Kiev-Pechersk Lavra" flag="0"/>
+    <answer text="St. Sophia Cathedral" flag="1"/>
+    <answer text="St. Michael's Cathedral" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is an important event in the life of Kyiv took place in 1870?">
+    <answer text="The city was granted Magdeburg rights" flag="0"/>
+    <answer text="Came into the city railway" flag="1"/>
+    <answer text="Catherine II visited Kyiv" flag="0"/>
+  </question>
+</testing>

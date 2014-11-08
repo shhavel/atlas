@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Flora and Fauna">
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Kyiv is located on the border of the forest and steppe natural zones" flag="0"/>
+    <answer text="In Darnitskiy forest dominated by conifers" flag="0"/>
+    <answer text="Pusha-Vodytskyy forest located south of Kyiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What plant is a symbol of Kyiv?">
+    <answer text="Chestnut" flag="1"/>
+    <answer text="Lilac" flag="0"/>
+    <answer text="Poplar" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what year was created Kyiv Zoo?">
+    <answer text="In 1914" flag="0"/>
+    <answer text="In 1991" flag="0"/>
+    <answer text="In 1908" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="Botanical Garden of Alexander Fomin located in Shevchenko district" flag="0"/>
+    <answer text="Central Botanical Garden of M. Grisha was established in 1839" flag="1"/>
+    <answer text="Initiated the establishment of the Kiev Zoo was Society of Friends of Nature" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is correct?">
+    <answer text="Kyiv Zoo only in Ukraine" flag="0"/>
+    <answer text="The forests around Kyiv is intensive logging" flag="0"/>
+    <answer text="The forests around Kyiv found moose" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In which area of ​​Kyiv is the Central Park of Culture and Rest?">
+    <answer text="Caves" flag="1"/>
+    <answer text="Holosiyivo" flag="0"/>
+    <answer text="Shevchenko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Vydubitsky monastery is located in the:">
+    <answer text="Central Park of Culture and Recreation" flag="0"/>
+    <answer text="Botanic Garden. A. Fomin" flag="0"/>
+    <answer text="Central Botanical Garden of them. Mikhail Grishko" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer text="In the Central Botanical Garden of them. Mikhail Grishko's largest collection of lilacs Ukraine" flag="0"/>
+    <answer text="Botanical Garden of Alexander Fomin located near the National University. Taras Shevchenko" flag="0"/>
+    <answer text="The name of the famous Ukrainian football player and coach V. Lobanovskyy named one of the squares of Kyiv" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What was the first name of the Kiev zoo?">
+    <answer text="Kyiv zoo" flag="1"/>
+    <answer text="Arboretum" flag="0"/>
+    <answer text="Recreation" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The main purpose of the botanical gardens are:">
+    <answer text="implementation of research projects for the protection, enrichment and sustainable use of plant resources" flag="1"/>
+    <answer text="fruit growing exotic plants for sale" flag="0"/>
+    <answer text="public events" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which prominent buildings is located in the Central Park of Culture and Rest?">
+    <answer text="Home Cabinet" flag="0"/>
+    <answer text="Mariinsky Palace" flag="1"/>
+    <answer text="Museum of the Great Patriotic War" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Rare and endangered species of plants and animals are entered into:">
+    <answer text="Red Book" flag="1"/>
+    <answer text="Guinness Book of Records" flag="0"/>
+  </question>
+</testing>
