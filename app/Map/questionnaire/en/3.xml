@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="European countries in 1815-1847 gg">
+  <question level="1" simple="True" text="Which political party was in power in Britain in the 1830-1841 period?">
+    <answer text="Tory" flag="0"/>
+    <answer text="Whigs" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What states were formed in Europe for the period 1815-1847 years?">
+    <answer text="Poland" flag="0"/>
+    <answer text="Belgium" flag="1"/>
+    <answer text="Albania" flag="0"/>
+    <answer text="Greece" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Board of Queen Victoria began in">
+    <answer text="1830" flag="0"/>
+    <answer text="1832" flag="0"/>
+    <answer text="1835" flag="0"/>
+    <answer text="1837" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Against which country started the French aggression in 1830?">
+    <answer text="Morocco" flag="0"/>
+    <answer text="Algeria" flag="1"/>
+    <answer text="Tunisia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="After the restoration of the authority of the royal dynasty of the Bourbons in France was">
+    <answer text="limited monarchy" flag="1"/>
+    <answer text="absolute monarchy" flag="0"/>
+    <answer text="Republic" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Vaslidok July Revolution of 1830, the French took the throne">
+    <answer text="Louis-Philippe d'Orleans" flag="1"/>
+    <answer text="Charles X" flag="0"/>
+    <answer text="Louis XVIII" flag="0"/>
+    <answer text="Napoleon III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some Russian province revolt broke out of 1830-1831?">
+    <answer text="Finland" flag="0"/>
+    <answer text="Poland" flag="1"/>
+    <answer text="Bessarabia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who created in 1837 headed by a secret society '' Seasons '' in France?">
+    <answer text="L.-O. Forms" flag="1"/>
+    <answer text="L. Blanc" flag="0"/>
+    <answer text="A. Marrast" flag="0"/>
+    <answer text="A. Barraud" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the years 1801-1825 the Russian emperor was">
+    <answer text="Paul I" flag="0"/>
+    <answer text="Alexander I" flag="1"/>
+    <answer text="Nicholas I" flag="0"/>
+    <answer text="Alexander II" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When a performance of the Decembrists at the Senate Square in St. Petersburg?">
+    <answer text="December 1, 1824" flag="0"/>
+    <answer text="December 14, 1825" flag="1"/>
+    <answer text="December 29, 1825" flag="0"/>
+    <answer text="December 29, 1826" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Founders Slavophiles in the Russian Empire considered">
+    <answer text="T. Grapovsky, I. Papa, B. Botkin" flag="0"/>
+    <answer text="Herzen, N. Ogarev Belinsky" flag="0"/>
+    <answer text="A. Hamsters, P. Kireyevsky Aksakov brothers" flag="1"/>
+    <answer text="N. Kostomarov, Kulish, N. Gulak" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Theory '' communal socialism '' developed">
+    <answer text="Herzen" flag="1"/>
+    <answer text="T. Grapovsky" flag="0"/>
+    <answer text="M. Butashevicha-Petrashevsky" flag="0"/>
+    <answer text="P. Chaadayev" flag="0"/>
+  </question>
+</testing>

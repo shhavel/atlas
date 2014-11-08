@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Revolution of 1848-1849 in Europe">
+  <question level="1" simple="True" text="The period after the February 1848 revolution in France was called">
+    <answer text="First Republic" flag="0"/>
+    <answer text="Second Republic" flag="1"/>
+    <answer text="The Third Republic" flag="0"/>
+    <answer text="Fourth Republic" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who won the presidential election of December 10, 1848 in France?">
+    <answer text="Louis Bonaparte" flag="0"/>
+    <answer text="Louis Napoleon" flag="1"/>
+    <answer text="Louis Blanc" flag="0"/>
+    <answer text="Alexander Albert" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When formed the Second Empire in France?">
+    <answer text="February 25, 1848" flag="0"/>
+    <answer text="March 4, 1849" flag="0"/>
+    <answer text="April 14, 1849" flag="0"/>
+    <answer text="December 2, 1852" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What event happened before?">
+    <answer text="promulgation donated by Frederick William IV of the Prussian constitution" flag="0"/>
+    <answer text="all-German elections to the constituent assembly - the Frankfurt Parliament" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What Ukrainian lands were covered in the revolutionary struggle of 1848-1849?">
+    <answer text="Volyn" flag="0"/>
+    <answer text="Galicia" flag="1"/>
+    <answer text="Slobozhanschina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who created the Young Italy?">
+    <answer text="Giuseppe Mazzini" flag="1"/>
+    <answer text="Giuseppe Garibaldi" flag="0"/>
+    <answer text="Camillo Cavour" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Approved Pope Pius IX revolutionary idea of ​​unification of Italy against Austria?">
+    <answer text="so" flag="0"/>
+    <answer text="neither" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Who was the leader of the liberal current, which was aimed at unification of the Italian states under the rule of the Savoy royal family?">
+    <answer text="Pope Pius IX" flag="0"/>
+    <answer text="Giuseppe Garibaldi" flag="0"/>
+    <answer text="Camillo Cavour" flag="1"/>
+    <answer text="Giuseppe Mazzini" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The capital of the Austrian Empire was the city">
+    <answer text="Belgrade" flag="0"/>
+    <answer text="Vienna" flag="1"/>
+    <answer text="Prague" flag="0"/>
+    <answer text="Pest" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the uprising began in Vienna?">
+    <answer text="March 13, 1848" flag="1"/>
+    <answer text="March 15, 1848" flag="0"/>
+    <answer text="12-17 June 1848" flag="0"/>
+    <answer text="October 6, 1648" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The first Hungarian government during the revolution of 1848-1849 led">
+    <answer text="Sandor Petofi" flag="0"/>
+    <answer text="Lajos Batthyány" flag="1"/>
+    <answer text="Lajos Kossuth" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Revolution in Hungary was suppressed due to military intervention">
+    <answer text="Prussia" flag="0"/>
+    <answer text="Turkey" flag="0"/>
+    <answer text="France" flag="0"/>
+    <answer text="Russia" flag="1"/>
+  </question>
+</testing>

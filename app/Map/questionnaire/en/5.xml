@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Formation of national states in Italy and Germany. Central Europe in 1860-1870-ies">
+  <question level="1" simple="True" text="Login Austria into the German Confederation formed by the decision of the Congress of Vienna?">
+    <answer text="so" flag="1"/>
+    <answer text="neither" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the war of Prussia and Austria against Denmark in 1864. Denmark has lost">
+    <answer text="Schleswig-Holstein and" flag="1"/>
+    <answer text="Mecklenburg and Oldenburg" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Prussian-Austrian war in 1866 the Prussian army inflicted a crushing defeat on the Austrians in a decisive battle at">
+    <answer text="Prague" flag="0"/>
+    <answer text="Brno" flag="0"/>
+    <answer text="Garden" flag="1"/>
+    <answer text="Pilsen" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When was the North German Confederation?">
+    <answer text="1866" flag="1"/>
+    <answer text="1867" flag="0"/>
+    <answer text="1868" flag="0"/>
+    <answer text="1869" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The Franco-Prussian War of 1870-1871 began in that">
+    <answer text="France declared war on Prussia" flag="1"/>
+    <answer text="Prussia declared war on France" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Where was proclaimed the establishment of the German Empire in 1871?">
+    <answer text="Berlin" flag="0"/>
+    <answer text="Frankfurt" flag="0"/>
+    <answer text="Paris" flag="0"/>
+    <answer text="Versailles" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="In the process of the unification of Italy the main unifying force become stronger politically and economically northwestern Italian State">
+    <answer text="Kingdom of the Two Sicilies" flag="0"/>
+    <answer text="Kingdom of Lombardy-Venetia" flag="0"/>
+    <answer text="Kingdom of Sardinia" flag="1"/>
+    <answer text="Papal States" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In 1859, to the Kingdom of Sardinia were attached">
+    <answer text="Lombardy" flag="1"/>
+    <answer text="Venice" flag="0"/>
+    <answer text="Parma" flag="0"/>
+    <answer text="Modena" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In 1860, France was transferred">
+    <answer text="Sawa" flag="0"/>
+    <answer text="Nice" flag="0"/>
+    <answer text="Piedmont" flag="1"/>
+    <answer text="Modena" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Hike red J. thousands. Garibaldi was sent to help the rebels in the island">
+    <answer text="Caprera" flag="0"/>
+    <answer text="Corsica" flag="0"/>
+    <answer text="Sicily" flag="1"/>
+    <answer text="Sardinia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Kingdom of Italy was formed?">
+    <answer text="1861" flag="1"/>
+    <answer text="1867" flag="0"/>
+    <answer text="1870" flag="0"/>
+    <answer text="1871" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The capital of the Italian kingdom in 1865-1870 years was the city">
+    <answer text="Turin" flag="0"/>
+    <answer text="Florence" flag="1"/>
+    <answer text="Rome" flag="0"/>
+    <answer text="Naples" flag="0"/>
+  </question>
+</testing>

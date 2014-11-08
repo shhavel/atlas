@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Americas in the late XIX - early XX century.">
+  <question level="1" simple="True" text="Latin American countries liberated from colonial dependence">
+    <answer text="at the beginning of the XIX century." flag="1"/>
+    <answer text="in the middle of the XIX century." flag="0"/>
+    <answer text="the end of the XIX century." flag="0"/>
+  </question>
+  <question level="1" simple="True" text="'' Monroe Doctrine '' was proclaimed in">
+    <answer text="1823" flag="1"/>
+    <answer text="1870" flag="0"/>
+    <answer text="1889" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which Latin American country was proclaimed an empire?">
+    <answer text="Venezuela" flag="0"/>
+    <answer text="Argentina" flag="0"/>
+    <answer text="Brazil" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the Spanish-American War, Spain lost">
+    <answer text="Cuba and Puerto Rico" flag="1"/>
+    <answer text="Panama and Costa Rica" flag="0"/>
+    <answer text="Trinidat and Tobago" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What war between the countries of Latin America was the bloodiest?">
+    <answer text="Spanish-American" flag="0"/>
+    <answer text="Paraguayan" flag="1"/>
+    <answer text="Argentine-Brazilian" flag="0"/>
+    <answer text="Saltpeter" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Construction of the Panama Canal was completed in">
+    <answer text="1898" flag="0"/>
+    <answer text="1904" flag="0"/>
+    <answer text="1914" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Dominant position in the political life of the countries of Latin America has long held">
+    <answer text="slaves" flag="0"/>
+    <answer text="latifundists" flag="1"/>
+    <answer text="entrepreneurs" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which of these European countries had colonies in America?">
+    <answer text="Denmark" flag="0"/>
+    <answer text="Netherlands" flag="0"/>
+    <answer text="Belgium" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="'' Banana Republic '' called country">
+    <answer text="South America" flag="0"/>
+    <answer text="Central America" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Latin America after independence were mainly">
+    <answer text="Republics" flag="1"/>
+    <answer text="monarchies" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the second half of XIX century. South American countries were under the predominant influence">
+    <answer text="Spain" flag="0"/>
+    <answer text="Portugal" flag="0"/>
+    <answer text="England" flag="1"/>
+    <answer text="France" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Agriculture in Latin America was">
+    <answer text="monocultural" flag="1"/>
+    <answer text="diversified" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Russian Empire in the XIX century.">
+  <question level="1" simple="True" text="Who among these Russian emperors rules first?">
+    <answer text="Nicholas I" flag="0"/>
+    <answer text="Paul I" flag="1"/>
+    <answer text="Alexander I" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="During the reign of the Emperor which part of Russia became the Kingdom of Poland?">
+    <answer text="Nicholas I" flag="0"/>
+    <answer text="Paul I" flag="0"/>
+    <answer text="Alexander I" flag="1"/>
+    <answer text="Alexander III" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Help the Austrian Emperor Franz Joseph in the suppression of the revolution in Hungary in 1848 provided the Russian Tsar">
+    <answer text="Alexander I" flag="0"/>
+    <answer text="Nicholas I" flag="1"/>
+    <answer text="Alexander III" flag="0"/>
+    <answer text="Nicholas II" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In the Russian Empire, Baku was the center of production">
+    <answer text="Coal" flag="0"/>
+    <answer text="Oil" flag="1"/>
+    <answer text="Iron ore" flag="0"/>
+    <answer text="gold" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Bessarabia Russian Empire annexed to his possessions in">
+    <answer text="1812" flag="1"/>
+    <answer text="1829" flag="0"/>
+    <answer text="1854" flag="0"/>
+    <answer text="1873" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The Crimean War lasted for">
+    <answer text="Of 1806-1812" flag="0"/>
+    <answer text="1828-1829," flag="0"/>
+    <answer text="1834-1859 biennium" flag="0"/>
+    <answer text="1853-1856," flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Serfdom in the Russian Empire was abolished">
+    <answer text="1848" flag="0"/>
+    <answer text="1856" flag="0"/>
+    <answer text="1861" flag="1"/>
+    <answer text="1877" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In 1873, the dependence of the Russian Empire recognized">
+    <answer text="Khanate of Khiva" flag="1"/>
+    <answer text="Kokand khanate" flag="0"/>
+    <answer text="Emirate of Bukhara" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Mountain Peoples Liberation struggle under the leadership of Imam Shamil continued for">
+    <answer text="1855-1881 biennium" flag="0"/>
+    <answer text="1853-1856," flag="0"/>
+    <answer text="1834-1859 biennium" flag="1"/>
+    <answer text="1881-1894 biennium" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Russian-Turkish War of 1877-1878 ended in victory">
+    <answer text="Russian Empire" flag="1"/>
+    <answer text="Ottoman Empire" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The peace treaty on the termination of the Russian-Turkish war of 1877-1878 was signed in">
+    <answer text="Istanbul" flag="0"/>
+    <answer text="San Stefano" flag="1"/>
+    <answer text="Belgrade" flag="0"/>
+    <answer text="Bucharest" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="By decision of the Congress of Berlin in 1878 was returned to the Ottoman Empire">
+    <answer text="Bulgaria" flag="0"/>
+    <answer text="Bosnia" flag="0"/>
+    <answer text="Serbia" flag="0"/>
+    <answer text="Macedonia" flag="1"/>
+  </question>
+</testing>

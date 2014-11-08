@@ -47,7 +47,7 @@
     <answer text="Павел I" flag="0"/>
     <answer text="Александр I" flag="1"/>
     <answer text="Николай I" flag="0"/>
-    <answer text="Александр ИИ" flag="0"/>
+    <answer text="Александр II" flag="0"/>
   </question>
   <question level="1" simple="True" text="Когда состоялось выступление декабристов на Сенатской площади в Петербурге?">
     <answer text="1 декабря 1824" flag="0"/>

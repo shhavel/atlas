@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Russian Empire in the late XIX - early XX century.">
+  <question level="1" simple="True" text="What event was the occasion for the first Russian revolution?">
+    <answer text="uprising on the battleship 'Potemkin' '" flag="0"/>
+    <answer text="Bloody Sunday" flag="1"/>
+    <answer text="Manifesto king October 17" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The second largest nation of the Russian Empire were">
+    <answer text="Tatars" flag="0"/>
+    <answer text="Ukrainian" flag="1"/>
+    <answer text="Georgians" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Who was the Russian Tsar in the early twentieth century.?">
+    <answer text="Nicholas I" flag="0"/>
+    <answer text="Alexander III" flag="0"/>
+    <answer text="Nicholas II" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="What war Russia was defeated in the early twentieth century.?">
+    <answer text="Germany" flag="0"/>
+    <answer text="Turkey" flag="0"/>
+    <answer text="Japan" flag="1"/>
+    <answer text="Austria" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The author of the agrarian reform after the revolution of 1905-1907 was">
+    <answer text="S. Witte" flag="0"/>
+    <answer text="Stolypin" flag="1"/>
+    <answer text="Vladimir Lenin" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The culmination of the revolution of 1905-1907 was">
+    <answer text="'' Bloody Sunday ''" flag="0"/>
+    <answer text="armed uprising in Moscow" flag="1"/>
+    <answer text="Manifesto king October 17" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="First State Duma in Russia was convened in">
+    <answer text="1905" flag="0"/>
+    <answer text="1906" flag="1"/>
+    <answer text="1907" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Existed in the Russian monopoly associations in the early twentieth century.?">
+    <answer text="so" flag="1"/>
+    <answer text="neither" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What the Russian Empire used the right government?">
+    <answer text="Transcaucasia" flag="0"/>
+    <answer text="Siberia" flag="0"/>
+    <answer text="Finland" flag="1"/>
+    <answer text="Ukraine" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Lee made Russia some territorial gains in the early twentieth century.?">
+    <answer text="so" flag="1"/>
+    <answer text="neither" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Does Russia suffered territorial losses at the beginning of the twentieth century.?">
+    <answer text="so" flag="1"/>
+    <answer text="neither" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The largest deposits of oil in the Russian Empire were">
+    <answer text="in Ukraine" flag="0"/>
+    <answer text="Siberia" flag="0"/>
+    <answer text="Caucasus" flag="1"/>
+    <answer text="Baltic" flag="0"/>
+  </question>
+</testing>

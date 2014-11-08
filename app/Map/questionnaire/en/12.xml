@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Asian countries in the late nineteenth - early twentieth century.">
+  <question level="1" simple="True" text="In some Asian countries in the early twentieth century. Revolution occurred?">
+    <answer text="China" flag="1"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="India" flag="0"/>
+    <answer text="The Ottoman Empire" flag="1"/>
+    <answer text="Persia" flag="1"/>
+    <answer text="Indo-China" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What is the state owned large colonial possessions in Asia to the early twentieth century.?">
+    <answer text="England" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="Germany" flag="0"/>
+    <answer text="USA" flag="0"/>
+    <answer text="Japan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In some of these countries in the early twentieth century. the monarchy was overthrown and a republic proclaimed?">
+    <answer text="Persia" flag="0"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="The Ottoman Empire" flag="0"/>
+    <answer text="China" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are divided Persia (Iran) into spheres of influence?">
+    <answer text="USA and England" flag="0"/>
+    <answer text="England and France" flag="0"/>
+    <answer text="England and Russia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="When was the Sino-Japanese war?">
+    <answer text="Of 1894-1895" flag="1"/>
+    <answer text="1904-1905," flag="0"/>
+    <answer text="1911-1912," flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Sinhayska revolution took place in">
+    <answer text="Russia" flag="0"/>
+    <answer text="China" flag="1"/>
+    <answer text="Japan" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Majlis was established in">
+    <answer text="Turkey" flag="0"/>
+    <answer text="Iran" flag="1"/>
+    <answer text="China" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What revolution was the first in Asia?">
+    <answer text="Young Turk" flag="0"/>
+    <answer text="Iran" flag="1"/>
+    <answer text="Sinhayska" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="In what country was acting INC?">
+    <answer text="China" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="Persia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What territory acquired by Japan Sino-Japanese War?">
+    <answer text="c. Hainan" flag="0"/>
+    <answer text="Guangdong province" flag="0"/>
+    <answer text="c. Taiwan" flag="1"/>
+    <answer text="Shandong" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Ottoman Empire was restored the 1876 Constitution?">
+    <answer text="1878" flag="0"/>
+    <answer text="1912" flag="0"/>
+    <answer text="1908" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Restoring power of the emperor in Japan occurred in">
+    <answer text="1868" flag="1"/>
+    <answer text="1889" flag="0"/>
+    <answer text="1905" flag="0"/>
+  </question>
+</testing>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="International relations in the 1840-1860-ies">
+  <question level="1" simple="True" text="&quot;Opium Wars&quot; European powers fought against">
+    <answer text="India" flag="0"/>
+    <answer text="China" flag="1"/>
+    <answer text="Indochina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which country lost the Crimean War (1853-1856 yy)?">
+    <answer text="Turkey" flag="0"/>
+    <answer text="England" flag="0"/>
+    <answer text="France" flag="0"/>
+    <answer text="Russia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Sinai revolt broke out against">
+    <answer text="British colonialists" flag="1"/>
+    <answer text="French colonialists" flag="0"/>
+    <answer text="Spanish colonizers" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="What country was discovered by Europeans before?">
+    <answer text="China" flag="1"/>
+    <answer text="Japan" flag="0"/>
+    <answer text="Korea" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="The name &quot;Big track&quot; received event">
+    <answer text="Boers out of British possessions" flag="1"/>
+    <answer text="the colonial conquest of Algeria by France" flag="0"/>
+    <answer text="Crimean War" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Right dominions enjoyed some colonies">
+    <answer text="France" flag="0"/>
+    <answer text="Spain" flag="0"/>
+    <answer text="England" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="The main principle of &quot;realpolitik&quot; is">
+    <answer text="&quot;Who is stronger, he is right&quot;" flag="1"/>
+    <answer text="&quot;The priority right&quot;" flag="0"/>
+    <answer text="&quot;The priority right of monarchs&quot;" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Foreign policy of the country which led to the collapse of the Viennese system of international relations?">
+    <answer text="France" flag="1"/>
+    <answer text="England" flag="0"/>
+    <answer text="Russia" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which Latin American country tried to capture Napoleon III?">
+    <answer text="Mexico" flag="1"/>
+    <answer text="Brazil" flag="0"/>
+    <answer text="Argentina" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="When the Suez Canal was built?">
+    <answer text="1869" flag="1"/>
+    <answer text="1875" flag="0"/>
+    <answer text="1882" flag="0"/>
+  </question>
+  <question level="1" simple="True" text="Which country in the first half of the XIX century. called &quot;the gendarme of Europe&quot;?">
+    <answer text="England" flag="0"/>
+    <answer text="France" flag="0"/>
+    <answer text="Russia" flag="1"/>
+  </question>
+  <question level="1" simple="True" text="Continue logical series: England - Gibraltar - Malta - Suez - Aden - ...">
+    <answer text="America" flag="0"/>
+    <answer text="India" flag="1"/>
+    <answer text="France" flag="0"/>
+    <answer text="South Africa" flag="0"/>
+  </question>
+</testing>

@@ -28,7 +28,7 @@
     <answer text="испано-американская" flag="1"/>
     <answer text="русско-японская" flag="0"/>
   </question>
-  <question level="1" simple="True" text="Когда был создан ИИ Интернационал?">
+  <question level="1" simple="True" text="Когда был создан II Интернационал?">
     <answer text="1864" flag="0"/>
     <answer text="1889" flag="1"/>
     <answer text="1919" flag="0"/>
