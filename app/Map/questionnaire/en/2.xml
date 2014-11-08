@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian Revolution">
+  <question text="What gave UCR a legitimate reason to act as a nationwide representative body?">
+    <answer flag="1" text="The fact that it was presented to all segments of the population and ethnic minorities Ukraine"/>
+    <answer flag="0" text="The presence of strong forces"/>
+    <answer flag="0" text="Understanding the Provisional Government"/>
+    <answer flag="0" text="International recognition"/>
+  </question>
+  <question text="First ukrainian troops was:">
+    <answer flag="1" text="Military club. P.Polubotka"/>
+    <answer flag="0" text="Regiment im.B.Hmelnytskoho"/>
+    <answer flag="0" text="Free Ukrainian Cossacks"/>
+    <answer flag="0" text="First Ukrainian building"/>
+  </question>
+  <question text="What event helped transform the UCR of one of Kiev city organizations at the national national center?">
+    <answer flag="0" text="100,000th demonstration in Kiev"/>
+    <answer flag="1" text="Ukrainian National Congress"/>
+    <answer flag="0" text="elected leadership of UCR"/>
+    <answer flag="0" text="And the proclamation of the Universal"/>
+  </question>
+  <question text="Universal II UCR">
+    <answer flag="0" text="arbitrarily proclaimed the autonomy of Ukraine"/>
+    <answer flag="1" text="commitment was taken not to declare an autonomous system of Ukraine to the convening of the All-Russian Constituent Assembly"/>
+    <answer flag="0" text="the question of the autonomy of Ukraine did not set"/>
+    <answer flag="1" text="UCR replenished representatives of national minorities"/>
+  </question>
+  <question text="According to the Third Universal landlordism">
+    <answer flag="1" text="abolished"/>
+    <answer flag="0" text="maintained"/>
+    <answer flag="0" text="turned into a great state economy"/>
+    <answer flag="0" text="limited"/>
+  </question>
+  <question text="Soviet power in Ukraine was proclaimed">
+    <answer flag="0" text="October 25, 1917"/>
+    <answer flag="0" text="December 4, 1917"/>
+    <answer flag="1" text="December 12, 1917"/>
+    <answer flag="0" text="January 22, 1918"/>
+  </question>
+  <question text="As UCR reacted to the Bolshevik coup in Petrograd?">
+    <answer flag="1" text="condemned"/>
+    <answer flag="0" text="approved"/>
+    <answer flag="0" text="Ukraine declared independence"/>
+  </question>
+  <question text="UCR considered unnecessary creation of a regular army that ...">
+    <answer flag="1" text="was a prisoner of socialist doctrines"/>
+    <answer flag="0" text="believed that Ukraine has no enemies"/>
+    <answer flag="0" text="no money to create the Army"/>
+    <answer flag="0" text="relied on rapid onset of World Revolution"/>
+  </question>
+  <question text="Armed intervention of independence was due">
+    <answer flag="1" text="adoption of the Universal II"/>
+    <answer flag="0" text="performance of the Bolsheviks"/>
+    <answer flag="0" text="General Kornilov mutiny"/>
+    <answer flag="0" text="beginning of a new Russian offensive on the front"/>
+  </question>
+  <question text="In the region of Ukraine after the suppression of the rebellion of General Kornilov, the Bolsheviks gained the most popularity?">
+    <answer flag="0" text="in Kharkiv"/>
+    <answer flag="1" text="in Donbass"/>
+    <answer flag="0" text="in Chernihiv"/>
+  </question>
+  <question text="Leader of independence was">
+    <answer flag="1" text="M. Mihnovskiy"/>
+    <answer flag="0" text="Hrushevsky"/>
+    <answer flag="0" text="V.Vynnychenko"/>
+  </question>
+  <question text="The uprising in Kiev at the factory &quot;Arsenal&quot; against UCR held at">
+    <answer flag="0" text="October, 1917"/>
+    <answer flag="1" text="January, 1918"/>
+    <answer flag="0" text="February, 1918"/>
+  </question>
+  <question text="Why Kharkov was proclaimed Soviet power in Ukraine?">
+    <answer flag="0" text="Because it was the largest city in Ukraine"/>
+    <answer flag="0" text="Because this was the biggest supporters of the Bolsheviks"/>
+    <answer flag="1" text="The city is located about Russia"/>
+  </question>
+  <question text="The commander of the First Ukrainian corps was">
+    <answer flag="0" text="Petliura"/>
+    <answer flag="0" text="M. Mihnovskiy"/>
+    <answer flag="1" text="P. Skoropadskyi"/>
+  </question>
+  <question text="What is the name of the Soviet army had &quot;UPR&quot;?">
+    <answer flag="0" text="The Red Army"/>
+    <answer flag="1" text="Red Cossacks"/>
+    <answer flag="0" text="The Soviet Army"/>
+  </question>
+  <question text="Which organization has initiated the establishment of UCR?">
+    <answer flag="1" text="TUP"/>
+    <answer flag="0" text="ROHO"/>
+    <answer flag="0" text="Provisional Government of Russia"/>
+  </question>
+  <question text="The main most numerous sectors of Ukrainian society before the revolution in 1917 were">
+    <answer flag="0" text="working class"/>
+    <answer flag="1" text="peasantry"/>
+    <answer flag="0" text="intellectuals"/>
+  </question>
+  <question text="When it was established the Ukrainian Central Rada?">
+    <answer flag="1" text="in March 1917"/>
+    <answer flag="0" text="in June 1917"/>
+    <answer flag="0" text="in October 1917"/>
+  </question>
+  <question text="He was elected chairman Rada?">
+    <answer flag="1" text="M.Grushevskiy"/>
+    <answer flag="0" text="B. Vynnycenko"/>
+    <answer flag="0" text="Petliura"/>
+    <answer flag="0" text="S. Wilkens"/>
+  </question>
+  <question text="How many provinces spread the power of the General Secretariat in accordance with the &quot;Temporary Instruction General Secretariat of the Provisional Government in Ukraine&quot;?">
+    <answer flag="1" text="5"/>
+    <answer flag="0" text="7"/>
+    <answer flag="0" text="9"/>
+  </question>
+  <question text="What political forces struggling for power in Kiev after the overthrow of the Provisional Government in Petrograd?">
+    <answer flag="0" text="Bolsheviks and staff CTE"/>
+    <answer flag="1" text="Bolsheviks, UCR, CTE staff"/>
+    <answer flag="0" text="UCR staff and CTE"/>
+  </question>
+  <question text="According to which Universal UCR replenished by the minority?">
+    <answer flag="0" text="The first"/>
+    <answer flag="1" text="The second"/>
+    <answer flag="0" text="Third"/>
+  </question>
+  <question text="What is Universal UCR program included social and economic changes?">
+    <answer flag="0" text="First"/>
+    <answer flag="0" text="Second"/>
+    <answer flag="1" text="Third"/>
+    <answer flag="0" text="Fourth"/>
+  </question>
+  <question text="Where there was All-Ukrainian Congress of Soviets, which was proclaimed the establishment of Soviet power in Ukraine?">
+    <answer flag="0" text="Kiev"/>
+    <answer flag="1" text="Kharkiv"/>
+    <answer flag="0" text="in Katerynoslav"/>
+  </question>
+</testing>

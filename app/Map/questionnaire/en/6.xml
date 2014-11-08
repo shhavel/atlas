@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Western areas under the authority of foreign states">
+  <question text="Carpathian Ruthenia - the official name is in the 20-30 years">
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="Eastern Galicia"/>
+    <answer flag="1" text="Transcarpathia"/>
+  </question>
+  <question text="Ukrainian cooperative movement was most extensive on">
+    <answer flag="1" text="Eastern Galicia"/>
+    <answer flag="0" text="Transcarpathia"/>
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="Volyn"/>
+  </question>
+  <question text="Where was situated concentration camp for political prisoners Ukrainian created by Polish authorities?">
+    <answer flag="1" text="Birch-Kartuzskaya"/>
+    <answer flag="0" text="Sobibor"/>
+    <answer flag="0" text="Sycamore"/>
+  </question>
+  <question text="What year was created OUN?">
+    <answer flag="0" text="In 1925"/>
+    <answer flag="0" text="In 1927"/>
+    <answer flag="1" text="In 1929"/>
+  </question>
+  <question text="Who was the first leader of the OUN?">
+    <answer flag="1" text="Melnyk"/>
+    <answer flag="0" text="Bandera"/>
+    <answer flag="0" text="E. Konovalets"/>
+  </question>
+  <question text="What are the Ukrainian lands Ukrainian movement was the most influence?">
+    <answer flag="1" text="Eastern Galicia"/>
+    <answer flag="0" text="Transcarpathia"/>
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="Volyn"/>
+  </question>
+  <question text="The army was called Carpathian Ukraine">
+    <answer flag="0" text="Ukrainian Insurgent Army"/>
+    <answer flag="1" text="Carpathian Sich"/>
+    <answer flag="0" text="Ukrainian Sich Riflemen"/>
+  </question>
+  <question text="Which of the ideological currents that was prevalent in the Carpathian region in 20-30 years, enjoyed the greatest influence?">
+    <answer flag="1" text="Rusyn"/>
+    <answer flag="0" text="Ukrainophile"/>
+    <answer flag="0" text="Russophile"/>
+  </question>
+  <question text="What political forces were organized Tatarbunar rebellion?">
+    <answer flag="1" text="pro"/>
+    <answer flag="0" text="liberal-democratic"/>
+    <answer flag="0" text="nationalist"/>
+  </question>
+  <question text="The largest Ukrainian political party in Galicia in the 20-30 years was">
+    <answer flag="0" text="CPWU"/>
+    <answer flag="1" text="UNDO"/>
+    <answer flag="0" text="OUN"/>
+    <answer flag="0" text="MSzMP"/>
+  </question>
+  <question text="What are the Ukrainian lands had become the cradle of the Polish-Ukrainian agreement?">
+    <answer flag="0" text="Galicia"/>
+    <answer flag="1" text="Volyn"/>
+    <answer flag="0" text="Pokuttya"/>
+  </question>
+  <question text="What treaty secured entry Transcarpathian of Czechoslovakia?">
+    <answer flag="1" text="Saint-Germain"/>
+    <answer flag="0" text="Versailles"/>
+    <answer flag="0" text="Riga"/>
+  </question>
+</testing>

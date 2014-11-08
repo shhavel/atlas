@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian SSR under the New Economic Policy (1920-1928).">
+  <question text="In what was basically finished rebuilding industry SSR?">
+    <answer flag="0" text="In 1923"/>
+    <answer flag="1" text="In 1925"/>
+    <answer flag="0" text="In 1926"/>
+    <answer flag="0" text="In 1927"/>
+  </question>
+  <question text="In the area of ​​national policy XII Congress of the RCP (B) declared a policy:">
+    <answer flag="1" text="korenizatsiyu"/>
+    <answer flag="0" text="Ukrainianization"/>
+    <answer flag="0" text="nationalization"/>
+    <answer flag="0" text="Privatization"/>
+  </question>
+  <question text="What is the official state status of Ukraine in the early 20's:">
+    <answer flag="1" text="independent state"/>
+    <answer flag="0" text="autonomy within a federal Russian"/>
+    <answer flag="0" text="independent state that has entered into a military-political alliance with other Soviet republics"/>
+    <answer flag="0" text="region of"/>
+  </question>
+  <question text="What international organization assisted the Ukraine during the famine in 1921-1922.?">
+    <answer flag="0" text="League of Nations"/>
+    <answer flag="0" text="Pomhol (help starving)"/>
+    <answer flag="1" text="ARA (American Relief Organization)"/>
+  </question>
+  <question text="Which of these following rebel leader led anti-Soviet insurgency in Ukraine in 1921?">
+    <answer flag="0" text="Hryhor`yev"/>
+    <answer flag="1" text="Makhno"/>
+    <answer flag="0" text="Tyutyunnik"/>
+    <answer flag="0" text="Green"/>
+    <answer flag="0" text="Orlik"/>
+    <answer flag="0" text="Mordalevych"/>
+    <answer flag="0" text="Struk"/>
+  </question>
+  <question text="Established in 1922 in Kiev House &quot;Berezil&quot; headed">
+    <answer flag="1" text="L. Kurbas"/>
+    <answer flag="0" text="G. The Rope"/>
+    <answer flag="0" text="George H."/>
+  </question>
+  <question text="Soviet Ukraine has signed the first peace treaty with">
+    <answer flag="0" text="Latvia"/>
+    <answer flag="0" text="Lithuania"/>
+    <answer flag="0" text="Estonia"/>
+    <answer flag="1" text="Poland"/>
+    <answer flag="0" text="Turkey"/>
+  </question>
+  <question text="National-communist views and M. A. Shumsky Volobueva leadership of the Bolshevik Party">
+    <answer flag="0" text="supported"/>
+    <answer flag="1" text="condemned"/>
+    <answer flag="0" text="ignored"/>
+  </question>
+  <question text="The first and most important event was the replacement of the NEP">
+    <answer flag="0" text="food tax Prodrazvyorstka"/>
+    <answer flag="1" text="surplus tax in kind"/>
+    <answer flag="0" text="implementation of party purges"/>
+  </question>
+  <question text="What was started in politics ukrainisation?">
+    <answer flag="0" text="In 1921"/>
+    <answer flag="0" text="In 1922"/>
+    <answer flag="1" text="In 1923"/>
+  </question>
+  <question text="The peasant insurgency against the Bolshevik policy was largely suppressed in the ...">
+    <answer flag="1" text="In 1921"/>
+    <answer flag="0" text="In 1922"/>
+    <answer flag="0" text="In 1923"/>
+  </question>
+  <question text="SSR became part of the USSR ...">
+    <answer flag="0" text="In 1921"/>
+    <answer flag="1" text="In 1922"/>
+    <answer flag="0" text="In 1923"/>
+  </question>
+</testing>
