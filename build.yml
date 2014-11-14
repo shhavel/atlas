@@ -2,7 +2,7 @@
 sdkversion: "3.4.0"
 # PLACEHOLDER: name, e.g. name: "Geography 10"
 version: 1.4
-vendor: "ukrmap"
+vendor: "shhavel"
 build: "debug"
 bbver: 4.6
 applog: "rholog.txt"
