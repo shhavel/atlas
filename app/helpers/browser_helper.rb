@@ -73,6 +73,12 @@ module BrowserHelper
       'normal' => 'нормальные',
       'zoom_step' => 'Шаг масштаба',
       'show_controls_icon' => 'Показывать иконку настроек в режиме просмотра карты',
+      # Demo
+      'demo_content' => '<p>Это демо-версия мобильного приложения.</p>
+<p>Этот раздел не доступен в демо-версии.</p>
+<p>Пожалуйста, скачайте платную версию, чтобы просмотреть этот раздел.</p>
+<p>Вы можете поддержать развитие мобильного приложения, загрузив полную версию.</p>
+<p>Загрузка полной версии мобильного приложения может иметь положительное влияние на качество учебных материалов от разработчиков в будущем.</p>',
     }
   end
 
@@ -99,6 +105,12 @@ module BrowserHelper
       'normal' => 'нормальні',
       'zoom_step' => 'Крок масштабу',
       'show_controls_icon' => 'Показувати іконку налаштувань в режимі перегляду карти',
+      # Demo
+      'demo_content' => '<p>Це демо-версія мобільного додатку.</p>
+<p>Цей розділ не доступний в демо-версії.</p>
+<p>Будь ласка, скачайте платну версію, щоб переглянути цей розділ.</p>
+<p>Ви можете підтримати розвиток мобільного додатку, завантаживши повну версію.</p>
+<p>Завантаження повної версії мобільного додатку може мати позитивний вплив на якість навчальних матеріалів від розробників в майбутньому.</p>',
     }
   end
 
@@ -125,6 +137,12 @@ module BrowserHelper
       'normal' => 'Normal',
       'zoom_step' => 'Zoom step',
       'show_controls_icon' => 'Show settings icon in map view',
+      # Demo
+      'demo_content' => '<p>This is demo version of mobile app.</p>
+<p>This section is not available in demo version.</p>
+<p>Please download the paid version to view this section.</p>
+<p>You can support the development of mobile application by downloading the full version.</p>
+<p>Downloading the full version of the mobile app can have a positive impact on the quality of educational materials from developers in the future.</p>',
     }
   end
 

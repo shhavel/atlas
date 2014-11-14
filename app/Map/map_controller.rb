@@ -19,9 +19,13 @@ class MapController < Rho::RhoController
   def summary
     @map = Map.find(@params['id'])
     if @map
-      @summary = File.read(File.join(File.expand_path(File.dirname(__FILE__)), "summary/#{lang}/#{@map.summary}.htm"))
-      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
-      render :action => :summary, :back => url_for(:action => :show, :id => @map.object)
+      if free?
+        @summary = File.read(File.join(File.expand_path(File.dirname(__FILE__)), "summary/#{lang}/#{@map.summary}.htm"))
+        Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
+        render :action => :summary, :back => url_for(:action => :show, :id => @map.object)
+      else
+        render :action => :demo, :back => url_for(:action => :show, :id => @map.object)
+      end
     else
       redirect :controller => :Category, :action => :index
     end
@@ -47,9 +51,7 @@ class MapController < Rho::RhoController
   def question
     @map = Map.find(@params['id'])
     if @map
-      prepare_questions_and_answers
-      Rho::NativeToolbar.create(:background_color => bgcolor, :buttons => toolbar)
-      render :action => :question, :back => url_for(:action => :show, :id => @map.object)
+      render :action => :demo, :back => url_for(:action => :show, :id => @map.object)
     else
       redirect :controller => :Category, :action => :index
     end
@@ -86,6 +88,15 @@ class MapController < Rho::RhoController
   end
 
 private
+
+  def free?
+    if Category.find(:all).size > 1
+      return true if @map.category_sign == Category.find(:all).first.sign
+    else
+      return true if Map.find(:all, :page => 1, :per_page => 2).map(&:object).include?(@map.object)
+    end
+    return false
+  end
 
   def prepare_questions_and_answers
     file = File.read(File.join(File.expand_path(File.dirname(__FILE__)), "questionnaire/#{lang}/#{@map.questionnaire}.xml"))
